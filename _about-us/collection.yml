@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Crest, School Song and School Uniform.md
       - Message From School Leaders.md
       - School Advisory Committee.md
       - Staff/.keep
@@ -12,3 +11,4 @@ collections:
       - History.md
       - Mission and Vision.md
       - Core Values and Desired Outcomes.md
+      - School Crest, School Song and School Uniform.md
