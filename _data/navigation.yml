@@ -1,7 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About us
-    url: /permalink
+    url: /about-us/msg-sch-ldrs/
     sublinks:
       - title: Message From School Leaders
+        url: /about-us/msg-sch-ldrs/
+      - title: School Advisory Committee
         url: /permalink
