@@ -21,3 +21,8 @@ links:
         url: /about-us/scsssu/
       - title: Student Achievements
         url: /about-us/sch-achievements/
+  - title: Beacon Experiential Learning
+    url: /permalink
+    sublinks:
+      - title: Special Programmes
+        url: /permalink
