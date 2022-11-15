@@ -2,5 +2,6 @@ collections:
   beacon-experiential-learning:
     output: true
     order:
+      - Special Programmes/B121 Computer Ownership Programme.md
       - Special Programmes/Special Programmes.md
       - Special Programmes/.keep
