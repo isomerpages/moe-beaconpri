@@ -33,4 +33,32 @@ Congratulations to the top 5 winners of the Virtual Science Fair 2021 for each c
 | Pham Dang Khoa | 4.4 | [Invisible Ink](https://youtu.be/K8UANs6F1Ts) |
 |  |  |  |
 
+<p align="center">PRIMARY 5 & 6 TOP 5 WINNERS</p>
+
+| NAME | CLASS | TITLE |
+|:---:|---|---|
+| Shetty Vihaan Harish  <br>**- Top Winner -** | 5.5 | [Wonders Of Science: D.I.Y Fire Extinguisher](https://youtu.be/FSnFkk8wqLE) |
+| Elango Mahisha | 5.4 | [Rubber Band Guitar](https://youtu.be/0ooask8HpMs) |
+| Sriram Santhanam | 5.4 | [Buoyancy](https://youtu.be/_BffK-4qCB0) |
+| Vimal Kumar Akshaya Laxmi | 6.4 | [From Waste To Energy Plant](https://youtu.be/izZSpB2Rtwc) |
+| Jaime Pat Rou Xuan | 6.6 | [Ants’ Preference For Food](https://youtu.be/cXYjP5D-p0s) |
+|  |  |  |
+
+<p align="center">PRIMARY SIBLING TEAM TOP 5 WINNERS</p>
+
+| NAME | CLASS | TITLE |
+|:---:|---|---|
+| Nah Tian Yu & Nah Tian Qing  <br>**- Top Winner -** | 4.4 & 3.5 | [What Happens When A Solid, Liquid Or Gas Gets Heated?](https://youtu.be/7aD0tpzkXOs) |
+| Josiah Kee Songyi & Jahn Kee Wenxuan | 6.6 & 3.6 | [Wireless Communication](https://youtu.be/DBHRJFBGZ28) |
+| Ilangovan Akshay & Ilangovan Abishay | 5.3 & 5.3 | [Acids And Bases](https://youtu.be/1e6IleMxstQ) |
+| Eshton Isiah Teo & Faith Kaitlyn Teo | 6.5 & 3.6 | [Bouncy Egg](https://youtu.be/-OXA1U8iY_s) |
+| Mohamad Eir’alie Eimran Bin Mohamad Nuriman  <br>Mohamad Eir’zhan Eilhan Bin Mohamad Nuriman | 6.1  <br>3.2 | [Plant Maze](https://youtu.be/2wzwJ-RCzmE) |
+|  |  |  |
+
+<p align="center">PRIMARY GREEN AWARD</p>
+
+| NAME | CLASS | TITLE |
+|:---:|---|---|
+| Thamilvanan Sahaanashri | 6.6 | [Global Warming](https://youtu.be/4GzDM-zLZkg) |
+|  |  |  |
 
