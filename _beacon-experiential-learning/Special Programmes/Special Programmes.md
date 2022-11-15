@@ -16,10 +16,8 @@ third_nav_title: Special Programmes
 <img src="/images/P5 Community Project 14.jpeg" style="width:49%" align=left>
 <br clear="left"><br>
 
+**[Beacons Take Flight](/beacon-experiential-learning/Special-Programmes/btf)**
 
+<img src="/images/shanghaisuzhuojpg.jpg" style="width:49%" align=left>
+<br clear="left"><br>
 
-<figure>
-<figcaption> 
- </figcaption>
-<img src="/images/Makerspace02.jpg" style="width:90%">
-</figure>
