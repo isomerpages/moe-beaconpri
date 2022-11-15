@@ -10,3 +10,24 @@ third_nav_title: Teaching & Learning Programmes
 
 <img src="/images/Spelling Bee (1).jpg" style="width:49%" align=left>
 <br clear="left">
+
+**[Mathematics](/beacon-experiential-learning/Teaching-and-Learning-Programmes/mathe/)**
+
+<img src="/images/7 P2 Maths trail - Length station.jpg" style="width:49%" align=left>
+<br clear="left">
+
+**[Mother Tongue Language](/beacon-experiential-learning/Teaching-and-Learning-Programmes/mtl/)**
+
+<img src="/images/MTL Collage (1).jpg" style="width:49%" align=left>
+<br clear="left">
+
+**[Science](/science/sci/)**
+
+<img src="/images/Chosen1_ExploringGarden (1).jpg" style="width:49%" align=left>
+<br clear="left">
+
+**[Aesthetics](/beacon-experiential-learning/Teaching-and-Learning-Programmes/aesthetics/)**
+
+<img src="/images/P1 Spider outfit group.jpg" style="width:49%" align=left>
+<br clear="left">
+
