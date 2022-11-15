@@ -2,5 +2,6 @@ collections:
   ict-at-beacon:
     output: true
     order:
+      - New Media Literacies.md
       - ICT at Beacon.md
       - B121 Computer Ownership Programme.md
