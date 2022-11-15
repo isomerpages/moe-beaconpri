@@ -14,3 +14,21 @@ Apart from attending workshops and courses to develop themselves professionally,
 
 #### Sharing Sessions
 
+<img src="/images/photo1668514723.jpeg" style="width:85%">
+<img src="/images/photo1668514736.jpeg" style="width:85%">
+<img src="/images/photo1668514747.jpeg" style="width:85%">
+
+#### BCPS Cafe Session
+
+<img src="/images/photo1668514912.jpeg" style="width:85%">
+
+#### PD Training
+
+<img src="/images/photo1668514961.jpeg" style="width:85%">
+<img src="/images/photo1668515004.jpeg" style="width:85%">
+
+#### External Conferences & Workshops
+
+<img src="/images/photo1668515052.jpeg" style="width:85%">
+<img src="/images/photo1668515096.jpeg" style="width:85%">
+
