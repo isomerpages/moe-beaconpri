@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - School Advisory Committee.md
       - Message From School Leaders.md
+      - School Advisory Committee.md
