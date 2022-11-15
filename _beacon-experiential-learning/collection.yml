@@ -1,4 +1,5 @@
 collections:
   beacon-experiential-learning:
     output: true
-    order: []
+    order:
+      - Special Programmes/.keep
