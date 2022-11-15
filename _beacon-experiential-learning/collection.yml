@@ -2,9 +2,9 @@ collections:
   beacon-experiential-learning:
     output: true
     order:
-      - Special Programmes/Makerspace @ Beacon.md
       - Special Programmes/.keep
       - Special Programmes/Special Programmes.md
       - Special Programmes/B121 Computer Ownership Programme.md
       - Special Programmes/Beacon Future Ready Programme.md
       - Special Programmes/Beacons Take Flight.md
+      - Special Programmes/Makerspace @ Beacon.md
