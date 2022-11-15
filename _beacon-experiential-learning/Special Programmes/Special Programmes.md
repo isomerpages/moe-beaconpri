@@ -21,3 +21,6 @@ third_nav_title: Special Programmes
 <img src="/images/shanghaisuzhuojpg.jpg" style="width:49%" align=left>
 <br clear="left"><br>
 
+**[Makerspace @ Beacon](/beacon-experiential-learning/Special-Programmes/makerspace)**
+
+<img src="/images/Makerspace02.jpg" style="width:49%" align=left>
