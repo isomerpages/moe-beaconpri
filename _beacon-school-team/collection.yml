@@ -2,6 +2,7 @@ collections:
   beacon-school-team:
     output: true
     order:
+      - P5 Teachers.md
       - Beacon School Team.md
       - Steering Committee.md
       - P1 Teachers.md
