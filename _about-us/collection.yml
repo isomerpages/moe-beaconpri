@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Staff/.keep
       - Message From School Leaders.md
       - School Advisory Committee.md
