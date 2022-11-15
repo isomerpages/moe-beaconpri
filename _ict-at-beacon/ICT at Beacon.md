@@ -35,4 +35,4 @@ Upper primary students will engage in projects that allow them to extend their l
 
 #### B121 Computer Ownership Programme
 
-Recognising the potential of how technology can bring about a richer teaching and learning experience,  the Beacon One-to-One (B121) Computer Ownership Programme aims to equip every student with a Personal Learning Device (PLD) and empower students to learn in meaningful, effective and engaging ways. [Click here for more information]**INSERT ISOMER LINK**
+Recognising the potential of how technology can bring about a richer teaching and learning experience,  the Beacon One-to-One (B121) Computer Ownership Programme aims to equip every student with a Personal Learning Device (PLD) and empower students to learn in meaningful, effective and engaging ways. [Click here for more information](/beacon-experiential-learning/Special-Programmes/b121/)
