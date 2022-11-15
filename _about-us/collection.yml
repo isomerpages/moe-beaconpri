@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Core Values and Desired Outcomes.md
       - Message From School Leaders.md
       - School Advisory Committee.md
       - Staff/.keep
@@ -11,3 +10,4 @@ collections:
       - Engaging Environment.md
       - History.md
       - Mission and Vision.md
+      - Core Values and Desired Outcomes.md
