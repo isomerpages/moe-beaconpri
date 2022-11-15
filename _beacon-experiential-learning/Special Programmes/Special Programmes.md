@@ -6,17 +6,12 @@ third_nav_title: Special Programmes
 ---
 ## Special Programmes
 
-<figure>
-<figcaption> 
- </figcaption>
-<img src="/images/b121.jpg" style="width:90%">
-</figure>
+**[B121 Computer Ownership Programme](/beacon-experiential-learning/Special-Programmes/b121/)**
 
-<figure>
-<figcaption> 
- </figcaption>
-<img src="/images/P5 Community Project 14.jpeg" style="width:90%">
-</figure>
+<img src="/images/b121.jpg" style="width:49%" align=left>
+<br clear="left"><br>
+
+
 
 <figure>
 <figcaption> 
