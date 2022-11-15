@@ -1,4 +1,5 @@
 collections:
   ict-at-beacon:
     output: true
-    order: []
+    order:
+      - ICT at Beacon.md
