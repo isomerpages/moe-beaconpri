@@ -1,0 +1,4 @@
+collections:
+  ict-at-beacon:
+    output: true
+    order: []
