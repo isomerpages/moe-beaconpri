@@ -46,4 +46,7 @@ third_nav_title: Teaching & Learning Programmes
 <img src="/images/IMG_6203.jpeg" style="width:49%" align=left>
 <br clear="left">
 
-**
+**[Programme for Active Learning (PAL)](/beacon-experiential-learning/Teaching-and-Learning-Programmes/al/)**
+
+<img src="/images/Picture10.jpg" style="width:49%" align=left>
+<br clear="left">
