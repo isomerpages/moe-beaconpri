@@ -2,4 +2,5 @@ collections:
   beacon-school-team:
     output: true
     order:
+      - Steering Committee.md
       - Beacon School Team.md
