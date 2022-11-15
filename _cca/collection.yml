@@ -2,5 +2,5 @@ collections:
   cca:
     output: true
     order:
-      - Art Club.md
       - Co Curricular Activities.md
+      - Art Club.md
