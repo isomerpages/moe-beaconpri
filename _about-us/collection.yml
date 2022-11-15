@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Mission and Vision.md
       - Message From School Leaders.md
       - School Advisory Committee.md
       - Staff/.keep
@@ -10,3 +9,4 @@ collections:
       - Staff/Professional Development.md
       - Engaging Environment.md
       - History.md
+      - Mission and Vision.md
