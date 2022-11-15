@@ -2,5 +2,5 @@ collections:
   ict-at-beacon:
     output: true
     order:
-      - B121 Computer Ownership Programme.md
       - ICT at Beacon.md
+      - B121 Computer Ownership Programme.md
