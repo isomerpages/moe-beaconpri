@@ -2,6 +2,7 @@ collections:
   beacon-school-team:
     output: true
     order:
+      - Executive and Administrative Staff (EAS).md
       - Beacon School Team.md
       - Steering Committee.md
       - P1 Teachers.md
