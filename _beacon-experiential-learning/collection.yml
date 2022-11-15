@@ -2,4 +2,5 @@ collections:
   beacon-experiential-learning:
     output: true
     order:
+      - Special Programmes/Special Programmes.md
       - Special Programmes/.keep
