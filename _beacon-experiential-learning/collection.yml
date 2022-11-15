@@ -2,16 +2,14 @@ collections:
   beacon-experiential-learning:
     output: true
     order:
-      - Student Development Programmes/Character & Citizenship.md
-      - Student Development Programmes/.keep
       - Special Programmes/.keep
       - Special Programmes/Special Programmes.md
       - Special Programmes/B121 Computer Ownership Programme.md
       - Special Programmes/Beacon Future Ready Programme.md
       - Special Programmes/Beacons Take Flight.md
       - Special Programmes/Makerspace @ Beacon.md
-      - Teaching & Learning Programmes/Teaching and Learning Programmes.md
       - Teaching & Learning Programmes/.keep
+      - Teaching & Learning Programmes/Teaching and Learning Programmes.md
       - Teaching & Learning Programmes/ICT at Beacon.md
       - Teaching & Learning Programmes/English Language.md
       - Teaching & Learning Programmes/Mathematics.md
@@ -21,3 +19,5 @@ collections:
       - Teaching & Learning Programmes/Aesthetics.md
       - Teaching & Learning Programmes/Physical and Health Education.md
       - Teaching & Learning Programmes/Social Studies.md
+      - Student Development Programmes/.keep
+      - Student Development Programmes/Character & Citizenship.md
