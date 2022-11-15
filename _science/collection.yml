@@ -2,5 +2,5 @@ collections:
   science:
     output: true
     order:
-      - 2021 Science Fair.md
       - Science.md
+      - 2021 Science Fair.md
