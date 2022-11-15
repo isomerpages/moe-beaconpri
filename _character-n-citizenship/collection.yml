@@ -2,5 +2,5 @@ collections:
   character-n-citizenship:
     output: true
     order:
-      - Sexuality Education Programme.md
       - Character & Citizenship.md
+      - Sexuality Education Programme.md
