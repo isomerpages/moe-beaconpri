@@ -1,4 +1,5 @@
 collections:
   character-n-citizenship:
     output: true
-    order: []
+    order:
+      - Character & Citizenship.md
