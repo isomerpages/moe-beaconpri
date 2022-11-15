@@ -1,4 +1,5 @@
 collections:
   beacon-school-team:
     output: true
-    order: []
+    order:
+      - Beacon School Team.md
