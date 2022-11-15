@@ -2,7 +2,6 @@ collections:
   beacon-school-team:
     output: true
     order:
-      - School Counsellor and SEN Officers.md
       - Beacon School Team.md
       - Steering Committee.md
       - P1 Teachers.md
@@ -11,3 +10,4 @@ collections:
       - P4 Teachers.md
       - P5 Teachers.md
       - P6 Teachers.md
+      - School Counsellor and SEN Officers.md
