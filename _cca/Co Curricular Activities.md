@@ -13,7 +13,7 @@ Click on the links below to find out more about our CCAs.
 
 | Sports & Games | Visual & Performing Arts | Clubs & Societies | Uniformed Group |
 |:---:|---|---|---|
-| [Basketball](/cca/bball/) | [Art Club](/cca/ac/) | [Environmental Science Club](/cca/esc/) |  |
+| [Basketball](/cca/bball/) | [Art Club](/cca/ac/) | [Environmental Science Club](/cca/esc/) | [Scouts](/cca/scouts/) |
 | [Football](/cca/fb/) | [Choir](/cca/choir/) | [Outdoor Activities Club (ODAC)](/cca/odac/) |  |
 | [Netball](/cca/netball/) | [Percussion Ensemble](/cca/percussion-ensemble/) | [Robotics](/cca/robotics/) |  |
 | [Tchoukball](/cca/tchoukball/) | [Ukulele Ensemble](/cca/ukulele/) |  |  |
