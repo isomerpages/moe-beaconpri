@@ -2,10 +2,10 @@ collections:
   school-information:
     output: true
     order:
-      - Home Based Learning.md
       - Term 4 Important Dates.md
       - School Hours.md
       - School Security and Safety/.keep
       - School Security and Safety/School Security and Safety.md
       - School Security and Safety/Group Personal Accident Insurance for
         Students.md
+      - Home Based Learning.md
