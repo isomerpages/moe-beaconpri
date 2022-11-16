@@ -41,3 +41,4 @@ Students in the Junior team will familiarise themselves with the rules of the ga
 | Tay Ren Bin, Brenden | P5.5 | Vice-Captain (Boys Team) |
 | Thamilvanan Sahaanashri | P6.6 | Captain (Girls Team) |
 | Jacinda Toh Le Xin | P5.1 | Vice-Captain (Girls Team) |
+|  |  |  |
