@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Outdoor Activities Club (ODAC).md
       - Co Curricular Activities.md
       - Art Club.md
       - Basketball.md
@@ -10,3 +9,4 @@ collections:
       - Environmental Science Club.md
       - Football.md
       - Netball.md
+      - Outdoor Activities Club (ODAC).md
