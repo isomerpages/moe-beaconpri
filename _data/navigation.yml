@@ -53,3 +53,10 @@ links:
         url: /school-information/admin-forms/
       - title: P1 Registration & Information
         url: /school-information/P1-Registration-and-Information/p1-reg-info/
+  - title: news and events
+    url: /permalink
+    sublinks:
+      - title: Event Gallery
+        url: /permalink
+      - title: News
+        url: /permalink
