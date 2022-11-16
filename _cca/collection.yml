@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Scouts.md
       - Co Curricular Activities.md
       - Art Club.md
       - Basketball.md
@@ -13,3 +12,4 @@ collections:
       - Outdoor Activities Club (ODAC).md
       - Percussion Ensemble.md
       - Robotics.md
+      - Scouts.md
