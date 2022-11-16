@@ -14,6 +14,5 @@ sections:
           url: /school-information/t4-impt-dates/
         - title: quick links
           description: Events Gallery
-          url: ""
+          url: /news-and-events/Event-Gallery/2022/
 ---
-
