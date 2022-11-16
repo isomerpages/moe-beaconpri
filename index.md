@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Beacon Primary School
+description: An Isomer site of the Singapore Government
+image: /images/photo1668592516.jpeg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -16,3 +16,4 @@ sections:
           description: Events Gallery
           url: ""
 ---
+
