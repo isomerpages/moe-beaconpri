@@ -94,3 +94,54 @@ We have 2 students who have represented the school in the NSG this year. Besides
 *   10th (out of 80 competitors)
 
 <img src="/images/Toh Si Man Maryse.jpg" style="width:85%">
+
+#### North West Outstanding All Rounder Student Awards 2021
+
+Two of our former students, who had graduated from the school in 2020, received the North West Outstanding All Rounder Student (OARS) Award. The OARS Award recognises students who have achieved community service, leadership and academic excellence.
+
+<img src="/images/Liew Hng Kai Jethro.jpeg" style="width:85%">
+
+**Liew Hng Kai Jethro**
+
+Jethro was appointed the Head Prefect for his outstanding character and contribution to the school. As Head Prefect, he exemplifies the school values and displays a genuine concern for the welfare of his schoolmates. Jethro's commitment to giving his best in the tasks assigned to him and consistent performance throughout his studies is highly commendable. He displays depth in reasoning and perspective-thinking, and collaborates well with others during peer-learning.
+
+<img src="/images/photo1668593963.jpeg" style="width:85%">
+
+#### NDP 2020 Funpack Artwork Contest
+
+As part of the National Education activities leading up to the National Day Parade on 9 August 2020, the NDP2020 EXCO, together with MOE’s Character and Citizenship Education Branch, organised the [NDP 2020 Funpack Artwork Contest](https://www.ndp.gov.sg/whatshappening/sgtogetherpack/designsbyp5students)**PAGE NOT FOUND** during the recent May school holiday. This contest was open to all Primary 5 students in Singapore. Their artwork had to reflect the theme: **Emerging Stronger Together!**
+
+Only 10 artworks were shortlisted among the nation-wide entries. Among the 10, Beacon Primary School's Ong Yi En's artwork was one of them!
+
+<img src="/images/NDP Fun Pack 2020.jpg" style="width:85%">
+
+Yi En's artwork is titled, **"Hands Up for Singapore"**. Her artwork symbolises the zest and enduring spirit of unity that Singaporeans possess when overcoming challenges.
+
+Each hand is distinct in its representation of the theme. On the extreme left, the mouth-watering chilli crab, tutu kueh, satay, chicken rice and roti prata represent some of our local delicacies, and by extension, the richness of our multicultural society. To the extreme right, Singapore’s distinctive national icons such as the Merlion, the Singapore Flyer and Vanda Miss Joaquim were depicted to remind us of our national identity. Taking centre stage, are the illustrations on the middle hand. It is a representation of our frontline heroes whom Yi En has great respect for.
+
+Well done, Yi En, Beacon is proud of you!
+
+#### 2019 Sony Creative Science Award
+
+Liu Moshi and Ng Zhi Jie, Nigel of P4.2 have won the Merit Award in the WhizKid Category for the Sony Creative Science Award (SCSA). SCSA is Singapore’s largest national toy-making competition for primary school students, jointly organised by the Science Centre Singapore and the Sony Group of Companies in Singapore, with the support of the Ministry of Education. The boys have designed Fisyringe, a toy based on science concepts that they have learned in school. Well done, Moshi and Nigel!
+
+<img src="/images/winner.jpg" style="width:85%">
+
+#### 2019 Akela Award for Beacon
+
+Muaz'zam Bin Azman from P6.3 is awarded Akela Award. This is the highest award for a Cub Scout (aged 7-12) who shows good general knowledge of scouting and successfully completes an interview with the District Commissioner. Congratulations, Muaz'zam! You have indeed made your mark.
+
+<img src="/images/scout1.jpg" style="width:70%">
+
+#### 2019 BCPS Malay Dancers Shine at Gemilang Tari Si Cilik
+
+Our Malay Dancers took part in Gemilang Tari Si Cilik (Traditional Malay Dance Competition For Primary School) on 21st Sept 2019. They won the 2nd position! Well done, girls!
+
+<img src="/images/WhatsApp Image 2019-09-21.jpeg" style="width:85%">
+
+#### Beacon Tchoukball Team Ace National Primary Schools Tchoukball Championship
+
+The senior girls' team took part in the SPH Foundation National Primary Schools Tchoukball Championship and cliched the 1st position 4th.<br>
+Our senior Boys from Tchouckball Team also did well by emerging 1th in the Bowl Division in the same competition.
+
+
