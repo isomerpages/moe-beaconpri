@@ -3,3 +3,39 @@ title: News
 permalink: /news-and-events/news/
 description: ""
 ---
+## News
+
+#### Lee Kuan Yew All-Round Excellence Award 2022
+
+Beacon Primary School would like to congratulate our former student Josiah Kee Songyi, who graduated in 2021, on receiving the Lee Kuan Yew All-Round Excellence (LKY-ARE) Award 2022.   
+The award aims to recognise students' diverse achievements in both academic and non-academic spheres, including contributions to the community. The award was presented by Second Minister for Education Dr Maliki Osman on 29 August 2022.
+
+<img src="/images/Josiah LKYARE.png" style="width:85%">
+
+#### North West Outstanding All Rounder Student Award 2022
+
+Josiah Kee Songyi, our former student, who had graduated from the school in 2021, received the North West Outstanding All Rounder Student (OARS) Award. The OARS Award recognises students who have achieved community service, leadership and academic excellence
+
+<figure>
+<img src="/images/Josiah Kee NW CDC All Rounder.jpg" style="width:90%">
+<figcaption>Josiah was appointed the Head Prefect for his outstanding character and potential. As the Head Prefect, he lead by example and was an exemplary role model to his peers. He demonstrated the integrity and maturity to analyse problems and issues to make informed decisions in various situations. With an inquisitive and keen mind, he was unfazed by challenging tasks assigned to him. A conscientious and confident student, he set goals for himself and was eager to seek progress.
+ </figcaption>
+</figure>
+
+#### Text Recital Competition for Primary and Secondary Schools 2021
+
+The following students won silver or bronze awards in the **Text Recital Competition for Primary and Secondary Schools 2021** organized by the Committee to Promote Chinese Language Learning.
+
+*   Silver Award - Yu Zichen, Class 3.6
+*   Bronze Award - Angel Julia Chee, Class 3.5
+*   Bronze Award - Liu Yixin, Class 3.5
+*   Bronze Award - Kady Yik, Class 3.5
+*   Bronze Award - Teo Huan Ming, Class 4.5
+
+<img src="/images/eng6.jpeg" style="width:49%" align=left>
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/eng6.jpeg" style="width:49%" align=left>
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
