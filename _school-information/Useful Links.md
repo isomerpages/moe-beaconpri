@@ -24,3 +24,10 @@ Health Promotion Board
 Institute for Financial Literacy
 *  [MoneySense for Your Child (For parents of primary school goers aged 7-12)](/files/MoneySense_Primary%20Sch%20EDM%202022.pdf)
 *  [Ask-Me-Anything ‘MoneySense for Your Child’ Facebook Live](/files/AMA%20MoneySense%20For%20Your%20Child.pdf)
+
+Fei Yue
+*   [Fei Yue Community Services](https://www.fycs.org/)
+*   [Family Central - a service by Fei Yue Community Services](https://www.family-central.sg/)
+*   [Parenting Support Services - subscription form](https://forms.office.com/pages/responsepage.aspx?id=enp5W2h6KEyJkTbCaPjr60xXTovmoVVHr8HSB-0UwTtUMk81RjhRSTZSOUhFWEZTVUswQ0pNMlhDQS4u)
+*   [Family Life Education (FLE) Programme Calendar for July to December](/files/FLE%20Calendar%20JulDec.pdf) (Click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=enp5W2h6KEyJkTbCaPjr653z4zpLd_ROo02qNlNriXxUMVRaVE9CUlVCWDcyUDQ5RkpYR1RLSTU4WC4u) to register)
+*   [Upcoming free mental health talk for youths, “It's Okay to Not Be Okay: Navigating Depression and Anxiety in Youths”, taking place on 2 July, 10am-11am. The talk is suitable for youths aged 6 and above. Parents are welcome to attend together with their child(ren)](https://drive.google.com/file/d/1rxFAGqY_TAMO0AAZEtiWIewQX6_1gWhC/view?usp=sharing)](https://drive.google.com/file/d/1rxFAGqY_TAMO0AAZEtiWIewQX6_1gWhC/view)
