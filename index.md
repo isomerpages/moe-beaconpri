@@ -11,5 +11,8 @@ sections:
       key_highlights:
         - title: announcements
           description: Term 4 Important Dates
+          url: /school-information/t4-impt-dates/
+        - title: quick links
+          description: Events Gallery
           url: ""
 ---
