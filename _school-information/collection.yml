@@ -2,4 +2,5 @@ collections:
   school-information:
     output: true
     order:
+      - School Hours.md
       - Term 4 Important Dates.md
