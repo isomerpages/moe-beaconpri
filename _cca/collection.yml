@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Ukulele Ensemble.md
       - Co Curricular Activities.md
       - Art Club.md
       - Basketball.md
@@ -15,3 +14,4 @@ collections:
       - Robotics.md
       - Scouts.md
       - Tchoukball.md
+      - Ukulele Ensemble.md
