@@ -17,3 +17,27 @@ Beacon Primary School provides a strong academic foundation for our students. Ou
 <figcaption> Parents play a critical role as partners in our mission to prepare our young for the future. How can I be an involved parent?
  </figcaption>
 </figure>
+
+#### 1 \. Parenting your child
+
+*   Recognise that your child has different needs at different milestones of his/her development.
+*   Make time to connect with your child and to show interest in his/her daily activities by actively listening and gently guiding.
+*   Create an environment that is nurturing and affirming and look for opportunities to reinforce the values learnt in school.
+
+#### 2 \. Communicating with your child's teachers
+
+*   Communicate with teachers to help you stay connected with your child's progress, behaviours and achievements.
+*   Familiarise yourself with the various school communication platforms and channels that will best serve your needs and will help you to understand the school's various programmes in relation to your child's needs and interests.
+
+#### 3 \. Learning at home
+
+*   Encourage a positive learning attitude at home by fostering a love for life-long learning in your child.
+*   Engage your child in fun and relevant learning activities that will help him/her feel excited and enthusiastic about learning
+*   Help your child draw connections between the content or concepts learnt in school and everyday life.
+
+<figure>
+<figcaption>A strong partnership between the home and the school will put our children in good stead. Together, we work hand-in-hand to nurture our children for a brighter future for all.
+ </figcaption>
+<img src="/images/BCPS Partnership 2.jpg" style="width:90%">
+</figure>
+
