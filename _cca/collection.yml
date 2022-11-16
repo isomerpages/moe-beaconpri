@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Wushu.md
       - Co Curricular Activities.md
       - Art Club.md
       - Basketball.md
@@ -16,3 +15,4 @@ collections:
       - Scouts.md
       - Tchoukball.md
       - Ukulele Ensemble.md
+      - Wushu.md
