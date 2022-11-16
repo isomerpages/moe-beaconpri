@@ -11,6 +11,15 @@ CCA is an important part of our students’ holistic education and development. 
 
 Click on the links below to find out more about our CCAs.
 
+| Sports & Games | Visual & Performing Arts | Clubs & Societies | Uniformed Group |
+|:---:|---|---|---|
+| [Basketball](/cca/bball/) | [Art Club](/cca/ac/) | [Environmental Science Club](/cca/esc/) |  |
+|  | [Choir](/cca/choir/) |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
 #### CCA Policy
 
 *   Students are encouraged to actively participate in one CCA from P3 onward.
