@@ -2,4 +2,4 @@ collections:
   news-and-events:
     output: true
     order:
-      - Event and Gallery/.keep
+      - Event Gallery/.keep
