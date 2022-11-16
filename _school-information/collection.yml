@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - School Based Student Care Centre.md
       - Term 4 Important Dates.md
       - School Hours.md
       - School Security and Safety/.keep
@@ -12,3 +11,4 @@ collections:
       - Home Based Learning.md
       - Home School Partnership.md
       - School Service Providers.md
+      - School Based Student Care Centre.md
