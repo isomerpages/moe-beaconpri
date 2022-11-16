@@ -41,24 +41,16 @@ description: ""
 | 9 | 9 Nov | All | Admin Day  <br>- No schools for all students |
 | 9 | 9 Nov | All | Home-based Learning |
 | 9 | 11 Nov | P1 & P2 | P1 and P2 Beacon Achievement Ceremony  <br>- P2 dismissal at 10 am and P1 dismissal at 12 pm |
-| 10 | 14 Nov | P1 - P5 |  |
-| 10 | 15 Nov | P5 |  |
-| 10 | 15 Nov | P6 |  |
-| 10 | 15 Nov | P6 |  |
-| 10 | 15 Nov | P6 |  |
-| 10 | 16 Nov | P1, P2 & P5 |  |
-| 10 | 17 Nov | P3 & P4 |  |
-| 10 | 17 Nov | P3 & P4 |  |
-| 10 | 17 - 18 Nov | P1 - P5 |  |
+| 10 | 14 Nov | P1 - P5 | P1 to P5 students to receive Sem 2 HDP Report |
+| 10 | 15 Nov | P5 | P5 Beacon Achievement Ceremony  <br>- Dismissal at 10 am |
+| 10 | 15 Nov | P6 | P6 Beacon Achievement Ceremony and Graduation Ceremony, 11.30 am - 4.15 pm |
+| 10 | 15 Nov | P6 | P6 To report to school by 11.30 pm |
+| 10 | 15 Nov | P6 | Last day of school for P6 students |
+| 10 | 16 Nov | P1, P2 & P5 | Last day of school for P1, P2 and P5 students |
+| 10 | 17 Nov | P3 & P4 | P3 and P4 Beacon Achievement Ceremony  <br>- P4 dismissal at 10 am and P3 dismissal at 12 pm |
+| 10 | 17 Nov | P3 & P4 | Last day of school for P3 and P4 students |
+| 10 | 17 - 18 Nov | P1 - P5 | Parent-Teacher Meeting for selected students |
 | 10 | 18 Nov |  | 2023 P1 Briefing (9 am - 10.00 am) |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 2023 | 3 Jan | P1 | Start of new school year for P1 students |
+| 2023 | 4 Jan | All | Start of new school year for all levels |
 |  |  |  |  |
