@@ -8,4 +8,7 @@ third_nav_title: Student Development Programmes
 
 [Character & Citizenship](/character-n-citizenship/cc/)
 
-<img src="/images/FFTH 3.jpg" style="width:85%">
+<img src="/images/FFTH 3.jpg" style="width:49%" align=left>
+<br clear="left">
+
+[Co-Curricular Activities](
