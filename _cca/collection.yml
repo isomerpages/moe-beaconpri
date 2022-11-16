@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Tchoukball.md
       - Co Curricular Activities.md
       - Art Club.md
       - Basketball.md
@@ -14,3 +13,4 @@ collections:
       - Percussion Ensemble.md
       - Robotics.md
       - Scouts.md
+      - Tchoukball.md
