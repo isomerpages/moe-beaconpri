@@ -2,9 +2,9 @@ collections:
   school-information:
     output: true
     order:
-      - P1 Registration & Information/Virtual Open House.md
-      - P1 Registration & Information/P1 Registration and Information.md
       - P1 Registration & Information/.keep
+      - P1 Registration & Information/P1 Registration and Information.md
+      - P1 Registration & Information/Virtual Open House.md
       - Term 4 Important Dates.md
       - School Hours.md
       - School Security and Safety/.keep
