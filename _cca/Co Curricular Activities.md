@@ -14,10 +14,10 @@ Click on the links below to find out more about our CCAs.
 | Sports & Games | Visual & Performing Arts | Clubs & Societies | Uniformed Group |
 |:---:|---|---|---|
 | [Basketball](/cca/bball/) | [Art Club](/cca/ac/) | [Environmental Science Club](/cca/esc/) |  |
-|  | [Choir](/cca/choir/) |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| [Football](/cca/fb/) | [Choir](/cca/choir/) |  |  |
+| [Netball](/cca/netball/) |  |  |  |
+| [Tchoukball](/cca/tchoukball/) |  |  |  |
+| [Wushu](/cca/wushu/) |  |  |  |
 |  |  |  |  |
 
 #### CCA Policy
