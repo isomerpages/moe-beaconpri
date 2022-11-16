@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - Admin Forms.md
       - Term 4 Important Dates.md
       - School Hours.md
       - School Security and Safety/.keep
@@ -14,3 +13,4 @@ collections:
       - School Service Providers.md
       - School Based Student Care Centre.md
       - Useful Links.md
+      - Admin Forms.md
