@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Percussion Ensemble.md
       - Co Curricular Activities.md
       - Art Club.md
       - Basketball.md
@@ -11,3 +10,4 @@ collections:
       - Football.md
       - Netball.md
       - Outdoor Activities Club (ODAC).md
+      - Percussion Ensemble.md
