@@ -58,3 +58,23 @@ Four students represented our school in the SORPOR (National Debate Competition)
 <img src="/images/Selvakarthik Kathir.jpg" style="width:49%" align=left>
 <img src="/images/Thamilvanan Sahaanashri.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+#### Graduation from the Junior Sports Academy (JSA) 2021
+
+We are pleased to share that 4 of our students have graduated from the JSA programme. These students have participated in a two-year programme where they learn how to play different types of sports by going for extra training during the weekends. They have also learned through sport education modules about nutrition and prevention of common sports injuries. We hope that these 4 students will continue with their sporting pursuits in secondary school and beyond.
+
+*   Aqil Izz Anaqi Bin Mohammad Zaki, Class 6.6
+*   Erica Chia Xin Zhi, Class 6.3
+*   Muhammad Waldan Bin Rahmat, Class 6.3
+*   Ryan Syabir Kurniawan, Class 6.2
+*   Thamilvanan Sahaanashri, Class 6.6
+
+<img src="/images/Aqil Izz Anaqi Bin Mohammad Zaki.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Erica Chia Xin Zhi.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Muhammad Waldan Bin Rahmat.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left"><br>
+
+<img src="/images/Ryan Syabir Kurniawan.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Thamilvanan Sahaanashri (1).jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
+
