@@ -31,7 +31,11 @@ links:
       - title: Student Development Programmes
         url: /beacon-experiential-learning/Student-Development-Programmes/sdp/
   - title: School Information
-    url: /permalink
+    url: /school-information/t4-impt-dates/
     sublinks:
       - title: Term 4 Important Dates
+        url: /school-information/t4-impt-dates/
+      - title: School Hours
+        url: /permalink
+      - title: School Security and Safety
         url: /permalink
