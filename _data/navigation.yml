@@ -30,3 +30,8 @@ links:
         url: /beacon-experiential-learning/Teaching-and-Learning-Programmes/tnl/
       - title: Student Development Programmes
         url: /beacon-experiential-learning/Student-Development-Programmes/sdp/
+  - title: School Information
+    url: /permalink
+    sublinks:
+      - title: Term 4 Important Dates
+        url: /permalink
