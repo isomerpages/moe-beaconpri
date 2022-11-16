@@ -7,7 +7,7 @@ description: ""
 
 <img src="/images/VPO.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/Ms Pang.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/Mdm Lela.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Mdm Lela.jpg" style="width:30%;margin-right:15px;" align = "left"><br><br><br><br><br><br><br><br><br><br><br>
 
 <p align="center">Mr Ong Hong Ghee (VP), Ms Pang Wee Mian (P), Mdm Lela Shamsuhadi (VP)</p>
 
