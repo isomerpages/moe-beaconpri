@@ -16,4 +16,6 @@ third_nav_title: Student Development Programmes
 <img src="/images/Football 02.jpeg" style="width:49%" align=left>
 <br clear="left">
 
-[Student Leadership](
+[Student Leadership](/beacon-experiential-learning/Student-Development-Programmes/sl/)
+
+<img src="/images/2022 P5 Prefect EXCO A.jpg" style="width:49%" align=left>
