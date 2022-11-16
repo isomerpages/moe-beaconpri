@@ -32,10 +32,29 @@ The following students won silver or bronze awards in the **Text Recital Compet
 *   Bronze Award - Kady Yik, Class 3.5
 *   Bronze Award - Teo Huan Ming, Class 4.5
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/Yu Zichen.jpg" style="width:49%" align=left>
+<img src="/images/Angel Chee.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/Liu Yixin.jpg" style="width:49%" align=left>
+<img src="/images/Kady Yik.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/Teo Huan Ming.jpg" style="width:50%">
+
+#### SORPOR (National Tamil Debate Competition) 2021
+
+Four students represented our school in the SORPOR (National Debate Competition) organised by the Tamil Representative Council. They have demonstrated confidence and strong debating skills during the competition. Congratulations!
+
+*   Nithya Sree Saravanan, Class 4.5
+*   Elango Manisha, Class 5.4
+*   Selvakarthik Kathir, Class 5.4
+*   Thamilvanan Sahaanashri, Class 6.6
+
+<img src="/images/Elango Manisha.jpg" style="width:49%" align=left>
+<img src="/images/Nithya Sree Saravanan.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/Selvakarthik Kathir.jpg" style="width:49%" align=left>
+<img src="/images/Thamilvanan Sahaanashri.jpg" style="width:49%" align=right>
 <br clear="left"><br>
