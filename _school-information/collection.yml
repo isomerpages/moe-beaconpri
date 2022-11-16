@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Home School Partnership.md
       - School Hours.md
       - School Security and Safety/.keep
       - School Security and Safety/School Security and Safety.md
