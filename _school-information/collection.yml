@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - P1 Registration & Information/Beacon Initiation Ceremony.md
       - P1 Registration & Information/.keep
       - P1 Registration & Information/P1 Registration and Information.md
       - P1 Registration & Information/Virtual Open House.md
