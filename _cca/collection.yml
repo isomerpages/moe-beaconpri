@@ -2,8 +2,8 @@ collections:
   cca:
     output: true
     order:
-      - Environmental Science Club.md
       - Co Curricular Activities.md
       - Art Club.md
       - Basketball.md
       - Choir.md
+      - Environmental Science Club.md
