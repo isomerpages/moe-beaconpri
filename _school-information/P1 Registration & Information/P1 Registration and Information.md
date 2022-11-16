@@ -21,3 +21,7 @@ You may wish to refer to the [MOE P1 Registration website](https://www.moe.gov.
 | Phase 2C supp | 15 August 2022 - 16 August 2022 | If your child is eligible for P1 and has not yet registered in a primary school after Phase 2C. |
 | Phase 3 | NA | For international students. |
 |  |  |  |
+
+#### Choosing a Primary School
+
+<img src="/images/Infographic on choosing primary school.jpg" style="width:85%">
