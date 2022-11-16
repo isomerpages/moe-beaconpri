@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Football.md
       - Co Curricular Activities.md
       - Art Club.md
       - Basketball.md
       - Choir.md
       - Environmental Science Club.md
+      - Football.md
