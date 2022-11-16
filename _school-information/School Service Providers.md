@@ -46,12 +46,12 @@ Tel: 6465 5523
 
 #### Booklist 2023
 
-*   [Primary 1 Booklist](https://drive.google.com/file/d/1CUfWphO39bPNKgy7cNWck31YkmuR5QFz/view?usp=share_link)
-*   [Primary 2 Booklist](https://drive.google.com/file/d/1dLVRYa04YUh9B1nCsmAI0CtCxKVwIYx_/view?usp=share_link)
-*   [Primary 3 Booklist](https://drive.google.com/file/d/1LFWRk7jlMKXQ8L2_mSxBn0cdBnuTIcXU/view?usp=sharing)
-*   [Primary 4 Booklist](https://drive.google.com/file/d/1XJOZuWNPka06VYI1C1VxGhuRaeEGdBC5/view?usp=share_link)
-*   [Primary 5 Booklist](https://drive.google.com/file/d/19x_GbE8kZnPFmPvPlVzPx15ih5Xh7tWK/view?usp=share_link)
-*   [Primary 6 Booklist](https://drive.google.com/file/d/15FQ9EwhO1RAcRo-NvRyIdrIQ0T02eJNL/view?usp=share_link)
+*  [Primary 1 Booklist](/files/P1%20PDF.pdf)
+*  [Primary 2 Booklist](/files/P2%20PDF.pdf)
+*  [Primary 3 Booklist](/files/P3%20PDF.pdf)
+*  [Primary 4 Booklist](/files/P4%20PDF.pdf)
+*  [Primary 5 Booklist](/files/P5%20PDF.pdf)
+*  [Primary 6 Booklist](/files/P6%20PDF.pdf)
 
 #### Bus Services
 
