@@ -15,8 +15,8 @@ Click on the links below to find out more about our CCAs.
 |:---:|---|---|---|
 | [Basketball](/cca/bball/) | [Art Club](/cca/ac/) | [Environmental Science Club](/cca/esc/) |  |
 | [Football](/cca/fb/) | [Choir](/cca/choir/) |  |  |
-| [Netball](/cca/netball/) |  |  |  |
-| [Tchoukball](/cca/tchoukball/) |  |  |  |
+| [Netball](/cca/netball/) | [Percussion Ensemble](/cca/percussion-ensemble/) |  |  |
+| [Tchoukball](/cca/tchoukball/) | [Ukulele Ensemble](/cca/ukulele/) |  |  |
 | [Wushu](/cca/wushu/) |  |  |  |
 |  |  |  |  |
 
