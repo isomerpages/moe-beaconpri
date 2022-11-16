@@ -15,3 +15,12 @@ description: ""
 *   [Beacon Primary School HBL Website](https://sites.google.com/beaconpri.sg/home-based-learning/home)
 *   [WE-STories Publication 2022](https://online.fliphtml5.com/obrr/qkde/)
 
+#### Other Useful Sites
+
+Health Promotion Board  
+*   [Colours of the Mind](https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/cotm-one)
+*   [Healthy Eating, Active Living](https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/healthy-eating-active-living)
+
+Institute for Financial Literacy
+*  [MoneySense for Your Child (For parents of primary school goers aged 7-12)](/files/MoneySense_Primary%20Sch%20EDM%202022.pdf)
+*  [Ask-Me-Anything ‘MoneySense for Your Child’ Facebook Live](/files/AMA%20MoneySense%20For%20Your%20Child.pdf)
