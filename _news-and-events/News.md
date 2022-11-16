@@ -78,3 +78,19 @@ We are pleased to share that 4 of our students have graduated from the JSA progr
 <img src="/images/Thamilvanan Sahaanashri (1).jpg" style="width:30%;margin-right:15px;" align = "left">
 <br clear="left">
 
+#### Student Achievements in the National School Games (NSG) 2021
+
+We have 2 students who have represented the school in the NSG this year. Besides putting in the hard work for their training, these students have shown that they are able to manage their time well by balancing both training and studies. Well done, Rain and Maryse!
+
+**NSG Wushu Competition - Rain Teo, Class 6.6**
+
+*   1st in the ‘4-Duan Spear’ event
+*   2nd in the ‘1st International Changquan’ event
+
+<img src="/images/Rain Teo.jpg" style="width:85%">
+
+**NSG Bowling Competition - Toh Si Man Maryse, Class 5.5**
+
+*   10th (out of 80 competitors)
+
+<img src="/images/Toh Si Man Maryse.jpg" style="width:85%">
