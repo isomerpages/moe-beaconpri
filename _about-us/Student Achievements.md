@@ -22,7 +22,7 @@ description: ""
 #### 2021
 
 *    Student Achievements in the National School Games (NSG) <br>
-1 \. Rain Teo - NSG Wushu
+1 \. Rain Teo - NSG Wushu<br>
 -1st in the ‘4-Duan Spear’ event<br>
 -2nd in the ‘1st International Changquan’ event
 
