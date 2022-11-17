@@ -5,7 +5,7 @@ description: ""
 ---
 ## School Advisory Committee
 
-<p align="center"> School Advisory Committee (SAC) 2020 </p>
+**<p align="center"> School Advisory Committee (SAC) 2020 </p>**
 
 | **Name** | **Designation in SAC** |
 |:---:|---|
@@ -15,4 +15,3 @@ description: ""
 | Mr Poh Heo Tat Arthur | Member |
 | Ms Oh Phaik Sim Geraldine | Member |
 |  |  |
-
