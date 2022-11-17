@@ -5,7 +5,7 @@ description: ""
 ---
 ## School Advisory Committee
 
-**<p align="center"> School Advisory Committee (SAC) 2020 </p>**
+<p align="center"> School Advisory Committee (SAC) 2020 </p>
 
 | **Name** | **Designation in SAC** |
 |:---:|---|
