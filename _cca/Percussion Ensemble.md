@@ -18,8 +18,9 @@ The Percussion CCA seeks to inculcate students’ interests in the performing ar
 
 Students are trained by professional instructors to play a selection of percussion instruments using the correct technique. To help build up and strengthen students’ proficiency level, practice sessions include various rhythmic pattern playing using drumming techniques. From rhythmic exercises to traditional and contemporary (including fusion) performing pieces, Percussion CCA offers a rich and engaging cultural experience for the students.
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSKxDJuorNLLEUU3w16L2KSTEFIDI34C5_2ZjL8-16lDTr2aPqRJmfV1cLjHXXsPymRw8NXlEgEkawT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKxDJuorNLLEUU3w16L2KSTEFIDI34C5_2ZjL8-16lDTr2aPqRJmfV1cLjHXXsPymRw8NXlEgEkawT/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true"></iframe>
 
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMwjvKtkCgYwOFJ9fwbNfaz5G5dG7tqDvEDEQOcuqz8dwLH6XCC0NHPcXISMzhmW0dkQcVxHANJn99/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Our Percussion Ensemble members learning to play an instrument and perform collaboratively as a musical group.
 
