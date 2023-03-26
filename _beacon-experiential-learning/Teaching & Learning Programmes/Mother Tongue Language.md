@@ -78,8 +78,7 @@ In this programme, selected Chinese Language students will attend lessons and cu
 
 With Covid-19, the International Exchange Programme has shifted online since 2020. Students participating in the programme continue to engage students from Suzhou through the various collaborative activities online.
 
-Please view the programme photos in the [Event Gallery]**INSERT ISOMER SITE**. 
-
+Please view the programme photos in the [Event Gallery](/news-and-events/Event-Gallery/2022/).
 #### MTL Learning Support Programme
 
 This is a customised programme to support the learning of pupils in Mother Tongue Languages in Pri 3 and Pri 4. This programme focuses on building basic listening and speaking skills before the students move on to reading and writing skills. Students learn the language through games and fun learning activities.
