@@ -7,7 +7,7 @@ description: ""
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |:---:|---|---|---|
-| Thursday | 2.15pm – 4.15pm | iConnect Rooms 1 and 2 | Mr Siu Kai Chong  <br><br>Ms Juzain Binte Jasin<br><br>Mdm Siti Farina Binte Osman<br><br>Mdm Nurul Haiyu Binte Rosli |
+| Thursday | 2.15pm – 4.15pm | iConnect Rooms 1, 2 and 3 | Mr Siu Kai Chong  <br><br>Ms Juzain Binte Jasin<br><br>Mdm Siti Farina Binte Osman |
 |  |  |  |  |
 
 #### Objectives
