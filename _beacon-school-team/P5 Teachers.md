@@ -5,14 +5,14 @@ description: ""
 ---
 ## P5 Teachers
 
-**Year Yead:** Mdm Kayalvizhi D/O Ganesan (Mrs Vijay)
+**Year Yead:** Mdm Norina Seno
 
 | **Class** | **Form Teachers** | **Email** |
 |:---:|---|---|
-| 5.1 | Ms Chia Guat Yiam  <br>Mdm Stella Loy Ann Ting (Mrs Chai) | [chia_guat_yiam@moe.edu.sg](mailto:chia_guat_yiam@moe.edu.sg)<br>[loy_ann_ting_stella@moe.edu.sg](mailto:loy_ann_ting_stella@moe.edu.sg) |
-| 5.2 | Miss Tioh Sze Bing Esther  <br>Ms Nur Erliana Bte Supanie | [tioh_sze_bing_esther@moe.edu.sg](mailto:tioh_sze_bing_esther@moe.edu.sg)<br>[nur_erliana_supanie@moe.edu.sg](mailto:nur_erliana_supanie@moe.edu.sg) |
-| 5.3 | Mdm Nur Aini Bte Mohd Yunos  <br>Dr Lye Sze Yee | [nur_aini_mohd_yunos@moe.edu.sg](mailto:nur_aini_mohd_yunos@moe.edu.sg)<br>[lye_sze_yee@moe.edu.sg](mailto:lye_sze_yee@moe.edu.sg) |
-| 5.4 | Mr Chan Poh Loong  <br>Mdm Sri Devi d/o Sritharan (Mrs Siva) | [chan_poh_loong@moe.edu.sg](mailto:chan_poh_loong@moe.edu.sg)<br>[sri_devi_sritharan@moe.edu.sg](mailto:sri_devi_sritharan@moe.edu.sg) |
-| 5.5 | Mdm Zainah Bte Alias  <br>Mdm Li Ting Ting | [zainah_alias@moe.edu.sg](mailto:zainah_alias@moe.edu.sg)<br>[li_tingting@moe.edu.sg](mailto:li_tingting@moe.edu.sg) |
-| 5.6 | Mdm Lim Siew Ling  <br>Mdm Pang Xiao Tian Patricia | [lim_siew_ling@moe.edu.sg](mailto:lim_siew_ling@moe.edu.sg)<br>[pang_xiao_tian_patricia@moe.edu.sg](mailto:pang_xiao_tian_patricia@moe.edu.sg) |
+| 5.1 | Mdm Soon Hui Ting <br>Mr Ong Seng Lee Alex | [soon\_hui\_ting@moe.edu.sg](mailto:soon_hui_ting@moe.edu.sg)<br>[ong\_seng\_lee\_alex@moe.edu.sg](mailto:ong_seng_lee_alex@moe.edu.sg) |
+| 5.2 | Mdm Wong Choy Hong  <br>Mdm Ma Yanying | [wong\_choy\_hong@moe.edu.sg](mailto:wong_choy_hong@moe.edu.sg)<br>[ma\_yanying@moe.edu.sg](mailto:ma_yanying@moe.edu.sg) |
+| 5.3 | Mr Chua Kian Chuan <br>Mr Teo Shi An | [chua\_kian\_chuan@moe.edu.sg](mailto:chua_kian_chuan@moe.edu.sg)<br>[teo\_shi\_han\_a@moe.edu.sg](mailto:teo_shi_han_a@moe.edu.sg) |
+| 5.4 | Mdm Tan Lam Yen <br>Mdm Ramadoss Rekha | [tan\_lam\_yen@moe.edu.sg](mailto:tan_lam_yen@moe.edu.sg)<br>[rekha\_pugalendhi@moe.edu.sg](mailto:rekha_pugalendhi@moe.edu.sg) |
+| 5.5 | Mr Sim Wei Xiong  <br>Mrs Liew Lim Hui Leng| [sim\_wei\_xiong@moe.edu.sg](mailto:sim_wei_xiong@moe.edu.sg)<br>[lim\_hui\_leng@moe.edu.sg](mailto:lim_hui_leng@moe.edu.sg) |
+| 5.6 | Miss Ong Yong Qi  <br>Mdm Ng Wan Qing | [ong\_yong\_qi@moe.edu.sg](mailto:long_yong_qi@moe.edu.sg)<br>[ng\_wan\_qing@moe.edu.sg](mailto:ng_wan_qing@moe.edu.sg) |
 |  |  |  |
