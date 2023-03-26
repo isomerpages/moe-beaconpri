@@ -7,7 +7,7 @@ description: ""
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |:---:|---|---|---|
-| Thursday | 2.15pm – 4.15pm | Indoor Sports Hall Level 1 | Mr Chan Poh Loong<br><br>Mdm Tan Lam Yen<br><br>Ms Nur Atiqah Binte Ilham<br><br>Mr Ng Renjie Ken |
+| Thursday | 2.15pm – 4.15pm | Indoor Sports Hall Level 1 | Mr Chan Poh Loong<br><br>Ms Nur Atiqah Binte Ilham<br><br>Mdm Siti Maizurah Bte Amzah |
 |  |  |  |  |
 
 #### Objectives
