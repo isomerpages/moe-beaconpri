@@ -17,8 +17,8 @@ description: ""
 | Mdm Hatijah Samsudin | Operations Support Officer |
 | Mdm Ang Lay Choo | Operations Support Officer |
 | Mdm Cheong Lye Peng | Operations Support Officer |
-| Mr Tan Thuan Liang Jason | Operations Support Officer |
 | Mr Siew Thian Meng | Operations Support Officer |
+| Mr Ramli Bin Othman | Operations Support Officer |
 | Mr Kanesh Naiker Arujunan | Desktop Engineer |
-| Mr Sha Alam Bin Sha Jahan | Desktop Engineer |
+| Mr Muhammad Zaidil Bin Mohd Jamil | Desktop Engineer |
 |  |  |
