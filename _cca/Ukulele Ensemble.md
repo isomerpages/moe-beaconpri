@@ -7,7 +7,7 @@ description: ""
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |:---:|---|---|---|
-| Thursday | 2.15pm – 4.15pm | iSparks | Mdm Stella Loy Ann Ting<br><br>Mdm Charmaine Chia<br><br>Mdm Ee Yen Teng |
+| Thursday | 2.15pm – 4.15pm | Teaching Lab, Level 4 | Miss Tioh Sze Bing Esther<br><br>Mdm Ee Yen Teng|
 |  |  |  |  |
 
 #### Objectives
