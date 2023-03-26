@@ -17,7 +17,7 @@ Our physical learning space has also been greatly extended and enhanced by the Z
 
 The learning environment at Beacon also extends beyond the physical one to include the virtual space. Virtual learning spaces open up new opportunities for learning and offer rich learning resources and information, allowing students to learn beyond the confines of the classrooms and textbooks.
 
-**REQUIRE JACKSON'S FOR VIDEO INPUT**
+<iframe width="480" height="360" src="https://www.youtube.com/embed/tAg7pU77E7U" title="Beacon Primary Virtual Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In Beacon, our engaging environment also includes our support for the students’ well-being so as to create a holistic and positive Beacon Experience.
 
