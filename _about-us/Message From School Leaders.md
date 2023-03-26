@@ -5,16 +5,16 @@ description: ""
 ---
 ## Message From School Leaders
 
-<img src="/images/VPO.jpg" style="width:29%;margin-right:15px;" align = "left">
-<img src="/images/Ms Pang.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/Mdm Lela.jpg" style="width:29%;margin-right:15px;" align = "left"><br><br><br><br><br><br><br><br><br><br><br>
+<img src="/images/SL Photo.jpg" style="width:85%">
 
-<p align="center">Mr Ong Hong Ghee (VP), Ms Pang Wee Mian (P), Mdm Lela Shamsuhadi (VP)</p>
+<p align="center">Ms Pang Wee Mian (P), Mdm Lela Shamsuhadi (VP), Mr Chen Wei Ngiap (VP), Mrs Melissa Loh-Chang Suet Mun (VP)</p>
 
-The last two years have seen us being tested sorely by the pandemic. We are constantly on the alert to pivot to new safety measures and doing things differently. In doing so, we are proud that our staff and students have learned resilience and appreciation of simple joys of life such as spending more time with loved ones and oneself.
+Thank you for visiting our school website. You will be able to gather information on what we stand for and the learning opportunities we offer to both students and staff in our school. Please visit our page on Event Gallery and enjoy the delightful faces of students and staff in the various activities that we had. We will be holding our physical Open House on 1 July 2023. Do look out for details nearer the date and join us on this day. 
 
-Despite the disruptions, we do our best to ensure that learning takes place and that both staff and students have meaningful learning experiences in school. Home-based learning provides opportunities for staff to transfer learning and reach students in more varied ways. We are heartened that most students exhibited great dexterity on the e-learning platforms and some have displayed greater attention and motivation. The information and photographs on the school website are a testament to the rigour of learning the school has continued to provide for our students.
+Our focus has always been to provide meaningful learning experiences for our students and staff. We want students and staff to be motivated in their daily encounters and be inspired as they reflect upon the memories of time well spent. We give emphasis to responsible use of resources as we consider the harm done to the environment.
 
-Even as we look forward to life after the pandemic, we are committed to doing our best as a school to bring joy of learning, sharing and performing to all members of the Beacon community.
+We aim to nurture good learning habits and a resilient attitude (Constructor and Conductor) in our students, help them to develop empathy and a heart for others (Contributor and Connector). We hope that the meaningful and positive learning experiences in Beacon Primary will instill the confidence (Confident Learner) in our students that they should be able to ride the storms ahead of them.
 
-Thank you for visiting our website.
+We look forward to 2023 with great anticipation as bring back more programmes and activities to enhance the learning experiences of both students and staff.
+
+Happy Reading!
