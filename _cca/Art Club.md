@@ -7,7 +7,7 @@ description: ""
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |:---:|---|---|---|
-| Thursday | 2.15pm – 4.15pm | Art Rooms and MPR Classroom | Mdm Faridah Hajarmustika Binte Rahmat<br><br>Mdm Tay Xue Ling Cherie (Mrs Lim)  <br><br>Ms Koh Kai Jun<br><br>Ms Lee Pei Pei<br><br>Miss Tan Lai Kiow |
+| Thursday | 2.15pm – 4.15pm | Art Rooms, Level 1 | Mdm Faridah Hajarmustika Binte Rahmat<br><br>Ms Lee Pei Pei  <br><br>Mdm Rekha Ramadoss<br><br>Miss Saraniya Aburvam D/O N S<br><br>Mdm Liyana Bte Mohd Yusof|
 |  |  |  |  |
    
 #### Objectives  
