@@ -24,28 +24,26 @@ third_nav_title: Teaching & Learning Programmes
 </a></p>
 <br clear=left>
 
+<p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/aesthetics/">
+<img style="width:49%" align=left src="/images/tlp5.jpg">
+</a></p>
 
-**[Aesthetics](/beacon-experiential-learning/Teaching-and-Learning-Programmes/aesthetics/)**
+<p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/pe/">
+<img style="width:49%" align=left src="/images/tlp6.jpg">
+</a></p>
+<br clear=left>
 
-<img src="/images/P1 Spider outfit group.jpg" style="width:49%" align=left>
-<br clear="left">
+<p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/ss/">
+<img style="width:49%" align=left src="/images/tlp7.jpg">
+</a></p>
 
-**[Physical Education](/beacon-experiential-learning/Teaching-and-Learning-Programmes/pe/)**
+<p><a href="/ict-at-beacon/ict/">
+<img style="width:49%" align=left src="/images/tlp8.jpg">
+</a></p>
+<br clear=left>
 
-<img src="/images/pe3.jpg" style="width:49%" align=left>
-<br clear="left">
+<p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/al/">
+<img style="width:49%" align=left src="/images/tlp9.jpg">
+</a></p>
+<br clear=left>
 
-**[Social Studies](/beacon-experiential-learning/Teaching-and-Learning-Programmes/ss/)**
-
-<img src="/images/Cover.jpg" style="width:49%" align=left>
-<br clear="left">
-
-**[ICT at Beacon](/ict-at-beacon/ict/)**
-
-<img src="/images/IMG_6203.jpeg" style="width:49%" align=left>
-<br clear="left">
-
-**[Programme for Active Learning (PAL)](/beacon-experiential-learning/Teaching-and-Learning-Programmes/al/)**
-
-<img src="/images/Picture10.jpg" style="width:49%" align=left>
-<br clear="left">
