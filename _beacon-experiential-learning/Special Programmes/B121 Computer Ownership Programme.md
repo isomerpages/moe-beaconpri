@@ -14,7 +14,8 @@ This will help to extend learning beyond the classroom and allows students to ac
 
 #### Recommended Specifications for Personal Learning Device
 
-As students will be mostly using online tools, PLDs do not need to be too "powerful". When purchasing a device, prioritise the size and weight of the device.<br>
+As students will be mostly using online tools, PLDs do not need to be too "powerful". When purchasing a device, prioritise the size and weight of the device.
+
 **Form Factor:**&nbsp;Clam-shell or 360 flip models are recommended<br>
 **Operating System:**&nbsp;Windows, Mac OS, ChromeOS<br>
 **Weight:**&nbsp;Less than 1.4 kg<br>
@@ -26,8 +27,6 @@ As students will be mostly using online tools, PLDs do not need to be too "power
 **RAM:**&nbsp;4 GB or higher<br>
 **Graphics:**&nbsp;On-board or better<br>
 **Hard Disk Space:**&nbsp;32 GB or more
-
-Tablets (iPad and Samsung Tab) are sufficient, however, please consider providing an external keyboard as it will be very useful for writing tasks.
 
 #### Device Setup
 
