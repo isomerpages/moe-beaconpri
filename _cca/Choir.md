@@ -7,7 +7,7 @@ description: ""
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |:---:|---|---|---|
-| Thursday | 2.15pm – 4.15pm | Spotlight | Miss Tioh Sze Bing Esther<br><br>Mdm Phua Sor Lay<br><br>Mdm Soon Hui Ting |
+| Thursday | 2.15pm – 4.15pm | Spotlight | Mdm Stella Loy Ann Ting<br><br>Mdm Phua Sor Lay<br><br>Mdm Wong Jing Mei Joyce |
 |  |  |  |  |
 
 #### Objectives
