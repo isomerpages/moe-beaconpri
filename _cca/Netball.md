@@ -7,7 +7,7 @@ description: ""
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |:---:|---|---|---|
-| Thursday | 3.30pm – 5.30pm | School Field<br><br>Indoor Sports Hall Level 2<br><br>(if it rains) | Mdm Zainah Binte Alias<br><br>Mrs Goh Toh Lee Ching<br><br>Mdm Lee Li Ying<br><br>Miss Arina Nadiah Binte Saifudin |
+| Thursday | 3.30pm – 5.30pm | Parade Square and Indoor Sports Hall<br><br>Foyer and Indoor Sports Hall<br>(if it rains) | Mdm Zainah Binte Alias<br><br>Mdm Lee Li Ying<br><br>Miss Arina Nadiah Binte Saifudin |
 |  |  |  |  |
 
 #### Objectives
