@@ -7,7 +7,7 @@ description: ""
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |:---:|---|---|---|
-| Thursday | 2.15pm – 4.15pm | EL Resource Room and P5.1 Classroom | Ms Nurhuda Binte Mohamed  <br><br>Mdm Ramadoss Rekha<br><br>Ms Emielliana Mira Binte Jafry<br><br>Miss Pang Xiao Tian Patricia<br><br>Miss Neo Kai Lin |
+| Thursday | 2.15pm – 4.15pm | P1.2 and P1.3 Classroom | Ms Nurhuda Binte Mohamed  <br><br>Mdm Nazreen Bte Mohamed Zulfakir<br><br>Ms Emielliana Mira Binte Jafry<br><br>Miss Pang Xiao Tian Patricia<br><br>Mr Leslie Gwee Cher Siang |
 |  |  |  |  |
 
 #### Objectives
