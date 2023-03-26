@@ -27,7 +27,7 @@ The school uniform consists of two main colours - white and blue. The colour whi
 
 ##### Beacon Shining Bright
 
-**REQUIRE JACKSON'S INPUT VIDEO**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mp9CfXzDaO0" title="Beacon Shining Bright (2019)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The composition of our school song started in 2007 (before the school officially started). The school song encapsulates both our values and aspirations. The work was completed in 2008 and the song was proudly sung by the Beacon community for the first time at our inaugural Beacon Awards Ceremony on 14 Nov 2008.
 
