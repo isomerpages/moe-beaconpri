@@ -6,21 +6,20 @@ third_nav_title: Special Programmes
 ---
 ## Special Programmes
 
-**[B121 Computer Ownership Programme](/beacon-experiential-learning/Special-Programmes/b121/)**
+<p><a href="/beacon-experiential-learning/Special-Programmes/b121/">
+<img style="width:51%" align=left src="/images/sp1.jpg">
+</a></p>
 
-<img src="/images/b121.jpg" style="width:49%" align=left>
-<br clear="left"><br>
+<p><a href="/beacon-experiential-learning/Special-Programmes/bfrr/">
+<img style="width:49%" align=left src="/images/sp2.jpg">
+</a></p>
+<br clear=left>
 
-**[Beacon Future Ready Programme](/beacon-experiential-learning/Special-Programmes/bfrr/)**
+<p><a href="/beacon-experiential-learning/Special-Programmes/btf">
+<img style="width:49%" align=left src="/images/sp3.jpg">
+</a></p>
 
-<img src="/images/P5 Community Project 14.jpeg" style="width:49%" align=left>
-<br clear="left"><br>
-
-**[Beacons Take Flight](/beacon-experiential-learning/Special-Programmes/btf)**
-
-<img src="/images/shanghaisuzhuojpg.jpg" style="width:49%" align=left>
-<br clear="left"><br>
-
-**[Makerspace @ Beacon](/beacon-experiential-learning/Special-Programmes/makerspace)**
-
-<img src="/images/Makerspace02.jpg" style="width:49%" align=left>
+<p><a href="/beacon-experiential-learning/Special-Programmes/makerspace">
+<img style="width:49%" align=left src="/images/sp4.jpg">
+</a></p>
+<br clear=left>
