@@ -7,7 +7,7 @@ description: ""
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |:---:|---|---|---|
-| Thursday | 2.15pm – 4.15pm | School Hall | Mdm Toh Hui Ming  <br><br>Mdm Wong Choy Hong<br><br>Ms Zhang Luyao |
+| Thursday | 2.15pm – 4.15pm | School Hall, Level 2 | Mdm Wong Choy Hong  <br><br>Mrs Candice Huang-Tan Yar Hui<br><br>Mdm Toh Hui Ming |
 |  |  |  |  |
 
 #### Objectives
