@@ -7,7 +7,7 @@ description: ""
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |:---:|---|---|---|
-| Thursday | 2.15pm – 4.15pm | Music Rooms 1 & 2, Level 4 | Mdm Goh Wee Peng<br><br>Mr Felix Cheong Mun Jee<br><br>Ms Li Chang |
+| Thursday | 2.15pm – 4.15pm | Music Rooms 1 &amp; 2, Level 4 | Mdm Goh Wee Peng<br><br>Mr Felix Cheong Mun Jee<br><br>Ms Li Chang |
 |  |  |  |  |
 
 #### Objectives
@@ -18,9 +18,9 @@ The Percussion CCA seeks to inculcate students’ interests in the performing ar
 
 Students are trained by professional instructors to play a selection of percussion instruments using the correct technique. To help build up and strengthen students’ proficiency level, practice sessions include various rhythmic pattern playing using drumming techniques. From rhythmic exercises to traditional and contemporary (including fusion) performing pieces, Percussion CCA offers a rich and engaging cultural experience for the students.
 
-<img src="/images/Percussion Ensemble 1.jpg" style="width:49%" align=left>
-<img src="/images/Percussion Ensemble 2.jpeg" style="width:44%" align=right>
-<br clear="left"><br>
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSKxDJuorNLLEUU3w16L2KSTEFIDI34C5_2ZjL8-16lDTr2aPqRJmfV1cLjHXXsPymRw8NXlEgEkawT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+
 Our Percussion Ensemble members learning to play an instrument and perform collaboratively as a musical group.
 
 #### CCA Leaders
