@@ -17,7 +17,7 @@ Click on the links below to find out more about our CCAs.
 | [Football](/cca/fb/) | [Choir](/cca/choir/) | [Outdoor Activities Club (ODAC)](/cca/odac/) |  |
 | [Netball](/cca/netball/) | [Percussion Ensemble](/cca/percussion-ensemble/) | [Robotics](/cca/robotics/) |  |
 | [Tchoukball](/cca/tchoukball/) | [Ukulele Ensemble](/cca/ukulele/) |  |  |
-| [Wushu](/cca/wushu/) |  |  |  |
+| [Wushu](/cca/wushu/) | Dance |  |  |
 |  |  |  |  |
 
 #### CCA Policy
