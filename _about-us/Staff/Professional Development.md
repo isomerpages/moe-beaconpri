@@ -24,16 +24,8 @@ Apart from attending workshops and courses to develop themselves professionally,
 <img src="/images/ss5.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-#### BCPS Cafe Session
-
-<img src="/images/photo1668514912.jpeg" style="width:85%">
-
 #### PD Training
 
 <img src="/images/photo1668514961.jpeg" style="width:85%">
 <img src="/images/photo1668515004.jpeg" style="width:85%">
 
-#### External Conferences & Workshops
-
-<img src="/images/photo1668515052.jpeg" style="width:85%">
-<img src="/images/photo1668515096.jpeg" style="width:85%">
