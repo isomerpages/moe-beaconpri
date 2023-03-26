@@ -6,25 +6,24 @@ third_nav_title: Teaching & Learning Programmes
 ---
 ## Teaching and Learning Programmes
 
-**[English](/beacon-experiential-learning/Teaching-and-Learning-Programmes/el/)**
+<p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/el/">
+<img style="width:49%" align=left src="/images/tlp1.jpg">
+</a></p>
 
-<img src="/images/Spelling Bee (1).jpg" style="width:49%" align=left>
-<br clear="left">
+<p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/mathe/">
+<img style="width:49%" align=left src="/images/tlp2.jpg">
+</a></p>
+<br clear=left>
 
-**[Mathematics](/beacon-experiential-learning/Teaching-and-Learning-Programmes/mathe/)**
+<p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/mtl/">
+<img style="width:49%" align=left src="/images/tlp3.jpg">
+</a></p>
 
-<img src="/images/7 P2 Maths trail - Length station.jpg" style="width:49%" align=left>
-<br clear="left">
+<p><a href="/science/sci/">
+<img style="width:49%" align=left src="/images/tlp4.jpg">
+</a></p>
+<br clear=left>
 
-**[Mother Tongue Language](/beacon-experiential-learning/Teaching-and-Learning-Programmes/mtl/)**
-
-<img src="/images/MTL Collage (1).jpg" style="width:49%" align=left>
-<br clear="left">
-
-**[Science](/science/sci/)**
-
-<img src="/images/Chosen1_ExploringGarden (1).jpg" style="width:49%" align=left>
-<br clear="left">
 
 **[Aesthetics](/beacon-experiential-learning/Teaching-and-Learning-Programmes/aesthetics/)**
 
