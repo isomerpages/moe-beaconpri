@@ -12,14 +12,14 @@ description: ""
 | 1 | 23 Mar | P3 | Commencement of Swimsafer Programme (2 to 4.30 pm) |
 | 2 | 31 Mar | P5  | Commencement of E2K Science (2.15 to 3.45 pm, selected students) |
 | 2 | 31 Mar | P3 - P5 | Commencement of Conversational Chinese and Malay Programme (2.15 to 4.15 pm, selected students) |
-| 3 | 26 - 28 Sep | P6 | Pre-PSLE Study Break |
-| 3 | 29 - 30 Sep | P6 | PSLE Written Papers - EL, FEL, MA and FMA |
-| 3 | 29 - 30 Sep | P4 & P5 | Home-based Learning |
-| 4 | 3 - 4 Oct | P6 | PSLE Written Papers - MTL, FMTL, SC, FSC |
-| 4 | 3 - 4 Oct | P1 - P3 | Home-based Learning |
-| 4 | 5 Oct | P6 | PSLE Written Papers (HTML) |
-| 4 | 6 Oct | All | Children's Day Celebration (dismissal at 1.30 pm) |
-| 4 | 6 Oct | P2 | CCA Showcase (AM) |
+| 3 | 3 Apr | All | International Friendship Day Commemoration |
+| 3 | 7 Apr | All | **Public Holiday** \- Good Friday |
+| 5 | 18 Apr | P5 | EL/MTL Oral Practice (PM) |
+| 5 | 21 Apr | All | Dismissal for Muslim students at 10.30 am |
+| 6 | 24 Apr| All | **School Holiday** \- Hari Raya Puasa |
+| 6 | 27 Apr | P6 | EL Oral Practice (PM) |
+| 6 | 27 Apr | P3 - P6 | No CCA, dismissal at usual school hours |
+| 6 | 28 Apr | P6 | MTL e-Oral Practice (PM) |
 | 4 | 7 Oct | All | _School Holiday: Children's Day_ |
 | 5 | 10 Oct | P3 - P5 | End-of-Year Examination (EYE) - EL Paper 1 and Listening Comprehension |
 | 5 | 11 Oct | P3 - P5 | End-of-Year Examination (EYE) -  MTL Paper 1 and Listening Comprehension |
