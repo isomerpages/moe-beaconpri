@@ -13,6 +13,6 @@ description: ""
 | 1.2 | Ms Emielliana Mira Bte Jafry  <br>Mdm Zhang Li Wen | [emielliana_mira_jafry@moe.edu.sg](mailto:emielliana_mira_jafry@moe.edu.sg)<br>[zhang_li_wen@moe.edu.sg](mailto:zhang_li_wen@moe.edu.sg) |
 | 1.3 | Mr Wong Jun Kai  <br>Miss Saraniya Aburvam D/O N S | [wong_jun_kai@moe.edu.sg](mailto:wong_jun_kai@moe.edu.sg)<br>[saraniya_aburvam_suriamoorthy@moe.edu.sg](mailto:saraniya_aburvam_suriamoorthy@moe.edu.sg) |
 | 1.4 | Mdm Faridah Hajarmustika Binte Rahmat  <br>Mdm Ruth Ng Siew Choon (Mrs Low) | [faridah_hajarmustika@moe.edu.sg](mailto:faridah_hajarmustika@moe.edu.sg)<br>[ng_siew_choon@moe.edu.sg](mailto:ng_siew_choon@moe.edu.sg) |
-| 1.5 | Mrs Tan Li Lian  <br>Ms Zhang Luyao | [tan_li_lian@moe.edu.sg](mailto:tan_li_lian@moe.edu.sg)<br>[zhang_luyao@moe.edu.sg](mailto:zhang_luyao@moe.edu.sg) |
-| 1.6 | Mr Felix Cheong Mun Jee  <br>Mdm Liyana Binte Sa'ad | [felix_cheong@moe.edu.sg](mailto:felix_cheong@moe.edu.sg)<br>[liyana_saad@moe.edu.sg](mailto:liyana_saad@moe.edu.sg) |
+| 1.5 | Mdm Pang Xiao Tian Patricia  <br>Ms Nur Atiqah Binte Ilham | [pang_xiao_tian_patricia@moe.edu.sg](mailto:pang_xiao_tian_patricia@moe.edu.sg)<br>[nur_atiqah_ilham@moe.edu.sg](mailto:nur_atiqah_ilham@moe.edu.sg) |
+| 1.6 | Mdm Lee Li Ying  <br>Mdm Wong Jing Mei Joyce | [lee_li_ying_a@moe.edu.sg](mailto:lee_li\_ying_a@moe.edu.sg)<br>[wong_jing_mei_joyce@moe.edu.sg](mailto:wong_jing_mei_joyce@moe.edu.sg) |
 |  |  |  |
