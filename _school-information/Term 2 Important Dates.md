@@ -3,16 +3,15 @@ title: Term 2 Important Dates
 permalink: /school-information/t4-impt-dates/
 description: ""
 ---
-
-## Term 4 Important Dates
+## Term 2 Important Dates
 
 | Week | Date | Levels | Activity |
 |:---:|---|---|---|
-| 1 | 12 Sep | 6 | P6 students to receive HDP Report |
-| 1 | 14 Sep | All | Temperature-Taking Exercise |
-| 1 | 15 Sep | All | No CCA (PSLE Listening Comprehension Preparation) |
-| 1 | 16 Sep | P1 - P5 | Home-based Learning |
-| 1 | 16 Sep | P6 | PSLE  Listening Comprehension |
+| 1 | 20 Mar | P4 | Commencement of E2K Maths (2.15 to 3.45 pm, selected students) |
+| 1 | 21 Mar | P5 | Commencement of E2K Maths (2.15 to 3.45 pm, selected students) |
+| 1 | 23 Mar | P3 | Commencement of Swimsafer Programme (2 to 4.30 pm) |
+| 2 | 31 Mar | P5  | Commencement of E2K Science (2.15 to 3.45 pm, selected students) |
+| 2 | 31 Mar | P3 - P5 | Commencement of Conversational Chinese and Malay Programme (2.15 to 4.15 pm, selected students) |
 | 3 | 26 - 28 Sep | P6 | Pre-PSLE Study Break |
 | 3 | 29 - 30 Sep | P6 | PSLE Written Papers - EL, FEL, MA and FMA |
 | 3 | 29 - 30 Sep | P4 & P5 | Home-based Learning |
