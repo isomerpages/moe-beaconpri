@@ -5,13 +5,14 @@ description: ""
 ---
 ## School Advisory Committee
 
-<p align="center"> School Advisory Committee (SAC) 2020 </p>
+<p align="center"> School Advisory Committee (SAC) 2023 & 2024 </p>
 
 | **Name** | **Designation in SAC** |
 |:---:|---|
 | Mr Lim Nghee Huat | Chairman |
 | Mr Chia Song Leng | Member |
 | Ms Genevieve Ding Zung Mei | Member |
-| Mr Poh Heo Tat Arthur | Member |
-| Ms Oh Phaik Sim Geraldine | Member |
+| Ms Geraldine Oh Phaik Sim | Member |
+| Mr Maximus Bey Shi Ang | Member |
+| Ms Ernie Herlynn Bte Herman | Member |
 |  |  |
