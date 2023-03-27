@@ -17,5 +17,5 @@ sections:
           url: /school-events/event-gallery/2023/
         - title: OPEN HOUSE
           description: 2023 Open House
-          url: ""
+          url: /school-information/P1-Registration-and-Information/vop/
 ---
