@@ -27,3 +27,15 @@ Please be reminded that you are not to engage directly with other students, es
 For the safety of students and staff, only those with season parking in the school and school buses are allowed to drive into the school in the morning. This arrangement will also take place during slight drizzle as the school is blessed with a sheltered walkway. However, we will allow cars to drive into the school when the rain is heavy.
 
 The drop-off point for students who are ferried to school is at <u>Side Gate 2.</u> The students will alight and enter the school via Side Gate 2. Do turn on the hazard lights when nearing Side Gate 2 to indicate to other drivers your intention to stop and also be prepared and drop off the students swiftly. Please do not get out of the cars to remove bags from the boots or give last-minute instructions, as this will slow down the traffic further. <u>We appeal to you to be considerate to the security guards and staff on duty as they are trying their best to look into the safety of all students.</u>
+
+<img src="/images/Road.png" style="width:85%">
+
+#### 4 \. Travel Declaration
+
+Students are to inform the school if they intend to travel overseas during the school holidays. Parents/guardians whose children/wards are travelling overseas need to declare the travel plans via Parents Gateway Mobile App.
+
+#### 5 \. Emergency Drills
+
+In order to prepare our staff and students for an emergency or crisis, the school will be conducting emergency drills such as fire drill, evacuation drill (External Holding Area) and lock down drill. The school has a School Emergency Structure to manage emergencies to respond, recover and restore the situation back to normalcy.  
+
+**Thank you for partnering us to keep the school safe.**
