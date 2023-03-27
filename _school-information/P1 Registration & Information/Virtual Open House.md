@@ -4,14 +4,23 @@ permalink: /school-information/P1-Registration-and-Information/vop/
 description: ""
 third_nav_title: P1 Registration & Information
 ---
-## Virtual Open House
+## Open House
 
-The primary school years are an important phase of your child’s education. What does a reading lesson, an active-learning class or a visit to the canteen look and feel like to new Primary 1 students? Watch our videos with your child to start conversations about school in a fun way to prepare them for the big day!
+Beacon Primary School is having our Open House on Saturday, 1 July 2023 from 10 am to 12 pm.  Come and embark on an immersive Beacon Experience and learn more about the school’s curriculum, distinctive programmes, and our students’ CCA experiences!   
+  
+ Information for Open House’s registration will be available from 15 May 2023. Do come back to this website page for registration!
+
+<img src="/images/Open House 2023 Header 2.png" style="width:85%">
+
+#### Here is a glimpse of year 2022’s Open House:
+
+<iframe width="660" height="494" src="https://www.youtube.com/embed/rpXNwq8MMMU" title="Open House 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Virtual Tour
 
-**REQUIRE JACKSON'S INPUT VIDEO**
+<iframe width="659" height="493" src="https://www.youtube.com/embed/tAg7pU77E7U" title="Beacon Primary Virtual Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### School Programmes
 
-**REQUIRE JACKSON'S INPUT VIDEO**
+<iframe width="651" height="487" src="https://www.youtube.com/embed/KktiPK-XNE4" title="Beacon Primary School Programmes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
