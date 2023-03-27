@@ -17,6 +17,10 @@ description: ""
 
 #### Other Useful Sites
 
+Primary 1 Guides
+*   [Ministry of Education Parent Kit](https://www.moe.gov.sg/parentkit)
+*   [Schoolbag The Education New Site](https://www.schoolbag.edu.sg/)
+
 Health Promotion Board  
 *   [Colours of the Mind](https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/cotm-one)
 *   [Healthy Eating, Active Living](https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/healthy-eating-active-living)
@@ -29,5 +33,6 @@ Fei Yue
 *   [Fei Yue Community Services](https://www.fycs.org/)
 *   [Family Central - a service by Fei Yue Community Services](https://www.family-central.sg/)
 *   [Parenting Support Services - subscription form](https://forms.office.com/pages/responsepage.aspx?id=enp5W2h6KEyJkTbCaPjr60xXTovmoVVHr8HSB-0UwTtUMk81RjhRSTZSOUhFWEZTVUswQ0pNMlhDQS4u)
-*   [Family Life Education (FLE) Programme Calendar for July to December](/files/FLE%20Calendar%20JulDec.pdf) (Click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=enp5W2h6KEyJkTbCaPjr653z4zpLd_ROo02qNlNriXxUMVRaVE9CUlVCWDcyUDQ5RkpYR1RLSTU4WC4u) to register)
-*   [Upcoming free mental health talk for youths, “It's Okay to Not Be Okay: Navigating Depression and Anxiety in Youths”, taking place on 2 July, 10am-11am. The talk is suitable for youths aged 6 and above. Parents are welcome to attend together with their child(ren)](https://drive.google.com/file/d/1rxFAGqY_TAMO0AAZEtiWIewQX6_1gWhC/view?usp=sharing)
+
+Triple P
+* [Positive Parenting Programme for Parents (2023)](/files/PPP2023.pdf)
