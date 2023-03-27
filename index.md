@@ -15,4 +15,7 @@ sections:
         - title: quick links
           description: Events Gallery
           url: /school-events/event-gallery/2023/
+        - title: OPEN HOUSE
+          description: 2023 Open House
+          url: ""
 ---
