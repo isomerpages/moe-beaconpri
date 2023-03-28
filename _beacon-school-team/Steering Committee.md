@@ -6,7 +6,7 @@ description: ""
 ## Steering Committee
 
 | **Name** | **Designation** |
-|:---:|---|
+|---|---|
 | Ms Pang Wee Mian | Principal |
 | Mdm Lela Shamsuhadi | Vice-Principal (Education) |
 | Mrs Melissa Loh-Chang Suet Mun | Vice-Principal (Education) |
