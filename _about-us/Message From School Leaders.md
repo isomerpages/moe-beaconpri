@@ -7,7 +7,7 @@ description: ""
 
 <img src="/images/SL Photo.jpg" style="width:85%">
 
-<p align="center"><font size=1>Ms Pang Wee Mian (P), Mdm Lela Shamsuhadi (VP), Mr Chen Wei Ngiap (VP), Mrs Melissa Loh-Chang Suet Mun (VP)</p></font>
+<p align="center"><font size=2>Ms Pang Wee Mian (P), Mdm Lela Shamsuhadi (VP), Mr Chen Wei Ngiap (VP), Mrs Melissa Loh-Chang Suet Mun (VP)</font></p>
 
 Thank you for visiting our school website. You will be able to gather information on what we stand for and the learning opportunities we offer to both students and staff in our school. Please visit our page on Event Gallery and enjoy the delightful faces of students and staff in the various activities that we had. We will be holding our physical Open House on 1 July 2023. Do look out for details nearer the date and join us on this day. 
 
