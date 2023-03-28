@@ -10,7 +10,7 @@ sections:
       background: /images/b21e8f050_481.jpg
       key_highlights:
         - title: announcements
-          description: Term 4 Important Dates
+          description: Term 2 Important Dates
           url: /school-information/t4-impt-dates/
         - title: quick links
           description: Events Gallery
