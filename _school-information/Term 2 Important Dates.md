@@ -5,7 +5,7 @@ description: ""
 ---
 ## Term 2 Important Dates
 
-| Week | Date | Levels | Activity |
+| Week | sssDate | Levels | Activity |
 |:---:| --- |:---:|---|
 | 1 | 20 Mar | P4 | Commencement of E2K Maths (2.15 to 3.45 pm, selected students) |
 | 1 | 21 Mar | P5 | Commencement of E2K Maths (2.15 to 3.45 pm, selected students) |
