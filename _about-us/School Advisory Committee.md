@@ -3,9 +3,9 @@ title: School Advisory Committee
 permalink: /about-us/sch-ad-c/
 description: ""
 ---
-## School Advisory Committee
+## School Advisory Committee 2023 & 2024
 
-<p align="center"> School Advisory Committee (SAC) 2023 & 2024 </p>
+
 
 | **Name** | **Designation in SAC** |
 |---|---|
