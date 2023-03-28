@@ -11,7 +11,7 @@ description: ""
 
 <figure>
 <img src="/images/03.jpeg" style="width:90%">
-<figcaption> Parent Volunteers with P1 students at the Auditorium Singapore Zoo.
+<figcaption> Parent Volunteers with P1 students at the Auditorium Singapore Zoo
  </figcaption>
 </figure>
 
