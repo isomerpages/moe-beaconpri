@@ -4,7 +4,8 @@ title: Beacon Primary School
 description: An Isomer site of the Singapore Government
 image: /images/photo1668592516.jpeg
 permalink: /
-notification: OPEN HOUSE 2023 - 1 July, Saturday   |   10 AM - 12 PM
+notification: "OPEN HOUSE 2023 - 1 July, Saturday   |   10 AM - 12
+  PM   |   Information for registration will be available from 15 May 2023. "
 sections:
   - hero:
       background: /images/b21e8f050_481.jpg
