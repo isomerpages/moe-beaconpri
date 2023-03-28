@@ -10,7 +10,7 @@ description: ""
 <br clear="left"><br>
 
 <img src="/images/03.jpeg" style="width:90%">
-<figcaption> Parent</figcaption>
+<figcaption> Parent </figcaption>
 <br clear="left"><br>
 
 <img src="/images/hsp2.jpg" style="width:49%" align=left>
