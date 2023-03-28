@@ -5,7 +5,7 @@ description: ""
 ---
 ## School Hours
 
-Monday to Friday  <br> 7.30 am to 1.30 pm
+Monday to Friday **|** 7.30 am to 1.30 pm
 
 ##### CCA Schedule
 
