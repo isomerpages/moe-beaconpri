@@ -14,7 +14,7 @@ sections:
           url: /school-information/t4-impt-dates/
         - title: quick links
           description: Events Gallery
-          url: /school-events/event-gallery/2023/
+          url: /quick-links/
         - title: OPEN HOUSE
           description: 2023 Open House
           url: /school-information/P1-Registration-and-Information/vop/
