@@ -18,7 +18,6 @@ description: ""
 | Mdm Wen Lili | HOD Mother Tongue Languages |
 | Mr Ang Chung Chung, Alex | HOD Mathematics |
 | Mr Ong Seng Lee, Alex | HOD PHE & CCA |
-| Mr Ong Liangyu, Jemuel | HOD ICT |
 | Mdm Noraini Binte Zainal (Mrs Ra'uf) | HOD English |
 | Mdm Khairyani Bte Kamarolzaman | HOD CCE |
 | Mdm Ma Yanying | School Staff Developer |
