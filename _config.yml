@@ -2,11 +2,11 @@ title: Beacon Primary School
 url: https://beaconpri.moe.edu.sg
 favicon: /images/BCPS_Logo.png
 colors:
-  primary-color: "#0d213b"
-  secondary-color: "#0d213b"
+  primary-color: "#fad030"
+  secondary-color: "#011031"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#3f74b9"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
