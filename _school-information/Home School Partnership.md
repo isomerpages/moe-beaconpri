@@ -9,11 +9,9 @@ description: ""
 <img src="/images/hsp1.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<figure>
 <img src="/images/03.jpeg" style="width:90%">
-<figcaption> ###Parent Volunteers with P1 students at the Auditorium Singapore Zoo
-</figcaption>
-</figure>
+<figcaption> Parent</figcaption>
+<br clear="left"><br>
 
 <img src="/images/hsp2.jpg" style="width:49%" align=left>
 <img src="/images/hsp3.jpg" style="width:49%" align=right>
