@@ -5,4 +5,4 @@ description: ""
 ---
 ## Beacon School Team
 
-<img src="/images/staff photo B.jpg" style="width:90%">
+<img src="/images/staff photo B.jpg" style="width:95%">
