@@ -4,7 +4,7 @@ title: Beacon Primary School
 description: An Isomer site of the Singapore Government
 image: /images/photo1668592516.jpeg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/b21e8f050_481.jpg
