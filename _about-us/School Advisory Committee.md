@@ -8,7 +8,7 @@ description: ""
 <p align="center"> School Advisory Committee (SAC) 2023 & 2024 </p>
 
 | **Name** | **Designation in SAC** |
-|:---:|---|
+|---|---|
 | Mr Lim Nghee Huat | Chairman |
 | Mr Chia Song Leng | Member |
 | Ms Genevieve Ding Zung Mei | Member |
