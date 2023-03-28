@@ -6,7 +6,7 @@ description: ""
 ## Executive and Administrative Staff (EAS)
 
 | **Name** | **Designation** |
-|:---:|---|
+|---|---|
 | Mdm Lim Hwee Kuan | Administration Manager |
 | Mr Tan Choon Hee | Operations Manager |
 | Mdm Noorzana Binte Sa'don | ICT Manager |
