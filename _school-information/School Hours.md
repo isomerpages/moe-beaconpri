@@ -28,7 +28,7 @@ Recess timings are staggered to reduce congestion and to have smaller groups of 
 Students will be dismissed by the last period teachers via specific gates indicated in the table below.
 
 | **Time** | **Side Gate 1** | **Side Gate 2** | **Remarks** |
-|:---:|---|---|---|
+|---|---|---|---|
 | 1.30pm | P1 | P4 | P1 to leave in ascending order – P1.1, P1.2, P1.3 etc.<br><br>From Feb onwards, P1 to be dismissed by MTL teachers if last period is MTL lesson. |
 | 1.33pm | P2 | P5 | P2 to leave in ascending order – P2.1, P2.1, P2.3 etc.<br><br>P2 to be dismissed by MTL teachers if last period is MTL lesson. |
 | 1.36pm | P3 | P6 | Last period teacher will lead the class to the specific gates. |
