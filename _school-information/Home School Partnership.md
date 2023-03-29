@@ -10,7 +10,7 @@ description: ""
 <br clear="left"><br>
 
 <img src="/images/03.jpeg" style="width:90%">
-<br clear="left"> <div align="center"><font size=2>Parent Volunteers with P1 students at the Auditorium, Singapore Zoo</font></div><br>
+<br clear="left"><div align="center"><font size=2>Parent Volunteers with P1 students at the Auditorium, Singapore Zoo</font></div><br>
 
 <img src="/images/hsp2.jpg" style="width:49%" align=left>
 <img src="/images/hsp3.jpg" style="width:49%" align=right>
