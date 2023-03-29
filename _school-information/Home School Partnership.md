@@ -3,8 +3,6 @@ title: Home School Partnership
 permalink: /school-information/hsp/
 description: ""
 ---
-## Home-School Partnership
-
 <img src="/images/hsp.jpg" style="width:49%" align=left>
 <img src="/images/hsp1.jpg" style="width:49%" align=right>
 <br clear="left"><br>
