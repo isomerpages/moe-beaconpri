@@ -15,16 +15,13 @@ Additional sessions may be conducted for students who are representing the schoo
 
 ##### Lunch Schedule for CCA Days
 
-To accommodate staggered lunch timings, lessons will end at 2 pm for P4 to P6 students.<br>
-On Thursdays without CCA, all students will be dismissed at 1.30 pm.
+To accommodate staggered lunch timings, lessons will end at 2 pm for P4 to P6 students. On Thursdays without CCA, all students will be dismissed at 1.30 pm.
 
-#### Recess and Dismissal Arrangements
-
-##### Recess
+#### Recess
 
 Recess timings are staggered to reduce congestion and to have smaller groups of students. The timings for recess will not be the same for each day due to the constraints of the timetable. The schedule is as follows:
 
-<img src="/images/photo1668588358.jpeg" style="width:85%">
+<img src="/images/photo1668588358.jpeg" style="width:100%">
 
 #### Dismissal Arrangements
 
@@ -37,12 +34,13 @@ Students will be dismissed by the last period teachers via specific gates indica
 | 1.36pm | P3 | P6 | Last period teacher will lead the class to the specific gates. |
 |  |  |  |  |
 
-| **Time** | **Side Gate 1** | **Side Gate 2** | **Remarks** |
-|:---:|---|---|---|
-| **LEVEL DISMISSAL TIMING** |  |  | **Siblings going home together**<br><br>Proceed to the hall according to level dismissal timing  to meet siblings.<br><br>Older siblings (P4 to P6) are able to leave via Side Gate 1 if they accompany their younger siblings (P1 to P3) out. |
-| **LEVEL DISMISSAL TIMING** |  |  | **Students going to student-care centres**<br><br>Proceed to the hall according to level dismissal timing. Staff of student-care centres will walk with students to the centres. |
-| **LEVEL DISMISSAL TIMING** |  |  | **Students taking school buses and private vans**<br><br>Proceed to the hall according to level dismissal timing.  Bus attendants will take the students to the buses.<br><br>Gate 2 (for vehicles) will remain closed until the school buses leave about 15 min after dismissal bell. |
-|  |  |  |  |
+
+
+| **Time** | **Remarks** |
+| -------- | -------- |
+| **LEVEL DISMISSAL TIMING** | **Siblings going home together**<br><br>Proceed to the hall according to level dismissal timing  to meet siblings.<br><br>Older siblings (P4 to P6) are able to leave via Side Gate 1 if they accompany their younger siblings (P1 to P3) out. |
+| **LEVEL DISMISSAL TIMING** | **Students going to student-care centres**<br><br>Proceed to the hall according to level dismissal timing. Staff of student-care centres will walk with students to the centres. |
+| **LEVEL DISMISSAL TIMING** | **Students taking school buses and private vans**<br><br>Proceed to the hall according to level dismissal timing.  Bus attendants will take the students to the buses.<br><br>Gate 2 (for vehicles) will remain closed until the school buses leave about 15 min after dismissal bell. |
 
 #### For primary 1 only
 
