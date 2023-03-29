@@ -118,7 +118,7 @@ You may refer to the [MOE Parent Kits](https://www.moe.gov.sg/parentkit) for m
 
 **School Operating Hours**
 
-During [school operating hours](https://beaconpri.moe.edu.sg/information-for-parents/school-hours)**PAGE NOT FOUND**, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts. For queries related to learning activities, students should contact the subject teachers.
+During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts. For queries related to learning activities, students should contact the subject teachers.
 
 **School-based Helpline:** [beaconprisch_ict@moe.edu.sg](mailto:beaconprisch_ict@moe.edu.sg)
 
@@ -130,12 +130,11 @@ For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity
 
 Students can only contact the **SLS Helpdesk** outside the school operating hours.
 
-SLS Helpdesk: 6702 6513
-
-Mondays - Fridays: 4:00 pm - 9:00 pm
-
-Saturdays: 9:00 am - 9:00 pm
-
+|  | 
+| -------- |
+| SLS Helpdesk: 6702 6513     |
+| Mondays - Fridays: 4:00 pm - 9:00 pm     |
+| Saturdays: 9:00 am - 9:00 pm    |
 *Closed on Sundays & Public Holidays
 
 Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, please include your full name, name of school and form class.
