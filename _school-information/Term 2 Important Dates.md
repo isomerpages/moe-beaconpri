@@ -7,9 +7,9 @@ description: ""
 
 | Week | Date | Levels | Activity |
 |:---:| -------- | --- | --- |
-| 1 | 20 Mar    | P4 | Commencement of E2K Maths (2.15 to 3.45 pm, selected students) |
+| 1 | 20 Mar | P4 | Commencement of E2K Maths (2.15 to 3.45 pm, selected students) |
 | 1 | 21 Mar | P5 | Commencement of E2K Maths (2.15 to 3.45 pm, selected students) |
-| 1 | 23 Mar | P3 | Commencement of Swimsafer Programme (2 to 4.30 pm) |
+| 1 |  23 Mar | P3 | Commencement of Swimsafer Programme (2 to 4.30 pm) |
 | 2 | 31 Mar | P5  | Commencement of E2K Science (2.15 to 3.45 pm, selected students) |
 | 2 | 31 Mar | P3 - P5 | Commencement of Conversational Chinese and Malay Programme (2.15 to 4.15 pm, selected students) |
 | 3 | 3 Apr | All | International Friendship Day Commemoration |
