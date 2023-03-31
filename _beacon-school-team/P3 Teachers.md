@@ -3,7 +3,7 @@ title: P3 Teachers
 permalink: /beacon-school-team/p3/
 description: ""
 ---
-## P3 Teachers
+### P3 Teachers
 
 **Asst. Year Yead:** Mdm Ang An Lian
 
