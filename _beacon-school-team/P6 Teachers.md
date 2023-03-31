@@ -3,7 +3,7 @@ title: P6 Teachers
 permalink: /beacon-school-team/p6/
 description: ""
 ---
-## P6 Teachers
+### P6 Teachers
 
 **Year Head:** Mdm Norina Seno
 
