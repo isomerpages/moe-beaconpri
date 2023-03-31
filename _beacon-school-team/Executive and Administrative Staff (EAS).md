@@ -3,7 +3,7 @@ title: Executive and Administrative Staff (EAS)
 permalink: /beacon-school-team/eas/
 description: ""
 ---
-## Executive and Administrative Staff (EAS)
+### Executive and Administrative Staff (EAS)
 
 | **Name** | **Designation** |
 |---|---|
