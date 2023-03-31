@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/b21e8f050_481.jpg
       key_highlights:
         - title: announcements
           description: Term 2 Important Dates
