@@ -3,7 +3,7 @@ title: P4 Teachers
 permalink: /beacon-school-team/p4/
 description: ""
 ---
-## P4 Teachers
+### P4 Teachers
 
 **Ass. Year Head:** Mdm Ang An Lian
 
