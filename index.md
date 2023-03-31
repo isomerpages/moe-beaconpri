@@ -17,5 +17,4 @@ sections:
         - title: OPEN HOUSE
           description: 2023 Open House
           url: /school-information/P1-Registration-and-Information/vop/
-      background: /images/hero01.jpg
 ---
