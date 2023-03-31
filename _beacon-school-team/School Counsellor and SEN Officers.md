@@ -3,7 +3,7 @@ title: School Counsellor and SEN Officers
 permalink: /beacon-school-team/scs/
 description: ""
 ---
-## School Counsellor and SEN Officers
+### School Counsellor and SEN Officers
 
 | **Name** | **Designation** |
 |:---:|---|
