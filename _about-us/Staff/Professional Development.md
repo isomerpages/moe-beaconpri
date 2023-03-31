@@ -4,7 +4,7 @@ permalink: /about-us/Staff/prof-development/
 description: ""
 third_nav_title: Staff
 ---
-## Professional Development
+### Professional Development
 
 **Building Competent and Caring Staff**
 
@@ -14,18 +14,17 @@ Apart from attending workshops and courses to develop themselves professionally,
 
 #### Sharing Sessions
 
-<img src="/images/ss1.jpg" style="width:49%" align=left>
-<img src="/images/ss2.jpg" style="width:49%" align=right>
+<img src="/images/ss1.jpg" style="width:49%" align="left">
+<img src="/images/ss2.jpg" style="width:49%" align="right">
 <br clear="left"><br>
 
 <img src="/images/ss3.jpg" style="width:85%">
 
-<img src="/images/ss4.jpg" style="width:49%" align=left>
-<img src="/images/ss5.jpg" style="width:49%" align=right>
+<img src="/images/ss4.jpg" style="width:49%" align="left">
+<img src="/images/ss5.jpg" style="width:49%" align="right">
 <br clear="left"><br>
 
 #### PD Training
 
 <img src="/images/photo1668514961.jpeg" style="width:85%">
 <img src="/images/photo1668515004.jpeg" style="width:85%">
-
