@@ -3,7 +3,7 @@ title: Steering Committee
 permalink: /beacon-school-team/sc/
 description: ""
 ---
-## Steering Committee
+### Steering Committee
 
 | **Name** | **Designation** |
 |---|---|
