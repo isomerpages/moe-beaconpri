@@ -3,7 +3,7 @@ title: P5 Teachers
 permalink: /beacon-school-team/p5/
 description: ""
 ---
-## P5 Teachers
+### P5 Teachers
 
 **Year Yead:** Mdm Norina Seno
 
