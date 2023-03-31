@@ -3,9 +3,9 @@ title: P2 Teachers
 permalink: /beacon-school-team/p2/
 description: ""
 ---
-## P2 Teachers
+### P2 Teachers
 
-**Year Head:** Mdm Ng Siew Choon  (Mrs Low)
+**Year Head:** Mdm Ng Siew Choon&nbsp; (Mrs Low)
 
 | **Class** | **Form Teachers** | **Email** |
 |:---:|---|---|
