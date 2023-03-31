@@ -3,11 +3,9 @@ title: P1 Teachers
 permalink: /beacon-school-team/p1/
 description: ""
 ---
-```
+### P1 Teachers
 
-```## P1 Teachers
-
-**Year Head:** Mdm Ng Siew Choon  (Mrs Low)
+**Year Head:** Mdm Ng Siew Choon&nbsp; (Mrs Low)
 
 | **Class** | **Form Teachers** | **Email** |
 |:---:|---|---|
