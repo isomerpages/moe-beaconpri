@@ -3,9 +3,9 @@ title: History
 permalink: /about-us/history/
 description: ""
 ---
-## History
+### History
 
-<img src="/images/pic_school1.jpg" style="width:49%" align="left">
+<img src="/images/abt-h01.jpg" style="width:100%" align="left">
 <br clear="left">
 
 Beacon Primary School was the first new primary school set up as part of the FutureSchools@Singapore (FS@SG) programme. This programme was a collaboration between the Ministry of Education (MOE) and Infocomm Development Authority (IDA) to effectively harness the benefits of technology for engaged learning.
