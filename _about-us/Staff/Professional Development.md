@@ -19,11 +19,17 @@ Apart from attending workshops and courses to develop themselves professionally,
 
 <img src="/images/PD/abt-pd03.jpg" style="width:90%">
 
-<img src="/images/PD/abt-pd02.jpg" style="width:49%" align="left">
-<img src="/images/PD/abt-pd02.jpg" style="width:49%" align="left">
+<img src="/images/PD/abt-pd04.jpg" style="width:49%" align="left">
+<img src="/images/PD/abt-pd05.jpg" style="width:49%" align="left">
 <br clear="left"><br>
 
 #### PD Training
 
-<img src="/images/photo1668514961.jpeg" style="width:85%">
-<img src="/images/photo1668515004.jpeg" style="width:85%">
+<img src="/images/PD/abt-pd06.jpg" style="width:49%" align="left">
+<img src="/images/PD/abt-pd07.jpg" style="width:49%" align="left">
+<img src="/images/PD/abt-pd08.jpg" style="width:49%" align="left">
+<img src="/images/PD/abt-pd09.jpg" style="width:49%" align="left">
+<img src="/images/PD/abt-pd10.jpg" style="width:49%" align="left">
+<img src="/images/PD/abt-pd11.jpg" style="width:49%" align="left">
+<img src="/images/PD/abt-pd12.jpg" style="width:49%" align="left">
+<img src="/images/PD/abt-pd13.jpg" style="width:49%" align="left">
