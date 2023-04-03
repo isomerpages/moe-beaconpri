@@ -8,7 +8,7 @@ description: ""
 #### 2022
 
 
-| EVENTS | NAME |
+| EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
 | Lee Kuan Yew All-Round<br>Excellence Award     | Josiah Kee Songyi    |
 | North West Outstanding All <br>Rounder Student Award     | Josiah Kee Songyi    |
