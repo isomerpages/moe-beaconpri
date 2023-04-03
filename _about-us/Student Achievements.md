@@ -10,18 +10,18 @@ description: ""
 
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
-| Lee Kuan Yew All-Round Excellence Award     | Josiah Kee Songyi    |
-| North West Outstanding All Rounder Student Award     | Josiah Kee Songyi    |
-| National Orienteering Race     | Yoshvin Sachhin Raj Sugumaran    |
-|     | Mohammad Aif Dafi Bin Abdullah<br>&gt; 3rd in Primary Schools Category    |
-| National School Games - Badminton     | Teo Huan Min<br>&gt; 1st in Juniors (3rd Tier)   |
+| Lee Kuan Yew All-Round Excellence Award | Josiah Kee Songyi |
+| North West Outstanding All Rounder Student Award | Josiah Kee Songyi |
+| National Orienteering Race | Yoshvin Sachhin Raj Sugumaran |
+|    | Mohammad Aif Dafi Bin Abdullah<br>❯ 3rd in Primary Schools Category    |
+| National School Games - Badminton     | Teo Huan Min<br>❯ 1st in Juniors (3rd Tier)   |
 					
 #### 2021
 
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
-| National School Games - Wushu     | Rain Teo<br>&gt; 1st in the ‘4-Duan Spear’ event<br>&gt; 2nd in the ‘1st International Changquan’   |
-| National School Games - Bowling     | Toh Si Man Maryse<br>&gt; 10th (out of 80 competitors)    |
+| National School Games - Wushu | Rain Teo<br>❯ 1st in the ‘4-Duan Spear’ event<br>&gt; 2nd in the ‘1st International Changquan’   |
+| National School Games - Bowling     | Toh Si Man Maryse<br>❯ 10th (out of 80 competitors)    |
 | Graduation from the Junior Sports Academy (JSA)     | xx    |
 | SORPOR (National Tamil Debate Competition)    | xx    |
 | North West Outstanding All Rounder Student Award    | Liew Hng Kai Jethro    |
@@ -38,42 +38,33 @@ description: ""
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
 | IDE Junior Maker Challenge     | 3rd    | 
-| x     | x    | 
-| x     | x    | 
-| x     | x    | 
-| x     | x    | 
-
-*    - 
-*   Art Piece selected for Singapore Youth Festival 2019 Art Exhibition
-*   Wushu Competition 2019<br>
-1 \.Junior boys 5-Duan Nanquan - 4th<br>
-2 \.4-Duan Spear - 4th<br>
-3 \.4-Duan Broadsword - 5th<br>
-4 \.1st International Changquan - 7th
-
-*   9th National Primary School Photo Competition - Merit Award
-*   SPH Foundation National Primary Schools Tchoukball Championships<br>
-1 \.Senior Girls - 4th<br>
-2 \.Senior Boys - 1st in Bowl Division
-
-*   Gemilang Tari Si Cilik (Traditional Malay Dance Competition)
+| Art Piece selected for Singapore Youth Festival Art Exhibition     |     | 
+| Wushu Competition     | ❯ Junior boys 5-Duan Nanquan - 4th<br>❯ 4-Duan Spear - 4th<br>❯ 4-Duan Broadsword - 5th<br>❯ 1st International Changquan - 7th    | 
+| 9th National Primary School Photo Competition     | Merit Award    | 
+| SPH Foundation National Primary Schools Tchoukball Championships     | ❯ Senior Girls - 4th<br>❯ Senior Boys - 1st in Bowl Division    | 
+| Gemilang Tari Si Cilik (Traditional Malay Dance Competition)     |     | 
 
 #### 2018
 
-*   IDE Junior Maker 2018 Challenge - IDE Junior Maker Design Award
-*   IDE Junior Maker 2018 Challenge – 3rd Place
-*   National School Games Wushu Championship 2018
-*   5-Duan Cudgel Senior Boys – 1st Place
-*   National School Games Wushu Championship 2018
-*   1st International Changquan Senior Boys &amp; 1st International Broadsword Senior Boys – 2nd Place
-*   SYF Arts Presentation 2018
-*   Malay Dance – Distinction Award
-*   SYF Arts Presentation 2018
-*   Chinese Dance – Distinction Award
-*   SYF Arts Presentation 2018
-*   Choir – Certificate of Accomplishment
+| EVENTS | ACHIEVEMENTS |
+| -------- | -------- |
+| IDE Junior Maker Challenge     | ❯ IDE Junior Maker Design Award<br> ❯ 3rd   |  
+| National School Games - Wushu     | ❯ 5-Duan Cudgel Senior Boys – 1st Place<br>❯ 1st International Changquan Senior Boys<br>❯ 1st International Broadsword Senior Boys – 2nd Place   | 
+| SYF Arts Presentation - Malay Dance     | Distinction Award    | 
+| SYF Arts Presentation - Chinese Dance     | Distinction Award    | 
+| SYF Arts Presentation - Choir     | Certificate of Accomplishment    | 
 
 #### 2017
+
+| EVENTS | ACHIEVEMENTS |
+| -------- | -------- |
+| x     | x    | 
+| x     | x    | 
+| x     | x    | 
+| x     | x    | 
+| x     | x    | 
+| x     | x    | 
+
 
 *   Tchoukball - SPH Tchoukball National (West Zone Group) Championships 2017/ 1st Team Placing and 3rd Team Placing
 *   Football -West Zone Primary School Football Championship 2017 / Jnr Divison/ 3rd Team Placing
