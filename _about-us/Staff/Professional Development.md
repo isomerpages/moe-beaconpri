@@ -14,15 +14,13 @@ Apart from attending workshops and courses to develop themselves professionally,
 
 #### Sharing Sessions
 
-<img src="/images/abt-pd01.jpg" style="width:49%" align="left">
-<img src="/images/ss1.jpg" style="width:49%" align="left">
-<img src="/images/ss2.jpg" style="width:49%" align="right">
-<br clear="left"><br>
+<img src="/images/PD/abt-pd01.jpg" style="width:49%" align="left">
+<img src="/images/PD/abt-pd02.jpg" style="width:49%" align="left">
 
-<img src="/images/ss3.jpg" style="width:85%">
+<img src="/images/PD/abt-pd03.jpg" style="width:90%">
 
-<img src="/images/ss4.jpg" style="width:49%" align="left">
-<img src="/images/ss5.jpg" style="width:49%" align="right">
+<img src="/images/PD/abt-pd02.jpg" style="width:49%" align="left">
+<img src="/images/PD/abt-pd02.jpg" style="width:49%" align="left">
 <br clear="left"><br>
 
 #### PD Training
