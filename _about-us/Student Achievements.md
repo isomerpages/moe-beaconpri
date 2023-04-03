@@ -27,14 +27,23 @@ description: ""
 | North West Outstanding All Rounder Student Award    | Liew Hng Kai Jethro    |
 |     | Tan Jia Ying Carrene    |
 
-
 #### 2020
 
-*   NDP 2020 Funpack Artwork Contest
+| EVENTS | ACHIEVEMENTS |
+| -------- | -------- |
+| NDP 2020 Funpack Artwork Contest     | xx    | 
 
 #### 2019
 
-*   IDE Junior Maker 2019 Challenge - 3rd
+| EVENTS | ACHIEVEMENTS |
+| -------- | -------- |
+| IDE Junior Maker Challenge     | 3rd    | 
+| x     | x    | 
+| x     | x    | 
+| x     | x    | 
+| x     | x    | 
+
+*    - 
 *   Art Piece selected for Singapore Youth Festival 2019 Art Exhibition
 *   Wushu Competition 2019<br>
 1 \.Junior boys 5-Duan Nanquan - 4th<br>
