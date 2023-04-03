@@ -7,7 +7,6 @@ description: ""
 
 #### 2022
 
-
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
 | Lee Kuan Yew All-Round Excellence Award | Josiah Kee Songyi |
@@ -58,23 +57,22 @@ description: ""
 
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
-| x     | x    | 
-| x     | x    | 
-| x     | x    | 
-| x     | x    | 
-| x     | x    | 
-| x     | x    | 
+| SPH Tchoukball National (West Zone Group) Championship     | ❯ 1st Team Placing<br>❯ 3rd Team Placing    | 
+| West Zone Primary School Football Championship     | ❯ Jnr Divison - 3rd Team Placing    | 
+| 13th National Primary Schools - Wushu     | ❯ 1st, 4th, 5th, 6th and 8th Individual Placing in various martial art segments    | 
+| Outdoor Adventure Club - National Orienteering Race (Schools)     | 2nd Team Placing     | 
+| Super Outdoor Adventure Race     | 4th Team Placing     | 
+| Arts Media &amp; Design Club - 7th National Primary School Photography Competition    | Merit Award     | 
+| National Photography Festival     | People's Choice Award     | 
+| Visual Arts - SYF Art Exhibition     | 2 Artwork received Certificate of Recognition     | 
+| SYF Showcase - Performed at Esplanade Outdoor Theatre    | Chinese Dance     | 
+| x     | ❯     | 
+| x     | ❯     | 
+| x     | ❯     | 
+| x     | ❯     | 
 
 
-*   Tchoukball - SPH Tchoukball National (West Zone Group) Championships 2017/ 1st Team Placing and 3rd Team Placing
-*   Football -West Zone Primary School Football Championship 2017 / Jnr Divison/ 3rd Team Placing
-*   Wushu - 13th National Primary Schools Wushu Championship 2017 / 1st, 4th, 5th, 6th and 8th Individual Placing in various martial art segments
-*   Outdoor Adventure Club - National Orienteering Race (Schools) 2017 / 2nd Team Placing
-*   Super Outdoor Adventure Race 2017/ 4th Team Placing
-*   Arts Media &amp; Design Club - 7th National Primary School Photography Competition 2017/ Merit Award
-*   National Photography Festival 2017/ People's Choice Award
-*   Visual Arts - Singapore Youth Festival 2017 Art Exhibition – 2 Artwork received Certificate of Recognition
-*   Chinese Dance - Performed at Esplanade Outdoor Theatre/SYF Showcase
+
 *   Co-presented dance performance with Harmony Blossom Youth &amp; Children Art Troupe (China) at Singapore-China Youth Arts Festival
 *   Mathematics - Singapore Math Kangeroo Contest – 2 Gold, 6 Silver and 11 Bronze
 *   Singapore and ASEAN Math Olympiad– 3 Gold, 8 Silver and 22 Bronze
