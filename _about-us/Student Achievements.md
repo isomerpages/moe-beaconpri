@@ -123,42 +123,41 @@ description: ""
 
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
-| National Wushu Competition     | ❯ 10th<br>❯ Samantha Seah – 4 th for International Nanquan<br>❯  Samantha Seah – 5 th for Duan Cudgel<br>❯  Eunice Woo – 5 th for Duan Spear<br>❯ Eunice Woo – 6 th for International Changquan<br>❯ Marcus Soo – 10 th for Duan Broad Sword    | 
+| National Wushu Competition     | ❯ 10th<br>❯ Samantha Seah – 4 th for International Nanquan<br>❯ Samantha Seah – 5 th for Duan Cudgel<br>❯ Eunice Woo – 5 th for Duan Spear<br>❯ Eunice Woo – 6 th for International Changquan<br>❯ Marcus Soo – 10 th for Duan Broad Sword    | 
 | National i-Trail Competition     | First in Primary School Category     | 
 | SYF Arts Presentation - Malay Dance     | Certificate of Distinction     | 
 | SYF Arts Presentation - Chinese Dance     | Certificate of Distinction     | 
 | SYF Arts Presentation - Choir     | Certificate of Distinction    | 
-| x     | ❯     | 
-| x     | ❯     | 
 
 #### 2013
 
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
-| National Wushu Competition     | ❯ 10th<br>❯ Samantha Seah 
-
-*   Frank Cooper Sands Award for Scouts Silver Award (For assessment year 2012)
-*   9th National Primary School Wushu Competition
-*   Eunice Woo – 3rd for Duan Changquan;
-*   Samantha Seah – 3rd for Duan Nanquan;
-*   4th for Group Quanshu
-*   MediaCorp DV Campus 2012 – Video submitted awarded “Best Learning Experience” Award in 2013
-*   National Photography Festival (Primary Schools) – Submission by Tee Yu Ling of Pri 6 awarded Best Picture Award
-*   Inter-Primary Tchoukball Championship 2013 – Both Senior Girls and Senior Boys crowned Champion
-*   Asia Pacific Tchoukball Competition (Pattaya, Thailand) – Pupil Ang Wei Jie selected to represent Singapore in the Under-12 competition.
+| Frank Cooper Sands Award for Scouts     | Silver Award     |  
+| 9th National Primary School Wushu Competition     | ❯ Eunice Woo – 3rd for Duan Changquan<br>❯  Samantha Seah – 3rd for Duan Nanquan<br>❯ 4th for Group Quanshu    | 
+| MediaCorp DV Campus 2012     | Best Learning Experience” Award    | 
+| National Photography Festival (Primary Schools)     | Tee Yu Ling<br>❯ Best Picture Award    | 
+| Inter-Primary Tchoukball Championship     | ❯ Senior Girls - Champion<br>❯ Senior Boys - Champion    | 
+| Asia Pacific Tchoukball Competition (Pattaya, Thailand) - represent Singapore in the Under-12 competition    | Ang Wei Jie     | 
 
 #### 2012
 
-*   “Through a Different Lens” Photography Competition by Dialogue in the Dark – Cheyenne Kor of Class 5/4 won 3rd Prize in the Primary Schools Category
-*   Eye Care Week 2012 Photography Competition by Health Promotion Board - Nurusshifa Bte Mohd Sazali of Class 3/3 won 1st Prize (There were 900 entries in total)
-*   Community in Bloom Competition by NParks – Gold
-*   MOE-HPB CHERISH Award – Silver
-*   Singapore Youth Festival Central Judging Malay Dance Category - Silver
-*   Singapore Youth Festival Central Judging Chinese Dance Category – Silver
-*   Singapore Youth Festival Central Judging Choir – Silver
-*   Frank Cooper Sands Award for Scouts – Silver
-*   National Primary School Photography Competition - 3rd
-*   YMCA Story-Telling Competition – Wee Liang Sheng of Class 5/1 was awarded Silver Honour Roll
+| EVENTS | ACHIEVEMENTS |
+| -------- | -------- |
+|  “Through a Different Lens” Photography Competition by Dialogue in the Dark     | Cheyenne Kor - 3rd     | 
+| Eye Care Week 2012 Photography Competition by Health Promotion Board     | Nurusshifa Bte Mohd Sazali - 1st<br> (out of 900 entries)   | 
+| Community in Bloom Competition by NParks     | Gold    | 
+| MOE-HPB CHERISH Award     | Silver    | 
+| SYF Central Judging - Malay Dance     | Silver     | 
+| SYF Central Judging - Chinese Dance     | Silver     | 
+| SYF Central Judging - Choir     | Silver    | 
+| Frank Cooper Sands Award for Scouts     | Silver    | 
+| National Primary School Photography Competition     | 3rd    | 
+| YMCA Story-Telling Competition     | Wee Liang Sheng<br>❯ Silver Honour Roll    | 
+| x     | ❯     | 
+| x     | ❯     | 
+| x     | ❯     | 
+
 
 #### 2011
 
