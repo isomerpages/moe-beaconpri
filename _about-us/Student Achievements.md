@@ -10,8 +10,8 @@ description: ""
 
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
-| Lee Kuan Yew All-Round<br>Excellence Award     | Josiah Kee Songyi    |
-| North West Outstanding All <br>Rounder Student Award     | Josiah Kee Songyi    |
+| Lee Kuan Yew All-Round Excellence Award     | Josiah Kee Songyi    |
+| North West Outstanding All Rounder Student Award     | Josiah Kee Songyi    |
 | National Orienteering Race 2022     | Yoshvin Sachhin Raj Sugumaran    |
 |     | Mohammad Aif Dafi Bin Abdullah<br>&gt; 3rd in Primary Schools Category    |
 | National School Games - Badminton     | Teo Huan Min<br>&gt; 1st in Juniors (3rd Tier)   |
