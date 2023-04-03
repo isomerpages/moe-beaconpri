@@ -12,38 +12,21 @@ description: ""
 | -------- | -------- |
 | Lee Kuan Yew All-Round Excellence Award     | Josiah Kee Songyi    |
 | North West Outstanding All Rounder Student Award     | Josiah Kee Songyi    |
-| National Orienteering Race 2022     | Yoshvin Sachhin Raj Sugumaran    |
+| National Orienteering Race     | Yoshvin Sachhin Raj Sugumaran    |
 |     | Mohammad Aif Dafi Bin Abdullah<br>&gt; 3rd in Primary Schools Category    |
 | National School Games - Badminton     | Teo Huan Min<br>&gt; 1st in Juniors (3rd Tier)   |
-
-
-*   Lee Kuan Yew All-Round Excellence Award<br>
-1 \. Josiah Kee Songyi
-*   North West Outstanding All Rounder Student Award<br>
- 1 \. Josiah Kee Songyi
-*   National Orienteering Race 2022<br>
-1 \. Yoshvin Sachhin Raj Sugumaran<br>
-2 \. Mohammad Aif Dafi Bin Abdullah<br>
-       -3rd in Primary Schools Category
-*   NSG Badminton<br>
-1 \. Teo Huan Min<br>
-       -1st in Juniors (3rd Tier)
 					
 #### 2021
 
-*    Student Achievements in the National School Games (NSG)&nbsp;<br>
-1 \. Rain Teo - NSG Wushu<br>
--1st in the ‘4-Duan Spear’ event<br>
--2nd in the ‘1st International Changquan’ event
+| EVENTS | ACHIEVEMENTS |
+| -------- | -------- |
+| National School Games - Wushu     | Rain Teo<br>&gt; 1st in the ‘4-Duan Spear’ event<br>&gt; 2nd in the ‘1st International Changquan’   |
+| National School Games - Bowling     | Toh Si Man Maryse<br>&gt; 10th (out of 80 competitors)    |
+| Graduation from the Junior Sports Academy (JSA)     | xx    |
+| SORPOR (National Tamil Debate Competition)    | xx    |
+| North West Outstanding All Rounder Student Award    | Liew Hng Kai Jethro    |
+|     | Tan Jia Ying Carrene    |
 
-*   Toh Si Man Maryse - NSG Bowling<br>
-1 \.10th (out of 80 competitors)
-
-*   Graduation from the Junior Sports Academy (JSA)
-*   SORPOR (National Tamil Debate Competition) 2021&nbsp;
-*   North West Outstanding All Rounder Student Award<br>
-1 \.Liew Hng Kai Jethro<br>
-2 \.Tan Jia Ying Carrene
 
 #### 2020
 
