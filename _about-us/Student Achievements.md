@@ -3,7 +3,7 @@ title: Student Achievements
 permalink: /about-us/std-achievements/
 description: ""
 ---
-## Student Achievements
+### Student Achievements
 
 #### 2022
 
@@ -21,7 +21,7 @@ description: ""
 					
 #### 2021
 
-*    Student Achievements in the National School Games (NSG) <br>
+*    Student Achievements in the National School Games (NSG)&nbsp;<br>
 1 \. Rain Teo - NSG Wushu<br>
 -1st in the ‘4-Duan Spear’ event<br>
 -2nd in the ‘1st International Changquan’ event
@@ -30,7 +30,7 @@ description: ""
 1 \.10th (out of 80 competitors)
 
 *   Graduation from the Junior Sports Academy (JSA)
-*   SORPOR (National Tamil Debate Competition) 2021 
+*   SORPOR (National Tamil Debate Competition) 2021&nbsp;
 *   North West Outstanding All Rounder Student Award<br>
 1 \.Liew Hng Kai Jethro<br>
 2 \.Tan Jia Ying Carrene
@@ -63,7 +63,7 @@ description: ""
 *   National School Games Wushu Championship 2018
 *   5-Duan Cudgel Senior Boys – 1st Place
 *   National School Games Wushu Championship 2018
-*   1st International Changquan Senior Boys & 1st International Broadsword Senior Boys – 2nd Place
+*   1st International Changquan Senior Boys &amp; 1st International Broadsword Senior Boys – 2nd Place
 *   SYF Arts Presentation 2018
 *   Malay Dance – Distinction Award
 *   SYF Arts Presentation 2018
@@ -78,11 +78,11 @@ description: ""
 *   Wushu - 13th National Primary Schools Wushu Championship 2017 / 1st, 4th, 5th, 6th and 8th Individual Placing in various martial art segments
 *   Outdoor Adventure Club - National Orienteering Race (Schools) 2017 / 2nd Team Placing
 *   Super Outdoor Adventure Race 2017/ 4th Team Placing
-*   Arts Media & Design Club - 7th National Primary School Photography Competition 2017/ Merit Award
+*   Arts Media &amp; Design Club - 7th National Primary School Photography Competition 2017/ Merit Award
 *   National Photography Festival 2017/ People's Choice Award
 *   Visual Arts - Singapore Youth Festival 2017 Art Exhibition – 2 Artwork received Certificate of Recognition
 *   Chinese Dance - Performed at Esplanade Outdoor Theatre/SYF Showcase
-*   Co-presented dance performance with Harmony Blossom Youth & Children Art Troupe (China) at Singapore-China Youth Arts Festival
+*   Co-presented dance performance with Harmony Blossom Youth &amp; Children Art Troupe (China) at Singapore-China Youth Arts Festival
 *   Mathematics - Singapore Math Kangeroo Contest – 2 Gold, 6 Silver and 11 Bronze
 *   Singapore and ASEAN Math Olympiad– 3 Gold, 8 Silver and 22 Bronze
 *   Singapore-Asia Pacific Mathematics Olympiad for Primary Schools – 2 Bronze
@@ -112,7 +112,7 @@ description: ""
 *   Chinese Dance - SYF Chinese Dance Arts Presentation/ Certificate of Distinction
 *   Choir - SYF Choir Arts Presentation/ Certificate of Accomplishment
 *   Scouts - Akela Award - 4 Recipients of Mathematics – Math Olympiad
-*   Singapore and Asian School Mathematical Olympiad/ 5 Gold, 8 Silver & 15 Bronze
+*   Singapore and Asian School Mathematical Olympiad/ 5 Gold, 8 Silver &amp; 15 Bronze
 *   Singapore Asia-Pacific Mathematical Olympiad for Primary School/ 1 Bronze
 *   Chinese Language - 1st National Chinese Idiom Competition/ 5th Placing
 
@@ -121,9 +121,9 @@ description: ""
 *   Tchoukball - West Zone and National Tchoukball Championships/ 3rd Placing
 *   National Tchoukball Championships/ 4th Placing
 *   Football - West Zone Primary School Football Championship 2017 / Snr Divison/ 3rd Team Placing
-*   Arts & Media Club - 5th National Photography Competition/ 1 X Merit
+*   Arts &amp; Media Club - 5th National Photography Competition/ 1 X Merit
 *   4th National Photography Festival/ 3 X Special Mention (Group); People's Choice
-*   Visual Art - SYF Art Exhibition 2015 – Category "C" 1 X Certificate of Recognition and Cat ‘A” 1 X Certificate of Recognition & Special Mention,
+*   Visual Art - SYF Art Exhibition 2015 – Category "C" 1 X Certificate of Recognition and Cat ‘A” 1 X Certificate of Recognition &amp; Special Mention,
 *   POSB PAssion KidsWrite/ Illustration Category, 1 X Runner-Up
 *   Doodle 4 Google 'Singapore, the Next 50 Years' Competition/ Cat. 7-9 yrs : 'Next 50, Our First World Singapore' - National Winner
 *   Conserving our corals T-shirt Design Competition/ Youth Category : Top 10
@@ -134,7 +134,7 @@ description: ""
 *   Akela Award - 1 Recipient
 *   Mathematics - Singapore and Asian Schools Maths Olympiads (SASMO)/ P3 - 1 Gold, 4 Silver and 12 Bronze, P4 – 3 Gold, 4 Silver and 8 Bronze, P5 – 3 Silver and 2 Bronze, P6 –5 Gold , 3 Silver and4 Bronze - Singapore Mathematical Olympiad for Primary Schools (SMOPS)/ 3 Bronze Awards
 *   National Math Olympiad of Singapore (NMOS)/ 1 Bronze and 3 Honorable Mentions
-*   Chinese Language - 6th "Global Village" Children & Youths bilingual speech contest – 3rd Place in Final Round th National Wushu Competition
+*   Chinese Language - 6th "Global Village" Children &amp; Youths bilingual speech contest – 3rd Place in Final Round th National Wushu Competition
 
 #### 2014
 
@@ -178,7 +178,7 @@ description: ""
 
 *   Serangoon District Founder's Day – 2nd position for scouting race
 *   Top three prizes in the P3-P4 Sudoku Challenge at Mendaki Math Festival
-*   Singapore & ASEAN Schools Maths Olympiad – 5 Gold, 6 Silver
+*   Singapore &amp; ASEAN Schools Maths Olympiad – 5 Gold, 6 Silver
 *   Average mean for Computer Skills Assessment by University of New South Wales above Singapore mean.
 *   12th National Design Competition by Ngee Ann Polytechnic - Merit Award (Ong Rouyi), Best in Visual Communication Design (Ang Wan Leng) and Overall Bronze Award (Ang Wan Leng) out of 135 entries from 29 schools West Zone Tchoukball Carnival 2011 – came in 3 rd 2011 World Youth Tchoukball Championship - SHRI NESSH MUTHU represented Spore and came in 3 rd "Bukit Timah District Sixer Training Camp held on 23-25 Apr, Rachel Tan of 4'3 was awarded Best Girl Scout"
 *   Friends of Singa – Merit Award
@@ -190,12 +190,12 @@ description: ""
 
 *   Singapore Youth Festival Central Judging: Choir – Bronze
 *   YMCA Mandarin Speaking Awards Lower Pri category (3rd prize)
-*   Singapore Shell Youth Science Festival E Journal Competition - Let's Explore! (3rd prize & Merit prize)
+*   Singapore Shell Youth Science Festival E Journal Competition - Let's Explore! (3rd prize &amp; Merit prize)
 *   JAL 11th World Children's Haiku Contest 2009-2010. Pupil’s entry selected as one of the outstanding entries from Singapore to be sent to the JAL Foundation,Tokyo.
 *   National Chinese On-the-spot Poetry Competition – Merit award
 *   National Chinese Poetry Competition - 2 Gold, 1 Silver and 3 Bronze award
 *   Malay Language National Blogging Competition 2010
-*   Pri School Category (out of 8 submissions, 7 came in top 12, and pupils won the 1st & 3rd prize, 4 consolation prizes, and 1 awarded the Lang Ambassador title)
+*   Pri School Category (out of 8 submissions, 7 came in top 12, and pupils won the 1st &amp; 3rd prize, 4 consolation prizes, and 1 awarded the Lang Ambassador title)
 *   National ML Storytelling Competition – 1 Gold and 1 Silver
 
 #### 2009
