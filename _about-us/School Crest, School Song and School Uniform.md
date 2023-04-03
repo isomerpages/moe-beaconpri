@@ -19,7 +19,7 @@ The design also portrays the journey of a pathfinder charting new directions and
 
 #### Uniform
 
-<img src="/images/15 Prefect EXCO 2021_2022_1.jpg" style="width:85%">
+<img src="/images/abt-sch01.jpg" style="width:80%">
 
 The school uniform consists of two main colours - white and blue. The colour white projects purity and neutrality, and signifies a successful beginning. Blue represents openness and portrays vastness and possibilities. In addition, the thin white stripes on the girls' blue pinafore represent shining rays of light as from a beacon. The pinafore's 5-sided neckline depicts our five desired outcomes for the pupils.
 
