@@ -100,38 +100,42 @@ description: ""
 | National Tchoukball Championships     | 4th     | 
 | West Zone Primary School Football Championship     | Snr Divison - 3rd     | 
 | Arts &amp; Media Club - 5th National Photography Competition     | 1 X Merit     | 
-| x     | ❯     | 
-| x     | ❯     | 
-
-/ 
-*   4th National Photography Festival/ 3 X Special Mention (Group); People's Choice
-*   Visual Art - SYF Art Exhibition 2015 – Category "C" 1 X Certificate of Recognition and Cat ‘A” 1 X Certificate of Recognition &amp; Special Mention,
-*   POSB PAssion KidsWrite/ Illustration Category, 1 X Runner-Up
-*   Doodle 4 Google 'Singapore, the Next 50 Years' Competition/ Cat. 7-9 yrs : 'Next 50, Our First World Singapore' - National Winner
-*   Conserving our corals T-shirt Design Competition/ Youth Category : Top 10
-*   Young Illustrator Awards 2015 SG50 Special Artworks
-*   Doodle Wizard / 2 X Top 12 prize )
-*   Octoburst On-the-Spot Art Competition/ 1 X CAT. B ( MERIT )
-*   Scouts - Frank Cooper Sands Award 2014/ Silver (presented in 2015)
-*   Akela Award - 1 Recipient
-*   Mathematics - Singapore and Asian Schools Maths Olympiads (SASMO)/ P3 - 1 Gold, 4 Silver and 12 Bronze, P4 – 3 Gold, 4 Silver and 8 Bronze, P5 – 3 Silver and 2 Bronze, P6 –5 Gold , 3 Silver and4 Bronze - Singapore Mathematical Olympiad for Primary Schools (SMOPS)/ 3 Bronze Awards
-*   National Math Olympiad of Singapore (NMOS)/ 1 Bronze and 3 Honorable Mentions
-*   Chinese Language - 6th "Global Village" Children &amp; Youths bilingual speech contest – 3rd Place in Final Round th National Wushu Competition
+| 4th National Photography Festival     | 3 X Special Mention (Group); People's Choice     | 
+| SYF - Visual Art     | ❯ Category "C" 1 X Certificate of Recognition<br>❯ Cat ‘A” 1 X Certificate of Recognition<br>❯ Special Mention     | 
+| POSB PAssion KidsWrite/ Illustration Category     |  1 X Runner-Up    | 
+| Doodle 4 Google 'Singapore, the Next 50 Years' Competition/ Cat. 7-9 yrs : 'Next 50, Our First World Singapore'      | National Winner    | 
+| Conserving our corals T-shirt Design Competition     | Youth Category : Top 10    | 
+| Young Illustrator Awards - SG50 Special Artworks     |      | 
+| Doodle Wizard     | 2 X Top 12 prize    | 
+|  Octoburst On-the-Spot Art Competition/ 1 X CAT. B     | Merit    | 
+| Scouts - Frank Cooper Sands Award     | Silver    | 
+| Scouts - Akela Award     | 1 Recipient    | 
+| Singapore and Asian Schools Maths Olympiads (SASMO)     | P3<br>❯ 1 Gold<br>❯ 4 Silver<br>❯ 12 Bronze    | 
+|     | P4<br>❯ 3 Gold<br>❯ 4 Silver<br>❯ 8 Bronze       |
+|     | P5<br>❯ 3 Silver<br>❯ 2 Bronze       |
+|     | P6<br>❯ 5 Gold<br>❯ 3 Silver<br>❯ 4 Bronze       |
+| Singapore Mathematical Olympiad for Primary Schools (SMOPS)     | 3 Bronze    | 
+| National Math Olympiad of Singapore     | ❯ 1 Bronze<br>❯ 3 Honorable Mentions    | 
+| National Wushu Competition     | 3rd     | 
+| Chinese Language - 6th "Global Village" Children &amp; Youths bilingual speech contest     | 3rd     | 
 
 #### 2014
 
-*   10th National Wushu Competition
-*   Samantha Seah – 4 th for International Nanquan
-*   Samantha Seah – 5 th for Duan Cudgel
-*   Eunice Woo – 5 th for Duan Spear
-*   Eunice Woo – 6 th for International Changquan
-*   Marcus Soo – 10 th for Duan Broad Sword
-*   National i-Trail Competition – First in Primary School Category
-*   Singapore Youth Festival Arts Presentation 2014 – Choir awarded Certificate of Distinction
-*   Singapore Youth Festival Arts Presentation 2014 – Malay Dance awarded Certificate of Distinction
-*   Singapore Youth Festival Arts Presentation 2014 – Chinese Dance awarded Certificate of Distinction
+| EVENTS | ACHIEVEMENTS |
+| -------- | -------- |
+| National Wushu Competition     | ❯ 10th<br>❯ Samantha Seah – 4 th for International Nanquan<br>❯  Samantha Seah – 5 th for Duan Cudgel<br>❯  Eunice Woo – 5 th for Duan Spear<br>❯ Eunice Woo – 6 th for International Changquan<br>❯ Marcus Soo – 10 th for Duan Broad Sword    | 
+| National i-Trail Competition     | First in Primary School Category     | 
+| SYF Arts Presentation - Malay Dance     | Certificate of Distinction     | 
+| SYF Arts Presentation - Chinese Dance     | Certificate of Distinction     | 
+| SYF Arts Presentation - Choir     | Certificate of Distinction    | 
+| x     | ❯     | 
+| x     | ❯     | 
 
 #### 2013
+
+| EVENTS | ACHIEVEMENTS |
+| -------- | -------- |
+| National Wushu Competition     | ❯ 10th<br>❯ Samantha Seah 
 
 *   Frank Cooper Sands Award for Scouts Silver Award (For assessment year 2012)
 *   9th National Primary School Wushu Competition
