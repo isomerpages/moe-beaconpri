@@ -14,6 +14,7 @@ Apart from attending workshops and courses to develop themselves professionally,
 
 #### Sharing Sessions
 
+<img src="/images/abt-pd01.jpg" style="width:49%" align="left">
 <img src="/images/ss1.jpg" style="width:49%" align="left">
 <img src="/images/ss2.jpg" style="width:49%" align="right">
 <br clear="left"><br>
