@@ -3,7 +3,7 @@ title: Mission and Vision
 permalink: /about-us/mnv/
 description: ""
 ---
-## Mission and Vision
+### Mission and Vision
 
 **Mission**<br>
 Our Mission is to nurture and inspire our learners to the best of their potential through innovative approaches in an engaging environment.
