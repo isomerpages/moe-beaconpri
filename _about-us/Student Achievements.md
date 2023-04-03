@@ -19,7 +19,7 @@ description: ""
 
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
-| National School Games - Wushu | Rain Teo<br>❯ 1st in the ‘4-Duan Spear’ event<br>&gt; 2nd in the ‘1st International Changquan’   |
+| National School Games - Wushu | Rain Teo<br>❯ 1st in the ‘4-Duan Spear’<br>❯ 2nd in the ‘1st International Changquan’   |
 | National School Games - Bowling     | Toh Si Man Maryse<br>❯ 10th (out of 80 competitors)    |
 | Graduation from the Junior Sports Academy (JSA)     | xx    |
 | SORPOR (National Tamil Debate Competition)    | xx    |
@@ -49,7 +49,7 @@ description: ""
 | -------- | -------- |
 | IDE Junior Maker Challenge     | ❯ IDE Junior Maker Design Award<br> ❯ 3rd   |  
 | National School Games - Wushu     | ❯ 5-Duan Cudgel Senior Boys – 1st Place<br>❯ 1st International Changquan Senior Boys<br>❯ 1st International Broadsword Senior Boys – 2nd Place   | 
-| SYF Arts Presentation - Malay Dance     | Distinction Award    | 
+| SYF Arts Presentation - Malay Dance     | Distinction Award   | 
 | SYF Arts Presentation - Chinese Dance     | Distinction Award    | 
 | SYF Arts Presentation - Choir     | Certificate of Accomplishment    | 
 
@@ -59,60 +59,51 @@ description: ""
 | -------- | -------- |
 | SPH Tchoukball National (West Zone Group) Championship     | ❯ 1st Team Placing<br>❯ 3rd Team Placing    | 
 | West Zone Primary School Football Championship     | ❯ Jnr Divison - 3rd Team Placing    | 
-| 13th National Primary Schools - Wushu     | ❯ 1st, 4th, 5th, 6th and 8th Individual Placing in various martial art segments    | 
+| 13th National Primary Schools - Wushu     | ❯ 1st, 4th, 5th, 6th &amp; 8th Individual Placing in various martial art segments    | 
 | Outdoor Adventure Club - National Orienteering Race (Schools)     | 2nd Team Placing     | 
 | Super Outdoor Adventure Race     | 4th Team Placing     | 
 | Arts Media &amp; Design Club - 7th National Primary School Photography Competition    | Merit Award     | 
 | National Photography Festival     | People's Choice Award     | 
 | Visual Arts - SYF Art Exhibition     | 2 Artwork received Certificate of Recognition     | 
 | SYF Showcase - Performed at Esplanade Outdoor Theatre    | Chinese Dance     | 
-| x     | ❯     | 
-| x     | ❯     | 
-| x     | ❯     | 
-| x     | ❯     | 
-
-
-
-*   Co-presented dance performance with Harmony Blossom Youth &amp; Children Art Troupe (China) at Singapore-China Youth Arts Festival
-*   Mathematics - Singapore Math Kangeroo Contest – 2 Gold, 6 Silver and 11 Bronze
-*   Singapore and ASEAN Math Olympiad– 3 Gold, 8 Silver and 22 Bronze
-*   Singapore-Asia Pacific Mathematics Olympiad for Primary Schools – 2 Bronze
-*   Chinese Language - 2017 National on-the-spot Chinese Story Writing competition/ Merit Award
-*   The 23rd National Primary Schools on-the-spot Chinese Creative Essay Writing Competition/ Excellent Prize Award
+| Co-presented dance performance with Harmony Blossom Youth &amp; Children Art Troupe (China) at Singapore-China Youth Arts Festival     |      | 
+| Singapore Math Kangeroo Contest - Mathematics     | ❯ 2 Gold<br>❯ 6 Silver<br>❯ 11 Bronze     | 
+| Singapore and ASEAN Math Olympiad     | ❯ 3 Gold<br>❯ 8 Silver<br>❯ 22 Bronze    | 
+| Singapore-Asia Pacific Mathematics Olympiad     | 2 Bronze     | 
+| National on-the-spot Chinese Story Writing competition     | Merit Award     | 
+| The 23rd National Primary Schools on-the-spot Chinese Creative Essay Writing Competition     | Excellent Prize Award     | 
 
 #### 2016
 
-*   Wushu - 12th National Primary Schools Wushu Championship 2016 /
-*   5-Duan Sword (5段剑) - 5th in position
-*   4-Duan Spear (4段枪) - 5th in position
-*   5-Duan Cudgel (5段棍) - 5th in position
-*   5-Duan Broadsword (5段刀) - 8th in position
-*   4-Duan Sword (4段剑) - 6th in position
-*   5-Duan Nanquan (5段南拳) - 1st in position
-*   International Changquan (竞赛长拳) - 7th in position
-*   4-Duan Cudgel (4段棍) - 7th in position
-*   5-Duan Broadsword (5段刀) - 9th in position
-*   3-Duan Nanquan (3段南拳) - 8th in position
-*   Robotics and Innovation Club
-*   First Lego League 2015/2016 - Strategy and Innovation Award/ 1st Runner Up
-*   Visual Arts - Young Illustrator Awards 2015/ DOODLE WIZARD ( TOP 6 )
-*   UNIQLO Kids T-shirt Design Competition/ 2nd Prize
-*   HMPS-UNAS Visual Arts Drawing Competition 2016/ 1st Prize
-*   Octoburst! Drawing Competition/ 1st Prize
-*   Malay Dance - SYF Malay Dance Arts Presentation/ Certificate of Distinction
-*   Chinese Dance - SYF Chinese Dance Arts Presentation/ Certificate of Distinction
-*   Choir - SYF Choir Arts Presentation/ Certificate of Accomplishment
-*   Scouts - Akela Award - 4 Recipients of Mathematics – Math Olympiad
-*   Singapore and Asian School Mathematical Olympiad/ 5 Gold, 8 Silver &amp; 15 Bronze
-*   Singapore Asia-Pacific Mathematical Olympiad for Primary School/ 1 Bronze
-*   Chinese Language - 1st National Chinese Idiom Competition/ 5th Placing
+| EVENTS | ACHIEVEMENTS |
+| -------- | -------- |
+| National School Games - Wushu     | ❯ 5-Duan Sword (5段剑) - 5th<br>❯ 4-Duan Spear (4段枪) - 5th<br>❯  5-Duan Cudgel (5段棍) - 5th<br>❯ 5-Duan Broadsword (5段刀) - 8th<br>❯  4-Duan Sword (4段剑) - 6th<br>❯ 5-Duan Nanquan (5段南拳) - 1st<br>❯ International Changquan (竞赛长拳) - 7th<br>❯ 4-Duan Cudgel (4段棍) - 7th<br>❯ 5-Duan Broadsword (5段刀) - 9th<br>❯ 3-Duan Nanquan (3段南拳) - 8th    | 
+| Robotics and Innovation Club - Strategy and Innovation Award    | 1st Runner Up    | 
+| Visual Arts - Young Illustrator Awards     |  Doodle Wizard ( TOP 6 )     | 
+| UNIQLO Kids T-shirt Design Competition     | 2nd Prize     | 
+| HMPS-UNAS Visual Arts Drawing Competition     | 1st Prize   | 
+| Octoburst! Drawing Competition     | 1st Prize     | 
+| SYF Arts Presentation - Malay Dance     | Certificate of Distinction     | 
+| SYF Arts Presentation - Chinese Dance     | Certificate of Distinction     | 
+| SYF Arts Presentation - Choir     | Certificate of Accomplishment     | 
+| Scouts     | Akela Award     | 
+| Math Olympiad     | 4 Recipients of Mathematics     | 
+| Singapore and Asian School Mathematical Olympiad     | ❯ 5 Gold<br>❯  Silver<br>❯  15 Bronze     | 
+| Singapore Asia-Pacific Mathematical Olympiad for Primary School     | 1 Bronze    | 
+| Chinese Language - 1st National Chinese Idiom Competition     | 5th     | 
 
 #### 2015
 
-*   Tchoukball - West Zone and National Tchoukball Championships/ 3rd Placing
-*   National Tchoukball Championships/ 4th Placing
-*   Football - West Zone Primary School Football Championship 2017 / Snr Divison/ 3rd Team Placing
-*   Arts &amp; Media Club - 5th National Photography Competition/ 1 X Merit
+| EVENTS | ACHIEVEMENTS |
+| -------- | -------- |
+| West Zone and National Championships | 3rd |
+| National Tchoukball Championships     | 4th     | 
+| West Zone Primary School Football Championship     | Snr Divison - 3rd     | 
+| Arts &amp; Media Club - 5th National Photography Competition     | 1 X Merit     | 
+| x     | ❯     | 
+| x     | ❯     | 
+
+/ 
 *   4th National Photography Festival/ 3 X Special Mention (Group); People's Choice
 *   Visual Art - SYF Art Exhibition 2015 – Category "C" 1 X Certificate of Recognition and Cat ‘A” 1 X Certificate of Recognition &amp; Special Mention,
 *   POSB PAssion KidsWrite/ Illustration Category, 1 X Runner-Up
