@@ -26,7 +26,7 @@ As students learn their Mother Tongue Language through the curriculum, there is 
 
 Students’ learning in MTL lessons are enriched with various digital resources via online platforms. With the online resources, students extend their learning beyond the classroom. Students are also able to revisit the learning content at their own pace.<br>
 
-<img src="/images/BEL/bel-tl03b.jpg" style="width:80%">
+<img src="/images/BEL/bel-tl03b.jpg" style="width:60%">
 
 The Beacon MTL curriculum integrates multiple learning experiences. Through these customised programmes, students gain knowledge of their Mother Tongue Languages, share cross-cultural understanding, and acquire practical communication and collaborative skills.
 
