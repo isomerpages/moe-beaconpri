@@ -2,11 +2,11 @@
 title: Programme for Active Learning
 permalink: /beacon-experiential-learning/Teaching-and-Learning-Programmes/al/
 description: ""
-third_nav_title: Teaching & Learning Programmes
+third_nav_title: Teaching &amp; Learning Programmes
 ---
-## Programme for Active Learning
+### Programme for Active Learning
 
-The Programme for Active Learning (PAL) is an integral part of the curriculum for Primary 1 and 2 students. PAL offers learning experiences that are active, hands-on, and meaningful. PAL consists of modules with activities in four domains – Sports & Games, Outdoor Education, Performing Arts, and Visual Arts. These activities, which are carried out in school within the curriculum time, are designed to facilitate the development of social and emotional competencies.
+The Programme for Active Learning (PAL) is an integral part of the curriculum for Primary 1 and 2 students. PAL offers learning experiences that are active, hands-on, and meaningful. PAL consists of modules with activities in four domains – Sports &amp; Games, Outdoor Education, Performing Arts, and Visual Arts. These activities, which are carried out in school within the curriculum time, are designed to facilitate the development of social and emotional competencies.
 
 #### Sports and Games
 
@@ -28,8 +28,8 @@ Through the Performing Arts module, students are exposed to a variety of drama, 
 
 Through well-known fairy tales like “The Little Red Riding Hood”, students take on the perspectives of others and learn to appreciate diversity using drama strategies such as ‘Hot Seat’ and ‘Freeze Frame’.
 
-<img src="/images/Picture1.png" style="width:31%" align=left>
-<img src="/images/Picture2.png" style="width:49%" align=right>
+<img src="/images/Picture1.png" style="width:31%" align="left">
+<img src="/images/Picture2.png" style="width:49%" align="right">
 <br clear="left">
 
 ##### Music  
@@ -49,4 +49,3 @@ During dance, students get to showcase their creativity when incorporating cultu
 Through a series of art stories told through drawings, shapes and colours, students get to learn how to recognise and label emotions so as to enable them to know their friends better and respond in appropriate ways when listening to different viewpoints.
 
 <img src="/images/photo1668522379.jpeg" style="width:85%">
-
