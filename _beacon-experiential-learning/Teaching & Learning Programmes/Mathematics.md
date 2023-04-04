@@ -16,15 +16,16 @@ To achieve the objectives, teachers strive to make mathematics&nbsp;_simple_,&nb
 
 **SimpleMaths**: Teachers adopt varied teaching approaches to simplify the learning of mathematics. Through the Concrete-Pictorial-Abstract approach, students acquire mathematical concepts and skills. As problem-solving is central to mathematics learning, students learn Polya’s 4 essential steps – Understand, Plan, Solve, and Check – to solving problems. In addition, ICT is meaningfully infused into lessons for students to explore, collaborate and deepen their learning.
 
-<img src="/images/photo1668520469.jpeg" style="width:85%">
+<img src="/images/BEL/bel-tl02a.jpg" style="width:90%">
+<img src="/images/BEL/bel-tl02b.jpg" style="width:90%">
 
 **ThoughtfulMaths**: Teachers nurture a classroom culture that allows students to develop thinking, reasoning, and metacognitive skills. Through journaling and presentations, students are given the opportunities to communicate, reason and reflect on their mathematical thinking.
 
-<img src="/images/photo1668520522.jpeg" style="width:85%">
+<img src="/images/BEL/bel-tl02c.jpg" style="width:90%">
 
 **FunMaths**: Students learn better through play. The use of physical and digital manipulatives allows the students to actively participate in the learning process and allow them to discover and understand mathematical concepts. Games and stories are embedded into lessons to engage the students. Primary 1 and 2 students also embark on learning trails to discover and apply mathematical skills and concepts in a real-world context.
 
-<img src="/images/photo1668520565.jpeg" style="width:85%">
+<img src="/images/BEL/bel-tl02d.jpg" style="width:100%">
 
 #### Excellence 2000 (E2K) Mathematics Programme
 
