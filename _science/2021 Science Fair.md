@@ -14,7 +14,7 @@ Congratulations to the top 5 winners of the Virtual Science Fair 2021 for each c
 <p align="center"> PRIMARY 3 TOP 5 WINNERS</p>
 
 | NAME | CLASS | TITLE |
-|:---:|---|---|
+|---|---|---|
 | Zikry Mikhail Bin Indrazahri  <br>**- Top Winner -** | 3.6 | [Separating Salt And Pepper With Static Electricity](https://youtu.be/-AkgMWN1h44) |
 | David Arthur Bruce Chrislynn | 3.4 | [Egg In Vinegar](https://youtu.be/_IdYB_IZaSo) |
 | Teo Yu Xiang Javion | 3.4 | [Chemical Volcano](https://youtu.be/K8tPtnrU4qU) |
@@ -25,8 +25,8 @@ Congratulations to the top 5 winners of the Virtual Science Fair 2021 for each c
 <p align="center"> PRIMARY 4 TOP 5 WINNERS</p>
 
 | NAME | CLASS | TITLE |
-|:---:|---|---|
-| Ng Zhi Yong Matthew **- Top Winner -** | 4.5 | [D.I.Y Keychain](https://youtu.be/2p-bwsot92U) |
+|---|---|---|
+| Ng Zhi Yong Matthew <br>**- Top Winner -** | 4.5 | [D.I.Y Keychain](https://youtu.be/2p-bwsot92U) |
 | Utkarsh Agrawal | 4.1 | [Portable Air Cooler](https://youtu.be/EeGtofcKrDY) |
 | Aki Toh Xing Yi | 4.4 | [Water Rocket](https://youtu.be/ow4Z8vvgUYA) |
 | Eason Lim Yee Suan | 4.4 | [Magnetic Train](https://youtu.be/dxgF4T8jkKc) |
@@ -36,7 +36,7 @@ Congratulations to the top 5 winners of the Virtual Science Fair 2021 for each c
 <p align="center">PRIMARY 5 &amp; 6 TOP 5 WINNERS</p>
 
 | NAME | CLASS | TITLE |
-|:---:|---|---|
+|---|---|---|
 | Shetty Vihaan Harish  <br>**- Top Winner -** | 5.5 | [Wonders Of Science: D.I.Y Fire Extinguisher](https://youtu.be/FSnFkk8wqLE) |
 | Elango Mahisha | 5.4 | [Rubber Band Guitar](https://youtu.be/0ooask8HpMs) |
 | Sriram Santhanam | 5.4 | [Buoyancy](https://youtu.be/_BffK-4qCB0) |
@@ -47,7 +47,7 @@ Congratulations to the top 5 winners of the Virtual Science Fair 2021 for each c
 <p align="center">PRIMARY SIBLING TEAM TOP 5 WINNERS</p>
 
 | NAME | CLASS | TITLE |
-|:---:|---|---|
+|---|---|---|
 | Nah Tian Yu &amp; Nah Tian Qing  <br>**- Top Winner -** | 4.4 &amp; 3.5 | [What Happens When A Solid, Liquid Or Gas Gets Heated?](https://youtu.be/7aD0tpzkXOs) |
 | Josiah Kee Songyi &amp; Jahn Kee Wenxuan | 6.6 &amp; 3.6 | [Wireless Communication](https://youtu.be/DBHRJFBGZ28) |
 | Ilangovan Akshay &amp; Ilangovan Abishay | 5.3 &amp; 5.3 | [Acids And Bases](https://youtu.be/1e6IleMxstQ) |
@@ -58,6 +58,6 @@ Congratulations to the top 5 winners of the Virtual Science Fair 2021 for each c
 <p align="center">PRIMARY GREEN AWARD</p>
 
 | NAME | CLASS | TITLE |
-|:---:|---|---|
+|---|---|---|
 | Thamilvanan Sahaanashri | 6.6 | [Global Warming](https://youtu.be/4GzDM-zLZkg) |
 |  |  |  |
