@@ -4,7 +4,7 @@ permalink: /beacon-experiential-learning/Special-Programmes/b121/
 description: ""
 third_nav_title: Special Programmes
 ---
-## B121 Computer Ownership Programme
+### B121 Computer Ownership Programme
 
 Recognising the potential of how technology can bring about a richer teaching and learning experience,&nbsp; the&nbsp;Beacon One-to-One (B121) Computer Ownership aims to equip every student with a&nbsp;**Personal Learning Device (PLD)**&nbsp;to empower him/her to learn in a meaningful and engaging way. The programme compliments the blended learning experiences the students gained from the technology-enriched curriculum introduced since Primary 1. The PLD enables students to carry out self-directed learning within and beyond the classroom.
 
@@ -16,17 +16,19 @@ This will help to extend learning beyond the classroom and allows students to ac
 
 As students will be mostly using online tools, PLDs do not need to be too "powerful". When purchasing a device, prioritise the size and weight of the device.
 
-**Form Factor:**&nbsp;Clam-shell or 360 flip models are recommended<br>
-**Operating System:**&nbsp;Windows, Mac OS, ChromeOS<br>
-**Weight:**&nbsp;Less than 1.4 kg<br>
-**Screen Size:**&nbsp;10" to 13"<br>
-**Network:**&nbsp;802.x ac (5GHz)<br>
-**Battery Life:**&nbsp;More than 2 h of wireless productivity<br>
-**CPU:**&nbsp;Intel Celeron or higher<br>
-**Wi-fi:**&nbsp;802.1x ac (5GHz)<br>
-**RAM:**&nbsp;4 GB or higher<br>
-**Graphics:**&nbsp;On-board or better<br>
-**Hard Disk Space:**&nbsp;32 GB or more
+| REQUIREMENT | SPECS |
+| -------- | -------- |
+| Form Factor     | Clam-shell or 360 flip models are recommended     |
+| Operating System     | Windows, Mac OS, ChromeOS     |
+| Weight     | Less than 1.4 kg     |
+| Screen Size     | 10" to 13"     |
+| Network     | 802.x ac (5GHz)     |
+| Battery Life     | More than 2 h of wireless productivity     |
+| CPU     | Intel Celeron or higher     |
+| Wi-fi     | 802.1x ac (5GHz)     |
+| RAM     | 4 GB or higher     |
+| Graphics     | On-board or better     |
+| Hard Disk Space     | 32 GB or more     |
 
 #### Device Setup
 
