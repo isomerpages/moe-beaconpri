@@ -12,7 +12,7 @@ description: ""
 | Lee Kuan Yew All-Round Excellence Award | Josiah Kee Songyi |
 | North West Outstanding All Rounder Student Award | Josiah Kee Songyi |
 | National Orienteering Race | Yoshvin Sachhin Raj Sugumaran |
-|    | Mohammad Aif Dafi Bin Abdullah<br>❯ 3rd in Primary Schools Category    |
+|    | Mohammad Aif Dafi Bin Abdullah<br>❯ 3rd<br>(Primary Schools Category)    |
 | National School Games - Badminton     | Teo Huan Min<br>❯ 1st in Juniors (3rd Tier)   |
 					
 #### 2021
@@ -20,7 +20,7 @@ description: ""
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
 | National School Games - Wushu | Rain Teo<br>❯ 1st in the ‘4-Duan Spear’<br>❯ 2nd in the ‘1st International Changquan’   |
-| National School Games - Bowling     | Toh Si Man Maryse<br>❯ 10th (out of 80 competitors)    |
+| National School Games - Bowling     | Toh Si Man Maryse<br>❯ 10th<br>(out of 80 competitors)    |
 | Graduation from the Junior Sports Academy (JSA)     | xx    |
 | SORPOR (National Tamil Debate Competition)    | xx    |
 | North West Outstanding All Rounder Student Award    | Liew Hng Kai Jethro    |
@@ -57,11 +57,11 @@ description: ""
 
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
-| SPH Tchoukball National (West Zone Group) Championship     | ❯ 1st Team Placing<br>❯ 3rd Team Placing    | 
-| West Zone Primary School Football Championship     | ❯ Jnr Divison - 3rd Team Placing    | 
+| SPH Tchoukball National (West Zone Group) Championship     | ❯ 1st<br>❯ 3rd    | 
+| West Zone Primary School Football Championship     | Junior Divison<br>❯ 3rd    | 
 | 13th National Primary Schools - Wushu     | 1st, 4th, 5th, 6th &amp; 8th Individual Placing in various martial art segments    | 
-| Outdoor Adventure Club - National Orienteering Race (Schools)     | 2nd Team Placing     | 
-| Super Outdoor Adventure Race     | 4th Team Placing     | 
+| Outdoor Adventure Club - National Orienteering Race (Schools)     | 2nd     | 
+| Super Outdoor Adventure Race     | 4th     | 
 | Arts Media &amp; Design Club - 7th National Primary School Photography Competition    | Merit Award     | 
 | National Photography Festival     | People's Choice Award     | 
 | Visual Arts - SYF Art Exhibition     | 2 Artwork received Certificate of Recognition     | 
@@ -98,7 +98,7 @@ description: ""
 | -------- | -------- |
 | West Zone and National Championships | 3rd |
 | National Tchoukball Championships     | 4th     | 
-| West Zone Primary School Football Championship     | Snr Divison - 3rd     | 
+| West Zone Primary School Football Championship     | Senior Divison<br>❯ 3rd     | 
 | Arts &amp; Media Club - 5th National Photography Competition     | 1 X Merit     | 
 | 4th National Photography Festival     | 3 X Special Mention (Group); People's Choice     | 
 | SYF - Visual Art     | ❯ Category "C" 1 X Certificate of Recognition<br>❯ Cat ‘A” 1 X Certificate of Recognition<br>❯ Special Mention     | 
@@ -137,15 +137,15 @@ description: ""
 | 9th National Primary School Wushu Competition     | ❯ Eunice Woo – 3rd for Duan Changquan<br>❯ Samantha Seah – 3rd for Duan Nanquan<br>❯ 4th for Group Quanshu    | 
 | MediaCorp DV Campus 2012     | Best Learning Experience” Award    | 
 | National Photography Festival (Primary Schools)     | Tee Yu Ling<br>❯ Best Picture Award    | 
-| Inter-Primary Tchoukball Championship     | ❯ Senior Girls - Champion<br>❯ Senior Boys - Champion    | 
+| Inter-Primary Tchoukball Championship     | Senior Girls<br>❯ Champion<br>Senior Boys<br>❯ Champion    | 
 | Asia Pacific Tchoukball Competition (Pattaya, Thailand) - represent Singapore in the Under-12 competition    | Ang Wei Jie     | 
 
 #### 2012
 
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
-|  “Through a Different Lens” Photography Competition by Dialogue in the Dark     | Cheyenne Kor - 3rd     | 
-| Eye Care Week 2012 Photography Competition by Health Promotion Board     | Nurusshifa Bte Mohd Sazali - 1st<br> (out of 900 entries)   | 
+|  “Through a Different Lens” Photography Competition by Dialogue in the Dark     | Cheyenne Kor<br>❯ 3rd     | 
+| Eye Care Week 2012 Photography Competition by Health Promotion Board     | Nurusshifa Bte Mohd Sazali<br>❯ 1st<br> (out of 900 entries)   | 
 | Community in Bloom Competition by NParks     | Gold    | 
 | MOE-HPB CHERISH Award     | Silver    | 
 | SYF Central Judging - Malay Dance     | Silver     | 
@@ -164,18 +164,21 @@ description: ""
 | Singapore &amp; ASEAN Schools Maths Olympiad     | ❯ 5 Gold<br>❯ 6 Silver    | 
 | Computer Skills Assessment by University of New South Wales above Singapore     | Average     | 
 | 12th National Design Competition by Ngee Ann Polytechnic     |  Ong Rouyi<br>❯ Merit Award   | 
-|      | Ang Wan Leng<br>❯  Best in Visual Communication Design<br>❯ Overall Bronze Award (out of 135 entries from 29 schools)      | 
-| x     | ❯     | 
+|      | Ang Wan Leng<br>❯ Best in Visual Communication Design<br>❯ Overall Bronze Award (out of 135 entries from 29 schools)      | 
+| West Zone Tchoukball Carnival     | 3rd     | 
+| World Youth Tchoukball Championship     | Shri Nessh Muthu<br>❯ 3rd     | 
+| Bukit Timah District Sixer Training Camp     | Rachel Tan<br>❯ Best Girl Scout     | 
+| Friends of Singa     | Merit Award    | 
+| Tamil Language Competition     | ❯     | 
 | x     | ❯     | 
 | x     | ❯     | 
 | x     | ❯     | 
 | x     | ❯     | 
 | x     | ❯     | 
 
- 
-West Zone Tchoukball Carnival 2011 – came in 3 rd 2011 World Youth Tchoukball Championship - SHRI NESSH MUTHU represented Spore and came in 3 rd "Bukit Timah District Sixer Training Camp held on 23-25 Apr, Rachel Tan of 4'3 was awarded Best Girl Scout"
-*   Friends of Singa – Merit Award
-*   Tamil Language Competition 2011" - ANAND SELVIN ALAN has won the Consolation Prize
+
+*    – 
+*    2011" - ANAND SELVIN ALAN has won the Consolation Prize
 *   HDB's Heartland Beat Art Competition 2011 - Pandora Han, P4 - Category B, 3rd Prize
 *   Interschool Tchoukball Competition 2011 – Girls Team came in 1 st and Boys Team came in 2nd
 
