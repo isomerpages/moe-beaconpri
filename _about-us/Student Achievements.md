@@ -58,7 +58,7 @@ description: ""
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
 | SPH Tchoukball National (West Zone Group) Championship     | ❯ 1st<br>❯ 3rd    | 
-| West Zone Primary School Football Championship     | Junior Divison<br>❯ 3rd    | 
+| West Zone Primary School Football Championship     | Junior Divison - 3rd    | 
 | 13th National Primary Schools - Wushu     | 1st, 4th, 5th, 6th &amp; 8th Individual Placing in various martial art segments    | 
 | Outdoor Adventure Club - National Orienteering Race (Schools)     | 2nd     | 
 | Super Outdoor Adventure Race     | 4th     | 
@@ -98,13 +98,13 @@ description: ""
 | -------- | -------- |
 | West Zone and National Championships | 3rd |
 | National Tchoukball Championships     | 4th     | 
-| West Zone Primary School Football Championship     | Senior Divison<br>❯ 3rd     | 
+| West Zone Primary School Football Championship     | Senior Divison - 3rd     | 
 | Arts &amp; Media Club - 5th National Photography Competition     | 1 X Merit     | 
 | 4th National Photography Festival     | 3 X Special Mention (Group); People's Choice     | 
 | SYF - Visual Art     | ❯ Category "C" 1 X Certificate of Recognition<br>❯ Cat ‘A” 1 X Certificate of Recognition<br>❯ Special Mention     | 
 | POSB PAssion KidsWrite/ Illustration Category     |  1 X Runner-Up    | 
 | Doodle 4 Google 'Singapore, the Next 50 Years' Competition/ Cat. 7-9 yrs : 'Next 50, Our First World Singapore'      | National Winner    | 
-| Conserving our corals T-shirt Design Competition     | Youth Category : Top 10    | 
+| Conserving our corals T-shirt Design Competition     | Youth Category - Top 10    | 
 | Young Illustrator Awards - SG50 Special Artworks     |      | 
 | Doodle Wizard     | 2 X Top 12 prize    | 
 |  Octoburst On-the-Spot Art Competition/ 1 X CAT. B     | Merit    | 
@@ -135,7 +135,7 @@ description: ""
 | -------- | -------- |
 | Frank Cooper Sands Award for Scouts     | Silver Award     |  
 | 9th National Primary School Wushu Competition     | ❯ Eunice Woo – 3rd for Duan Changquan<br>❯ Samantha Seah – 3rd for Duan Nanquan<br>❯ 4th for Group Quanshu    | 
-| MediaCorp DV Campus 2012     | Best Learning Experience” Award    | 
+| MediaCorp DV Campus 2012     | Best Learning Experience Award    | 
 | National Photography Festival (Primary Schools)     | Tee Yu Ling<br>❯ Best Picture Award    | 
 | Inter-Primary Tchoukball Championship     | ❯ Senior Girls - Champion<br>❯ Senior Boys - Champion    | 
 | Asia Pacific Tchoukball Competition (Pattaya, Thailand) - represent Singapore in the Under-12 competition    | Ang Wei Jie     | 
@@ -171,7 +171,7 @@ description: ""
 | Friends of Singa     | Merit Award    | 
 | Tamil Language Competition     | Anand Selvin Alan<br>❯ Consolation Prize    | 
 | HDB's Heartland Beat Art Competition     | Pandora Han<br>❯ 3rd    | 
-| Interschool Tchoukball Competition     | Girls Team<br>❯ 1st<br>Boys Team<br>❯ 2nd     | 
+| Interschool Tchoukball Competition     | ❯ Girls Team - 1st<br>❯ Boys Team - 2nd     | 
 
 #### 2010
 
