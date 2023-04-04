@@ -177,20 +177,19 @@ description: ""
 
  EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
-| x     | ❯     | 
-| x     | ❯     | 
-| x     | ❯     | 
-| x     | ❯     | 
+| SYF Central Judging - Choir     | Bronze    | 
+| YMCA Mandarin Speaking Awards Lower Pri category | 3rd  | 
+| Singapore Shell Youth Science Festival E Journal Competition - Let's Explore!     | ❯ 3rd<br>❯ Merit Prize    | 
+| JAL 11th World Children's Haiku Contest     | ❯     | 
 | x     | ❯     | 
 | x     | ❯     | 
 | x     | ❯     | 
 | x     | ❯     | 
 | x     | ❯     | 
 
-*   Singapore Youth Festival Central Judging: Choir – Bronze
-*   YMCA Mandarin Speaking Awards Lower Pri category (3rd prize)
-*   Singapore Shell Youth Science Festival E Journal Competition - Let's Explore! (3rd prize &amp; Merit prize)
-*   JAL 11th World Children's Haiku Contest 2009-2010. Pupil’s entry selected as one of the outstanding entries from Singapore to be sent to the JAL Foundation,Tokyo.
+
+
+*    2009-2010. Pupil’s entry selected as one of the outstanding entries from Singapore to be sent to the JAL Foundation,Tokyo.
 *   National Chinese On-the-spot Poetry Competition – Merit award
 *   National Chinese Poetry Competition - 2 Gold, 1 Silver and 3 Bronze award
 *   Malay Language National Blogging Competition 2010
