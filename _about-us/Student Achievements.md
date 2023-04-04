@@ -12,7 +12,7 @@ description: ""
 | Lee Kuan Yew All-Round Excellence Award | Josiah Kee Songyi |
 | North West Outstanding All Rounder Student Award | Josiah Kee Songyi |
 | National Orienteering Race | Yoshvin Sachhin Raj Sugumaran |
-|    | Mohammad Aif Dafi Bin Abdullah<br>❯ 3rd<br>(Primary Schools Category)    |
+|    | Mohammad Aif Dafi Bin Abdullah<br>❯ 3rd (Primary Schools Category)    |
 | National School Games - Badminton     | Teo Huan Min<br>❯ 1st in Juniors (3rd Tier)   |
 					
 #### 2021
@@ -20,7 +20,7 @@ description: ""
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
 | National School Games - Wushu | Rain Teo<br>❯ 1st in the ‘4-Duan Spear’<br>❯ 2nd in the ‘1st International Changquan’   |
-| National School Games - Bowling     | Toh Si Man Maryse<br>❯ 10th<br>(out of 80 competitors)    |
+| National School Games - Bowling     | Toh Si Man Maryse<br>❯ 10th (out of 80 competitors)    |
 | Graduation from the Junior Sports Academy (JSA)     | xx    |
 | SORPOR (National Tamil Debate Competition)    | xx    |
 | North West Outstanding All Rounder Student Award    | Liew Hng Kai Jethro    |
