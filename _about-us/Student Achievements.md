@@ -201,4 +201,4 @@ EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
 | Solar City Competition     | Most Functional Project Award    | 
 | Malay Language National Blogging Competition Primary School Category     | 1st    |
-| Kids' Biennale Art competition: On-The-Spot Art Competition – Public’s Choice Lower Pri Category     | 1st    | 
+| Kids' Biennale Art competition: On-The-Spot Art Competition – Public’s Choice Lower Primary Category     | 1st    |
