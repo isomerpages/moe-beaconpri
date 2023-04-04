@@ -22,7 +22,7 @@ Using Digital Storytelling (DST), Primary 1 and 2 students create and share thei
 
 During D.O.T.S, students get the opportunity to conduct simple and fun experiments outdoors.&nbsp; Students then share their learning and experience with their peers.
 
-<img src="/images/photo1668520053.jpeg" style="width:85%">
+<img src="/images/BEL/bel-tl01a.jpg" style="width:90%">
 
 #### Readers' Delight
 
@@ -38,7 +38,7 @@ To encourage students to develop a love for reading, students are scheduled to g
 
 Each term, the Beacon Library highlights different topics to encouraged students to be more engaged in their subjects in a fun way. During Library Fortnight, students get to interact with subject specific manipulatives and online resources to deepen their interest in the subject. For example, during a Science showcase, students may be engaged in discovering more about how solar power can be harnessed to reduce carbon emission while for Physical Education, students could be asked to research notable sports personalities.
 
-<img src="/images/photo1668520128.jpeg" style="width:85%">
+<img src="/images/BEL/bel-tl01b.jpg" style="width:95%">
 
 #### Literature Appreciation Programme
 
@@ -46,41 +46,37 @@ Literature Appreciation Programme (LAP) aims to spark students’ interest in ex
 
 The following are texts that have been selected to engage the students:
 
-**Primary 1**: Spider by David Metzenthen
-
-**Primary 2**: Magic Finger by Roald Dahl
-
-**Primary 3**: Ralph S. Mouse by Beverly Cleary
-
-**Primary 4**: Alice in Wonderland by Lewis Carroll
-
-**Primary 5**: Totto Chan by Tetsuko Kuroyanagi
+| LEVEL | TEXT |
+| -------- | -------- |
+| Primary 1    | Spider by David Metzenthen     |
+| Primary 2     | Magic Finger by Roald Dahl     |
+| Primary 3     | Ralph S. Mouse by Beverly Cleary     |
+| Primary 4     | Alice in Wonderland by Lewis Carroll     |
+| Primary 5     | Totto Chan by Tetsuko Kuroyanagi     |
 
 At the end of each year, students put up a performance in a LAP Festival that consist of a Readers’ Theatre, a skit or even choral singing to showcase their talents and love for the various books they have read.
 
-<img src="/images/Mask Making for Ralph S Mouse Drama.jpg" style="width:49%" align="left">
-<img src="/images/Practising for Short Skit.jpg" style="width:49%" align="right">
-<br clear="left">
+<img src="/images/BEL/bel-tl01c.jpg" style="width:90%">
 
 #### Spelling Bee
 
 In Beacon, students are challenged to widen their vocabulary and improve on their spelling through the annual Spelling Bee. Students from Primary 1 to 4 participate in a series of spelling activities that culminate in the finals of the Spelling Bee. These activities inject an element of fun and healthy competition to promote good spelling and widened vocabulary.
 
-<img src="/images/Spelling Bee.jpg" style="width:60%">
+<img src="/images/BEL/bel-tl01d.jpg" style="width:85%">
 
 #### Storytelling Festival
 
 The Beacon Storytelling Festival provides opportunities for our students to share their love for storytelling with their peers. Through their creativity and the skilful use of their voice, gestures and self-made props, our Primary 1 to 5 storytellers draw their audience into their stories. As the students listen to these stories, they also learn about moral values as depicted in Aesop’s fables and virtues in the fairy tales that are shared with them.
 
-<iframe width="258" height="212" src="https://www.youtube.com/embed/y-Gax1b9A_0" title="ZAFYR EZRA BIN INDRAZAHRI - P1.5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="283" height="212" src="https://www.youtube.com/embed/y-Gax1b9A_0" title="ZAFYR EZRA BIN INDRAZAHRI - P1.5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<iframe width="278" height="207" src="https://www.youtube.com/embed/f-efmQwwAro" title="MARIAH ULFAH BINTE ISKANDAR SHAH - P2.6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="283" height="212" src="https://www.youtube.com/embed/f-efmQwwAro" title="MARIAH ULFAH BINTE ISKANDAR SHAH - P2.6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<iframe width="275" height="205" src="https://www.youtube.com/embed/iRw7MBTL0m4" title="LIM CHIAM YEE - P3-5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="283" height="212" src="https://www.youtube.com/embed/iRw7MBTL0m4" title="LIM CHIAM YEE - P3-5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 <iframe width="283" height="212" src="https://www.youtube.com/embed/odjp9neCPDw" title="CHAN WEI HONG SHANN - P4-3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<iframe width="282" height="210" src="https://www.youtube.com/embed/QHjHuFOMKKc" title="YOHANN ATHI SWETHAN SUGUMARAN - P5-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="283" height="212" src="https://www.youtube.com/embed/QHjHuFOMKKc" title="YOHANN ATHI SWETHAN SUGUMARAN - P5-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 #### Literacy Support Programme
 
