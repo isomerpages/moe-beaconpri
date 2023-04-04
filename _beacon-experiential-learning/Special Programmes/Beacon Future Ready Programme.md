@@ -20,22 +20,22 @@ Students are briefly exposed to problem solving through robotics and toy making.
 
 Students are introduced to the theme of “Environmental Sustainability”. Through modules in Drama, Animation Coding, and Upcycling, they acquire skills in problem-solving, computational thinking and communication, as well and values in kindness and empathy. During the activities, students also learn to serve with compassion and honour relationships with integrity.
 
-<img src="/images/BEL/bel-sp02a.jpg" style="width:90%">
+<img src="/images/BEL/bel-sp02b.jpg" style="width:90%">
 
 #### Primary 4
 
 Students explore further into the theme of “Environmental Sustainability” and how to be advocates for the environment. Through modules in Game Coding, and Toy Making, they develop their skills in problem-solving, computational thinking, while learning to collaborate and develop projects in teams.
 
-<img src="/images/photo1668518475.jpeg" style="width:85%">
+<img src="/images/BEL/bel-sp02c.jpg" style="width:90%">
 
 #### Primary 5
 
 At Primary 5, students learn to act towards “Environmental Sustainability”. At Primary 5, they acquire high level skills in Automation Coding, before embarking on a Community Problem Solving Project.
 
-<img src="/images/photo1668518518.jpeg" style="width:85%">
+<img src="/images/BEL/bel-sp02d.jpg" style="width:90%">
 
 #### Community Problem Solving Project
 
 The Community Problem Solving Project takes on the approach of serving the community with a theme of environmental sustainability. Through the guidance of teacher-facilitators over a few sessions, Primary 5 students will eventually develop prototypes or concepts of their solutions, presenting it to their peers.
 
-<img src="/images/photo1668518560.jpeg" style="width:85%">
+<img src="/images/BEL/bel-sp02e.jpg" style="width:100%">
