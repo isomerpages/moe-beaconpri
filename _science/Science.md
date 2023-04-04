@@ -23,7 +23,9 @@ The Science Fair is held annually by the Science Department. It provides a platf
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2021 BCPS Virtual Science Fair - P4 TOP WINNER" src="https://www.youtube.com/embed/2p-bwsot92U" height="240" width="426"></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2021 BCPS Virtual Science Fair - P5 &amp; P6 TOP WINNER" src="https://www.youtube.com/embed/FSnFkk8wqLE" height="240" width="426"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2021 BCPS Virtual Science Fair - P5 - P6 TOP WINNER" src="https://www.youtube.com/embed/FSnFkk8wqLE" height="240" width="426"></iframe>
+
+[![2021 BCPS Virtual Science Fair - P5 &amp; P6 TOP WINNER](http://img.youtube.com/vi/FSnFkk8wqLE/0.jpg)](http://www.youtube.com/watch?v=FSnFkk8wqLE)
 
 #### Beacon Environmental Stewardship (BEES)
 
