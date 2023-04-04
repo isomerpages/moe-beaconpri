@@ -13,19 +13,19 @@ ICT at Beacon adopts a 3-stage model, segmenting the student population into 3 l
 
 Students in the lower primary are introduced to ICT tools and basic skills in using the devices and their applications. Some of these skills include account management, web navigation, using search engines, etc.
 
-<img src="/images/BEL/bel-tl04a.jpg" style="width:90%">
+<img src="/images/BEL/bel-tl08a.jpg" style="width:90%">
 
 #### Middle Primary - Use to Learn  
 
 With the basics of being learnt, students in the middle primary engage in more independent learning tasks such as research and journaling. Students also learn to engage in online platforms that allow them to collaborate and connect with their peers.
 
-<img src="/images/BEL/bel-tl04a.jpg" style="width:90%">
+<img src="/images/BEL/bel-tl08b.jpg" style="width:90%">
 
 #### Upper Primary - Use to Create
 
 Upper primary students will engage in projects that allow them to extend their learning based on their own interests, taking part in online discussion forums with their classmates and exchanging ideas, and creating content for their peers and the community.
 
-<img src="/images/BEL/bel-tl04a.jpg" style="width:90%">
+<img src="/images/BEL/bel-tl08c.jpg" style="width:90%">
 
 #### B121 Computer Ownership Programme
 
