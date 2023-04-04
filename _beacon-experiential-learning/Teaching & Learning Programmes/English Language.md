@@ -10,7 +10,7 @@ third_nav_title: Teaching &amp; Learning Programmes
 
 In Beacon, the learning of English is designed with the idea of Grow, Learn, Own and Wonder (GLOW). This is achieved through the school-based STELLAR (Strategies for English Language Learning and Reading) programme and packages that promote curiosity to enhance students’ growth and their acquisition of speaking, writing, and presenting skills.
 
-GLOW is conducted in a media-rich environment that harnesses the affordances of technology to allow students to take ownership of their learning. Even at the lower primary, students learn to curate and present information using digital media platforms such as blogs and presentations slides. This culminates in students becoming effective and confident communicators, who are ready for the 21st&nbsp;century.&nbsp;
+GLOW is conducted in a media-rich environment that harnesses the affordances of technology to allow students to take ownership of their learning. Even at the lower primary, students learn to curate and present information using digital media platforms such as blogs and presentations slides. This culminates in students becoming effective and confident communicators, who are ready for the 21st century.;
 
 #### Digital Storytelling
 
@@ -18,7 +18,7 @@ Using Digital Storytelling (DST), Primary 1 and 2 students create and share thei
 
 #### D.O.T.S.
 
-**D**iscover,&nbsp;**O**bserve,&nbsp;**T**hink and&nbsp;**S**hare (D.O.T.S) introduces and weaves the learning of Science into Primary 1 and 2 English lessons through fun and simple experiments conducted out of the classroom. These lessons develop students’ confidence and provide them with opportunities to work as a team to develop communication and reasoning skills. In turn, the experience paves the way for students when they eventually begin to learn Science in Primary 3.&nbsp;
+**D**iscover, **O**bserve, **T**hink and **S**hare (D.O.T.S) introduces and weaves the learning of Science into Primary 1 and 2 English lessons through fun and simple experiments conducted out of the classroom. These lessons develop students’ confidence and provide them with opportunities to work as a team to develop communication and reasoning skills. In turn, the experience paves the way for students when they eventually begin to learn Science in Primary 3.
 
 During D.O.T.S, students get the opportunity to conduct simple and fun experiments outdoors.&nbsp; Students then share their learning and experience with their peers.
 
