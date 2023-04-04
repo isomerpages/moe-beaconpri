@@ -180,30 +180,25 @@ description: ""
 | SYF Central Judging - Choir     | Bronze    | 
 | YMCA Mandarin Speaking Awards Lower Pri category | 3rd  | 
 | Singapore Shell Youth Science Festival E Journal Competition - Let's Explore!     | ❯ 3rd<br>❯ Merit Prize    | 
-| JAL 11th World Children's Haiku Contest     | ❯     | 
-| x     | ❯     | 
-| x     | ❯     | 
-| x     | ❯     | 
-| x     | ❯     | 
-| x     | ❯     | 
-
-
-
-*    2009-2010. Pupil’s entry selected as one of the outstanding entries from Singapore to be sent to the JAL Foundation,Tokyo.
-*   National Chinese On-the-spot Poetry Competition – Merit award
-*   National Chinese Poetry Competition - 2 Gold, 1 Silver and 3 Bronze award
-*   Malay Language National Blogging Competition 2010
-*   Pri School Category (out of 8 submissions, 7 came in top 12, and pupils won the 1st &amp; 3rd prize, 4 consolation prizes, and 1 awarded the Lang Ambassador title)
-*   National ML Storytelling Competition – 1 Gold and 1 Silver
+| JAL 11th World Children's Haiku Contest - entries from Singapore to be sent to the JAL Foundation, Tokyo     | Outstanding Entries -    | 
+| National Chinese On-the-spot Poetry Competition     | Merit Award   | 
+| National Chinese Poetry Competition     | ❯ 2 Gold<br>❯ 1 Silver<br>❯ 3 Bronze    | 
+| Malay Language National Blogging Competition Primary School Category     | ❯ 1st<br>❯ 3rd<br>❯ 4 Consolation Prices<br>❯ 1 Lang Ambassador Title<br>❯ 7 came in top 12 (out of 8 submissions)    | 
+| National ML Storytelling Competition     | ❯ 1 Gold<br>❯ 1 Silver    |  
 
 #### 2009
 
-*   National iSports Media Challenge 2009 Pri School Category (3rd prize)
-*   Sony Creative Science Award 2009 ScizKid P1/P2 Category (Merit Award)
-*   9 th Ho Peng Kee Student Talent Competition Avid Readers Contest P1-3 Category (2nd prize)
+ EVENTS | ACHIEVEMENTS |
+| -------- | -------- |
+| SYF Central Judging - Choir     | Bonze    | 
+| National iSports Media Challenge - Primary School Category     | 3rd    |
+| Sony Creative Science Award - ScizKid P1/P2 Category     | Merit Award   | 
+| 9th Ho Peng Kee Student Talent Competition Avid Readers Contest P1-3 Category     | 2nd    |
 
 #### 2008
 
-*   Solar City Competition (Most Functional Project Award)
-*   Malay Language National Blogging Competition Pri School Category (1st prize)
-*   Kids' Biennale Art competition: On-The-Spot Art Competition – Public’s Choice Lower Pri Category (1st prize)
+EVENTS | ACHIEVEMENTS |
+| -------- | -------- |
+| Solar City Competition     | Most Functional Project Award    | 
+| Malay Language National Blogging Competition Primary School Category     | 1st    |
+| Kids' Biennale Art competition: On-The-Spot Art Competition – Public’s Choice Lower Pri Category     | 1st    | 
