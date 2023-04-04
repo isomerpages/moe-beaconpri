@@ -2,9 +2,9 @@
 title: Mathematics
 permalink: /beacon-experiential-learning/Teaching-and-Learning-Programmes/mathe/
 description: ""
-third_nav_title: Teaching & Learning Programmes
+third_nav_title: Teaching &amp; Learning Programmes
 ---
-## Mathematics
+### Mathematics
 
 The Mathematics Department aims to enable all students to:
 
@@ -12,7 +12,7 @@ The Mathematics Department aims to enable all students to:
 *   develop thinking, reasoning, communication, application, and metacognitive skills through a mathematical approach to problem-solving
 *   build confidence and foster interest in mathematics
 
-To achieve the objectives, teachers strive to make mathematics _simple_, _thoughtful,_ and _fun_ for all students.
+To achieve the objectives, teachers strive to make mathematics&nbsp;_simple_,&nbsp;_thoughtful,_&nbsp;and&nbsp;_fun_&nbsp;for all students.
 
 **SimpleMaths**: Teachers adopt varied teaching approaches to simplify the learning of mathematics. Through the Concrete-Pictorial-Abstract approach, students acquire mathematical concepts and skills. As problem-solving is central to mathematics learning, students learn Polya’s 4 essential steps – Understand, Plan, Solve, and Check – to solving problems. In addition, ICT is meaningfully infused into lessons for students to explore, collaborate and deepen their learning.
 
@@ -28,7 +28,7 @@ To achieve the objectives, teachers strive to make mathematics _simple_, _thou
 
 #### Excellence 2000 (E2K) Mathematics Programme
 
-The E2K Mathematics programme caters to selected Primary 4 to 6 students who demonstrate interest and ability in mathematics. It offers opportunities for students to collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and explorations which are specifically designed to hone their mathematical skills. 
+The E2K Mathematics programme caters to selected Primary 4 to 6 students who demonstrate interest and ability in mathematics. It offers opportunities for students to collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and explorations which are specifically designed to hone their mathematical skills.&nbsp;
 
 #### Mathematics Olympiad Training
 
