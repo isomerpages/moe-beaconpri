@@ -3,7 +3,7 @@ title: Science
 permalink: /science/sci/
 description: ""
 ---
-## Science
+### Science
 
 The Science Department in Beacon seeks to nurture students as inquirers. Children are inherently curious and want to explore the things around them. The science programme leverages on and seeks to fuel this spirit of curiosity through experiential learning. The end goal is to nurture students who enjoy and value science as an important tool in helping them explore their natural and physical world.
 
