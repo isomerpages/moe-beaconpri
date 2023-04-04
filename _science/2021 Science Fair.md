@@ -48,7 +48,7 @@ Congratulations to the top 5 winners of the Virtual Science Fair 2021 for each c
 
 | NAME | CLASS | TITLE |
 |---|---|---|
-| Nah Tian Yu &amp; Nah Tian Qing  <br>**- Top Winner -** | 4.4 &amp; 3.5 | [What Happens When A Solid, Liquid Or Gas Gets Heated?](https://youtu.be/7aD0tpzkXOs) |
+| Nah Tian Yu &amp; Nah Tian Qing  <br>**- Top Winner -** | 4.4 &amp; 3.5 | [What Happens When A Solid, <br>Liquid Or Gas Gets Heated?](https://youtu.be/7aD0tpzkXOs) |
 | Josiah Kee Songyi &amp; Jahn Kee Wenxuan | 6.6 &amp; 3.6 | [Wireless Communication](https://youtu.be/DBHRJFBGZ28) |
 | Ilangovan Akshay &amp; Ilangovan Abishay | 5.3 &amp; 5.3 | [Acids And Bases](https://youtu.be/1e6IleMxstQ) |
 | Eshton Isiah Teo &amp; Faith Kaitlyn Teo | 6.5 &amp; 3.6 | [Bouncy Egg](https://youtu.be/-OXA1U8iY_s) |
