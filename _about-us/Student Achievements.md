@@ -169,20 +169,23 @@ description: ""
 | World Youth Tchoukball Championship     | Shri Nessh Muthu<br>❯ 3rd     | 
 | Bukit Timah District Sixer Training Camp     | Rachel Tan<br>❯ Best Girl Scout     | 
 | Friends of Singa     | Merit Award    | 
-| Tamil Language Competition     | ❯     | 
-| x     | ❯     | 
-| x     | ❯     | 
-| x     | ❯     | 
-| x     | ❯     | 
-| x     | ❯     | 
-
-
-*    – 
-*    2011" - ANAND SELVIN ALAN has won the Consolation Prize
-*   HDB's Heartland Beat Art Competition 2011 - Pandora Han, P4 - Category B, 3rd Prize
-*   Interschool Tchoukball Competition 2011 – Girls Team came in 1 st and Boys Team came in 2nd
+| Tamil Language Competition     | Anand Selvin Alan<br>❯ Consolation Prize    | 
+| HDB's Heartland Beat Art Competition     | Pandora Han<br>❯ 3rd    | 
+| Interschool Tchoukball Competition     | Girls Team<br>❯ 1st<br>Boys Team<br>❯ 2nd     | 
 
 #### 2010
+
+ EVENTS | ACHIEVEMENTS |
+| -------- | -------- |
+| x     | ❯     | 
+| x     | ❯     | 
+| x     | ❯     | 
+| x     | ❯     | 
+| x     | ❯     | 
+| x     | ❯     | 
+| x     | ❯     | 
+| x     | ❯     | 
+| x     | ❯     | 
 
 *   Singapore Youth Festival Central Judging: Choir – Bronze
 *   YMCA Mandarin Speaking Awards Lower Pri category (3rd prize)
