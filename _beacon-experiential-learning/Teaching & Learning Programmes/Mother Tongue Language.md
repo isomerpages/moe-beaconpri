@@ -6,7 +6,7 @@ third_nav_title: Teaching &amp; Learning Programmes
 ---
 ### Mother Tongue Language
 
-The&nbsp;Mother Tongue Language (MTL) Department offers the following languages in our school.
+The Mother Tongue Language (MTL) Department offers the following languages in our school.
 
 *   Chinese Language
 *   Malay Language
@@ -20,7 +20,7 @@ The MTL department seeks to nurture active learners and proficient users of the 
 
 The Beacon MTL curriculum focuses on the functional use of Mother Tongue Languages, with greater emphasis on listening and speaking skills as the cornerstone of language proficiency. Students are also provided with the opportunity to further enhance their language-learning capabilities through cultural exchanges and other practical opportunities for greater appreciation of the language and culture.
 
-As students learn their Mother Tongue Language through the curriculum, there is a close connection to their daily life and interests, e.g. animation, digital interactive games, and authentic language tasks.&nbsp;
+As students learn their Mother Tongue Language through the curriculum, there is a close connection to their daily life and interests, e.g. animation, digital interactive games, and authentic language tasks.
 
 #### ICT for Learning in the MTL Curriculum
 
@@ -46,7 +46,7 @@ The Mother Tongue Language Festival creates an immersive environment for learnin
 
 #### Conversational Chinese and Malay (CCM) Programme
 
-CCM is a three-year enrichment programme, catered for Primary 3 to Primary 5 students who are interested in learning Chinese or Malay language and culture, other than their own mother tongue language.&nbsp;The learner will be able to hold a simple conversation with a native Chinese or Malay language speaker upon completing the programme.
+CCM is a three-year enrichment programme, catered for Primary 3 to Primary 5 students who are interested in learning Chinese or Malay language and culture, other than their own mother tongue language. The learner will be able to hold a simple conversation with a native Chinese or Malay language speaker upon completing the programme.
 
 #### Festive Celebrations
 
@@ -70,10 +70,10 @@ In this programme, selected Chinese Language students will attend lessons and cu
 
 With Covid-19, the International Exchange Programme has shifted online since 2020. Students participating in the programme continue to engage students from Suzhou through the various collaborative activities online.
 
-Please&nbsp;view the programme photos in the&nbsp;[Event Gallery](/news-and-events/Event-Gallery/2022/).
+Please view the programme photos in the [Event Gallery](/news-and-events/Event-Gallery/2022/).
 #### MTL Learning Support Programme
 
-This is a&nbsp;customised programme to support the learning of pupils in Mother Tongue Languages in Pri 3 and Pri 4. This programme focuses on building basic listening and speaking skills before the students move on to reading and writing skills. Students learn the language through games and fun learning activities.
+This is a customised programme to support the learning of pupils in Mother Tongue Languages in Pri 3 and Pri 4. This programme focuses on building basic listening and speaking skills before the students move on to reading and writing skills. Students learn the language through games and fun learning activities.
 
 #### Higher Mother Tongue Language Programme
 
