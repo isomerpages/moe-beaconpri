@@ -6,7 +6,7 @@ third_nav_title: Special Programmes
 ---
 ### B121 Computer Ownership Programme
 
-Recognising the potential of how technology can bring about a richer teaching and learning experience,&nbsp; the&nbsp;Beacon One-to-One (B121) Computer Ownership aims to equip every student with a&nbsp;**Personal Learning Device (PLD)**&nbsp;to empower him/her to learn in a meaningful and engaging way. The programme compliments the blended learning experiences the students gained from the technology-enriched curriculum introduced since Primary 1. The PLD enables students to carry out self-directed learning within and beyond the classroom.
+Recognising the potential of how technology can bring about a richer teaching and learning experience, the&nbsp;Beacon One-to-One (B121) Computer Ownership aims to equip every student with a **Personal Learning Device (PLD)** to empower him/her to learn in a meaningful and engaging way. The programme compliments the blended learning experiences the students gained from the technology-enriched curriculum introduced since Primary 1. The PLD enables students to carry out self-directed learning within and beyond the classroom.
 
 This will help to extend learning beyond the classroom and allows students to access the world of information and knowledge to enhance their learning. The school provides a school-wide wireless environment that allows students to tap onto the vast information on the web and collaborate with peers through the use of collaborative tools and applications.
 
@@ -59,4 +59,4 @@ Once your child has obtained their PLD, you may wish to guide your child in lear
 
 #### Families on Financial Assistance
 
-IMDA has set up the&nbsp;[NeuPC Plus scheme](https://www.imda.gov.sg/programme-listing/neu-pc-plus)&nbsp;as a means for families on financial assistance the opportunity to own a computer and internet access at an affordable price.
+IMDA has set up the [NeuPC Plus scheme](https://www.imda.gov.sg/programme-listing/neu-pc-plus) as a means for families on financial assistance the opportunity to own a computer and internet access at an affordable price.
