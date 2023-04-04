@@ -14,8 +14,7 @@ The&nbsp;Mother Tongue Language (MTL) Department offers the following languages 
 
 The MTL department seeks to nurture active learners and proficient users of the Mother Tongue Language in an engaging learning environment. The department firmly believes in the importance of fostering students’ interest, appreciation and respect for our culture and traditions. The school aims to develop every student to be a competent and confident user of their Mother Tongue Language.
 
-<img src="/images/BEL/bel-tl02a.jpg" style="width:90%">
-<img src="/images/MTL Collage.jpg" style="width:85%">
+<img src="/images/BEL/bel-tl03a.jpg" style="width:90%">
 
 #### MTL Curriculum
 
@@ -27,9 +26,7 @@ As students learn their Mother Tongue Language through the curriculum, there is 
 
 Students’ learning in MTL lessons are enriched with various digital resources via online platforms. With the online resources, students extend their learning beyond the classroom. Students are also able to revisit the learning content at their own pace.<br>
 
-**REQUIRE JACKSON INPUT VIDEO BESIDE THE PHOTO**
-<img src="/images/ICT Integration in CL.jpeg" style="width:49%" align="left">
-<br clear="left"> 
+<img src="/images/BEL/bel-tl03b.jpg" style="width:80%">
 
 The Beacon MTL curriculum integrates multiple learning experiences. Through these customised programmes, students gain knowledge of their Mother Tongue Languages, share cross-cultural understanding, and acquire practical communication and collaborative skills.
 
@@ -39,13 +36,13 @@ The Beacon MTL curriculum integrates multiple learning experiences. Through thes
 
 Students are equipped with relevant speaking, presentation and writing skills through these programmes where they are able to showcase their talents through various school competitions such as storytelling, read aloud, spelling, and composition writing competition.
 
-<img src="/images/photo1668520867.jpeg" style="width:85%">
+<img src="/images/BEL/bel-tl03c.jpg" style="width:90%">
 
 #### Mother Tongue Language Festival
 
 The Mother Tongue Language Festival creates an immersive environment for learning and appreciating Mother Tongue Languages and cultures. Students are exposed to a wide variety of activities such as Chinese Painting,&nbsp;Malay Batik Painting, and Indian Arts etc. These culturally rich activities deepen students' understanding of their cultural roots and promote the learning of their Mother Tongue Language in a fun and engaging way.
 
-<img src="/images/photo1668520918.jpeg" style="width:85%">
+<img src="/images/BEL/bel-tl03d.jpg" style="width:90%">
 
 #### Conversational Chinese and Malay (CCM) Programme
 
@@ -55,19 +52,13 @@ CCM is a three-year enrichment programme, catered for Primary 3 to Primary 5 stu
 
 Students experience the different cultures and traditions through these festive celebrations, such as Chinese New Year, Hari Raya and Deepavali.
 
-<img src="/images/photo1668520962.jpeg" style="width:85%">
+<img src="/images/BEL/bel-tl03e.jpg" style="width:90%">
 
 #### Cultural Celebration cum Beacon Family Day
 
 The annual Cultural Celebration cum Beacon Family Day is a highly anticipated event. One of the main highlights for the students and the community is the dragon dance. On this day, both students and parents are invited to take part in various cultural games and activities in the school. Students and teachers also prepare cultural performances to showcase their talents.
 
-<img src="/images/01 Cultural Booth.jpeg" style="width:49%" align="left">
-<img src="/images/01 Game Booth.jpeg" style="width:49%" align="right">
-<br clear="left"><br>
-
-<img src="/images/02 Dragon Dance.jpeg" style="width:49%" align="left">
-<img src="/images/02 Blowing Art.jpeg" style="width:49%" align="right">
-<br clear="left"><br>
+<img src="/images/BEL/bel-tl03f.jpg" style="width:90%">
 
 #### Cultural Programme Exposure Scheme (CPES)
 
