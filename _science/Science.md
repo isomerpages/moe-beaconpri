@@ -25,10 +25,6 @@ The Science Fair is held annually by the Science Department. It provides a platf
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2021 BCPS Virtual Science Fair - P5 - P6 TOP WINNER" src="https://www.youtube.com/embed/FSnFkk8wqLE" height="240" width="426"></iframe>
 
-<a target="_self" href="http://www.youtube.com/watch?feature=player_embedded&amp;v=FSnFkk8wqLE"><img border="10" height="180" width="240" alt="2021 BCPS Virtual Science Fair - P5 &amp; P6 TOP WINNER" src="http://img.youtube.com/vi/FSnFkk8wqLE/0.jpg"></a>
-
-[![2021 BCPS Virtual Science Fair - P5 &amp; P6 TOP WINNER](http://img.youtube.com/vi/FSnFkk8wqLE/0.jpg)](http://www.youtube.com/watch?v=FSnFkk8wqLE)
-
 #### Beacon Environmental Stewardship (BEES)
 
 The aim of Beacon Environmental Stewardship programme aims to develop students with strong commitment to improve the environment in our community. Under this programme, our students partake in activities such as reducing ‘food waste’ and growing their own food, recycling, and upcycling from ‘waste’ materials.
