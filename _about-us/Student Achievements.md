@@ -137,7 +137,7 @@ description: ""
 | 9th National Primary School Wushu Competition     | ❯ Eunice Woo – 3rd for Duan Changquan<br>❯ Samantha Seah – 3rd for Duan Nanquan<br>❯ 4th for Group Quanshu    | 
 | MediaCorp DV Campus 2012     | Best Learning Experience” Award    | 
 | National Photography Festival (Primary Schools)     | Tee Yu Ling<br>❯ Best Picture Award    | 
-| Inter-Primary Tchoukball Championship     | Senior Girls<br>❯ Champion<br>Senior Boys<br>❯ Champion    | 
+| Inter-Primary Tchoukball Championship     | ❯ Senior Girls - Champion<br>❯ Senior Boys - Champion    | 
 | Asia Pacific Tchoukball Competition (Pattaya, Thailand) - represent Singapore in the Under-12 competition    | Ang Wei Jie     | 
 
 #### 2012
@@ -145,7 +145,7 @@ description: ""
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
 |  “Through a Different Lens” Photography Competition by Dialogue in the Dark     | Cheyenne Kor<br>❯ 3rd     | 
-| Eye Care Week 2012 Photography Competition by Health Promotion Board     | Nurusshifa Bte Mohd Sazali<br>❯ 1st<br> (out of 900 entries)   | 
+| Eye Care Week 2012 Photography Competition by Health Promotion Board     | Nurusshifa Bte Mohd Sazali<br>❯ 1st (out of 900 entries)   | 
 | Community in Bloom Competition by NParks     | Gold    | 
 | MOE-HPB CHERISH Award     | Silver    | 
 | SYF Central Judging - Malay Dance     | Silver     | 
