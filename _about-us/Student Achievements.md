@@ -36,7 +36,7 @@ description: ""
 
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
-| NDP 2020 Funpack Artwork Contest     | xx    | 
+| NDP 2020 Funpack Artwork Contest     | Yi En    | 
 
 #### 2019
 
