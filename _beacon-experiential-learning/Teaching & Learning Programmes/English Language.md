@@ -2,15 +2,15 @@
 title: English Language
 permalink: /beacon-experiential-learning/Teaching-and-Learning-Programmes/el/
 description: ""
-third_nav_title: Teaching & Learning Programmes
+third_nav_title: Teaching &amp; Learning Programmes
 ---
-## English Language
+### English Language
 
 #### GLOW STELLAR
 
 In Beacon, the learning of English is designed with the idea of Grow, Learn, Own and Wonder (GLOW). This is achieved through the school-based STELLAR (Strategies for English Language Learning and Reading) programme and packages that promote curiosity to enhance students’ growth and their acquisition of speaking, writing, and presenting skills.
 
-GLOW is conducted in a media-rich environment that harnesses the affordances of technology to allow students to take ownership of their learning. Even at the lower primary, students learn to curate and present information using digital media platforms such as blogs and presentations slides. This culminates in students becoming effective and confident communicators, who are ready for the 21st century. 
+GLOW is conducted in a media-rich environment that harnesses the affordances of technology to allow students to take ownership of their learning. Even at the lower primary, students learn to curate and present information using digital media platforms such as blogs and presentations slides. This culminates in students becoming effective and confident communicators, who are ready for the 21st&nbsp;century.&nbsp;
 
 #### Digital Storytelling
 
@@ -18,9 +18,9 @@ Using Digital Storytelling (DST), Primary 1 and 2 students create and share thei
 
 #### D.O.T.S.
 
-**D**iscover, **O**bserve, **T**hink and **S**hare (D.O.T.S) introduces and weaves the learning of Science into Primary 1 and 2 English lessons through fun and simple experiments conducted out of the classroom. These lessons develop students’ confidence and provide them with opportunities to work as a team to develop communication and reasoning skills. In turn, the experience paves the way for students when they eventually begin to learn Science in Primary 3. 
+**D**iscover,&nbsp;**O**bserve,&nbsp;**T**hink and&nbsp;**S**hare (D.O.T.S) introduces and weaves the learning of Science into Primary 1 and 2 English lessons through fun and simple experiments conducted out of the classroom. These lessons develop students’ confidence and provide them with opportunities to work as a team to develop communication and reasoning skills. In turn, the experience paves the way for students when they eventually begin to learn Science in Primary 3.&nbsp;
 
-During D.O.T.S, students get the opportunity to conduct simple and fun experiments outdoors.  Students then share their learning and experience with their peers.
+During D.O.T.S, students get the opportunity to conduct simple and fun experiments outdoors.&nbsp; Students then share their learning and experience with their peers.
 
 <img src="/images/photo1668520053.jpeg" style="width:85%">
 
@@ -58,8 +58,8 @@ The following are texts that have been selected to engage the students:
 
 At the end of each year, students put up a performance in a LAP Festival that consist of a Readers’ Theatre, a skit or even choral singing to showcase their talents and love for the various books they have read.
 
-<img src="/images/Mask Making for Ralph S Mouse Drama.jpg" style="width:49%" align=left>
-<img src="/images/Practising for Short Skit.jpg" style="width:49%" align=right>
+<img src="/images/Mask Making for Ralph S Mouse Drama.jpg" style="width:49%" align="left">
+<img src="/images/Practising for Short Skit.jpg" style="width:49%" align="right">
 <br clear="left">
 
 #### Spelling Bee
@@ -72,19 +72,19 @@ In Beacon, students are challenged to widen their vocabulary and improve on thei
 
 The Beacon Storytelling Festival provides opportunities for our students to share their love for storytelling with their peers. Through their creativity and the skilful use of their voice, gestures and self-made props, our Primary 1 to 5 storytellers draw their audience into their stories. As the students listen to these stories, they also learn about moral values as depicted in Aesop’s fables and virtues in the fairy tales that are shared with them.
 
-<iframe width="258" height="212" src="https://www.youtube.com/embed/y-Gax1b9A_0" title="ZAFYR EZRA BIN INDRAZAHRI - P1.5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="258" height="212" src="https://www.youtube.com/embed/y-Gax1b9A_0" title="ZAFYR EZRA BIN INDRAZAHRI - P1.5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<iframe width="278" height="207" src="https://www.youtube.com/embed/f-efmQwwAro" title="MARIAH ULFAH BINTE ISKANDAR SHAH - P2.6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="278" height="207" src="https://www.youtube.com/embed/f-efmQwwAro" title="MARIAH ULFAH BINTE ISKANDAR SHAH - P2.6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<iframe width="275" height="205" src="https://www.youtube.com/embed/iRw7MBTL0m4" title="LIM CHIAM YEE - P3-5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="275" height="205" src="https://www.youtube.com/embed/iRw7MBTL0m4" title="LIM CHIAM YEE - P3-5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<iframe width="283" height="212" src="https://www.youtube.com/embed/odjp9neCPDw" title="CHAN WEI HONG SHANN - P4-3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="283" height="212" src="https://www.youtube.com/embed/odjp9neCPDw" title="CHAN WEI HONG SHANN - P4-3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<iframe width="282" height="210" src="https://www.youtube.com/embed/QHjHuFOMKKc" title="YOHANN ATHI SWETHAN SUGUMARAN - P5-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="282" height="210" src="https://www.youtube.com/embed/QHjHuFOMKKc" title="YOHANN ATHI SWETHAN SUGUMARAN - P5-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 #### Literacy Support Programme
 
-Learning Support Programme for English (LSE), School-based Dyslexia Remediation Programme (SDR) and Reading Remediation Programme (RRP) are specialised intervention programmes aimed at providing support to students who need additional help in literacy skills.  LSE is conducted at Primary 1 and 2 while SDR and RRP are conducted at Primary 3 and 4.
+Learning Support Programme for English (LSE), School-based Dyslexia Remediation Programme (SDR) and Reading Remediation Programme (RRP) are specialised intervention programmes aimed at providing support to students who need additional help in literacy skills.&nbsp; LSE is conducted at Primary 1 and 2 while SDR and RRP are conducted at Primary 3 and 4.
 
 #### Read with Me Programme
 
