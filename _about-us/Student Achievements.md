@@ -30,7 +30,7 @@ description: ""
 | Graduation from the Junior Sports Academy (JSA)     | ❯ Aqil Izz Anaqi Bin Mohammad Zaki<br>❯ Erica Chia Xin Zhi<br>❯ Muhammad Waldan Bin Rahmat<br>❯ Ryan Syabir Kurniawan, Class<br>❯ Thamilvanan Sahaanashri    |
 | SORPOR (National Tamil Debate Competition)    | ❯ Nithya Sree Saravanan<br>❯ Elango Manisha<br>❯ Selvakarthik Kathir<br>❯ Thamilvanan Sahaanashri    |
 | North West Outstanding All Rounder Student Award    | ❯ Liew Hng Kai Jethro<br>❯ Tan Jia Ying Carrene    |
-| Text Recital Competition    | ❯ Yu Zichen - Silver Award<br> Angel Julia Chee - Bronze Award<br>❯ Liu Yixin - Bronze Award<br>❯ Kady Yik - Bronze Award<br>❯ Teo Huan Ming - Bronze Award    |
+| Text Recital Competition    | ❯ Yu Zichen - Silver Award<br>❯ Angel Julia Chee - Bronze Award<br>❯ Liu Yixin - Bronze Award<br>❯ Kady Yik - Bronze Award<br>❯ Teo Huan Ming - Bronze Award    |
 
 #### 2020
 
