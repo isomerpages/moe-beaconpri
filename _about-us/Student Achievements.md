@@ -5,6 +5,12 @@ description: ""
 ---
 ### Student Achievements
 
+#### 2023
+
+| EVENTS | ACHIEVEMENTS |
+| -------- | -------- |
+| SOTA Primary 6 Art Competition | Zu Xiyan<br>❯ Top 50 Finalist Award |
+
 #### 2022
 
 | EVENTS | ACHIEVEMENTS |
@@ -19,12 +25,12 @@ description: ""
 
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
-| National School Games - Wushu | Rain Teo<br>❯ 1st in the ‘4-Duan Spear’<br>❯ 2nd in the ‘1st International Changquan’   |
+| National School Games - Wushu | Rain Teo<br>❯ 1st in the ‘4-Duan Spear’<br>❯ 2nd in the ‘1st International Changquan’  |
 | National School Games - Bowling     | Toh Si Man Maryse<br>❯ 10th (out of 80 competitors)    |
-| Graduation from the Junior Sports Academy (JSA)     | xx    |
-| SORPOR (National Tamil Debate Competition)    | xx    |
-| North West Outstanding All Rounder Student Award    | Liew Hng Kai Jethro    |
-|     | Tan Jia Ying Carrene    |
+| Graduation from the Junior Sports Academy (JSA)     | ❯ Aqil Izz Anaqi Bin Mohammad Zaki<br>❯ Erica Chia Xin Zhi<br>❯ Muhammad Waldan Bin Rahmat<br>❯ Ryan Syabir Kurniawan, Class<br>❯ Thamilvanan Sahaanashri    |
+| SORPOR (National Tamil Debate Competition)    | ❯ Nithya Sree Saravanan<br>❯ Elango Manisha<br>❯ Selvakarthik Kathir<br>❯ Thamilvanan Sahaanashri    |
+| North West Outstanding All Rounder Student Award    | ❯ Liew Hng Kai Jethro<br>❯ Tan Jia Ying Carrene    |
+| Text Recital Competition    | ❯ Yu Zichen - Silver Award<br> Angel Julia Chee - Bronze Award<br>❯ Liu Yixin - Bronze Award<br>❯ Kady Yik - Bronze Award<br>❯ Teo Huan Ming - Bronze Award    |
 
 #### 2020
 
