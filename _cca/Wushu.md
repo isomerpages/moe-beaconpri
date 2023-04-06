@@ -26,7 +26,7 @@ description: ""
 *   Members who have shown great interest and excel in any routines will be selected to join the School Team. They will be training for the National School Games Wushu Competition in individual or group routines.
 *   Aside from competition, Wushu is also actively involved in school performances such as Chinese New Year and the Year End Beacon Awards Ceremony Performance.
 
-<img src="/images/BEL/bel-sd02k.jpg" style="width:100%">
+<img src="/images/BEL/bel-sd02l.jpg" style="width:100%">
 
 #### CCA Leaders
 
