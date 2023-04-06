@@ -26,7 +26,7 @@ The main objectives are to :<br>
 *   Learn advanced programming skills, electronics, and coding through mBots
 *   Be proficient in a variety of Information and Communications Technology (ICT) skills
 
-<img src="/images/BEL/bel-sd02g.jpg" style="width:100%">
+<img src="/images/BEL/bel-sd02h.jpg" style="width:100%">
 
 #### CCA Leaders
 
