@@ -6,7 +6,7 @@ description: ""
 ## Art Club
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
-|:---:|---|---|---|
+|---|---|---|---|
 | Thursday | 2.15pm – 4.15pm | Art Rooms, Level 1 | Mdm Faridah Hajarmustika Binte Rahmat<br><br>Ms Lee Pei Pei  <br><br>Mdm Rekha Ramadoss<br><br>Miss Saraniya Aburvam D/O N S<br><br>Mdm Liyana Bte Mohd Yusof|
 |  |  |  |  |
    
@@ -34,7 +34,7 @@ Sessions are planned and guided by the Studio Habits of Mind framework. Student-
 #### CCA Leaders
 
 | **Student Name** | **Class** | **Appointment** |
-|:---:|---|---|
+|---|---|---|
 | Mythili Kuru | P6.5 | Chairperson |
 | Yong Jing Lin Cherilyn (Yang Jinglin) | P6.5 | Vice-Chairperson |
 | Chong Sheryn | P5.3 | Level Rep |
