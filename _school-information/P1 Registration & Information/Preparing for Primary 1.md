@@ -12,11 +12,7 @@ Beacon Primary School provides a strong academic foundation for our students. Ou
 
 [Click to read more on our P1 Curriculum &gt;&gt;](https://drive.google.com/file/d/1X-mMvGH9CEe5dSZ0sx33u4QOko3gCU1F/view) **PDF FILE SIZE EXCEEDS 5MB**
 
-<figure>
-<img src="/images/BCPS Partnership.jpg" style="width:85%">
-<figcaption> Parents play a critical role as partners in our mission to prepare our young for the future. How can I be an involved parent?
- </figcaption>
-</figure>
+<img src="/images/si_sh02.jpg" style="width:100%">
 
 #### 1 \. Parenting your child
 
@@ -35,8 +31,6 @@ Beacon Primary School provides a strong academic foundation for our students. Ou
 *   Engage your child in fun and relevant learning activities that will help him/her feel excited and enthusiastic about learning
 *   Help your child draw connections between the content or concepts learnt in school and everyday life.
 
-<figure>
-<figcaption>A strong partnership between the home and the school will put our children in good stead. Together, we work hand-in-hand to nurture our children for a brighter future for all.
- </figcaption>
-<img src="/images/BCPS Partnership 2.jpg" style="width:90%">
-</figure>
+A strong partnership between the home and the school will put our children in good stead. Together, we work hand-in-hand to nurture our children for a brighter future for all.
+
+<img src="/images/si_sh03.jpg" style="width:100%">
