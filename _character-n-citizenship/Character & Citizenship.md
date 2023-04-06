@@ -3,7 +3,7 @@ title: Character & Citizenship
 permalink: /character-n-citizenship/cc/
 description: ""
 ---
-## Character & Citizenship
+### Character & Citizenship
 
 Beacon’s Character and Citizenship Education (CCE) curriculum is designed to build character and inculcate values that are aligned to the school’s MVV and MOE’s framework for 21st century competencies and outcomes.
 
