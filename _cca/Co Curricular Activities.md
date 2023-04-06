@@ -3,7 +3,7 @@ title: Co Curricular Activities
 permalink: /cca/cca/
 description: ""
 ---
-## Co-Curricular Activities
+### Co-Curricular Activities
 
 CCA is an important part of our students’ holistic education and development. CCA enables students to realise their potential by providing them with opportunities to discover their interests and talents. In Beacon Primary School, we aim to cultivate in our students the joy of learning so that they are motivated to pursue their interests and talents in the long run. Our CCAs also emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds.
 
@@ -12,7 +12,7 @@ CCA is an important part of our students’ holistic education and development. 
 Click on the links below to find out more about our CCAs.
 
 | Sports & Games | Visual & Performing Arts | Clubs & Societies | Uniformed Group |
-|:---:|---|---|---|
+|---|---|---|---|
 | [Basketball](/cca/bball/) | [Art Club](/cca/ac/) | [Environmental Science Club](/cca/esc/) | [Scouts](/cca/scouts/) |
 | [Football](/cca/fb/) | [Choir](/cca/choir/) | [Outdoor Activities Club (ODAC)](/cca/odac/) |  |
 | [Netball](/cca/netball/) | [Percussion Ensemble](/cca/percussion-ensemble/) | [Robotics](/cca/robotics/) |  |
