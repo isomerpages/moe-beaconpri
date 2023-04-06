@@ -27,7 +27,7 @@ Scouting is a movement of self-education for young people, through a value syste
 *   Fund raising campaigns
 *   Flag march for National Day Observance Ceremony
 
-<img src="/images/BEL/bel-sd02h.jpg" style="width:100%">
+<img src="/images/BEL/bel-sd02i.jpg" style="width:100%">
 
 #### CCA Leaders
 
