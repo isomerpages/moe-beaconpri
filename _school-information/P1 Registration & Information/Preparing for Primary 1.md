@@ -12,7 +12,7 @@ Beacon Primary School provides a strong academic foundation for our students. Ou
 
 [Click to read more on our P1 Curriculum &gt;&gt;](https://drive.google.com/file/d/1X-mMvGH9CEe5dSZ0sx33u4QOko3gCU1F/view) 
 
-<img src="/images/SI//si_sh02.jpg" style="width:100%">
+<img src="/images/SI/si_sh02.jpg" style="width:100%">
 
 #### 1 \. Parenting your child
 
@@ -33,4 +33,4 @@ Beacon Primary School provides a strong academic foundation for our students. Ou
 
 A strong partnership between the home and the school will put our children in good stead. Together, we work hand-in-hand to nurture our children for a brighter future for all.
 
-<img src="/images/SI//si_sh03.jpg" style="width:100%">
+<img src="/images/SI/si_sh03.jpg" style="width:100%">
