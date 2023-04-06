@@ -25,7 +25,7 @@ Students are engaged in the following:<br>
 
 Students in the Junior team will familiarise themselves with the rules of the games and learn basic ball handling skills while those in the Senior team will hone their skills in specific player positions and learn to coordinate as a team in offence and defence.
 
-<img src="/images/BEL/bel-sd02i.jpg" style="width:100%">
+<img src="/images/BEL/bel-sd02j.jpg" style="width:100%">
 
 #### CCA Leaders
 
