@@ -19,12 +19,12 @@ description: ""
 
 |  |  |
 | -------- | -------- |
-| Primary 1 Guides     | &gt; [Ministry of Education Parent Kit](https://www.moe.gov.sg/parentkit)<br> &gt; [Schoolbag The Education New Site](https://www.schoolbag.edu.sg/)     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
+| Primary 1 Guides     | ❯ [Ministry of Education Parent Kit](https://www.moe.gov.sg/parentkit)<br>❯ [Schoolbag The Education New Site](https://www.schoolbag.edu.sg/)     |
+| Health Promotion Board      | ❯ [Colours of the Mind](https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/cotm-one)<br>❯ [Healthy Eating, Active Living](https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/healthy-eating-active-living)     |
+| Institute for Financial Literacy     | ❯ [MoneySense for Your Child (For parents of primary school goers aged 7-12)](/files/MoneySense_Primary%20Sch%20EDM%202022.pdf)<br>❯ [Ask-Me-Anything ‘MoneySense for Your Child’ Facebook Live](/files/AMA%20MoneySense%20For%20Your%20Child.pdf)     |
+| Fei Yue     | ❯ [Fei Yue Community Services](https://www.fycs.org/)<br>❯ [Family Central - a service by Fei Yue Community Services](https://www.family-central.sg/)<br>❯ [Parenting Support Services - subscription form](https://forms.office.com/pages/responsepage.aspx?id=enp5W2h6KEyJkTbCaPjr60xXTovmoVVHr8HSB-0UwTtUMk81RjhRSTZSOUhFWEZTVUswQ0pNMlhDQS4u)     |
+| Triple P     | ❯ [Positive Parenting Programme for Parents (2023)](/files/PPP2023.pdf)     |
+|      |       |
 
 
 Primary 1 Guides
