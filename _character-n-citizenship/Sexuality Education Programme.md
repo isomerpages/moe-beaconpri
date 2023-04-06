@@ -3,7 +3,7 @@ title: Sexuality Education Programme
 permalink: /character-n-citizenship/sex-ed/
 description: ""
 ---
-## Sexuality Education Programme
+### Sexuality Education Programme
 
 The Sexuality Education programme in Beacon Primary School follows the syllabus set by MOE. The programme aims to:
 
