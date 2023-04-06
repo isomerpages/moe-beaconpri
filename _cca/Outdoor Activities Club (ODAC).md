@@ -21,7 +21,7 @@ The Outdoor Activities Club (ODAC) CCA aims to develop outdoor skills through ac
 *   Orienteering and map reading
 *   Hiking
 
-<img src="/images/BEL/bel-sd02f.jpg" style="width:100%">
+<img src="/images/BEL/bel-sd02g.jpg" style="width:100%">
 
 #### CCA Leaders
 
