@@ -3,10 +3,10 @@ title: Percussion Ensemble
 permalink: /cca/percussion-ensemble/
 description: ""
 ---
-## Percussion Ensemble
+### Percussion Ensemble
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
-|:---:|---|---|---|
+|---|---|---|---|
 | Thursday | 2.15pm – 4.15pm | Music Rooms 1 &amp; 2, Level 4 | Mdm Goh Wee Peng<br><br>Mr Felix Cheong Mun Jee<br><br>Ms Li Chang |
 |  |  |  |  |
 
