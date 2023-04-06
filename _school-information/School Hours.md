@@ -21,7 +21,7 @@ To accommodate staggered lunch timings, lessons will end at 2 pm for P4 to P6 st
 
 Recess timings are staggered to reduce congestion and to have smaller groups of students. The timings for recess will not be the same for each day due to the constraints of the timetable. The schedule is as follows:
 
-<img src="/images/si_sh01.jpg" style="width:100%">
+<img src="/images/SI//si_sh01.jpg" style="width:100%">
 
 #### Dismissal Arrangements
 
