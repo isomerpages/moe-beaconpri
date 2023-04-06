@@ -3,10 +3,10 @@ title: Wushu
 permalink: /cca/wushu/
 description: ""
 ---
-## Wushu
+### Wushu
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
-|:---:|---|---|---|
+|---|---|---|---|
 | Thursday | 2.15pm – 4.15pm | School Hall, Level 2 | Mdm Wong Choy Hong  <br><br>Mrs Candice Huang-Tan Yar Hui<br><br>Mdm Toh Hui Ming |
 |  |  |  |  |
 
@@ -26,22 +26,12 @@ description: ""
 *   Members who have shown great interest and excel in any routines will be selected to join the School Team. They will be training for the National School Games Wushu Competition in individual or group routines.
 *   Aside from competition, Wushu is also actively involved in school performances such as Chinese New Year and the Year End Beacon Awards Ceremony Performance.
 
-<img src="/images/Wushu 2.jpg" style="width:49%" align=left>
-<img src="/images/Wushu 1.jpg" style="width:49%" align=right>
-<br clear="left"><br>
-
-<img src="/images/Wushu 4.jpg" style="width:49%" align=left>
-<img src="/images/Wushu 3.jpg" style="width:49%" align=right>
-<br clear="left"><br>
-
-<img src="/images/Wushu 5.jpg" style="width:49%" align=left>
-<img src="/images/Wushu 01.jpg" style="width:44%" align=right>
-<br clear="left">
+<img src="/images/BEL/bel-sd02k.jpg" style="width:100%">
 
 #### CCA Leaders
 
 | **Student Name** | **Class** | **Appointment** |
-|:---:|---|---|
+|---|---|---|
 | Rain Teo | P6.6 | Captain |
 | Erica Chia Xin Zhi | P6.3 | Vice-Captain |
 | Fang Yao | P5.4 | Level Rep |
