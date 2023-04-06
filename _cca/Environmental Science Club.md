@@ -21,11 +21,7 @@ description: ""
 *   Raise the level of environmental awareness in all students through level-wide and school-wide activities.
 *   Activities include litter-free environment, mozzie wipe-out, 4Rs, Upcycling, Earth Day commemoration and waste minimisation.
 
-<img src="/images/BEL/bel-sd02c.jpg" style="width:100%">
-
-<img src="/images/photo1668583472.jpeg" style="width:85%">
-
-<img src="/images/photo1668583512.jpeg" style="width:85%">
+<img src="/images/BEL/bel-sd02d.jpg" style="width:100%">
 
 #### CCA Leaders
 
