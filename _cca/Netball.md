@@ -29,7 +29,7 @@ Our Netball girls are engaged in:
 *   Ball handling
 *   Communication and teamwork
 
-<img src="/images/BEL/bel-sd02e.jpg" style="width:100%">
+<img src="/images/BEL/bel-sd02f.jpg" style="width:100%">
 
 #### CCA Leaders
 
