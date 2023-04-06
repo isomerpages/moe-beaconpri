@@ -28,9 +28,7 @@ Students annotate solfege on their full scores and practise regularly at home fr
 *   Exchange programmes with other schools
 *   P2 CCA showcase
 
-<img src="/images/BEL/bel-sd02c.jpg" style="width:100%">
-
-<img src="/images/photo1668583253.jpeg" style="width:85%">
+<img src="/images/BEL/bel-sd02b.jpg" style="width:100%">
 
 #### CCA Leaders
 
