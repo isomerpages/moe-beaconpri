@@ -3,10 +3,10 @@ title: Choir
 permalink: /cca/choir/
 description: ""
 ---
-## Choir
+### Choir
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
-|:---:|---|---|---|
+|---|---|---|---|
 | Thursday | 2.15pm – 4.15pm | Spotlight | Mdm Stella Loy Ann Ting<br><br>Mdm Phua Sor Lay<br><br>Mdm Wong Jing Mei Joyce |
 |  |  |  |  |
 
@@ -28,12 +28,14 @@ Students annotate solfege on their full scores and practise regularly at home fr
 *   Exchange programmes with other schools
 *   P2 CCA showcase
 
+<img src="/images/BEL/bel-sd02c.jpg" style="width:100%">
+
 <img src="/images/photo1668583253.jpeg" style="width:85%">
 
 #### CCA Leaders
 
 | **Student Name** | **Class** | **Appointment** |
-|:---:|---|---|
+|---|---|---|
 | Wang Joanna Mingxi | P6.6 | Chairperson |
 | Nadya Raushana Binte Abdul Ra'uf Rodney | P6.6 | Vice-Chairperson |
 |  |  |  |
