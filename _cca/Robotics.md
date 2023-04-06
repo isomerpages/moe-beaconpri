@@ -3,10 +3,10 @@ title: Robotics
 permalink: /cca/robotics/
 description: ""
 ---
-## Robotics
+### Robotics
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
-|:---:|---|---|---|
+|---|---|---|---|
 | Thursday | 2.15pm – 4.15pm | iConnect Rooms 1, 2 and 3 | Mr Siu Kai Chong  <br><br>Ms Juzain Binte Jasin<br><br>Mdm Siti Farina Binte Osman |
 |  |  |  |  |
 
@@ -26,18 +26,12 @@ The main objectives are to :<br>
 *   Learn advanced programming skills, electronics, and coding through mBots
 *   Be proficient in a variety of Information and Communications Technology (ICT) skills
 
-<img src="/images/Robotics 5.jpg" style="width:43%" align=left>
-<img src="/images/Robotics 3.jpg" style="width:49%" align=right>
-<br clear="left"><br>
-
-<img src="/images/Robotics 2.jpg" style="width:49%" align=left>
-<img src="/images/Robotics 4.jpg" style="width:49%" align=right>
-<br clear="left">
+<img src="/images/BEL/bel-sd02g.jpg" style="width:100%">
 
 #### CCA Leaders
 
 | **Student Name** | **Class** | **Appointment** |
-|:---:|---|---|
+|---|---|---|
 | Josiah Kee Songyi | P6.6 | Chairperson |
 | Eshton Isaiah Teo | P6.5 | Vice-Chairperson |
 | Ahmad Syahmi Bin Muhammad Sufian | P6.6 | Vice-Chairperson |
