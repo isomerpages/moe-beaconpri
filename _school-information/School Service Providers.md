@@ -3,7 +3,7 @@ title: School Service Providers
 permalink: /school-information/ssp/
 description: ""
 ---
-## School Service Providers
+### School Service Providers
 
 School service providers provide services that complement and support the delivery of curriculum and programmes. These services contribute towards the child’s well-being as well as creating an environment conducive for teaching and learning.  
   
@@ -18,15 +18,15 @@ The stalls in the school canteen serve:
 
 Although the school does not have a dedicated stall selling vegetarian food, students who are on a vegetarian diet may purchase the required food from the stalls selling Chinese cooked food and snacks. Students with special or strict dietary requirements are encouraged to bring their own food.
 
-[Click to view Canteen Menu >>](/files/Canteen%20Menu%202023.pdf)
+[Click to view Canteen Menu &gt;&gt;](/files/Canteen%20Menu%202023.pdf)
 
 #### School Dental Clinic
 
-The school dental clinic will be open on alternate weeks. Please refer to [HERE](https://drive.google.com/file/d/14ZaQsyodpe0x8dADttVObBB-FH0iMT5E/view?usp=share_link) for the Dental Clinic Opening Days. Please contact 91141358 (call/SMS/WhatsApp) to make an appointment for dental services.  
+The school dental clinic will be open on alternate weeks. Please refer to [HERE](https://drive.google.com/file/d/14ZaQsyodpe0x8dADttVObBB-FH0iMT5E/view?usp=share_link) for the Dental Clinic Opening Days. Please contact 91141358 (call/SMS/WhatsApp) to make an appointment for dental services.  
 
-In the event that the clinic is closed, students who need urgent dental treatment may contact Bukit Panjang Primary Dental Clinic at 91142186. 
+In the event that the clinic is closed, students who need urgent dental treatment may contact Bukit Panjang Primary Dental Clinic at 91142186.
 
-For emergency dental treatment such as facial/gum swelling, severe toothache and dental trauma, please contact School Dental Centre via email at [Contact\_YPS@hpb.gov.sg](mailto:Contact_YPS@hpb.gov.sg).
+For emergency dental treatment such as facial/gum swelling, severe toothache and dental trauma, please contact School Dental Centre via email at [Contact\_YPS@hpb.gov.sg](mailto:Contact_YPS@hpb.gov.sg).
 
 #### School Uniform Supplier
 
@@ -46,7 +46,7 @@ Open to Parents/Guardians of Students :<br>
 Wednesday and Friday: 1.50 pm to 2.50 pm<br>
 Tel: 6465 5523
 
-(**Note:** For purchase from school bookshop, parents are required to enter and exit through **Side Gate 1**)
+(**Note:** For purchase from school bookshop, parents are required to enter and exit through **Side Gate 1**)
 
 #### Booklist 2023
 
@@ -64,7 +64,7 @@ Blk 130 Choa Chu Kang Ave 1<br>
 #06-36, Singapore 680130<br>
 Tel: 6760 4835<br>
 Fax: 6892 5776<br>
-Email: [griflim@hotmail.com](mailto:griflim@hotmail.com)  
+Email: [griflim@hotmail.com](mailto:griflim@hotmail.com)  
   
 
 #### YMCA SCC@Beacon
@@ -72,4 +72,4 @@ Email: [griflim@hotmail.com](mailto:griflim@hotmail.com)
 YMCA School-based Student Care Centre operates within the school.<br>
 Landline: 6514 3190<br>
 Mobile: 8127 8049<br>
-Email: [bcscc@ymca.edu.sg](mailto:bcscc@ymca.edu.sg)
+Email: [bcscc@ymca.edu.sg](mailto:bcscc@ymca.edu.sg)
