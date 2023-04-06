@@ -6,7 +6,7 @@ third_nav_title: Special Programmes
 ---
 ### Beacon Future Ready Programme
 
-The Beacon Future Ready Programme (BFRP) is a key programme to develop&nbsp;**active and critically engaged citizens, and confident and creative learners**. With the school's desired outcomes at its core, the BFRP provides students with opportunities to acquire knowledge, skills and values to experience, explore and innovate, and build confidence through collaboration and demonstration.
+The Beacon Future Ready Programme (BFRP) is a key programme to develop **active and critically engaged citizens, and confident and creative learners**. With the school's desired outcomes at its core, the BFRP provides students with opportunities to acquire knowledge, skills and values to experience, explore and innovate, and build confidence through collaboration and demonstration.
 
 With an emphasis on “Environmental Sustainability”, students will develop skills in communication, problem-solving, computational thinking, values of care and empathy, while collaborating with their peers in various VIA (Values in Action) projects.
 
