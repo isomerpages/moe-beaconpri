@@ -3,7 +3,7 @@ title: School Hours
 permalink: /school-information/sch-hrs/
 description: ""
 ---
-## School Hours
+### School Hours
 
 Monday to Friday **:** 7.30 am to 1.30 pm
 
