@@ -17,6 +17,16 @@ description: ""
 
 #### Other Useful Sites
 
+|  |  |
+| -------- | -------- |
+| Primary 1 Guides     | &gt; [Ministry of Education Parent Kit](https://www.moe.gov.sg/parentkit)<br> &gt; [Schoolbag The Education New Site](https://www.schoolbag.edu.sg/)     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+
+
 Primary 1 Guides
 *   [Ministry of Education Parent Kit](https://www.moe.gov.sg/parentkit)
 *   [Schoolbag The Education New Site](https://www.schoolbag.edu.sg/)
