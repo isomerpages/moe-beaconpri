@@ -4,13 +4,13 @@ permalink: /beacon-experiential-learning/Student-Development-Programmes/sl/
 description: ""
 third_nav_title: Student Development Programmes
 ---
-## Student Leadership
+### Student Leadership
 
 #### “Every Beacon Is A Leader”
 
 Stemming from the belief that every Beacon is a Leader responsible for the well-being of oneself, society, and nation building, the schooling experience at Beacon aims to nurture Beacons with the necessary skills and values, providing them with opportunities to lead successfully. Our Student Leadership Programme leverages Beacon's SHINE values to provide student leaders with the necessary scaffolding at various tiers, so as to achieve the school’s desired outcomes. Our 3 Tier leadership framework ensures leadership opportunities for every Beacon to lead.
 
-<img style="width:70%" src="/images/download (1).png">
+<img src="/images/BEL/bel-sd03a.png" style="width:90%">
 
 #### Tier 1 Leadership
 
@@ -18,7 +18,7 @@ At Tier 1, students learn to Respect Self – a key driver that encapsulates stu
 
 Leadership roles: Group Leaders/ Asst Group Leaders, Subject Leaders, Class librarians, Class/Canteen Duty Leaders
 
-<img style="width:85%" src="/images/photo1668586671.jpeg">
+<img style="width:100%" src="/images/BEL/bel-sd03b.jpg">
 
 #### Tier 2 Leadership  
 
@@ -26,7 +26,7 @@ At Tier 2, students exhibit ‘Respect to Friends’ through cohort-based or gro
 
 Leadership roles: Prefects, CCA Leaders, Class Monitors, AVA Representatives, Green Ambassadors, NE Ambassadors, VIA Ambassadors, Cyber Champs, Student Peer Leaders, Buddy Readers
 
-<img style="width:85%" src="/images/photo1668586736.jpeg">
+<img style="width:100%" src="/images/BEL/bel-sd03c.jpg">
 
 #### Tier 3 Leadership  
 
@@ -37,7 +37,7 @@ At the highest tier, we have the School's Prefectorial Exco which comprises a bo
 <p align="center">Prefect Exco 2022/2023</p>
 
 |  |  |
-|:---:|---|
+|---|---|
 | Head Prefect | Yeow Bei Ning |
 | Vice-Head Prefect | Muhammad Shahir Mifzal Bin Muchamed Sha’ari |
 | Vice-Head Prefect | Nithya Sree Saravanan |
