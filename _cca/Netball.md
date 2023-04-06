@@ -3,10 +3,10 @@ title: Netball
 permalink: /cca/netball/
 description: ""
 ---
-## Netball
+### Netball
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
-|:---:|---|---|---|
+|---|---|---|---|
 | Thursday | 3.30pm – 5.30pm | Parade Square and Indoor Sports Hall<br><br>Foyer and Indoor Sports Hall<br>(if it rains) | Mdm Zainah Binte Alias<br><br>Mdm Lee Li Ying<br><br>Miss Arina Nadiah Binte Saifudin |
 |  |  |  |  |
 
@@ -29,18 +29,12 @@ Our Netball girls are engaged in:
 *   Ball handling
 *   Communication and teamwork
 
-<img src="/images/Netball 3.jpg" style="width:49%" align=left>
-<img src="/images/Netball 4.jpg" style="width:49%" align=right>
-<br clear="left"><br>
-
-<img src="/images/Netball 1.jpg" style="width:49%" align=left>
-<img src="/images/Netball 2.jpg" style="width:44%" align=right>
-<br clear="left"><br>
+<img src="/images/BEL/bel-sd02e.jpg" style="width:100%">
 
 #### CCA Leaders
 
 | **Student Name** | **Class** | **Appointment** |
-|:---:|---|---|
+|---|---|---|
 | Aisyah Adilah Binte Othman | P6.4 | Captain (Senior Team) |
 | Rachel Ong Rui Qi | P6.4 | Vice-Captain (Senior Team) |
 | Annette Arundhati Joseph | P6.6 | Captain (Junior Team) |
