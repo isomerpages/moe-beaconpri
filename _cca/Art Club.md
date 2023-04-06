@@ -25,9 +25,7 @@ Through teacher-led activities, the Art Club aims to enable students to:
 
 Sessions are planned and guided by the Studio Habits of Mind framework. Student-artists develop their craft through the exploration of traditional art mediums and unconventional materials. The teacher-led sessions are scaffolded for students to visually conceptualise ideas, enabling them to express their thoughts, imagination and emotions. Some examples of activities include batik painting, paper weaving, printmaking, tie-dye, clay sculpting, digital art, outdoor drawing, and learning journey to art museums. The Art club also participates actively in the biennial Singapore Youth Festival (SYF) Visual Arts Exhibition.
 
-<img src="/images/photo1668582687.jpeg" style="width:85%">
-
-<img src="/images/photo1668582728.jpeg" style="width:85%">
+<img src="/images/BEL/bel-sd02a.jpg" style="width:100%">
 
 #### CCA Leaders
 
