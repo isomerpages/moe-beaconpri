@@ -3,7 +3,7 @@ title: Art Club
 permalink: /cca/ac/
 description: ""
 ---
-## Art Club
+### Art Club
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
