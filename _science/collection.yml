@@ -1,0 +1,6 @@
+collections:
+  science:
+    output: true
+    order:
+      - Science.md
+      - 2021 Science Fair.md
