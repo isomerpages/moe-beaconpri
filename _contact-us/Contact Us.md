@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-us/contactus/
 description: ""
 ---
-## Contact Us
+### Contact Us
 
 Address: 36, Bukit Panjang Ring Road S(679944)<br>
 Tel: 67697255<br>
