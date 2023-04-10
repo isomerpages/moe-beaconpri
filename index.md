@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: ANNOUNCEMENT
+          description: ""
+          url: ""
         - title: quick links
           description: ""
           url: /quick-links/
