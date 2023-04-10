@@ -8,7 +8,7 @@ third_nav_title: Special Programmes
 
 Makerspace@Beacon was established for students to bring their ideas to life.
 
-With an emphasis on **Problem Solving** ;and **Experiential Learning**, teachers serve as facilitators for learning, guiding students as they pick up new skills, while bringing their ideas to realisation.
+With an emphasis on **Problem Solving** and **Experiential Learning**, teachers serve as facilitators for learning, guiding students as they pick up new skills, while bringing their ideas to realisation.
 
 Using Future **Problem Solving (FPS)** and **Design Think (DT)** as the guiding principles, students learn to Empathise with an area of concern, Define a specific challenge to tackle, Ideate for solutions, build a prototype and to test if their solutions work.
 
