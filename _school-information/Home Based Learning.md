@@ -136,6 +136,7 @@ Students can only contact the **SLS Helpdesk** outside the school operating hour
 | SLS Helpdesk     | : 6702 6513     |
 | Mondays - Fridays     | : 4:00 pm - 9:00 pm     |
 | Saturdays     | : 9:00 am - 9:00 pm     |
+| **Closed on Sunday &amp; Public Holidays     |     |
 
 
 *Closed on Sundays &amp; Public Holidays
