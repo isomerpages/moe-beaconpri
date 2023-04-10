@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Term 2 Important Dates
-          description: ""
-          url: /school-information/t4-impt-dates/
         - title: quick links
           description: ""
           url: /quick-links/
