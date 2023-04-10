@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENT
           description: ""
-          url: ""
+          url: /announcement/
         - title: quick links
           description: ""
           url: /quick-links/
@@ -18,4 +18,5 @@ sections:
           description: ""
           url: /school-information/P1-Registration-and-Information/vop/
       background: /images/hero01.jpg
+      url: /announcement
 ---
