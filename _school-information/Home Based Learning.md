@@ -9,10 +9,9 @@ In the event of school closures, Home-Based Learning (HBL) activities will be as
 
 #### HBL Instructions
 
-You may access the [HBL Site](https://go.gov.sg/bcps-hbl-site) for learning activity instructions. The site will be updated by 7 pm for the following day's learning activities.
+You may access the HBL Site for learning activity instructions. The site will be updated by 7 pm for the following day's learning activities.
 
-Please follow these steps to log in to the HBL Site:<br>
-Click [here](https://go.gov.sg/bcps-hbl-site) to access the HBL Site.
+Please follow these steps to log in to the [HBL Site &gt;&gt;](https://go.gov.sg/bcps-hbl-site)
 
 #### E-Learning Platforms
 
