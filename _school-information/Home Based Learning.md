@@ -12,7 +12,7 @@ In the event of school closures, Home-Based Learning (HBL) activities will be as
 You may access the [HBL Site](https://go.gov.sg/bcps-hbl-site) ;for learning activity instructions. The site will be updated by 7 pm for the following day's learning activities.
 
 Please follow these steps to log in to the HBL Site:<br>
-Click&nbsp;[here](https://go.gov.sg/bcps-hbl-site) to access the HBL Site.
+Click [here](https://go.gov.sg/bcps-hbl-site) to access the HBL Site.
 
 #### E-Learning Platforms
 
@@ -41,7 +41,9 @@ You may refer to the [B121 page](/beacon-experiential-learning/Special-Programme
 If you need to loan a learning device for your child, please email [beaconprisch_ICT@moe.edu.sg](mailto:beaconprisch_ICT@moe.edu.sg) to request. Please note that as devices available for loan are limited, please try to work within your household to share devices first.
 
 **Families on Financial Assistance**<br>
-IMDA has set up the [Neu PC Plus scheme](https://www.imda.gov.sg/programme-listing/neu-pc-plus) as a means for families on financial assistance the opportunity to own a computer and internet access at an affordable price. You may download the application form from the website and submit the form, along with supporting documents, to the school.
+IMDA is introducing a new DigitalAccess@Home scheme to provide subsidised broadband and digital devices (laptop or tablet) to low-income Singaporean households to strengthen digital inclusion. The scheme will replace the existing Home Access and NEU PC Plus programmes.&nbsp;
+
+From 3 April 2023, applicants may apply for the DigitalAccess@Home scheme online ([www.digitalaccess.gov.sg](http://www.digitalaccess.gov.sg/)) or by submitting a hardcopy application. They can also approach any of the 37 SG Digital community hubs and 4 self-help groups (CDAC, Eurasian Association, MENDAKI, SINDA) for assistance with applications.
 
 #### Support for Teacher-Student Live Interaction Sessions
 
