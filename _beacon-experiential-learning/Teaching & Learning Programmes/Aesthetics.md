@@ -10,7 +10,7 @@ third_nav_title: Teaching &amp; Learning Programmes
 
 Our Art programme at Beacon Primary aims to enable every child to enjoy art, communicate visually and make meaning through connecting with society and culture. Students will either work individually or in groups during art lessons to create, observe, explore, communicate, reflect and collaborate.
 
-<img src="/images/photo1668522461.jpeg" style="width:85%">
+<img src="/images/photo1668522461.jpeg" style="width:90%">
 
 Beacons learn through authentic art learning experiences such as the drawing module and putting together a class art exhibition, bringing about shared memories of their art learning experiences.
 
