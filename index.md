@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: announcements
-          description: Term 2 Important Dates
+        - title: Term 2 Important Dates
+          description: ""
           url: /school-information/t4-impt-dates/
         - title: quick links
-          description: Events Gallery
+          description: ""
           url: /quick-links/
-        - title: OPEN HOUSE
-          description: 2023 Open House
+        - title: 2023 OPEN HOUSE
+          description: ""
           url: /school-information/P1-Registration-and-Information/vop/
       background: /images/hero01.jpg
 ---
