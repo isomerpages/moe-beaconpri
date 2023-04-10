@@ -9,8 +9,8 @@ description: ""
 |  | | 
 | -------- | -------- | 
 | Address     | : 36, Bukit Panjang Ring Road S(679944)     |
-| Telephone     | : 67697255     |
-| Fax     | : 67697244     |
+| Telephone     | : 6769 7255     |
+| Fax     | : 6769 7244     |
 | Email     | : [beaconprisch@moe.edu.sg](mailto:beaconprisch@moe.edu.sg)     |
 |   |   |
 
