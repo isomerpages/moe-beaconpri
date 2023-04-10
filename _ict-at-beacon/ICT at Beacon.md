@@ -7,7 +7,7 @@ description: ""
 
 The use of Information and Communication Technology (ICT) in Beacon Primary School is integrated into the teaching and learning programmes. The school aims to develop every Beacon to achieve their highest potential, with the spirit of creativity and innovation.
 
-ICT at Beacon adopts a 3-stage model, segmenting the student population into 3 levels: lower, middle and upper primary. At the three levels, learning tasks are designed within the school's curriculum to incorporate the explicit learning of&nbsp;[New Media Literacies (NML)](/ict-at-beacon/nml/) and its abilities of **Curate**, **Create** and **Connect**.
+ICT at Beacon adopts a 3-stage model, segmenting the student population into 3 levels: lower, middle and upper primary. At the three levels, learning tasks are designed within the school's curriculum to incorporate the explicit learning of [New Media Literacies (NML)](/ict-at-beacon/nml/) and its abilities of **Curate**, **Create** and **Connect**.
 
 #### Lower Primary - Learn to Use
 
