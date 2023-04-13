@@ -59,4 +59,6 @@ Once your child has obtained their PLD, you may wish to guide your child in lear
 
 #### Families on Financial Assistance
 
-IMDA has set up the [NeuPC Plus scheme](https://www.imda.gov.sg/programme-listing/neu-pc-plus) as a means for families on financial assistance the opportunity to own a computer and internet access at an affordable price.
+IMDA is introducing a new DigitalAccess@Home scheme to provide subsidised broadband and digital devices (laptop or tablet) to low-income Singaporean households to strengthen digital inclusion. The scheme will replace the existing Home Access and NEU PC Plus programmes.&nbsp;
+
+From 3 April 2023, applicants may apply for the DigitalAccess@Home scheme online ([www.digitalaccess.gov.sg](http://www.digitalaccess.gov.sg/)) or by submitting a hardcopy application. They can also approach any of the 37 SG Digital community hubs and 4 self-help groups (CDAC, Eurasian Association, MENDAKI, SINDA) for assistance with applications.
