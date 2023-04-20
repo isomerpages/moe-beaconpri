@@ -34,16 +34,6 @@ For emergency dental treatment such as facial/gum swelling, severe toothache and
 | -------- |
 | 120 Hillview Avenue, #05-03<br>Kewalram Hillview<br>Singapore 669594<br>Tel: 6764 3102<br>Fax: 6764 1032     |
 
-
-
-Asencio Pte Ltd<br>
-120 Hillview Avenue<br>
-#05-03<br>
-Kewalram Hillview<br>
-Singapore 669594<br>
-Tel: 6764 3102<br>
-Fax: 6764 1032
-
 (Uniform can be purchased from school bookshop during school days or uniform retail shop)
 
 #### School Bookshop (By Pacific Book Shop)
@@ -55,6 +45,16 @@ Tel: 6465 5523
 (**Note:** For purchase from school bookshop, parents are required to enter and exit through **Side Gate 1**)
 
 #### Booklist 2023
+
+|  |  |
+| -------- | -------- |
+| [Primary 1 Booklist](/files/P1%20PDF.pdf)     | Text     |
+| [Primary 2 Booklist](/files/P2%20PDF.pdf)     | Text     |
+| &gt;&gt;     | [Primary 3 Booklist](/files/P3%20PDF.pdf)     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+
 
 *  [Primary 1 Booklist](/files/P1%20PDF.pdf)
 *  [Primary 2 Booklist](/files/P2%20PDF.pdf)
