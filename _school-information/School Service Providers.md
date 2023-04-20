@@ -32,17 +32,15 @@ For emergency dental treatment such as facial/gum swelling, severe toothache and
 
 | Asencio Pte Ltd |
 | -------- |
-| 120 Hillview Avenue, #05-03<br>Kewalram Hillview<br>Singapore 669594<br>Tel: 6764 3102<br>Fax: 6764 1032     |
-
-(Uniform can be purchased from school bookshop during school days or uniform retail shop)
+| 120 Hillview Avenue, #05-03<br>Kewalram Hillview<br>Singapore 669594<br>Tel: 6764 3102<br>Fax: 6764 1032      |
+| (Uniform can be purchased from school bookshop during school days or uniform retail shop) |
 
 #### School Bookshop (By Pacific Book Shop)
 
-Open to Parents/Guardians of Students :<br>
-Wednesday and Friday: 1.50 pm to 2.50 pm<br>
-Tel: 6465 5523
-
-(**Note:** For purchase from school bookshop, parents are required to enter and exit through **Side Gate 1**)
+| Open to Parents/Guardians of Students : |
+| -------- |
+| Wednesday and Friday: 1.50 pm to 2.50 pm<br>Tel: 6465 5523      |
+| (**Note:** For purchase from school bookshop, parents are required to enter and exit through **Side Gate 1**) |
 
 #### Booklist 2023
 
@@ -58,13 +56,10 @@ Tel: 6465 5523
 
 #### Bus Services
 
-Chang Chen Pte Ltd (w.e.f. 1 January 2022)<br>
-Blk 130 Choa Chu Kang Ave 1<br>
-#06-36, Singapore 680130<br>
-Tel: 6760 4835<br>
-Fax: 6892 5776<br>
-Email: [griflim@hotmail.com](mailto:griflim@hotmail.com)  
-  
+| Chang Chen Pte Ltd |
+| -------- |
+| Blk 130 Choa Chu Kang Ave 1<br>#06-36, Singapore 680130<br>Tel: 6760 4835<br>Fax: 6892 5776<br>Email: [griflim@hotmail.com](mailto:griflim@hotmail.com)      |
+ 
 
 #### YMCA SCC@Beacon
 
