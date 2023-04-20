@@ -63,7 +63,6 @@ For emergency dental treatment such as facial/gum swelling, severe toothache and
 
 #### YMCA SCC@Beacon
 
-YMCA School-based Student Care Centre operates within the school.<br>
-Landline: 6514 3190<br>
-Mobile: 8127 8049<br>
-Email: [bcscc@ymca.edu.sg](mailto:bcscc@ymca.edu.sg)
+| YMCA School-based Student Care Centre operates within the school |
+| -------- |
+| Tel: 6514 3190<br>Mobile: 8127 8049<br>Email: [bcscc@ymca.edu.sg](mailto:bcscc@ymca.edu.sg)    |
