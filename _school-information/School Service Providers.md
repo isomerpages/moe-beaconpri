@@ -37,9 +37,9 @@ For emergency dental treatment such as facial/gum swelling, severe toothache and
 
 #### School Bookshop (By Pacific Book Shop)
 
-| Open to Parents/Guardians of Students : |
+| |
 | -------- |
-| Wednesday and Friday: 1.50 pm to 2.50 pm<br>Tel: 6465 5523      |
+| **Open to Parents/Guardians of Students :** <br><br>Wednesday and Friday: 1.50 pm to 2.50 pm<br>Tel: 6465 5523      |
 | (**Note:** For purchase from school bookshop, parents are required to enter and exit through **Side Gate 1**) |
 
 #### Booklist 2023
