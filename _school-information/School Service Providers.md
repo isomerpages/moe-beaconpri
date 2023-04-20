@@ -30,7 +30,13 @@ For emergency dental treatment such as facial/gum swelling, severe toothache and
 
 #### School Uniform Supplier
 
-Asencio Pte Ltd<br>
+| Asencio Pte Ltd |
+| -------- |
+| 120 Hillview Avenue, #05-03<br>Kewalram Hillview<br>Singapore 669594<br>Tel: 6764 3102<br>Fax: 6764 1032     |
+
+
+
+<br>
 120 Hillview Avenue<br>
 #05-03<br>
 Kewalram Hillview<br>
