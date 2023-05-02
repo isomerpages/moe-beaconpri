@@ -7,7 +7,6 @@ description: ""
 
 | **Name** | **Designation** |
 |---|---|
-| Mdm Lim Hwee Kuan | Administration Manager |
 | Mr Tan Choon Hee | Operations Manager |
 | Mdm Noorzana Binte Sa'don | ICT Manager |
 | Mdm Nur Emilda Binte Mohamed | Admin Executive |

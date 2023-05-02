@@ -31,6 +31,5 @@ description: ""
 | Mdm Wahindah Bte Suhari | Senior Teacher/ Malay Language |
 | Mdm Norazlin Bte Jumadi | Senior Teacher / Educational Support |
 | Mrs Liew-Lim Hui Leng | Senior Teacher/ Mathematics |
-| Mdm Lim Hwee Kuan | Administration Manager |
 | Mr Tan Choon Hee | Operations Manager |
 |  |  |
