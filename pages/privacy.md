@@ -2,7 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-#### **BEACON PRIMARY SCHOOL PRIVACY STATEMENT**
+**BEACON PRIMARY SCHOOL PRIVACY STATEMENT**
 
 1.	This is a Beacon Primary School website. Thank you for examining our privacy statement.
 2.	If you are only browsing this website, we do not capture data that allows us to identify you individually.
