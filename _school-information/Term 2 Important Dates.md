@@ -27,4 +27,9 @@ description: ""
 | 8 | 9 May | P6 | Science Common Test |
 | 8 | 10 May | P6 | HMTL Common Test |
 | 9 | 17 May | All | **Admin Day** - No school for students |
+| 10 | 22 - 25 May | P1 - P5 | Beacon Experiential Learning Week |
+| 10 | 25 May | P1 &amp; P2 | Sports Day (dismissal at 10.30 am)<br>**Last day of school for P1 &amp; P2** |
+| 10 | 26 May | P3 - P6 | Games Carnival (dismissal at 10.30 am) |
+| 10 | 23 - 26 May | All | PTM via Zoom (PM) |
+|  | 29 May - 23 Jun | All | School Vacation |
 |  |  |  |  |
