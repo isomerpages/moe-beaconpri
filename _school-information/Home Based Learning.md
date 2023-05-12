@@ -7,10 +7,6 @@ description: ""
 
 In the event of school closures, Home-Based Learning (HBL) activities will be assigned by teachers to ensure continuity of learning. These activities include videos, textbook reading, work book tasks, online work, etc.
 
-#### HBL Instructions
-
-Please [Click to view](https://drive.google.com/file/d/1BhW1VrVegSg22uPi9o78Pt-veyA1jtwG/view?usp=share_link) for Admin Day HBL instructions.
-
 #### E-Learning Platforms
 
 Your child would have been given access to various online learning platforms like SLS, Google Suites, E-Zhishi, Raz-Kids (P1 to P4), Koobits, etc. Should you face issues accessing the online platforms, please email [beaconprisch_ICT@moe.edu.sg](mailto:beaconprisch_ICT@moe.edu.sg).
