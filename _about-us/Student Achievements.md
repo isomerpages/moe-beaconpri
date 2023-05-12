@@ -10,6 +10,7 @@ description: ""
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
 | SOTA Primary 6 Art Competition | Zu Xiyan<br>❯ Top 50 Finalist Award |
+| National Chinese Challenge | You Jing<br>❯  Top 20 scorers of the Preliminary Round |
 
 #### 2022
 
