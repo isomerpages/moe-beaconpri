@@ -53,17 +53,6 @@ At the highest tier, we have the School's Prefectorial Exco which comprises a bo
 
 | Year | P6 Head Prefect | P6 Vice-Head Prefect 1 | P6 Vice-Head Prefect 2 |
 | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     |
-
-
-
-
-
-
-
-
-|   |  |  | P6 Vice-Head Prefect 2 |
-| -------- | -------- | -------- | -------- |
 | 2013  | Ernie Herlynni Bte Herman     | Freda Marissa Shahrin     | Muhammad Raziq B Rozali     |
 | 2014  | Cassandra Seah Man Ling     | Samantha Seah Man Ru     | Sandeep Joseph Pugalendhi     |
 | 2015  | Sarah Qistina Bte Mazalan     | Ang Hui Wen, Rachel     | Manda Bey Shi Ning     |
