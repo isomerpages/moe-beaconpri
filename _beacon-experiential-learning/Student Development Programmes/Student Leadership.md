@@ -63,7 +63,7 @@ At the highest tier, we have the School's Prefectorial Exco which comprises a bo
 | 2020  | Liew Hng Kai Jethro     | Sahirah Darwisyah Binte Sheik Danil     | Ethan Hun Zhe Kai     |
 | 2021  | Josiah Kee Songyi     | Neo Kai En     | Thamilvanan Sahaanashri     |
 | 2022  | Teo Yu Ting Adeen     | Danis Alfie Bin Mazlan     | Alam Raifa Nashita     |
-| 2020  | Yeow Bei Ning     | Muhammad Shahir Mifzal Bin Muchamed Sha’ari     | Nithya Sree Saravanan     |
+| 2023  | Yeow Bei Ning     | Muhammad Shahir Mifzal Bin Muchamed Sha’ari     | Nithya Sree Saravanan     |
 |  |  |  |  |
 
 
