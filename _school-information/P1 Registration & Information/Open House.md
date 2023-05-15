@@ -10,7 +10,7 @@ Beacon Primary School is having our  Open House on Saturday, 1 July 2023 from 10
 
 Please [Click here](https://form.gov.sg/645ee0d3337d540012710b2d) to register for 2023 Open House.
 
-<img src="/images/SI/op2023b.jpg" style="width:100%">
+<img src="/images/SI/op2023b.jpg" style="width:85%">
 
 #### Here is a glimpse of year 2022’s Open House:
 
