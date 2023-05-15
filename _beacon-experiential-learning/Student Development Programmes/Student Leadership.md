@@ -47,8 +47,27 @@ At the highest tier, we have the School's Prefectorial Exco which comprises a bo
 | Exco Member | Kusyairi Hakim Bin Abdul Halim |
 |  |  |
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS43XkW7ecl6N1S_f_rBc-lS2fPfYWXYS0oZRur1_5MRWzGxh1LKfyZc9aCx5SEbk3EbMHC76Akj7rX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+#### Beacon Primary School - Prefectorial Board
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQYTTTHBrwFAlZT8I3wRFBw79DbcncX-KGgHh0ygk4OFb1MGtENU_Ad2Yqt5YFPLpkuhdlEiGoP5Jrn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+**Record of Head &amp; Vice Head Prefects** 
+| Year  | P6 Head Prefect | P6 Vice-Head Prefect 1 | P6 Vice-Head Prefect 2 |
+| -------- | -------- | -------- | -------- |
+| 2013  | Ernie Herlynni Bte Herman     | Freda Marissa Shahrin     | Muhammad Raziq B Rozali     |
+| 2014  | Cassandra Seah Man Ling     | Samantha Seah Man Ru     | Sandeep Joseph Pugalendhi     |
+| 2015  | Sarah Qistina Bte Mazalan     | Ang Hui Wen, Rachel     | Manda Bey Shi Ning     |
+| 2016  | Tan Kun Sheng     | Ng Huey Kit     | Troy Tan Hong Kai     |
+| 2017  | Tay Kai En     | Diya Sandhu     | Lee Hao Xuan, Brandon     |
+| 2018  | Lim Han Yen     | Kuek Yu Jing     | Liaw Shi Xuan, Valerie     |
+| 2019  | Jenelle Tan See Suen     | Iman Atrisyia Iwani Bte Nazarudi     | Neeshan S/O Suresh     |
+| 2020  | Liew Hng Kai Jethro     | Sahirah Darwisyah Binte Sheik Danil     | Ethan Hun Zhe Kai     |
+| 2021  | Josiah Kee Songyi     | Neo Kai En     | Thamilvanan Sahaanashri     |
+| 2022  | Teo Yu Ting Adeen     | Danis Alfie Bin Mazlan     | Alam Raifa Nashita     |
+| 2020  | Yeow Bei Ning     | Muhammad Shahir Mifzal Bin Muchamed Sha’ari     | Nithya Sree Saravanan     |
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQYqPaJbX-sA_JYWXuoYKhaOKzTSMoBpQpw_w_BAyC_Bl6a72Ddh4rp3VwxyCKNX_fkhK0dGyzYymD-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+
+<iframe allowfullscreen="true" height="350" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS43XkW7ecl6N1S_f_rBc-lS2fPfYWXYS0oZRur1_5MRWzGxh1LKfyZc9aCx5SEbk3EbMHC76Akj7rX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+<iframe allowfullscreen="true" height="350" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQYTTTHBrwFAlZT8I3wRFBw79DbcncX-KGgHh0ygk4OFb1MGtENU_Ad2Yqt5YFPLpkuhdlEiGoP5Jrn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+<iframe allowfullscreen="true" height="350" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQYqPaJbX-sA_JYWXuoYKhaOKzTSMoBpQpw_w_BAyC_Bl6a72Ddh4rp3VwxyCKNX_fkhK0dGyzYymD-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
