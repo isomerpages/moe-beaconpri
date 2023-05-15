@@ -50,7 +50,8 @@ At the highest tier, we have the School's Prefectorial Exco which comprises a bo
 #### Beacon Primary School - Prefectorial Board
 
 **Record of Head &amp; Vice Head Prefects** 
-| Year  | P6 Head Prefect | P6 Vice-Head Prefect 1 | P6 Vice-Head Prefect 2 |
+
+| Year | P6 Head Prefect | P6 Vice-Head Prefect 1 | P6 Vice-Head Prefect 2 |
 | -------- | -------- | -------- | -------- |
 | 2013  | Ernie Herlynni Bte Herman     | Freda Marissa Shahrin     | Muhammad Raziq B Rozali     |
 | 2014  | Cassandra Seah Man Ling     | Samantha Seah Man Ru     | Sandeep Joseph Pugalendhi     |
@@ -63,6 +64,7 @@ At the highest tier, we have the School's Prefectorial Exco which comprises a bo
 | 2021  | Josiah Kee Songyi     | Neo Kai En     | Thamilvanan Sahaanashri     |
 | 2022  | Teo Yu Ting Adeen     | Danis Alfie Bin Mazlan     | Alam Raifa Nashita     |
 | 2020  | Yeow Bei Ning     | Muhammad Shahir Mifzal Bin Muchamed Sha’ari     | Nithya Sree Saravanan     |
+|  |  |  |  |
 
 
 
