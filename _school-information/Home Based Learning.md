@@ -9,7 +9,7 @@ In the event of school closures, Home-Based Learning (HBL) activities will be as
 
 #### HBL Instructions
 
-Please [Click to view](https://drive.google.com/file/d/1BhW1VrVegSg22uPi9o78Pt-veyA1jtwG/view?usp=share_link) for Admin Day HBL instructions.
+Please [Click to view](https://drive.google.com/file/d/1mO8aJF2PTnFuFWLq8G8GZgEbnaoyaAJ4/view?usp=share_link) for Admin Day HBL instructions.
 
 #### E-Learning Platforms
 
