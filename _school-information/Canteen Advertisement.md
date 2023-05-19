@@ -42,9 +42,5 @@ All completed application forms must be submitted with the following:
 * Able to provide good service and quality food at reasonable price (to be determined in consultation with the school).
 * Able to observe a high standard of food and personal hygiene that meet NEA requirements.
 * Able to provide a varied and healthy/nutritional menu that meet HPB requirements (for this, stall-holder must participate in the Healthy Eating in Schools Programme).
-
-
-
-Successful applicant will be expected to commence operation of the stall as soon as possible.
-
-Shortlisted applicants will be invited for an interview and food sampling session at the school.
+* Successful applicant will be expected to commence operation of the stall as soon as possible.
+* Shortlisted applicants will be invited for an interview and food sampling session at the school.
