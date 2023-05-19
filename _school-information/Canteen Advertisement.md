@@ -25,5 +25,4 @@ Beacon Primary School is looking for a suitable vendor to operate:
 3. The completed form and supporting documents can be sent to the school or forwarded by email to beaconprisch@moe.edu.sg
 4. Successful applicant will be expected to commence operation of the stall as soon as possible.
 5. Shortlisted applicants will be invited for an interview and food sampling session at the school.
-
-The school is located at 36, Bukit Panjang Ring Road S(679944).
+6. The school is located at 36, Bukit Panjang Ring Road S(679944).
