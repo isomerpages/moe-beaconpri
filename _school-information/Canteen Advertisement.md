@@ -12,15 +12,6 @@ Beacon Primary School is looking for a suitable vendor to operate:
 | Chinese Noodle Stall     | Nil     |
 |  |  |
 
-| Applicants should be |
-| -------- |
-*  A Singaporean or Permanent Resident.
-* Able to provide good service and quality food at reasonable price (to be determined in consultation with the school).
-* Able to observe a high standard of food and personal hygiene that meet NEA requirements.
-* Able to provide a varied and healthy/nutritional menu that meet HPB requirements (for this, stall-holder must participate in the Healthy Eating in Schools Programme). 
-
-
-
 1. Applicants should be
 * A Singaporean or Permanent Resident.
 * Able to provide good service and quality food at reasonable price (to be determined in consultation with the school).
