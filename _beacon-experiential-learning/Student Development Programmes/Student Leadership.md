@@ -34,7 +34,7 @@ At the highest tier, we have the School's Prefectorial Exco which comprises a bo
 
 <img style="width:85%" src="/images/2022 P5 Prefect EXCO B.jpg">
 
-<p align="center">Prefect Exco 2022/2023</p>
+#### Prefect Exco 2022/2023
 
 |  |  |
 |---|---|
