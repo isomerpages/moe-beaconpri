@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - Canteen Advertisement.md
       - Term 2 Important Dates.md
       - School Hours.md
       - School Security and Safety/.keep
@@ -12,6 +11,7 @@ collections:
       - Home Based Learning.md
       - Home School Partnership.md
       - School Service Providers.md
+      - Canteen Advertisement.md
       - School Based Student Care Centre.md
       - Useful Links.md
       - Admin Forms.md
