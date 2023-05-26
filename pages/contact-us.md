@@ -10,8 +10,8 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 7.30am - 6.00pm
-        description: "Closed on Weekends & Public Holidays. "
+        time: 7.30am - 5.30pm
+        description: Closed on Weekends & Public Holidays.
     maps_link: https://www.google.com/maps?ll=1.383372,103.772703&z=16&t=m&hl=en&gl=SG&mapclient=embed&cid=3084448856791628022
     title: Address
 contacts:
