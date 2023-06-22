@@ -2,7 +2,6 @@ collections:
   beacon-school-team:
     output: true
     order:
-      - Professional Development.md
       - Beacon School Team.md
       - Steering Committee.md
       - P1 Teachers.md
@@ -13,3 +12,4 @@ collections:
       - P6 Teachers.md
       - School Counsellor and SEN Officers.md
       - Executive and Administrative Staff (EAS).md
+      - Professional Development.md
