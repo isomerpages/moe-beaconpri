@@ -27,6 +27,7 @@ description: ""
 | Mdm Goh Wee Peng | SH/ Aesthetics |
 | Mr Ng Renjie Ken | LH/ Mathematics |
 | Mdm Go Qiuxia | LH/ CCE |
+| Mr Foo Yaosheng | LH/ ICT |
 | Mdm Sri Devi d/o Sritharan (Mrs Siva) | Senior Teacher/ English |
 | Mdm Wahindah Bte Suhari | Senior Teacher/ Malay Language |
 | Mdm Norazlin Bte Jumadi | Senior Teacher / Educational Support |
