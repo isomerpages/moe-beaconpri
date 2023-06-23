@@ -39,6 +39,7 @@ description: ""
 | 9 | 23 Aug | P6 | Prelim Science<br> (dismissal after paper) |
 | 9 | 24 Aug | P6 | Prelim HTML Paper 1 &amp; 2 |
 | 9 | 21 - 23 Aug | P5 | Residential Camp<br> (dismissal on 23 Aug at 1.30 pm)  |
-| 9 | x | x | xxxx |
-
+| 10 | 31 Aug | All | Teachers’ Day Celebrations<br> (dismissal at 10.30 am). No CCA |
+| 10 | 1 Sep | All | **School Holiday** - Teachers' Day |
+| 10 | 4 - 8 Sep | All | School Vacation |
 |  |  |  |  |
