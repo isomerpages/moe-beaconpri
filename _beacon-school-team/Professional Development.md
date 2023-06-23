@@ -32,8 +32,8 @@ Apart from attending workshops and courses to develop themselves professionally,
 <img src="/images/PD/abt-pd11.jpg" style="width:49%" align="left">
 <img src="/images/PD/abt-pd12.jpg" style="width:49%" align="left">
 <img src="/images/PD/abt-pd13.jpg" style="width:49%" align="left">
-<img src="/images/whitebox.jpg" style="width:100%" align="left"><br>
-
+<img src="/images/whitebox.jpg" style="width:49%" align="left">
+<img src="/images/whitebox.jpg" style="width:49%" align="left"><br>
 
 
 #### Professional Development Visit
