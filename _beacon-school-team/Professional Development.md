@@ -31,7 +31,7 @@ Apart from attending workshops and courses to develop themselves professionally,
 <img src="/images/PD/abt-pd12.jpg" style="width:49%" align="left">
 <img src="/images/PD/abt-pd13.jpg" style="width:49%" align="left">
 <img src="/images/whitebox.jpg" style="width:49%" align="left">
-<img src="/images/whitebox.jpg" style="width:49%" align="left"><br>
+<img src="/images/whitebox.jpg" style="width:49%" align="left">
 
 ####   PD Visit
 
@@ -43,4 +43,3 @@ Apart from attending workshops and courses to develop themselves professionally,
 <img src="/images/PD/pd-mfs04.jpg" style="width:49%" align="left">
 <img src="/images/PD/pd-mfs05.jpg" style="width:49%" align="left">
 <img src="/images/PD/pd-mfs06.jpg" style="width:49%" align="left">
-
