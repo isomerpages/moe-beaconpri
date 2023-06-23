@@ -30,6 +30,15 @@ description: ""
 | 7 | 8 Aug | All | National Day Celebrations<br> (dismissal at 10.30 am)  |
 | 7 | 9 Aug | All | **Public Holiday** - National Day |
 | 7 | 10 Aug | All | **School Holiday** - National Day |
-| 7 | x | x | xxxx |
+| 8 | 15 Aug | P6 | PSLE Oral Day 1<br>Home-Based Learning for P1 to P5 |
+| 8 | 16 Aug | P6 | PSLE Oral Day 2<br>Home-Based Learning for P1 to P5 |
+| 8 | 17 Aug | P3 | GEP Screening Exercise |
+| 8 | 18 Aug | P6 | Prelim EL Paper 1 &amp; 2<br>(dismissal after paper) |
+| 9 | 21 Aug | P6 | Prelim Maths Paper 1 &amp; 2<br> (dismissal after paper) |
+| 9 | 22 Aug | P6 | Prelim MTL Paper 1 &amp; 2<br> (dismissal after paper) |
+| 9 | 23 Aug | P6 | Prelim Science<br> (dismissal after paper) |
+| 9 | 24 Aug | P6 | Prelim HTML Paper 1 &amp; 2 |
+| 9 | 21 - 23 Aug | P5 | Residential Camp<br> (dismissal on 23 Aug at 1.30 pm)  |
+| 9 | x | x | xxxx |
 
 |  |  |  |  |
