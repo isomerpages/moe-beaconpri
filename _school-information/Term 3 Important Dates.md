@@ -22,6 +22,14 @@ description: ""
 | 2 | 6 Jul | P1 &amp; P2 | Commencement of KidsRead<br> (2.15 to 4.15pm) |
 | 2 | 7 Jul | P3 - P5 | Commencement of CCM<br> (2.15 to 4.15 pm) |
 | 2 | 7 Jul | P5 | Commencement of E2K Science Enrichment<br> (2.15 to 3.45 pm, selected students) |
-| 1 | x | x | xxxx |
+| 3 | 15 Jul | P5 | NE Show |
+| 4 | 17 Jul | All | Racial Harmony Day Commemoration |
+| 4 | 18 Jul | P6 | Prelim Listening Comprehension |
+| 4 | 20 Jul | P6 | Prelim MTL e-Oral (PM) |
+| 4 | 21 Jul | P6 | Prelim EL Oral (PM) |
+| 7 | 8 Aug | All | National Day Celebrations<br> (dismissal at 10.30 am)  |
+| 7 | 9 Aug | All | **Public Holiday** - National Day |
+| 7 | 10 Aug | All | **School Holiday** - National Day |
+| 7 | x | x | xxxx |
 
 |  |  |  |  |
