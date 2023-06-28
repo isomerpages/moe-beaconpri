@@ -15,9 +15,7 @@ Apart from attending workshops and courses to develop themselves professionally,
 
 <img src="/images/PD/abt-pd01.jpg" style="width:49%" align="left">
 <img src="/images/PD/abt-pd02.jpg" style="width:49%" align="left">
-
 <img src="/images/PD/abt-pd03.jpg" style="width:90%">
-
 <img src="/images/PD/abt-pd04.jpg" style="width:49%" align="left">
 <img src="/images/PD/abt-pd05.jpg" style="width:49%" align="left">
 <br clear="left"><br>
@@ -32,11 +30,9 @@ Apart from attending workshops and courses to develop themselves professionally,
 <img src="/images/PD/abt-pd11.jpg" style="width:49%" align="left">
 <img src="/images/PD/abt-pd12.jpg" style="width:49%" align="left">
 <img src="/images/PD/abt-pd13.jpg" style="width:49%" align="left">
-<img src="/images/whitebox.jpg" style="width:49%" align="left">
-<img src="/images/whitebox.jpg" style="width:49%" align="left"><br>
+<img src="/images/whitebox.jpg" style="width:100%" align="left">
 
-
-####   PD Visit
+#### PD Visit
 
 30 staff from Beacon Primary School conducted a learning journey to My First Skool (MFS) at 6 Segar Road in 2023. Principal of MFS shared on the school's curriculum and programmes and conducted a tour for our staff. The learning at the preschool helps us in planning our programmes for the lower primary students.
 
