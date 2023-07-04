@@ -17,40 +17,35 @@ to-peer collaboration, sharing of good practices, learning journeys to other org
 development tools. Hence, time and space are set aside for staff to be engaged in these meaningful sharing/ learning opportunities at
 school level for their professional growth.
 
-| PD Training and Peer-to-Peer Collaboration | 
-| -------- |
-|      |
+**PD Training and Peer-to-Peer Collaboration**
 
-<img src="/images/PD/abt-pd06.jpg" style="width:49%" align="left">
-<img src="/images/PD/abt-pd07.jpg" style="width:49%" align="left">
-<img src="/images/PD/abt-pd08.jpg" style="width:49%" align="left">
-<img src="/images/PD/abt-pd01.jpg" style="width:49%" align="left">
-<img src="/images/PD/abt-pd11.jpg" style="width:49%" align="left">
-<img src="/images/PD/abt-pd09.jpg" style="width:49%" align="left">
-<img src="/images/PD/abt-pd05.jpg" style="width:49%" align="left">
-<img src="/images/PD/abt-pd10.jpg" style="width:49%" align="left">
+<img src="/images/PD/abt-pd06.jpg" style="width:50%" align="left">
+<img src="/images/PD/abt-pd07.jpg" style="width:50%" align="left">
+<img src="/images/PD/abt-pd08.jpg" style="width:50%" align="left">
+<img src="/images/PD/abt-pd01.jpg" style="width:50%" align="left">
+<img src="/images/PD/abt-pd11.jpg" style="width:50%" align="left">
+<img src="/images/PD/abt-pd09.jpg" style="width:50%" align="left">
+<img src="/images/PD/abt-pd05.jpg" style="width:50%" align="left">
+<img src="/images/PD/abt-pd10.jpg" style="width:50%" align="left">
+<br>
 
-| Sharing of Good Practices | 
-| -------- |
-|      |
+**Sharing of Good Practices**
 
-<img src="/images/PD/abt-pd02.jpg" style="width:49%" align="left">
-<img src="/images/PD/abt-pd04.jpg" style="width:49%" align="left">
-<img src="/images/PD/abt-pd02.jpg" style="width:49%" align="left">
-<img src="/images/PD/abt-pd02.jpg" style="width:49%" align="left">
+<img src="/images/PD/abt-pd02.jpg" style="width:50%" align="left">
+<img src="/images/PD/abt-pd04.jpg" style="width:50%" align="left">
+<img src="/images/PD/abt-pd02.jpg" style="width:50%" align="left">
+<img src="/images/PD/abt-pd02.jpg" style="width:50%" align="left">
+<br>
 
-| Learning Journey to My First Sckool (MFS) at Segar Road | 
-| -------- |
-|      |
+**Learning Journey to My First Sckool (MFS) at Segar Road**
 
-<img src="/images/PD/pd-mfs01.jpg" style="width:49%" align="left">
-<img src="/images/PD/pd-mfs02.jpg" style="width:49%" align="left">
-<img src="/images/PD/pd-mfs05.jpg" style="width:49%" align="left">
-<img src="/images/PD/pd-mfs06.jpg" style="width:49%" align="left">
+<img src="/images/PD/pd-mfs01.jpg" style="width:50%" align="left">
+<img src="/images/PD/pd-mfs02.jpg" style="width:50%" align="left">
+<img src="/images/PD/pd-mfs05.jpg" style="width:50%" align="left">
+<img src="/images/PD/pd-mfs06.jpg" style="width:50%" align="left">
+<br>
 
-| On-the-Job Training for Support Staff | 
-| -------- |
-|      |
+**On-the-Job Training for Support Staff**
 
-<img src="/images/PD/abt-pd12.jpg" style="width:49%" align="left">
-<img src="/images/PD/abt-pd13.jpg" style="width:49%" align="left">
+<img src="/images/PD/abt-pd12.jpg" style="width:50%" align="left">
+<img src="/images/PD/abt-pd13.jpg" style="width:50%" align="left">
