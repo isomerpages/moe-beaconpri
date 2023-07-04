@@ -10,7 +10,7 @@ Beacon Primary School had our Open House on Saturday, 1 July 2023 from 10am to 1
 
 Let's take a look at what happened during the Open House this year!
 
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1ZYl_RY_NpU" height="494" width="660"></iframe>
 
 
 #### Here is a glimpse of year 2022’s Open House:
