@@ -33,16 +33,15 @@ school level for their professional growth.
 
 <img src="/images/PD/abt-pd02.jpg" style="width:50%" align="left">
 <img src="/images/PD/abt-pd04.jpg" style="width:50%" align="left">
-<img src="/images/PD/abt-pd02.jpg" style="width:50%" align="left">
-<img src="/images/PD/abt-pd02.jpg" style="width:50%" align="left">
+<img src="/images/PD/abt-pd15.jpg" style="width:50%" align="left">
+<img src="/images/PD/abt-pd14.jpg" style="width:50%" align="left">
 <br>
 
 **Learning Journey to My First Sckool (MFS) at Segar Road**
 
 <img src="/images/PD/pd-mfs01.jpg" style="width:50%" align="left">
 <img src="/images/PD/pd-mfs02.jpg" style="width:50%" align="left">
-<img src="/images/PD/pd-mfs05.jpg" style="width:50%" align="left">
-<img src="/images/PD/pd-mfs06.jpg" style="width:50%" align="left">
+<img src="/images/PD/pd-mfs07.jpg" style="width:100%" align="left">
 <br>
 
 **On-the-Job Training for Support Staff**
