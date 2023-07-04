@@ -54,4 +54,3 @@ school level for their professional growth.
 
 <img src="/images/PD/abt-pd12.jpg" style="width:49%" align="left">
 <img src="/images/PD/abt-pd13.jpg" style="width:49%" align="left">
-
