@@ -27,6 +27,7 @@ school level for their professional growth.
 <img src="/images/PD/abt-pd09.jpg" style="width:50%" align="left">
 <img src="/images/PD/abt-pd05.jpg" style="width:50%" align="left">
 <img src="/images/PD/abt-pd10.jpg" style="width:50%" align="left">
+<img src="/images/whitebox.jpg" style="width:100%" align="left">
 <br>
 
 **Sharing of Good Practices**
@@ -35,6 +36,7 @@ school level for their professional growth.
 <img src="/images/PD/abt-pd04.jpg" style="width:50%" align="left">
 <img src="/images/PD/abt-pd15.jpg" style="width:50%" align="left">
 <img src="/images/PD/abt-pd14.jpg" style="width:50%" align="left">
+<img src="/images/whitebox.jpg" style="width:100%" align="left">
 <br>
 
 **Learning Journey to My First Sckool (MFS) at Segar Road**
@@ -42,6 +44,7 @@ school level for their professional growth.
 <img src="/images/PD/pd-mfs01.jpg" style="width:50%" align="left">
 <img src="/images/PD/pd-mfs02.jpg" style="width:50%" align="left">
 <img src="/images/PD/pd-mfs07.jpg" style="width:100%" align="left">
+<img src="/images/whitebox.jpg" style="width:100%" align="left">
 <br>
 
 **On-the-Job Training for Support Staff**
