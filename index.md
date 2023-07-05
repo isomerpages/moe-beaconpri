@@ -17,5 +17,5 @@ sections:
         - title: 2023 OPEN HOUSE
           description: ""
           url: /school-information/p1-registration-and-information/op/
-      background: /images/hero00.jpg
+      background: /images/hero03.jpg
 ---
