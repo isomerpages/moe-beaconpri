@@ -6,11 +6,12 @@ third_nav_title: P1 Registration & Information
 ---
 ### Open House
 
-Beacon Primary School is having our  Open House on Saturday, 1 July 2023 from 10am to 12pm. Come and embark on an immersive Beacon Experience and learn more about the school’s curriculum, distinctive programmes and our students’ CCA experiences!
+Beacon Primary School had our Open House on Saturday, 1 July 2023 from 10am to 12pm. Our teachers, staff and students worked hard to share with our visitors our curriculum, programmes and activities.
 
-Please [Click here](https://form.gov.sg/645ee0d3337d540012710b2d) to register for 2023 Open House.
+Let's take a look at what happened during the Open House this year!
 
-<img src="/images/SI/op2023b.jpg" style="width:85%">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1ZYl_RY_NpU" height="494" width="660"></iframe>
+
 
 #### Here is a glimpse of year 2022’s Open House:
 
