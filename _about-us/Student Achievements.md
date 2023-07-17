@@ -11,6 +11,20 @@ description: ""
 | -------- | -------- |
 | SOTA Primary 6 Art Competition | Zu Xiyan<br>❯ Top 50 Finalist Award |
 | National Chinese Challenge | You Jing<br>❯  Top 20 scorers of the Preliminary Round |
+| National Chinese Text Recitation Competition     | Yu Zichen<br>❯ Bronze   |
+| Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition     | Cui Enya<br>❯ Consolation Prize   |
+| Singapore Maths Kangaroo Contest     | Perfect Score<br>❯ Du Xingyi<br><br>Gold<br>❯ Du Xingyi<br>❯ Yu Zichen<br><br>Silver<br>❯ Tang Haochen<br>❯ He Xiang<br>❯ Li Xiaotian<br>❯ Vu Yi Kang<br>❯ Kojima Raimui<br><br>Bronze<br>❯ Xu Hanyu<br>❯ Loh Khun Bo, Frank<br>❯ Ma Shi Zhe<br>❯ Ying Sui Fung<br>❯ Jayden Tan Yan Bin<br>❯ Azzam Bin Rizan<br>❯ Konishi Kiyoharu<br>❯ Zheng, Zimeng<br>❯ Zheng Duomi<br>❯ Tay Kai Rui<br>❯ Zheng Duoqi<br>❯ Linn Yi Kai<br>❯ Raghu Deeran<br>❯ Jahn Kee Wenxuan<br>❯ Zhang Jiuya<br>❯ Jiang Yuchen<br>❯ Sih Poh Boon Christopher  |
+| Singapore and Asian Maths Olympiad     | Gold<br>❯ Wei Xinyuan<br>❯ Du Xingyi<br>❯ Yu Zichen<br>❯ Zheng Duoqi<br>❯ Zheng Duomi<br>❯ Sivanathan Isaiko<br><br>Silver<br>❯ He Xiang<br>❯ Lu Weiliao<br>❯ Jayden Tan Yan Bin<br>❯ Motwani Preet Sanjay<br>❯ Ekansh Mishra<br>❯ Jasson Lee Ze Yao<br><br>Bronze<br>❯ Tang Haochen<br>❯ Keith Ong Min Han<br>❯ Joseph Ng<br>❯ Ying Sui Fung<br>❯ Zhang Ziqi<br>❯ Shen Xin Zooey<br>❯ Loh Khun Bo, Frank<br>❯ Xu Hanyu<br>❯ Li Xiaotian<br>❯ Konishi Kiyoharu<br>❯ Avinash Shiv Kunasegaran<br>❯ Khoo Boo Yee Bowie<br>❯ Linn Yi Kai<br>❯ Vu Yi Kang<br>❯ Wei Yunhao<br>❯ Jahn Kee Wenxuan<br>❯ Ramachandran Naveen Sarvesh Raj<br>❯ Wei Yunxuan<br>❯ Dylan Wong Hang Hong<br>❯ Chong Yu Xian Seth<br>❯ Aki Toh Xing Yi<br>❯ Yumilesca Pang Yi Qin<br>❯ Kojima Raimu<br>❯ Jin Xinan<br>❯ Madhav Sridatta Dulam<br>❯ Ng Xin Ru Blaire<br>❯ Xu Shangyu   |
+| Asia-Pacific Mathematical Olympiad for Primary Schools     |  Yu Zichen<br>❯ Silver   |
+| SYF Art Exhibition - Category A    | Nathan Theu Rong Jie<br>❯ Certificate of Recognition   |
+| SYF Art Exhibition - Category B    | Certificate of Recognition   |
+| SYF Art Exhibition - Category C    | Certificate of Recognition   |
+| ActiveSG-TBAS Inter-School Tchoukball Championships     | Senior Division - 1st Runner Up   |
+| Chief Commissioner's Well-Done Badge for Scouts     | Nithya Sree Saravanan   |
+| National School Games Taekwondo Competition (Poomsae)     | Yellow 8 Belt Category (Junior)<br>❯ 1st - Goh Hong Yi<br>❯ 7th - Yongco Nicholas Reid Jo   |
+| National School Games Wushu Competition     | 6th Position in 5-Duan Nanquan (Senior)<br>❯ Chrystabel Tan Jing Wen<br><br>Brown Achievement Pin in 3-Duan Nanquan (Junior)<br>❯ Neo Jia Heng   |
+| SYF Celebrations Performance at DBS Esplanade Outdoor Theatre      | Percussion Ensemble<br>❯ 26 students, ranging from P3 - P5  |
+
 
 #### 2022
 
@@ -21,6 +35,10 @@ description: ""
 | National Orienteering Race | Yoshvin Sachhin Raj Sugumaran |
 |    | Mohammad Aif Dafi Bin Abdullah<br>❯ 3rd (Primary Schools Category)    |
 | National School Games - Badminton     | Teo Huan Min<br>❯ 1st in Juniors (3rd Tier)   |
+| National School Games -Football     | 1st in Tier 4 (Junior)   |
+| SPH Foundation National Primary Schools Tchoukball Championships     | Senior Girls - 1st   |
+| SYF Arts Presentation - Choir     | Certificate of Participation   |
+| SYF Arts Presentation - Percussion Ensemble     | Certificate of Participation   |
 					
 #### 2021
 
