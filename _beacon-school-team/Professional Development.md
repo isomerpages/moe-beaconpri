@@ -40,7 +40,7 @@ In addition to attending external workshops and courses to develop themselves pr
 
 <img src="/images/PD/pd-mfs01.jpg" style="width:50%" align="left">
 <img src="/images/PD/pd-mfs06.jpg" style="width:50%" align="left">
-<img src="/images/PD/pd-mfs07.jpg" style="width:100%" align="left">
+<img src="/images/PD/pd-mfs08.jpg" style="width:100%" align="left">
 <img src="/images/whitebox.jpg" style="width:100%" align="left">
 <br>
 
