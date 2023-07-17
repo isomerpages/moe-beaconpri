@@ -31,13 +31,15 @@ In addition to attending external workshops and courses to develop themselves pr
 <img src="/images/PD/abt-pd04.jpg" style="width:50%" align="left">
 <img src="/images/PD/abt-pd15.jpg" style="width:50%" align="left">
 <img src="/images/PD/abt-pd14.jpg" style="width:50%" align="left">
+<img src="/images/PD/abt-pd16.jpg" style="width:50%" align="left">
+<img src="/images/PD/abt-pd17.jpg" style="width:50%" align="left">
 <img src="/images/whitebox.jpg" style="width:100%" align="left">
 <br>
 
 **Learning Journey to My First Sckool (MFS) at Segar Road**
 
 <img src="/images/PD/pd-mfs01.jpg" style="width:50%" align="left">
-<img src="/images/PD/pd-mfs02.jpg" style="width:50%" align="left">
+<img src="/images/PD/pd-mfs06.jpg" style="width:50%" align="left">
 <img src="/images/PD/pd-mfs07.jpg" style="width:100%" align="left">
 <img src="/images/whitebox.jpg" style="width:100%" align="left">
 <br>
