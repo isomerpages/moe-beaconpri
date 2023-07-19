@@ -34,6 +34,6 @@ description: ""
 |---|---|---|
 | Chrystabel Tan Jing Wen | P6.5 | Captain |
 | Rayden Chan Yi Kai | P6.6 | Vice-Captain |
-| Toh Hui Min | P5.4 | Level Rep |
-| Neo Jia Heng | P5.5 | Level Rep |
+| Toh Hui Min | P5.4 | Vice-Captain |
+| Neo Jia Heng | P5.5 | Vice-Captain |
 |  |  |  |
