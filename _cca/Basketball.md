@@ -30,8 +30,8 @@ Students are divided into two teams, Junior (Primary 3 and 4) and Senior (Primar
 
 | **Student Name** | **Class** | **Appointment** |
 |---|---|---|
-| Jason Woon Jie Ren | P6.4 | Captain (Senior Team) |
-| Danys Akif Bin Mohammed Rafie | P6.5 | Vice-Captain (Senior Team) |
-| Kenjiro Teo Kai Feng | P5.3 | Captain (Junior Team) |
-| Manalo Dalwin Chrisander Arago | P5.3 | Vice-Captain (Junior Team) |
+| Nor Hakim Bin Abbas | P6.2 | Captain (Senior Team) |
+| Joven Tan | P6.2 | Vice-Captain (Senior Team) |
+| Yap Jing Rong | P5.6 | Captain (Junior Team) |
+| Vu Yi Kang | P5.6 | Vice-Captain (Junior Team) |
 |  |  |  |
