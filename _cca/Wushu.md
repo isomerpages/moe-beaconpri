@@ -32,8 +32,8 @@ description: ""
 
 | **Student Name** | **Class** | **Appointment** |
 |---|---|---|
-| Rain Teo | P6.6 | Captain |
-| Erica Chia Xin Zhi | P6.3 | Vice-Captain |
-| Fang Yao | P5.4 | Level Rep |
-| Rayden Chan Yi Kai | P4.5 | Level Rep |
+| Chrystabel Tan Jing Wen | P6.5 | Captain |
+| Rayden Chan Yi Kai | P6.6 | Vice-Captain |
+| Toh Hui Min | P5.4 | Level Rep |
+| Neo Jia Heng | P5.5 | Level Rep |
 |  |  |  |
