@@ -27,7 +27,7 @@ The Outdoor Activities Club (ODAC) CCA aims to develop outdoor skills through ac
 
 | **Student Name** | **Class** | **Appointment** |
 |---|---|---|
-| Peh Xuan Rong | P6.6 | Captain |
-| Eva Aqilah Binte Hidayat | P6.4 | Vice-Captain |
-| Muhammad Aiqal Rayyan Bin Md. Nazri | P6.2 | Level Rep |
+| Andi Alfie Bin Mazlan | P6.3 | Captain |
+| Ahmad Shafi Bin Muhammad Sufian | P6.2 | Vice-Captain |
+| Lee Jie Qing | P4.3 | Level Rep |
 |  |  |  |
