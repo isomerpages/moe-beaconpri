@@ -31,8 +31,8 @@ Students in the Junior team will familiarise themselves with the rules of the ga
 
 | **Student Name** | **Class** | **Appointment** |
 |---|---|---|
-| Lagamayo Eleazar Noe Jr Lapidario | P6.5 | Captain (Boys Team) |
-| Tay Ren Bin, Brenden | P5.5 | Vice-Captain (Boys Team) |
-| Thamilvanan Sahaanashri | P6.6 | Captain (Girls Team) |
-| Jacinda Toh Le Xin | P5.1 | Vice-Captain (Girls Team) |
+| Seng Wen Yuan | P6.3 | Captain (Boys Team) |
+| Byron Teo Cheng Jung | P5.4 | Vice-Captain (Boys Team) |
+| Tan Xin Tong Joy | P6.5 | Captain (Girls Team) |
+| Elfa Nur Adriana Binti Mohammad Yassin | P5.2 | Vice-Captain (Girls Team) |
 |  |  |  |
