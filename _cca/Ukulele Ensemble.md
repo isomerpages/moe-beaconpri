@@ -24,6 +24,6 @@ Sessions are planned and guided by professional instructors. The ukulele session
 
 | **Student Name** | **Class** | **Appointment** |
 |---|---|---|
-| Siti Maisarah Affiendi | P6.6 | Chairperson |
-| Shaadan Iqram Bin Yacob | P6.5 | Vice-Chairperson |
+| Yumilesca Pang Yi Qin | P6.6 | Chairperson |
+| Chan Wei Hong Shann | P5.5 | Vice-Chairperson |
 |  |  |  |
