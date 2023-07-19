@@ -27,6 +27,6 @@ description: ""
 
 | **Student Name** | **Class** | **Appointment** |
 |---|---|---|
-| Chong Shernice | P6.5 | Chairperson |
-| Lau Yi Bin | P6.4 | Vice-Chairperson |
+| Kang Som | P6.6 | Chairperson |
+| Zikry Mikhail Bin Indrazahri | P5.6 | Vice-Chairperson |
 |  |  |  |
