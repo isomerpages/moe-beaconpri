@@ -33,7 +33,8 @@ Scouting is a movement of self-education for young people, through a value syste
 
 | **Student Name** | **Class** | **Appointment** |
 |---|---|---|
-| Jaime Pat Rou Xuan | P6.6 | Chairperson |
-| Nurul Afiqah Binte Zuheri | P6.4 | Vice-Chairperson |
-| Muhammad Amir Bin Amri | P6.6 | Level Rep |
+| Pham Dang Khoa | P6.5 | Chairperson |
+| Nyla Alesha Binte Azhar | P5.2 | Vice-Chairperson |
+| Mukherjee Anusmit | P4.5 | Level Rep P3/4 |
+| Muhamad Irfan Aslam Bin Muhamad Aslizar | P5.3 | Level Rep P5/6 |
 |  |  |  |
