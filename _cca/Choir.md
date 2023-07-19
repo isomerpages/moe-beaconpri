@@ -34,6 +34,6 @@ Students annotate solfege on their full scores and practise regularly at home fr
 
 | **Student Name** | **Class** | **Appointment** |
 |---|---|---|
-| Wang Joanna Mingxi | P6.6 | Chairperson |
-| Nadya Raushana Binte Abdul Ra'uf Rodney | P6.6 | Vice-Chairperson |
+| Mark Ang Shi Hao | P6.5 | Chairperson |
+| Yong Ming Si | P6.4 | Vice-Chairperson |
 |  |  |  |
