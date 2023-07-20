@@ -32,8 +32,7 @@ description: ""
 | -------- | -------- |
 | Lee Kuan Yew All-Round Excellence Award | Josiah Kee Songyi |
 | North West Outstanding All Rounder Student Award | Josiah Kee Songyi |
-| National Orienteering Race | Yoshvin Sachhin Raj Sugumaran |
-|    | Mohammad Aif Dafi Bin Abdullah<br>❯ 3rd (Primary Schools Category)    |
+| National Orienteering Race | Yoshvin Sachhin Raj Sugumaran<br><br>Mohammad Aif Dafi Bin Abdullah<br>❯ 3rd (Primary Schools Category)  |
 | National School Games - Badminton     | Teo Huan Min<br>❯ 1st in Juniors (3rd Tier)   |
 | National School Games -Football     | 1st in Tier 4 (Junior)   |
 | SPH Foundation National Primary Schools Tchoukball Championships     | Senior Girls - 1st   |
