@@ -7,7 +7,7 @@ description: ""
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 2.15pm – 4.15pm | Dance Studio and Band Room 2 | Mdm Liyana Saad<br>Mdm Ng Wan Qing |
+| Thursday | 2.15pm – 4.15pm | Dance Studio and Band Room 2 | Mdm Liyana Saad<br><br>Mdm Ng Wan Qing |
 |  |  |  |  |
 
 #### Objectives
