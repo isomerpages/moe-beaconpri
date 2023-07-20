@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
-      - Dance.md
       - Co Curricular Activities.md
       - Art Club.md
       - Basketball.md
       - Choir.md
+      - Dance.md
       - Environmental Science Club.md
       - Football.md
       - Netball.md
