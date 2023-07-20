@@ -26,4 +26,9 @@ Our Percussion Ensemble members learning to play an instrument and perform colla
 
 #### CCA Leaders
 
-*   CCA started in 2021 and only has P3 students. Hence, there are no student leaders.
+| **Student Name** | **Class** | **Appointment** |
+|---|---|---|
+| Hiro Ramadhan Purbojati | P5.6 | Chairperson |
+| Hannah Ong Jing Han | P5.6 | Vice-Chairperson |
+| Oh Le Xuan | P5.4 | Vice-Chairperson |
+|  |  |  |

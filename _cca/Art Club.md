@@ -31,9 +31,8 @@ Sessions are planned and guided by the Studio Habits of Mind framework. Student-
 
 | **Student Name** | **Class** | **Appointment** |
 |---|---|---|
-| Mythili Kuru | P6.5 | Chairperson |
-| Yong Jing Lin Cherilyn (Yang Jinglin) | P6.5 | Vice-Chairperson |
-| Chong Sheryn | P5.3 | Level Rep |
-| Kayley Boi Wen Xuan | P4.3 | Level Rep |
-| Adni Alesha Binte Sharin | P3.1 | Level Rep |
+| Shinta Kuru | P6.3 | Chairperson |
+| Aw Yong Pei Shan | P6.6 | Vice-Chairperson |
+| Tan Yin Xuan | P5.4 | Level Rep |
+| Alvina Lyn Binte Mohammad Hanafi | P4.3 | Level Rep |
 |  |  |  |

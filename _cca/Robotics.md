@@ -32,7 +32,7 @@ The main objectives are to :<br>
 
 | **Student Name** | **Class** | **Appointment** |
 |---|---|---|
-| Josiah Kee Songyi | P6.6 | Chairperson |
-| Eshton Isaiah Teo | P6.5 | Vice-Chairperson |
-| Ahmad Syahmi Bin Muhammad Sufian | P6.6 | Vice-Chairperson |
+| Ang Hao You | P6.5 | Chairperson |
+| Adam Bin Rosli | P5.3 | Vice-Chairperson |
+| Motwani Preet Sanjay | P5.6 | Vice-Chairperson |
 |  |  |  |

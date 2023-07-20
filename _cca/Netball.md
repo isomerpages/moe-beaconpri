@@ -35,8 +35,8 @@ Our Netball girls are engaged in:
 
 | **Student Name** | **Class** | **Appointment** |
 |---|---|---|
-| Aisyah Adilah Binte Othman | P6.4 | Captain (Senior Team) |
-| Rachel Ong Rui Qi | P6.4 | Vice-Captain (Senior Team) |
-| Annette Arundhati Joseph | P6.6 | Captain (Junior Team) |
-| Eva Delylah Binte Shukor | P6.6 | Vice-Captain (Junior Team) |
+| Chua Li Xin | P6.5 | Captain (Senior Team) |
+| Ashley Kuan | P6.5 | Vice-Captain (Senior Team) |
+| Faith Kaitlyn Teo | P5.5 | Captain (Junior Team) |
+| Nur Qo'adrianna Binte Muhammad Qo'aza | P5.3 | Vice-Captain (Junior Team) |
 |  |  |  |

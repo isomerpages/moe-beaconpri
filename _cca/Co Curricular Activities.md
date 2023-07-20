@@ -5,7 +5,9 @@ description: ""
 ---
 ### Co-Curricular Activities
 
-CCA is an important part of our students’ holistic education and development. CCA enables students to realise their potential by providing them with opportunities to discover their interests and talents. In Beacon Primary School, we aim to cultivate in our students the joy of learning so that they are motivated to pursue their interests and talents in the long run. Our CCAs also emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds.
+CCA is an important part of our students’ holistic education and development. CCA enables students to realise their potential by providing them with opportunities to discover their interests and talents. In Beacon Primary School, we aim to cultivate in our students the joy of learning so that they are motivated to pursue their interests and talents in the long run. Our CCAs also emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds. cca schedule 2023
+
+❯ [Click for 2023 CCA Schedule ](/files/cca%20schedule%202023.pdf)
 
 #### Summary of CCAs offered in Beacon Primary School
 
@@ -17,7 +19,7 @@ Click on the links below to find out more about our CCAs.
 | [Football](/cca/fb/) | [Choir](/cca/choir/) | [Outdoor Activities Club (ODAC)](/cca/odac/) |  |
 | [Netball](/cca/netball/) | [Percussion Ensemble](/cca/percussion-ensemble/) | [Robotics](/cca/robotics/) |  |
 | [Tchoukball](/cca/tchoukball/) | [Ukulele Ensemble](/cca/ukulele/) |  |  |
-| [Wushu](/cca/wushu/) | Dance |  |  |
+| [Wushu](/cca/wushu/) | [Dance](/cca/dance/) |  |  |
 |  |  |  |  |
 
 #### CCA Policy

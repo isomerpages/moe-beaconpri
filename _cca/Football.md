@@ -29,8 +29,8 @@ We aim to make Football an enjoyable CCA for both competitive and recreational p
 
 | **Student Name** | **Class** | **Appointment** |
 |---|---|---|
-| Syazwi Aniqy Bin Mohammad Jazzuli | P6.6 | Captain (Senior Team) |
-| Muhammad Waldan Bin Rahmat | P6.3 | Vice-Captain (Senior Team) |
-| Sheik Darwisy Bin Sheik Danil | P5.4 | Captain (Junior Team) |
-| Muhammad Wazif Bin Zainol | P5.3 | Vice-Captain (Junior Team) |
+| Nguyen Cao Khanh | P6.6 | Captain (Senior Team) |
+| Iniesta Lim | P6.3 | Vice-Captain (Senior Team) |
+| Muhammad Ra'uf Azraqi Bin Muhammad Aliff | P5.2 | Captain (Junior Team) |
+| Konishi Kiyoharu | P4.5 | Vice-Captain (Junior Team) |
 |  |  |  |

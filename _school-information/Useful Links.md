@@ -11,8 +11,7 @@ description: ""
 *   [Parents Gateway](https://pg.moe.edu.sg/)  
 *   [Subject-based Banding for Primary School](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)  
 *   [Transition from Primary to Secondary education](https://www.moe.gov.sg/secondary/transition-to-secondary)  
-*   [Changes to PSLE Scoring and Sec 1 Posting From 2021](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html)  
-*   [Beacon Primary School HBL Website](https://sites.google.com/beaconpri.sg/home-based-learning/home)
+*   [Changes to PSLE Scoring and Sec 1 Posting From 2021](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html) 
 *   [WE-STories Publication 2023](https://online.fliphtml5.com/obrr/qkde/#p=1)
 
 #### Other Useful Sites
