@@ -27,7 +27,7 @@ their academic and non-academic pursuits.
 Open House and National Day concerts.
 3. Trainings for Singapore Youth Festival 2024.
 
-<img src="/images/BEL/bel-sd02b.jpg" style="width:100%">
+<img src="/images/BEL/bel-sd02m.jpg" style="width:100%">
 
 #### CCA Leaders
 
