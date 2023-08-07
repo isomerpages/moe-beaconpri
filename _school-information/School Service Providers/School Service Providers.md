@@ -2,6 +2,7 @@
 title: School Service Providers
 permalink: /school-information/ssp/
 description: ""
+third_nav_title: School Service Providers
 ---
 ### School Service Providers
 
@@ -22,7 +23,7 @@ Although the school does not have a dedicated stall selling vegetarian food, stu
 
 #### School Dental Clinic
 
-The school dental clinic will be open on alternate weeks. Please refer to [HERE](https://drive.google.com/file/d/1-liB3KfLvwOCu-4gyOZbhtb4Kd02gUFr/view?usp=sharing) for the Dental Clinic Opening Days. Please contact 91141358 (call/SMS/WhatsApp) to make an appointment for dental services.  
+The school dental clinic will be open on alternate weeks. Please refer to [HERE](/files/dentalclinic_aug23.pdf) for the Dental Clinic Opening Days. Please contact 91141358 (call/SMS/WhatsApp) to make an appointment for dental services.  
 
 In the event that the clinic is closed, students who need urgent dental treatment may contact Bukit Panjang Primary Dental Clinic at 91142186.
 
