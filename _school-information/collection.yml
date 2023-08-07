@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Service Providers/School Bus Advertisement.md
       - School Service Providers/.keep
       - Term 3 Important Dates.md
       - School Hours.md
