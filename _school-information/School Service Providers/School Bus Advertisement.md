@@ -21,6 +21,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 2. Submit the completed Call for Proposal – Annex A by closing date, **17 Aug 2023** to the School’s General Office.
 
 **Contact Us**
+
 |   |  |
 | --- | --- |
 | Address | : 36, Bukit Panjang Ring Road S(679944) |
