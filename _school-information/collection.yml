@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Bus Advertisement.md
       - Term 3 Important Dates.md
       - School Hours.md
       - School Security and Safety/.keep
