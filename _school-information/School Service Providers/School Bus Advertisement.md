@@ -22,7 +22,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 * Address: 36 Bukit Panjang Ring Road S(679944)
 * Contact No: 67697255
-* Email: nur_emilda_mohamed_jamil@schools.gov.sg
+* Email: [nur_emilda_mohamed_jamil@schools.gov.sg](mailto:nur_emilda_mohamed_jamil@schools.gov.sg)
 * Contact Person: Mdm Emilda
 
 
