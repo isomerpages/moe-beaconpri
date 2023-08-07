@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Service Providers/.keep
-      - School Bus Advertisement.md
       - Term 3 Important Dates.md
       - School Hours.md
       - School Security and Safety/.keep
