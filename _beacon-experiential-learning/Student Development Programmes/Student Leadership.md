@@ -38,13 +38,13 @@ At the highest tier, we have the School's Prefectorial Exco which comprises a bo
 
 |  |  |
 |---|---|
-| Head Prefect | Yeow Bei Ning |
-| Vice-Head Prefect | Muhammad Shahir Mifzal Bin Muchamed Sha’ari |
-| Vice-Head Prefect | Nithya Sree Saravanan |
-| Exco Member | Nathan Ng |
-| Exco Member | Denzyl Tan Tzi Jun |
-| Exco Member | Ashley Kuan |
-| Exco Member | Kusyairi Hakim Bin Abdul Halim |
+| Head Prefect | Chan Wei Hong Shann |
+| Vice-Head Prefect | Zikry Mikhail Bin Indrazahri |
+| Vice-Head Prefect | Lau Ching Yern, Jenna |
+| Exco Member | Nyla Alesha Binte Azhar |
+| Exco Member | Faith Kaitlyn Teo |
+| Exco Member | Hiro Ramadhan Purbojati |
+| Exco Member | Yu Zichen |
 |  |  |
 
 #### Beacon Primary School - Prefectorial Board
