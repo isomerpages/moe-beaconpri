@@ -64,12 +64,5 @@ At the highest tier, we have the School's Prefectorial Exco which comprises a bo
 | 2021  | Josiah Kee Songyi     | Neo Kai En     | Thamilvanan Sahaanashri     |
 | 2022  | Teo Yu Ting Adeen     | Danis Alfie Bin Mazlan     | Alam Raifa Nashita     |
 | 2023  | Yeow Bei Ning     | Muhammad Shahir Mifzal Bin Muchamed Sha’ari     | Nithya Sree Saravanan     |
+| 2024  | Chan Wei Hong Shann     | Zikry Mikhail Bin Indrazahri     | Lau Ching Yern, Jenna     |
 |  |  |  |  |
-
-
-
-<iframe allowfullscreen="true" height="350" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS43XkW7ecl6N1S_f_rBc-lS2fPfYWXYS0oZRur1_5MRWzGxh1LKfyZc9aCx5SEbk3EbMHC76Akj7rX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-<iframe allowfullscreen="true" height="350" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQYTTTHBrwFAlZT8I3wRFBw79DbcncX-KGgHh0ygk4OFb1MGtENU_Ad2Yqt5YFPLpkuhdlEiGoP5Jrn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-<iframe allowfullscreen="true" height="350" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQYqPaJbX-sA_JYWXuoYKhaOKzTSMoBpQpw_w_BAyC_Bl6a72Ddh4rp3VwxyCKNX_fkhK0dGyzYymD-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
