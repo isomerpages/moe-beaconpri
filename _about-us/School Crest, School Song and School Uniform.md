@@ -19,7 +19,7 @@ The design also portrays the journey of a pathfinder charting new directions and
 
 #### Uniform
 
-<img src="/images/abt-sch01.jpg" style="width:80%">
+<img src="/images/abt-sss01.jpg" style="width:60%">
 
 The school uniform consists of two main colours - white and blue. The colour white projects purity and neutrality, and signifies a successful beginning. Blue represents openness and portrays vastness and possibilities. In addition, the thin white stripes on the girls' blue pinafore represent shining rays of light as from a beacon. The pinafore's 5-sided neckline depicts our five desired outcomes for the pupils.
 
@@ -31,4 +31,4 @@ The school uniform consists of two main colours - white and blue. The colour whi
 
 The composition of our school song started in 2007 (before the school officially started). The school song encapsulates both our values and aspirations. The work was completed in 2008 and the song was proudly sung by the Beacon community for the first time at our inaugural Beacon Awards Ceremony on 14 Nov 2008.
 
-<img src="/images/BCPS Song - Shining Bright.png" style="width:70%">
+<img src="/images/BCPS Song - Shining Bright.png" style="width:60%">
