@@ -5,14 +5,6 @@ description: ""
 ---
 ### Useful Links
 
-|  |  |
-| -------- | -------- |
-| ❯ [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)<br><br>❯ [Student iCon Log In](https://workspace.google.com/dashboard)<br><br>❯ [Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/financial-assistance)<br><br>❯ [Parents Gateway](https://pg.moe.edu.sg/) <br><br>❯ x<br><br>❯ x   |  |
-| ❯ [Parents Gateway](https://pg.moe.edu.sg/) |  |
-| ❯ [Parents Gateway](https://pg.moe.edu.sg/) |  |
-|  |  |
-| -------- | -------- |
-
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 *   [Student iCon Log In](https://workspace.google.com/dashboard)  
 *   [Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/financial-assistance)  
