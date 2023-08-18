@@ -7,7 +7,7 @@ third_nav_title: Student Development Programmes
 ### Student Development Programmes
 
 <p><a href="/character-n-citizenship/cc/">
-<img src="/images/BEL/bel-sd01.jpg" style="width:49%" align="left"></a></p>
+<img src="/images/BEL/bel-sd01a.jpg" style="width:49%" align="left"></a></p>
 
 <p><a href="/cca/cca/">
 <img src="/images/BEL/bel-sd02.jpg" style="width:49%" align="left"></a></p>
