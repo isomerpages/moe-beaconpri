@@ -24,6 +24,8 @@ description: ""
 | National School Games Taekwondo Competition (Poomsae)     | Yellow 8 Belt Category (Junior)<br>❯ 1st - Goh Hong Yi<br>❯ 7th - Yongco Nicholas Reid Jo   |
 | National School Games Wushu Competition     | 6th Position in 5-Duan Nanquan (Senior)<br>❯ Chrystabel Tan Jing Wen<br><br>Brown Achievement Pin in 3-Duan Nanquan (Junior)<br>❯ Neo Jia Heng   |
 | SYF Celebrations Performance at DBS Esplanade Outdoor Theatre      | Percussion Ensemble<br>❯ 26 students, ranging from P3 - P5  |
+| Cepat Tepat Quiz      | First Runner Up<br>❯ Auni Safwah Binte Muhammad Irwan<br>❯ Hiro Ramadhan Purbojati<br>❯ Syafeeq Rizq Ihsan Bin Mohammad Rizal<br>❯ Zikry Mikhail Bin Indrazahri  |
+|  |  |
 
 
 #### 2022
@@ -38,6 +40,7 @@ description: ""
 | SPH Foundation National Primary Schools Tchoukball Championships     | Senior Girls - 1st   |
 | SYF Arts Presentation - Choir     | Certificate of Participation   |
 | SYF Arts Presentation - Percussion Ensemble     | Certificate of Participation   |
+|  |  |
 					
 #### 2021
 
@@ -49,12 +52,14 @@ description: ""
 | SORPOR (National Tamil Debate Competition)    | ❯ Nithya Sree Saravanan<br>❯ Elango Manisha<br>❯ Selvakarthik Kathir<br>❯ Thamilvanan Sahaanashri    |
 | North West Outstanding All Rounder Student Award    | ❯ Liew Hng Kai Jethro<br>❯ Tan Jia Ying Carrene    |
 | Text Recital Competition    | ❯ Yu Zichen - Silver Award<br>❯ Angel Julia Chee - Bronze Award<br>❯ Liu Yixin - Bronze Award<br>❯ Kady Yik - Bronze Award<br>❯ Teo Huan Ming - Bronze Award    |
+|  |  |
 
 #### 2020
 
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
 | NDP 2020 Funpack Artwork Contest     | Yi En    | 
+|  |  |
 
 #### 2019
 
@@ -66,6 +71,7 @@ description: ""
 | 9th National Primary School Photo Competition     | Merit Award    | 
 | SPH Foundation National Primary Schools Tchoukball Championships     | ❯ Senior Girls - 4th<br>❯ Senior Boys - 1st in Bowl Division    | 
 | Gemilang Tari Si Cilik (Traditional Malay Dance Competition)     |     | 
+|  |  |
 
 #### 2018
 
@@ -76,6 +82,7 @@ description: ""
 | SYF Arts Presentation - Malay Dance     | Distinction Award   | 
 | SYF Arts Presentation - Chinese Dance     | Distinction Award    | 
 | SYF Arts Presentation - Choir     | Certificate of Accomplishment    | 
+|  |  |
 
 #### 2017
 
@@ -96,6 +103,7 @@ description: ""
 | Singapore-Asia Pacific Mathematics Olympiad     | 2 Bronze     | 
 | National on-the-spot Chinese Story Writing competition     | Merit Award     | 
 | The 23rd National Primary Schools on-the-spot Chinese Creative Essay Writing Competition     | Excellent Prize Award     | 
+|  |  |
 
 #### 2016
 
@@ -115,6 +123,7 @@ description: ""
 | Singapore and Asian School Mathematical Olympiad     | ❯ 5 Gold<br>❯  Silver<br>❯  15 Bronze     | 
 | Singapore Asia-Pacific Mathematical Olympiad for Primary School     | 1 Bronze    | 
 | Chinese Language - 1st National Chinese Idiom Competition     | 5th     | 
+|  |  |
 
 #### 2015
 
@@ -142,6 +151,7 @@ description: ""
 | National Math Olympiad of Singapore     | ❯ 1 Bronze<br>❯ 3 Honorable Mentions    | 
 | National Wushu Competition     | 3rd     | 
 | Chinese Language - 6th "Global Village" Children &amp; Youths bilingual speech contest     | 3rd     | 
+|  |  |
 
 #### 2014
 
@@ -152,6 +162,7 @@ description: ""
 | SYF Arts Presentation - Malay Dance     | Certificate of Distinction     | 
 | SYF Arts Presentation - Chinese Dance     | Certificate of Distinction     | 
 | SYF Arts Presentation - Choir     | Certificate of Distinction    | 
+|  |  |
 
 #### 2013
 
@@ -163,6 +174,7 @@ description: ""
 | National Photography Festival (Primary Schools)     | Tee Yu Ling<br>❯ Best Picture Award    | 
 | Inter-Primary Tchoukball Championship     | ❯ Senior Girls - Champion<br>❯ Senior Boys - Champion    | 
 | Asia Pacific Tchoukball Competition (Pattaya, Thailand) - represent Singapore in the Under-12 competition    | Ang Wei Jie     | 
+|  |  |
 
 #### 2012
 
@@ -178,6 +190,7 @@ description: ""
 | Frank Cooper Sands Award for Scouts     | Silver    | 
 | National Primary School Photography Competition     | 3rd    | 
 | YMCA Story-Telling Competition     | Wee Liang Sheng<br>❯ Silver Honour Roll    | 
+|  |  |
 
 #### 2011
 
@@ -196,6 +209,7 @@ description: ""
 | Tamil Language Competition     | Anand Selvin Alan<br>❯ Consolation Prize    | 
 | HDB's Heartland Beat Art Competition     | Pandora Han<br>❯ 3rd    | 
 | Interschool Tchoukball Competition     | ❯ Girls Team - 1st<br>❯ Boys Team - 2nd     | 
+|  |  |
 
 #### 2010
 
@@ -209,6 +223,7 @@ description: ""
 | National Chinese Poetry Competition     | ❯ 2 Gold<br>❯ 1 Silver<br>❯ 3 Bronze    | 
 | Malay Language National Blogging Competition Primary School Category     | ❯ 1st<br>❯ 3rd<br>❯ 4 Consolation Prices<br>❯ 1 Lang Ambassador Title<br>❯ 7 came in top 12 (out of 8 submissions)    | 
 | National ML Storytelling Competition     | ❯ 1 Gold<br>❯ 1 Silver    |  
+|  |  |
 
 #### 2009
 
@@ -218,6 +233,7 @@ description: ""
 | National iSports Media Challenge - Primary School Category     | 3rd    |
 | Sony Creative Science Award - ScizKid P1/P2 Category     | Merit Award   | 
 | 9th Ho Peng Kee Student Talent Competition Avid Readers Contest P1-3 Category     | 2nd    |
+|  |  |
 
 #### 2008
 
@@ -226,3 +242,4 @@ EVENTS | ACHIEVEMENTS |
 | Solar City Competition     | Most Functional Project Award    | 
 | Malay Language National Blogging Competition Primary School Category     | 1st    |
 | Kids' Biennale Art competition: On-The-Spot Art Competition – Public’s Choice Lower Primary Category     | 1st    |
+|  |  |
