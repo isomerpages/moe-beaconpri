@@ -19,7 +19,7 @@ The stalls in the school canteen serve:
 
 Although the school does not have a dedicated stall selling vegetarian food, students who are on a vegetarian diet may purchase the required food from the stalls selling Chinese cooked food and snacks. Students with special or strict dietary requirements are encouraged to bring their own food.
 
-[Click to view Canteen Menu &gt;&gt;](/files/canteen%20menu%202023.pdf)
+❯ [Click to view Canteen Menu](/files/canteen%20menu%202023.pdf)
 
 #### School Dental Clinic
 
@@ -56,8 +56,10 @@ For emergency dental treatment such as facial/gum swelling, severe toothache and
 
 | Chang Chen Pte Ltd |
 | -------- |
-| Blk 130 Choa Chu Kang Ave 1<br>#06-36, Singapore 680130<br>Tel: 6760 4835<br>Fax: 6892 5776<br>Email: [griflim@hotmail.com](mailto:griflim@hotmail.com)      |
- 
+| Blk 130 Choa Chu Kang Ave 1<br>#06-36, Singapore 680130<br>Tel: 6760 4835<br>Fax: 6892 5776<br>Email: [griflim@hotmail.com](mailto:griflim@hotmail.com) |
+
+❯ [Request for School Bus Services Form](/files/school%20bus%20services.pdf)
+
 
 #### YMCA SCC@Beacon
 
