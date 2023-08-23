@@ -10,8 +10,10 @@ Beacon Primary School is looking for a suitable vendor to operate:
 
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-| Chinese Noodle Stall     | Nil     | Nil     |
+| Cold Drinks & Cut Fruits Stall     | Nil     | Nil     |
 |  |  |
+
+Impt* - Vendor strictly cannot sell any sugary drinks like 100 Plus, Procari,  Ice Lemon Tea, etc.
 
 #### Application Procedure
 
