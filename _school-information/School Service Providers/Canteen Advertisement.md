@@ -2,6 +2,7 @@
 title: Canteen Advertisement
 permalink: /school-information/ca/
 description: ""
+third_nav_title: School Service Providers
 ---
 ### School Canteen
 
@@ -9,8 +10,10 @@ Beacon Primary School is looking for a suitable vendor to operate:
 
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-| Chinese Noodle Stall     | Nil     | Nil     |
+| Cold Drinks & Cut Fruits Stall     | Nil     | Nil     |
 |  |  |
+
+Impt* - Vendor strictly cannot sell any sugary drinks like 100 Plus, Procari,  Ice Lemon Tea, etc.
 
 #### Application Procedure
 
@@ -41,6 +44,8 @@ All completed application forms must be submitted with the following:
 * A Singaporean or Permanent Resident.
 * Able to provide good service and quality food at reasonable price (to be determined in consultation with the school).
 * Able to observe a high standard of food and personal hygiene that meet NEA requirements.
-* Able to provide a varied and healthy/nutritional menu that meet HPB requirements (for this, stall-holder must participate in the Healthy Eating in Schools Programme).
-* Successful applicant will be expected to commence operation of the stall as soon as possible.
+* Able to provide a varied and healthy/nutritional menu that meet HPB requirements (for this, stall-holder must participate in the Healthy Meals in Schools Programme (hpb.gov.sg).)
+* Must be in personal attendance at the stall during operation hours.
+* If offered a canteen stall, applicant and assistant must complete the Basic Food Hygiene Course conducted by SkillsFuture Singapore’s accredited training providers and then apply for hawker licence from the Singapore Food Agency (SFA).
+* Successful applicant will be expected to commence operation of the stall in **Jan 2024**.
 * Shortlisted applicants will be invited for an interview and food sampling session at the school.
