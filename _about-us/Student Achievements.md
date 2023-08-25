@@ -9,7 +9,7 @@ description: ""
 
 | EVENTS | ACHIEVEMENTS |
 | -------- | -------- |
-| SOTA Primary 6 Art Competition | Zu Xiyan<br>❯ Top 50 Finalist Award |
+| SOTA Primary 6 Art Competition | Zu Xiyan<br>❯ Top 10 Finalist Award |
 | National Chinese Challenge | You Jing<br>❯  Top 20 scorers of the Preliminary Round |
 | National Chinese Text Recitation Competition     | Yu Zichen<br>❯ Bronze   |
 | Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition     | Cui Enya<br>❯ Consolation Prize   |
