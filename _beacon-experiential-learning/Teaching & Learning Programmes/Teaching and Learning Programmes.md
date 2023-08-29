@@ -2,7 +2,7 @@
 title: Teaching and Learning Programmes
 permalink: /beacon-experiential-learning/Teaching-and-Learning-Programmes/tnl/
 description: ""
-third_nav_title: Teaching &amp; Learning Programmes
+third_nav_title: Teaching & Learning Programmes
 ---
 ### Teaching and Learning Programmes
 
@@ -17,7 +17,7 @@ third_nav_title: Teaching &amp; Learning Programmes
 <img src="/images/BEL/bel-tl03.jpg" style="width:49%" align="left">
 </a></p>
 
-<p><a href="/science/sci/">
+<p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/science/">
 <img src="/images/BEL/bel-tl04.jpg" style="width:49%" align="left">
 
 </a></p><p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/aesthetics/">
