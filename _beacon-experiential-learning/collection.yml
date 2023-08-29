@@ -2,6 +2,7 @@ collections:
   beacon-experiential-learning:
     output: true
     order:
+      - Teaching & Learning Programmes/Mathematics.md
       - Teaching & Learning Programmes/English Language.md
       - Teaching & Learning Programmes/.keep
       - Special Programmes/.keep
