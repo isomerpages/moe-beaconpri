@@ -17,7 +17,7 @@ third_nav_title: Teaching & Learning Programmes
 <img src="/images/BEL/bel-tl03.jpg" style="width:49%" align="left">
 </a></p>
 
-<p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/science/">
+<p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/science/sci/">
 <img src="/images/BEL/bel-tl04.jpg" style="width:49%" align="left">
 
 </a></p><p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/aesthetics/">
