@@ -2,7 +2,7 @@
 title: Programme for Active Learning
 permalink: /beacon-experiential-learning/Teaching-and-Learning-Programmes/al/
 description: ""
-third_nav_title: Teaching &amp; Learning Programmes
+third_nav_title: Teaching & Learning Programmes
 ---
 ### Programme for Active Learning
 

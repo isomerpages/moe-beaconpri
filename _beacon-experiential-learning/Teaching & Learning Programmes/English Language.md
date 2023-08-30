@@ -2,7 +2,7 @@
 title: English Language
 permalink: /beacon-experiential-learning/Teaching-and-Learning-Programmes/el/
 description: ""
-third_nav_title: Teaching &amp; Learning Programmes
+third_nav_title: Teaching & Learning Programmes
 ---
 ### English Language
 
