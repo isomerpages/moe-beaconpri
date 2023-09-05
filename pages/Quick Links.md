@@ -6,7 +6,14 @@ description: ""
 ### Quick Links
 
 
-*   [Events Gallery](/school-events/event-gallery/2023/) <br>
+
+|  |
+| -------- |
+| &gt;     |
+
+
+
+
 *   [Student ICON log in](https://workspace.google.com/dashboard)  <br>
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/login)<br>
 *   [HBL Site](https://sites.google.com/beaconpri.sg/home-based-learning/home)<br>
