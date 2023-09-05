@@ -3,7 +3,7 @@ title: Term 3 Important Dates
 permalink: /school-information/t4-impt-dates/
 description: ""
 ---
-### Term 3 Important Dates
+### Term 4 Important Dates
 
 | Week | Date | Levels | Activity |
 |:---:| -------- | --- | --- |
