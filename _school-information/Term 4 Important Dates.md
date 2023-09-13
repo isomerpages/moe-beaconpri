@@ -13,6 +13,10 @@ description: ""
 | 1 | 12 Sep | P6 | Release of HDP Report to students |
 | 1 | 14 Sep | All | No CCA <br>(PSLE Listening Comprehension Preparation) |
 | 1 | 15 Sep | P6 | PSLE Listening Comprehension, Home-Based Learning for P1 to P5 |
+| 2 | 18 Sep | P5 &amp; P6 | Commencement of MA Remedial<br>(2.15 to 3.15 pm, selected students) |
+| 2 | 21 Sep | P1 &amp; P2 | Commencement of KidsRead (2.15 to 4.15pm) |
+| 2 | 21 Sep | P3 - P5 | Commencement of CCA<br>(2.15 to 4.15 pm/3.30 to 5.30 pm) |
+| 2 | 21 Sep | P6 | Commencement of EL/MT and SC Remedial (selected students) |
 | 2 | 22 Sep | All | **Cultural Celebrations and Family Day** (6 to 8pm) |
 | 3 | 25 - 27 Sep | P6 | PSLE Study Break |
 | 3 | 28 - 29 Sep | P6 | PSLE Written Papers (EL and MA) |
