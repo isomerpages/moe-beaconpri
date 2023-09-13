@@ -19,6 +19,7 @@ description: ""
 | 2 | 21 Sep | P6 | Commencement of EL/MT and SC Remedial (selected students) |
 | 2 | 22 Sep | All | **Cultural Celebrations and Family Day** (6 to 8pm) |
 | 3 | 25 - 27 Sep | P6 | PSLE Study Break |
+| 3 | 26 Sep | P4 | Commencement of E2K Science Enrichment<br>(2.15 to 3.45 pm, selected students)|
 | 3 | 28 - 29 Sep | P6 | PSLE Written Papers (EL and MA) |
 | 3 | 28 - 29 Sep | P4 &amp; P5 | Home-Based Learning |
 | 4 | 2 - 3 Oct | P6 | PSLE Written Papers (MTL and SC) |
@@ -30,7 +31,7 @@ description: ""
 | 5 | 9 Oct | P3 - P5 | End of Year Examination (EYE) -<br>EL Paper 1 and Listening Comprehension |
 | 5 | 10 Oct | P3 - P5 | End of Year Examination (EYE) -<br>MTL Paper 1 and Listening Comprehension |
 | 5 | 11 Oct | P4 | End of Year Examination (EYE) -<br>EL/MTL Oral (PM) |
-| 5 | 11 Oct | P5 | End of Year Examination (EYE) -<br>EL Oral (PM) |
+| 5 | 12 Oct | P5 | End of Year Examination (EYE) -<br>EL Oral (PM) |
 | 5 | 13 Oct | P5 | End of Year Examination (EYE) -<br>e-MTL Oral (PM) |
 | 6 | 16 - 18 Oct | All | **PSLE Marking Exercise**<br>Home Based Learning |
 | 7 | 23 Oct | P5 | End of Year Examination (EYE) -<br>HTML Paper 1 and 2 |
