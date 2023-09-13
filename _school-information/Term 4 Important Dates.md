@@ -8,10 +8,13 @@ description: ""
 | Week | Date | Levels | Activity |
 |:---:| -------- | --- | --- |
 | 1 | 11 Sep | All |**School Holiday** - Teacher's Day |
-| 1 | 13 Sep | P6 | Release of HDP Report to students |
+| 1 | 12 Sep | P3 &amp; 4 | Commencement of SDR<br>(2.15 to 3.15 pm, selected students) |
+| 1 | 12 Sep | P6 | Commencement of Self-study Programme<br>(2.15 to 4.15 pm, selected students) |
+| 1 | 12 Sep | P6 | Release of HDP Report to students |
 | 1 | 14 Sep | All | No CCA <br>(PSLE Listening Comprehension Preparation) |
 | 1 | 15 Sep | P6 | PSLE Listening Comprehension, Home-Based Learning for P1 to P5 |
-| 2 | 22 Sep | All | Cultural Celebrations and Family Day (6 to 8pm) |
+| 2 | 22 Sep | All | **Cultural Celebrations and Family Day** (6 to 8pm) |
+| 3 | 25 - 27 Sep | P6 | PSLE Study Break |
 | 3 | 28 - 29 Sep | P6 | PSLE Written Papers (EL and MA) |
 | 3 | 28 - 29 Sep | P4 &amp; P5 | Home-Based Learning |
 | 4 | 2 - 3 Oct | P6 | PSLE Written Papers (MTL and SC) |
