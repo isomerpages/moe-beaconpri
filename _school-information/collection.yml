@@ -2,13 +2,13 @@ collections:
   school-information:
     output: true
     order:
-      - School Rules And Practices.md
       - Term 4 Important Dates.md
       - School Hours.md
       - School Security and Safety/.keep
       - School Security and Safety/School Security and Safety.md
       - School Security and Safety/Group Personal Accident Insurance for
         Students.md
+      - School Rules And Practices.md
       - Home Based Learning.md
       - Home School Partnership.md
       - School Service Providers/.keep
