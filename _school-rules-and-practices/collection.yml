@@ -1,5 +1,5 @@
 collections:
-  beacon-school-team:
+  school-rules-and-practices:
     output: true
     order:
       - Beacon School Team.md
