@@ -42,3 +42,27 @@ description: ""
 
 8. **Purpose of Homework**
 * Homework consolidates and reinforces students' learning and cultivates a healthy disposition towards continual learning. It also provides feedback on students' learning progress for themselves and their parents.
+
+9. **Types of Homework**
+* Homework refers to any learning activity that students are required to complete outside curriculum time. This includes hardcopy, online assignments, projects and going through learning materials. 
+
+10. **Roles of Parents**
+* Set up a regular study routine: Encourage your child to set aside a specific time each day for homework and studying.
+* Provide a quiet study space to do his/her homework. This can be a dedicated study room or a corner of the house where there are no distractions.
+* Check your child's homework and offer guidance where necessary, but do not do the work for them.
+* Communicate with your child's teachers to stay informed about his/her learning progress.
+* Provide positive reinforcement - praise your child for his/her efforts and achievements and offer constructive feedback to help him/her improve.
+
+11. **Roles of Students**
+* Refer to the whiteboard in the classroom for homework assignments.
+* Record the homework assignments in the Beacon Handbook.
+* Ensure your homework assignments are brought home to be completed and not left in school.
+* Keep track of the homework instructions and deadlines.
+* Manage time well to ensure that your homework is completed and submitted on time.
+* Give your best effort in completing the homework.
+* Review feedback given by teachers on homework submitted.
+
+12. **Homework Load**
+* The table below shows the daily homework load. Some students may require less or more time, depending on individual learning needs and styles.
+
+<img src="/images/SI/si_srp01.jpg" style="width:100%"><br>
