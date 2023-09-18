@@ -37,3 +37,8 @@ description: ""
 
 7. **Games and cards/toys**
 * Students are not allowed to bring any trading cards, toys or games to school. Anyone caught bringing/ playing/trading with these items, will face the possibility of confiscation and other consequences.
+
+#### Homework Policy
+
+8. **Purpose of Homework**
+* Homework consolidates and reinforces students' learning and cultivates a healthy disposition towards continual learning. It also provides feedback on students' learning progress for themselves and their parents.
