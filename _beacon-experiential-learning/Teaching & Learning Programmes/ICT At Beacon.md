@@ -27,3 +27,9 @@ With the basics of being learnt, students in the middle primary engage in more i
 Upper primary students will engage in projects that allow them to extend their learning based on their own interests, taking part in online discussion forums with their classmates and exchanging ideas, and creating content for their peers and the community.
 
 <img src="/images/BEL/bel-tl08c.jpg" style="width:90%">
+
+#### New Media Literacies
+
+New Media Literacies are defined as the competencies to create, connect and curate information in the digital networked environment. Regular engagement in these interactions will enable students to develop an understanding of the social practices (tacit norms and skills) governing the Web and be equipped with the knowledge and skills to navigate and participate productively. At the heart of these interactions are the six core values of the 21st Century Competencies (21CC) framework, that anchor the learning experiences and promote discerning and responsible use of technology.
+
+<img src="/images/ICT Values.png" style="width:85%">
