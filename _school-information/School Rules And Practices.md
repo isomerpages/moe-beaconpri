@@ -9,7 +9,7 @@ description: ""
 <br>Students must adhere to the school's Code of Conduct and school rules. There will be disciplinary actions for infringement of the school rules and general conduct. The school will take the necessary actions in the best interest of our students, school staff and the community. 
 
 1. **National Anthem and Pledge-Taking**
-<br>Students who are Singapore Citizens must stand at attention when singing the National Anthem and taking the Pledge. Students will take the Pledge with their right fists placed over their left chests.
+* Students who are Singapore Citizens must stand at attention when singing the National Anthem and taking the Pledge. Students will take the Pledge with their right fists placed over their left chests.
 
 2. **Importance of Punctuality**<br>
 * It is important that students develop the good habit of being punctual for school. They should come prepared to start a new school day after a good night's sleep and proper breakfast. The canteen is open for breakfast for those who are early.<br>
