@@ -32,7 +32,7 @@ third_nav_title: Teaching & Learning Programmes
 <img src="/images/BEL/bel-tl07.jpg" style="width:49%" align="left">
 </a></p>
 
-<p><a href="/ict-at-beacon/ict/">
+<p><a href="/beacon-experiential-learning/teaching-and-learning-programmes/ict/">
 <img src="/images/BEL/bel-tl08.jpg" style="width:49%" align="left">
 </a></p>
 

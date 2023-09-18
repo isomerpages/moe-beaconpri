@@ -1,6 +1,0 @@
-collections:
-  ict-at-beacon:
-    output: true
-    order:
-      - ICT at Beacon.md
-      - New Media Literacies.md
