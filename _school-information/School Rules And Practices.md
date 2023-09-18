@@ -5,8 +5,8 @@ description: ""
 ---
 ### School Rules And Practices
 
-**School Rules**
-<br>Students must adhere to the school's Code of Conduct and school rules. There will be disciplinary actions for infringement of the school rules and general conduct. The school will take the necessary actions in the best interest of our students, school staff and the community. 
+#### School Rules
+Students must adhere to the school's Code of Conduct and school rules. There will be disciplinary actions for infringement of the school rules and general conduct. The school will take the necessary actions in the best interest of our students, school staff and the community. 
 
 1. **National Anthem and Pledge-Taking**
 * Students who are Singapore Citizens must stand at attention when singing the National Anthem and taking the Pledge. Students will take the Pledge with their right fists placed over their left chests.
