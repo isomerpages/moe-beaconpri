@@ -26,7 +26,3 @@ With the basics of being learnt, students in the middle primary engage in more i
 Upper primary students will engage in projects that allow them to extend their learning based on their own interests, taking part in online discussion forums with their classmates and exchanging ideas, and creating content for their peers and the community.
 
 <img src="/images/BEL/bel-tl08c.jpg" style="width:90%">
-
-#### B121 Computer Ownership Programme
-
-Recognising the potential of how technology can bring about a richer teaching and learning experience, the Beacon One-to-One (B121) Computer Ownership Programme aims to equip every student with a Personal Learning Device (PLD) and empower students to learn in meaningful, effective and engaging ways. [Click here for more information](/beacon-experiential-learning/Special-Programmes/b121/)
