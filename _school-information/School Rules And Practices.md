@@ -65,4 +65,4 @@ description: ""
 12. **Homework Load**
 * The table below shows the daily homework load. Some students may require less or more time, depending on individual learning needs and styles.
 
-<img src="/images/SI/si_srp01.jpg" style="width:100%"><br>
+<img src="/images/SI/si_srp02.jpg" style="width:100%"><br>
