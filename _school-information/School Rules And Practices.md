@@ -81,8 +81,7 @@ Students must adhere to the school's Code of Conduct and school rules. There wil
 * The school strongly discourages celebration of students' birthday in school by providing food and gifts for the classmates due to food allergies/ restrictions and unhealthy comparison among children, especially when their birthday gifts to their friends are not reciprocated. The school encourages birthday celebrations at home with loved ones and friends.
 
 4. **Oral Digital Thermometers (ODTs)**
-
-Students are required to bring their ODTs to school daily and ensure that their ODTs are in good working condition at all times. Students will need to purchase new ODTs if theirs are lost or spoilt. They are to replace the batteries of the ODTs when necessary. ODTs are available from the school bookshop.
+* Students are required to bring their ODTs to school daily and ensure that their ODTs are in good working condition at all times. Students will need to purchase new ODTs if theirs are lost or spoilt. They are to replace the batteries of the ODTs when necessary. ODTs are available from the school bookshop.
 Tips for taking your temperature and taking care of your thermometers:
 * Check your thermometer to see if it is working.
 * Replace the batteries if they are weak.
