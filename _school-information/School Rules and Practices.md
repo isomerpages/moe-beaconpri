@@ -67,10 +67,10 @@ Students must adhere to the school's Code of Conduct and school rules. There wil
 
 <img src="/images/SI/si_srp02.jpg" style="width:100%">
 
-#### Homework Policy
+#### School Practices
 
 1. **Communication**
-* Communication via email to school staff are encouraged. Staff email addresses will be given in introductory letters. They may also be contactable through GO at 67697255.
+* Communication via email to school staff are encouraged. Staff email addresses are given in introductory letters and are available on school website. They may also be contactable through GO at 6769 7255.
 * All school communication and information will be updated through Parents Gateway (PG). Any changes of parents' email addresses or contact details must be updated through PG.
 * Delivering of messages or things (such as books, food, or stationery) to the students are to be avoided to avoid disruption of lessons in class. Students may borrow money from the GO when they forget to bring money for recess or lunch, and return the money the next day. Staff in the GO will contact parents on such requests made by the students.
 
@@ -78,7 +78,7 @@ Students must adhere to the school's Code of Conduct and school rules. There wil
 * Please take note that photographs or video images of students or their legal guardians may be taken during school activities and events. The school may use and publish such photographs or video recordings in official channels e.g. school publications and the school website. We would advise parents not to upload photos or videos taken of school or students on other social media platforms.
 
 3. **Birthday Gifts in school**
-* The school strongly discourages celebration of students' birthday in school by providing food and gifts for the classmates due to food allergies/ restrictions and unhealthy comparison among children, especially when their birthday gifts to their friends are not reciprocated. The school encourages birthday celebrations at home with loved ones and friends.
+* The school strongly discourages celebration of students' birthday in school by providing food and gifts for the classmates. We are concerned about food allergies/ restrictions and unhealthy comparison among children, especially when their birthday gifts to their friends are not reciprocated. The school encourages birthday celebrations at home with loved ones and friends.
 
 4. **Oral Digital Thermometers (ODTs)**
 * Students are required to bring their ODTs to school daily and ensure that their ODTs are in good working condition at all times. Students will need to purchase new ODTs if theirs are lost or spoilt. They are to replace the batteries of the ODTs when necessary. ODTs are available from the school bookshop.
