@@ -60,7 +60,7 @@ For emergency dental treatment such as facial/gum swelling, severe toothache and
 | Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa):<br><br>Initial Contract Period : 1 Jan 2024 to 31 Dec 2025     | 
 | ❯ [Request for School Bus Services Form](/files/School%20Bus%20Services%202023.pdf)     | 
 
-<img src="/images/SI/ssp_01.jpg" style="width:100%">
+<img src="/images/SI/ssp_01.jpg" style="width:85%">
 
 
 #### YMCA SCC@Beacon
