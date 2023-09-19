@@ -10,7 +10,7 @@ third_nav_title: Student Development Programmes
 <img src="/images/BEL/bel-sd01a.jpg" style="width:49%" align="left"></a></p>
 
 <p><a href="/cca/cca/">
-<img src="/images/BEL/bel-sd002.jpg" style="width:49%" align="left"></a></p>
+<img src="/images/BEL/bel-sd02.jpg" style="width:49%" align="left"></a></p>
 
 <p><a href="/beacon-experiential-learning/Student-Development-Programmes/sl/">
 <img src="/images/BEL/bel-sd03.jpg" style="width:49%"></a></p>

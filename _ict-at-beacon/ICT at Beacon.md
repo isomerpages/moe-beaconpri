@@ -1,8 +1,7 @@
 ---
-title: ICT At Beacon
-permalink: /beacon-experiential-learning/teaching-and-learning-programmes/ict/
+title: ICT at Beacon
+permalink: /ict-at-beacon/ict/
 description: ""
-third_nav_title: Teaching & Learning Programmes
 ---
 ### ICT at Beacon
 
@@ -28,8 +27,6 @@ Upper primary students will engage in projects that allow them to extend their l
 
 <img src="/images/BEL/bel-tl08c.jpg" style="width:90%">
 
-#### New Media Literacies
+#### B121 Computer Ownership Programme
 
-New Media Literacies are defined as the competencies to create, connect and curate information in the digital networked environment. Regular engagement in these interactions will enable students to develop an understanding of the social practices (tacit norms and skills) governing the Web and be equipped with the knowledge and skills to navigate and participate productively. At the heart of these interactions are the six core values of the 21st Century Competencies (21CC) framework, that anchor the learning experiences and promote discerning and responsible use of technology.
-
-<img src="/images/ICT Values.png" style="width:85%">
+Recognising the potential of how technology can bring about a richer teaching and learning experience, the Beacon One-to-One (B121) Computer Ownership Programme aims to equip every student with a Personal Learning Device (PLD) and empower students to learn in meaningful, effective and engaging ways. [Click here for more information](/beacon-experiential-learning/Special-Programmes/b121/)
