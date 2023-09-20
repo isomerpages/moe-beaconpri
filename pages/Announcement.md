@@ -5,4 +5,4 @@ description: ""
 ---
 ### Announcement
 
-Stay Tuned for upcoming Announcment.
+Stay Tuned for Upcoming Announcement.
