@@ -35,8 +35,6 @@ Please provide your child with the means to access instructions and learning act
 *   Headphones/earphones and microphone
 *   Internet access
 
-You may refer to the [B121 page](/beacon-experiential-learning/Special-Programmes/b121/) for more information on what laptop specifications are recommended for students.
-
 **Loan of Learning Devices**<br>
 If you need to loan a learning device for your child, please email [beaconprisch_ICT@moe.edu.sg](mailto:beaconprisch_ICT@moe.edu.sg) to request. Please note that as devices available for loan are limited, please try to work within your household to share devices first.
 
