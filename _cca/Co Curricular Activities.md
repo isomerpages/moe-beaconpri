@@ -13,7 +13,7 @@ CCA is an important part of our students’ holistic education and development. 
 
 Click on the links below to find out more about our CCAs.
 
-| Sports & Games | Visual & Performing Arts | Clubs & Societies | Uniformed Group |
+| Sports &amp; Games | Visual &amp; Performing Arts | Clubs &amp; Societies | Uniformed Group |
 |---|---|---|---|
 | [Basketball](/cca/bball/) | [Art Club](/cca/ac/) | [Environmental Science Club](/cca/esc/) | [Scouts](/cca/scouts/) |
 | [Football](/cca/fb/) | [Choir](/cca/choir/) | [Outdoor Activities Club (ODAC)](/cca/odac/) |  |
@@ -28,4 +28,7 @@ Click on the links below to find out more about our CCAs.
 *   Students must have at least 75% of attendance to constitute a member of any CCA.
 *   Students should not be absent from CCA without a valid reason.
 *   Students are strongly encouraged to remain in their CCA throughout their primary school journey. This is to provide an opportunity for progression and allow time for students to develop CCA-specific knowledge, skills, values and attitudes through sustained participation.
-*   Students are not allowed to change CCA within the same academic year; however, they may request for a change of CCA at the end of P3. A written request (letter or email) will be required if a parent/guardian intends to change the child/ward’s CCA. Requests will be considered on a case-by-case basis.
+
+#### Change of CCA
+
+*   Students are not allowed to change CCA within the same academic year; however, they may request for a change of CCA at the end of P3. For parents who would like to request for change of CCA, please click on the link below and print the Change of CCA Form. Parents are to fill up the form accordingly with the reason(s) clearly stated. Thereafter, students will submit the form to their Form Teachers. Students will remain in the current CCA until the change has been approved.<br><br>❯ [Click for Change CCA Form ](/files/request%20to%20change%20cca%20form.pdf)
