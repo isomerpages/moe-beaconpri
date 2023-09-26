@@ -36,6 +36,14 @@ Students must adhere to the school's Code of Conduct and school rules. There wil
 7. **Games and cards/toys**
 * Students are not allowed to bring any trading cards, toys or games to school. Anyone caught bringing/ playing/trading with these items, will face the possibility of confiscation and other consequences.
 
+8. **Appearance - Uniform and PE Attire**
+* Stud
+| All Students |
+| -------- |
+| Text     |
+
+
+
 #### School Practices
 
 1. **Communication**
@@ -56,6 +64,3 @@ Tips for taking your temperature and taking care of your thermometers:
 * Replace the batteries if they are weak.
 * Clean the tip of the thermometer before you use it.
 * Record your temperature in the handbook.
-
-5. **Travel Declarations**
-* Students are to inform the school if they intend to travel overseas during the school holidays. Parents/guardians whose children/wards are travelling overseas need to declare the travel plans via Parents Gateway Mobile App.
