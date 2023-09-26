@@ -13,7 +13,7 @@ CCA is an important part of our students’ holistic education and development. 
 
 Click on the links below to find out more about our CCAs.
 
-| Sports & Games | Visual & Performing Arts | Clubs & Societies | Uniformed Group |
+| Sports &amp; Games | Visual &amp; Performing Arts | Clubs &amp; Societies | Uniformed Group |
 |---|---|---|---|
 | [Basketball](/cca/bball/) | [Art Club](/cca/ac/) | [Environmental Science Club](/cca/esc/) | [Scouts](/cca/scouts/) |
 | [Football](/cca/fb/) | [Choir](/cca/choir/) | [Outdoor Activities Club (ODAC)](/cca/odac/) |  |
@@ -31,4 +31,4 @@ Click on the links below to find out more about our CCAs.
 
 #### Change of CCA
 
-*   Students are not allowed to change CCA within the same academic year; however, they may request for a change of CCA at the end of P3. For parents who would like to request for change of CCA, please click on the link below and print the Change of CCA Form. Parents are to fill up the form accordingly with the reason(s) clearly stated. Thereafter, students will submit the form to their Form Teachers. Students will remain in the current CCA until the change has been approved.
+*   Students are not allowed to change CCA within the same academic year; however, they may request for a change of CCA at the end of P3. For parents who would like to request for change of CCA, please click on the link below and print the Change of CCA Form. Parents are to fill up the form accordingly with the reason(s) clearly stated. Thereafter, students will submit the form to their Form Teachers. Students will remain in the current CCA until the change has been approved.<br><br>❯ [Click for Change CCA Form ](/files/cca%20schedule%202023.pdf)
