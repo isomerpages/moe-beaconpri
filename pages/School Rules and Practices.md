@@ -37,10 +37,17 @@ Students must adhere to the school's Code of Conduct and school rules. There wil
 * Students are not allowed to bring any trading cards, toys or games to school. Anyone caught bringing/ playing/trading with these items, will face the possibility of confiscation and other consequences.
 
 8. **Appearance - Uniform and PE Attire**
-* Stud
+
 | All Students |
 | -------- |
-| Text     |
+* Students must be neat  and tidy in appearance at all times.
+* Students are to wear the prescribed school uniform and any modification to the uniform us not allowed.
+* All students have to be in school uniform on Mondays and/or any other days stipulated by the school. Students who havePE lessons on Mondays will change into their PE attire before their PE period or during recess. P1 students have the option to come to school in PE attire for Term 1.
+* Shoes and socks must be plain white color and must not have any coloured markings on them.
+* Ankle socks are not allowed.
+
+| All Students |
+| -------- |
 
 
 
