@@ -45,8 +45,10 @@ Students must adhere to the school's Code of Conduct and school rules. There wil
 * Shoes and socks must be plain white color and must not have any coloured markings on them.
 * Ankle socks are not allowed.
 
-
-
+| Girls | Boys |
+| -------- | -------- |
+| ❯ The girls' uniform consists of a white blouse and a pin-striped navy blue pinafore<br>❯ The pinafore should be at least of knee-length (covering all parts of the knee).<br>❯ Girls should not wear their PE culottes under their pinafores.<br>❯ PE attire is a T-shirt and navy blue culottes.     | ❯ The boys' unifirm consists of a white shrt and a pair of navy blue shorts with a front zipper.<br>❯ PE attire is a T-shirt and a navy blue shorts.     |
+|  |  |
 
 
 #### School Practices
