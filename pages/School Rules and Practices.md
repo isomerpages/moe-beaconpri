@@ -36,6 +36,21 @@ Students must adhere to the school's Code of Conduct and school rules. There wil
 7. **Games and cards/toys**
 * Students are not allowed to bring any trading cards, toys or games to school. Anyone caught bringing/ playing/trading with these items, will face the possibility of confiscation and other consequences.
 
+8. **Appearance - Uniform and PE Attire**
+
+**All Students**
+* Students must be neat  and tidy in appearance at all times.
+* Students are to wear the prescribed school uniform and any modification to the uniform us not allowed.
+* All students have to be in school uniform on Mondays and/or any other days stipulated by the school. Students who havePE lessons on Mondays will change into their PE attire before their PE period or during recess. P1 students have the option to come to school in PE attire for Term 1.
+* Shoes and socks must be plain white color and must not have any coloured markings on them.
+* Ankle socks are not allowed.
+
+| Girls | Boys |
+| -------- | -------- |
+| ❯ The girls' uniform consists of a white blouse and a pin-striped navy blue pinafore<br>❯ The pinafore should be at least of knee-length (covering all parts of the knee).<br>❯ Girls should not wear their PE culottes under their pinafores.<br>❯ PE attire is a T-shirt and navy blue culottes.     | ❯ The boys' unifirm consists of a white shrt and a pair of navy blue shorts with a front zipper.<br>❯ PE attire is a T-shirt and a navy blue shorts.     |
+|  |  |
+
+
 #### School Practices
 
 1. **Communication**
@@ -56,6 +71,3 @@ Tips for taking your temperature and taking care of your thermometers:
 * Replace the batteries if they are weak.
 * Clean the tip of the thermometer before you use it.
 * Record your temperature in the handbook.
-
-5. **Travel Declarations**
-* Students are to inform the school if they intend to travel overseas during the school holidays. Parents/guardians whose children/wards are travelling overseas need to declare the travel plans via Parents Gateway Mobile App.

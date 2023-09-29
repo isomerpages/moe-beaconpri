@@ -10,15 +10,15 @@ Beacon Primary School is looking for a suitable vendor to operate:
 
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-| Cold Drinks & Cut Fruits Stall     | Nil     | Nil     |
+| **Cold Drinks &amp; Cut Fruits Stall**<br><br>Impt* - Vendor strictly cannot sell any sugary drinks like<br>100 Plus, Procari, &amp; Ice Lemon Tea, etc.    | 5th October 2023     | Nil     |
+| **Malay Noodle Stall** | 27th October 2023 | Nil |
 |  |  |
 
-Impt* - Vendor strictly cannot sell any sugary drinks like 100 Plus, Procari,  Ice Lemon Tea, etc.
 
 #### Application Procedure
 
 1.  Download and complete the application form. You may also request for a hardcopy from the School’s General Office.  
-    *   [Click to download Application Form >>](https://go.gov.sg/canteenstall)  
+    *   [Click to download Application Form &gt;&gt;](https://go.gov.sg/canteenstall)  
         
 2.  Attached the following documents together with the application form:  
     *   Photocopy of the NRIC (front and back)
@@ -27,13 +27,13 @@ Impt* - Vendor strictly cannot sell any sugary drinks like 100 Plus, Procari,  
         
 3.  The completed form and supporting documents can be sent to the school’s General Office or forwarded by email
 
-|   |   |
+| &nbsp; | &nbsp; |
 | --- | --- |
 | Address | : 36, Bukit Panjang Ring Road S(679944) |
 | Telephone | : 6769 7255 |
 | Fax | : 6769 7244 |
-| Email | : [beaconprisch@moe.edu.sg](mailto:beaconprisch@moe.edu.sg) |
-|   |   |
+| Email | :&nbsp;[beaconprisch@moe.edu.sg](mailto:beaconprisch@moe.edu.sg) |
+| &nbsp; | &nbsp; |
 
 All completed application forms must be submitted with the following:
 * Proposed menu and price list

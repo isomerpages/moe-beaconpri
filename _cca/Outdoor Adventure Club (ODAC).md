@@ -1,9 +1,9 @@
 ---
-title: Outdoor Activities Club (ODAC)
+title: Outdoor Adventure Club (ODAC)
 permalink: /cca/odac/
 description: ""
 ---
-### Outdoor Activities Club (ODAC)
+### Outdoor Adventure Club (ODAC)
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
@@ -12,7 +12,7 @@ description: ""
 
 #### Objectives
 
-The Outdoor Activities Club (ODAC) CCA aims to develop outdoor skills through activities such as camp craft, orienteering and hiking. The activities will also foster mental resilience, perseverance, teamwork and leadership to overcome the obstacles and challenges faced.
+The Outdoor Adventure Club (ODAC) CCA aims to develop outdoor skills through activities such as camp craft, orienteering and hiking. The activities will also foster mental resilience, perseverance, teamwork and leadership to overcome the obstacles and challenges faced.
 
 #### Main Activities
 
