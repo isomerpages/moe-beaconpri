@@ -10,7 +10,7 @@ Beacon Primary School is looking for a suitable vendor to operate:
 
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-| **Cold Drinks &amp; Cut Fruits Stall**<br><br>Impt* - Vendor strictly cannot sell any sugary drinks like 100 Plus, Procari, &amp; Ice Lemon Tea, etc.    | 5th October 2023     | Nil     |
+| **Cold Drinks &amp; Cut Fruits Stall**<br><br>Impt* - Vendor strictly cannot sell any sugary drinks like<br>100 Plus, Procari, &amp; Ice Lemon Tea, etc.    | 5th October 2023     | Nil     |
 | **Malay Noodle Stall** | 27th October 2023 | Nil |
 |  |  |
 
