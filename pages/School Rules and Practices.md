@@ -40,15 +40,15 @@ Students must adhere to the school's Code of Conduct and school rules. There wil
 
 <img src="/images/SI/si_srp02.jpg" style="width:100%">
 
-9. **Name Tag**
+**Name Tag**
 
 <img src="/images/SI/si_srp03.jpg" style="width:100%">
 
-10. **Hair**
+**Hair**
 
 <img src="/images/SI/si_srp04.jpg" style="width:100%">
 
-11. **Accessories**
+**Accessories**
 * Students are not allowed to wear any jewellery or accessories to school. However, girls may wear small, plain ear studs.
 * Make-up or other forms of face painting, marks or tattoos are not allowed.
 
