@@ -32,7 +32,7 @@ Leadership roles: Prefects, CCA Leaders, Class Monitors, AVA Representatives, Gr
 
 At the highest tier, we have the School's Prefectorial Exco which comprises a body of student leaders elected by their teachers for their exemplary conduct. They help the school in various school events like the Beacon Achievement Ceremony and P1 Orientation Day. Beyond this, they also play a disciplinary role and help to remind fellow students of their conduct and behaviour. As Exco members, they are vested with authority by the school to serve with confidence and conviction.
 
-<img style="width:85%" src="/images/2022 P5 Prefect EXCO B.jpg">
+<img style="width:100%" src="/images/2023 p5 exco.jpg">
 
 #### Prefect Exco 2023/2024
 

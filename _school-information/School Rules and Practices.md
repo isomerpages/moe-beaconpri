@@ -37,18 +37,17 @@ Students must adhere to the school's Code of Conduct and school rules. There wil
 * Students are not allowed to bring any trading cards, toys or games to school. Anyone caught bringing/ playing/trading with these items, will face the possibility of confiscation and other consequences.
 
 8. **Appearance - Uniform and PE Attire**
+<img src="/images/SI/si_srp02.jpg" style="width:100%">
 
-**All Students**
-* Students must be neat  and tidy in appearance at all times.
-* Students are to wear the prescribed school uniform and any modification to the uniform us not allowed.
-* All students have to be in school uniform on Mondays and/or any other days stipulated by the school. Students who havePE lessons on Mondays will change into their PE attire before their PE period or during recess. P1 students have the option to come to school in PE attire for Term 1.
-* Shoes and socks must be plain white color and must not have any coloured markings on them.
-* Ankle socks are not allowed.
+9. **Name Tag**
+<img src="/images/SI/si_srp03.jpg" style="width:100%">
 
-| Girls | Boys |
-| -------- | -------- |
-| ❯ The girls' uniform consists of a white blouse and a pin-striped navy blue pinafore<br>❯ The pinafore should be at least of knee-length (covering all parts of the knee).<br>❯ Girls should not wear their PE culottes under their pinafores.<br>❯ PE attire is a T-shirt and navy blue culottes.     | ❯ The boys' unifirm consists of a white shrt and a pair of navy blue shorts with a front zipper.<br>❯ PE attire is a T-shirt and a navy blue shorts.     |
-|  |  |
+10. **Hair**
+<img src="/images/SI/si_srp04.jpg" style="width:100%">
+
+11. **Accessories**
+* Students are not allowed to wear any jewellery or accessories to school. However, girls may wear small, plain ear studs.
+* Make-up or other forms of face painting, marks or tattoos are not allowed.
 
 
 #### School Practices
