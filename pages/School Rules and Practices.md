@@ -37,15 +37,12 @@ Students must adhere to the school's Code of Conduct and school rules. There wil
 * Students are not allowed to bring any trading cards, toys or games to school. Anyone caught bringing/ playing/trading with these items, will face the possibility of confiscation and other consequences.
 
 8. **Appearance - Uniform and PE Attire**
-
 <img src="/images/SI/si_srp02.jpg" style="width:100%">
 
 9. **Name Tag**
-
 <img src="/images/SI/si_srp03.jpg" style="width:100%">
 
 10. **Hair**
-
 <img src="/images/SI/si_srp04.jpg" style="width:100%">
 
 11. **Accessories**
