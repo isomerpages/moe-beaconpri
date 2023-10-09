@@ -1,6 +1,6 @@
 ---
 title: School Rules and Practices
-permalink: /srp/
+permalink: /school-information/srp/
 description: ""
 ---
 ### School Rules And Practices
