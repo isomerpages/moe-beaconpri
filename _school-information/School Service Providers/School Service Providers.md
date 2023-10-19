@@ -24,7 +24,7 @@ Although the school does not have a dedicated stall selling vegetarian food, stu
 #### School Dental Clinic
 
 
-The school dental clinic will be open on alternate weeks. Please refer to [HERE](/files/dentalclinic_oct23.pdf) for the Dental Clinic Opening Days. Please contact 91141358 (call/SMS/WhatsApp) to make an appointment for dental services.
+The school dental clinic will be open on alternate weeks. Please refer to [HERE](/files/dentalclinic_nov23.pdf) for the Dental Clinic Opening Days. Please contact 91141358 (call/SMS/WhatsApp) to make an appointment for dental services.
 
 In the event that the clinic is closed, students who need urgent dental treatment may contact Bukit Panjang Primary Dental Clinic at 91142186.
 
@@ -51,7 +51,6 @@ For emergency dental treatment such as facial/gum swelling, severe toothache and
 | -------- |
 | Blk 130 Choa Chu Kang Ave 1<br>#06-36, Singapore 680130<br>Tel: 6760 4835<br>Fax: 6892 5776<br>Email: [griflim@hotmail.com](mailto:griflim@hotmail.com)     | 
 | Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa): <br><br>Initial Contract Period : 1 Jan 2024 to 31 Dec 2025      | 
-
 
 <img src="/images/SI/ssp_01.jpg" style="width:85%">
 
