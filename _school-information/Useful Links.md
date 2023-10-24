@@ -20,7 +20,7 @@ description: ""
 | -------- | -------- |
 | Primary 1 Guides     | ❯ [Ministry of Education Parent Kit](https://www.moe.gov.sg/parentkit)<br>❯ [Schoolbag The Education New Site](https://www.schoolbag.edu.sg/)     |
 | Health Promotion Board      | ❯ [Colours of the Mind](https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/cotm-one)<br>❯ [Healthy Eating, Active Living](https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/healthy-eating-active-living)     |
-| MoneySense for Your Child (Programme For Parents)     | ❯ xx<br>❯ xx  |
+| MoneySense for Your Child (Programme For Parents)     | ❯ [Ask Me Anything](/files/ama%20_edm%20_10%20nov%202023.pdf)<br>❯ [Activity Based Workshops and Talks](/files/msfyc%20edm.pdf)  |
 | Fei Yue     | ❯ [Fei Yue Community Services](https://www.fycs.org/)<br>❯ [Family Central - a service by Fei Yue Community Services](https://www.family-central.sg/)<br>❯ [Parenting Support Services - subscription form](https://forms.office.com/pages/responsepage.aspx?id=enp5W2h6KEyJkTbCaPjr60xXTovmoVVHr8HSB-0UwTtUMk81RjhRSTZSOUhFWEZTVUswQ0pNMlhDQS4u)<br>❯ [Fei Yue Triple P Seminar Series - Primary School Run](/files/feiyutriplep.pdf)     |
 | Triple P Parenting Programme     |  ❯ [Cyber Parenting - Managing Screen Usage](/files/priscreentime_oct23.pdf)<br>❯ [Registration Link](https://go.fycs.org/L2PriScreentime)      |
 |      |       |
