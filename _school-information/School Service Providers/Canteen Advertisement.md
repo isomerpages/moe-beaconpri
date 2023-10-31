@@ -10,7 +10,7 @@ Beacon Primary School is looking for a suitable vendor to operate:
 
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-| **Malay Noodle Stall** | 27th October 2023 | Nil |
+| **Malay Noodle Stall** | 31st November 2023 | Nil |
 |  |  |
 
 
