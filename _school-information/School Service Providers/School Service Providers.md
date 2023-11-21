@@ -3,6 +3,7 @@ title: School Service Providers
 permalink: /school-information/ssp/
 description: ""
 third_nav_title: School Service Providers
+variant: markdown
 ---
 ### School Service Providers
 
@@ -43,6 +44,15 @@ For emergency dental treatment such as facial/gum swelling, severe toothache and
 | -------- |
 | **Open to Parents/Guardians of Students :** <br><br>Wednesday and Friday: 1.50 pm to 2.50 pm<br>Tel: 6465 5523      |
 | (**Note:** For purchase from school bookshop, parents are required to enter and exit through **Side Gate 1**) |
+
+#### Booklist 2024
+
+*  [Primary 1 Booklist](/files/P1.pdf)
+*  [Primary 2 Booklist](/files/P2.pdf)
+*  [Primary 3 Booklist](/files/P3.pdf)
+*  [Primary 4 Booklist](/files/P4.pdf)
+*  [Primary 5 Booklist](/files/P5.pdf)
+*  [Primary 6 Booklist](/files/P6.pdf)
 
 
 #### Bus Services

@@ -2,6 +2,7 @@
 title: Executive and Administrative Staff (EAS)
 permalink: /beacon-school-team/eas/
 description: ""
+variant: markdown
 ---
 ### Executive and Administrative Staff (EAS)
 
@@ -19,5 +20,4 @@ description: ""
 | Mr Siew Thian Meng | Operations Support Officer |
 | Mr Ramli Bin Othman | Operations Support Officer |
 | Mr Kanesh Naiker Arujunan | Desktop Engineer |
-| Mr Muhammad Zaidil Bin Mohd Jamil | Desktop Engineer |
 |  |  |
