@@ -55,11 +55,11 @@ For emergency dental treatment such as facial/gum swelling, severe toothache and
 | -------- |
 
 *  [Primary 1 Booklist](/files/P1.pdf)
-*  [Primary 2 Booklist](/files/P2%20PDF.pdf)
-*  [Primary 3 Booklist](/files/P3%20PDF.pdf)
-*  [Primary 4 Booklist](/files/P4%20PDF.pdf)
-*  [Primary 5 Booklist](/files/P5%20PDF.pdf)
-*  [Primary 6 Booklist](/files/P6%20PDF.pdf)
+*  [Primary 2 Booklist](/files/P2.pdf)
+*  [Primary 3 Booklist](/files/P3.pdf)
+*  [Primary 4 Booklist](/files/P4.pdf)
+*  [Primary 5 Booklist](/files/P5.pdf)
+*  [Primary 6 Booklist](/files/P6.pdf)
 
 
 #### Bus Services
