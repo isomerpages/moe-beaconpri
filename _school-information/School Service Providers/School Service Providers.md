@@ -48,12 +48,6 @@ For emergency dental treatment such as facial/gum swelling, severe toothache and
 
 #### Booklist 2024
 
-| [Primary 1 Booklist](/files/P1.pdf) |
-| -------- |
-| -------- |
-| -------- |
-| -------- |
-
 *  [Primary 1 Booklist](/files/P1.pdf)
 *  [Primary 2 Booklist](/files/P2.pdf)
 *  [Primary 3 Booklist](/files/P3.pdf)
