@@ -31,7 +31,7 @@ Dental clinic closed from **1 Dec 2023 – 1 Jan 2024**
 | Mobile 14 @ Jurong West Sec School<br>61 Jurong West Street 65 S (648348)<br>Tel: 9061 5729     |
 | Mobile 30 @ ACS (Independent)<br>121 Dover Rd, S (139650)<br>Tel: 9270 7789 |
 | Mobile 19 @ Bukit View Sec School<br>16 Bukit Batok St 21 S (659633)<br>Tel: 9389 5041 |
-| -------- |
+|  |
 
 #### School Uniform Supplier
 
