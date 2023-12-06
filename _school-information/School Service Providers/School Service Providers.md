@@ -33,19 +33,6 @@ Dental clinic closed from **1 Dec 2023 – 1 Jan 2024**
 | Mobile 19 @ Bukit View Sec School<br>16 Bukit Batok St 21 S (659633)<br>Tel: 9389 5041 |
 | -------- |
 
-
-Mobile 14 @ Jurong West Sec School
-61 Jurong West Street 65 S (648348)
-Tel: 9061 5729
-
-Mobile 30 @ ACS (Independent)
-121 Dover Rd, S (139650)
-Tel: 9270 7789
-
-Mobile 19 @ Bukit View Sec School
-16 Bukit Batok St 21 S (659633)
-Tel: 9389 5041
-
 #### School Uniform Supplier
 
 | Asencio Pte Ltd |
