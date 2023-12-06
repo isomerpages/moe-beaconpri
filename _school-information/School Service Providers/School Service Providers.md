@@ -24,7 +24,7 @@ Although the school does not have a dedicated stall selling vegetarian food, stu
 
 #### School Dental Clinic
 
-Dental clinic closed from **1 Dec 2023 – 1 Jan 2024**
+Dental clinic closed from 1 Dec 2023 – 1 Jan 2024
 
 | In case of emergency (e.g.: trauma /pain/swelling), please contact any of the following clinics: |
 | -------- |
