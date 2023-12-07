@@ -24,12 +24,14 @@ Although the school does not have a dedicated stall selling vegetarian food, stu
 
 #### School Dental Clinic
 
+Dental clinic closed from 1 Dec 2023 – 1 Jan 2024
 
-The school dental clinic will be open on alternate weeks. Please refer to [HERE](/files/dentalclinic_nov23.pdf) for the Dental Clinic Opening Days. Please contact 91141358 (call/SMS/WhatsApp) to make an appointment for dental services.
-
-In the event that the clinic is closed, students who need urgent dental treatment may contact Bukit Panjang Primary Dental Clinic at 91142186.
-
-For emergency dental treatment such as facial/gum swelling, severe toothache and dental trauma, please contact School Dental Centre via email at [Contact\_YPS@hpb.gov.sg](mailto:Contact_YPS@hpb.gov.sg).
+| In case of emergency (e.g.: trauma /pain/swelling), please contact any of the following clinics: |
+| -------- |
+| Mobile 14 @ Jurong West Sec School<br>61 Jurong West Street 65 S (648348)<br>Tel: 9061 5729     |
+| Mobile 30 @ ACS (Independent)<br>121 Dover Rd, S (139650)<br>Tel: 9270 7789 |
+| Mobile 19 @ Bukit View Sec School<br>16 Bukit Batok St 21 S (659633)<br>Tel: 9389 5041 |
+|  |
 
 #### School Uniform Supplier
 
