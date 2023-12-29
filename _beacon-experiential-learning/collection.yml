@@ -4,10 +4,10 @@ collections:
     order:
       - Special Programmes/.keep
       - Special Programmes/Special Programmes.md
-      - Special Programmes/Applied Learning Programme (ALP).md
       - Special Programmes/Beacon Future Ready Programme.md
       - Special Programmes/Beacons Take Flight.md
       - Special Programmes/Makerspace @ Beacon.md
+      - Special Programmes/Applied Learning Programme (ALP).md
       - Teaching & Learning Programmes/.keep
       - Teaching & Learning Programmes/Teaching and Learning Programmes.md
       - Teaching & Learning Programmes/English Language.md
