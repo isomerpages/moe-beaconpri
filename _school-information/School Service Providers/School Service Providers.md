@@ -20,7 +20,7 @@ The stalls in the school canteen serve:
 
 Although the school does not have a dedicated stall selling vegetarian food, students who are on a vegetarian diet may purchase the required food from the stalls selling Chinese cooked food and snacks. Students with special or strict dietary requirements are encouraged to bring their own food.
 
-❯ [Click to view Canteen Menu](/files/canteen menu 2024.pdf)
+❯ [Click to view Canteen Menu](/files/canteen%20menu%202024.pdf)
 
 #### School Dental Clinic
 
