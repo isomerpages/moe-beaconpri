@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### P3 Teachers
 
-**Asst. Year Yead:** Mdm Ang An Lian
+**Year Yead:** Mdm Ang An Lian
 
 | **Class** | **Form Teachers** | **Email** |
 |:---:|---|---|
