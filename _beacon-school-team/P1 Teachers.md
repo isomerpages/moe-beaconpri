@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### P1 Teachers
 
-**Year Head:** Mdm Ng Siew Choon&nbsp; (Mrs Low)
+**Year Head:** Mdm Ng Siew Choon (Mrs Low)
 
 | **Class** | **Form Teachers** | **Email** |
 |:---:|---|---|
