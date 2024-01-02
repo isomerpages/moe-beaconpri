@@ -2,6 +2,7 @@
 title: Useful Links
 permalink: /school-information/ul/
 description: ""
+variant: markdown
 ---
 ### Useful Links
 
@@ -23,4 +24,5 @@ description: ""
 | MoneySense for Your Child (Programme For Parents)     | ❯ [Activity Workshops and Talks](/files/msfyc%20edm.pdf)<br>❯ [Ask Me Anything](/files/ama%20_edm%20_10%20nov%202023.pdf)  |
 | Fei Yue     | ❯ [Fei Yue Community Services](https://www.fycs.org/)<br>❯ [Family Central - a service by Fei Yue Community Services](https://www.family-central.sg/)<br>❯ [Parenting Support Services - subscription form](https://forms.office.com/pages/responsepage.aspx?id=enp5W2h6KEyJkTbCaPjr60xXTovmoVVHr8HSB-0UwTtUMk81RjhRSTZSOUhFWEZTVUswQ0pNMlhDQS4u)<br>❯ [Fei Yue Triple P Seminar Series - Primary School Run](/files/feiyutriplep.pdf)     |
 | Triple P Parenting Programme     |  ❯ [Cyber Parenting - Managing Screen Usage](/files/priscreentime_oct23.pdf)<br>❯ [Registration Link](https://go.fycs.org/L2PriScreentime)      |
+|  Lean On Me    |  ❯ [Lean On Me](https://go.gov.sg/leanonme)     |
 |      |       |
