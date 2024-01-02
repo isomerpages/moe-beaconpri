@@ -16,5 +16,4 @@ variant: markdown
 | 6.4 | Miss Juzain Binte Jasin  <br>Mdm Norina Seno | [juzain\_jasin@moe.edu.sg](mailto:juzain_jasin@moe.edu.sg)  <br>[norina\_seno@moe.edu.sg](mailto:norina_seno@moe.edu.sg)   |
 | 6.5 | Mr Ang Hiang Chai  <br>Mdm Ma Yanying | [ang\_hiang\_chai@moe.edu.sg](mailto:ang_hiang_chai@moe.edu.sg)   <br>[ma\_yanying@moe.edu.sg](mailto:ma_yanying@moe.edu.sg)   |
 | 6.6 | Ms Nurhuda Bte Mohamed  <br>Mr Lee Chee Leong | [nurhuda\_mohamed@moe.edu.sg](mailto:nurhuda_mohamed@moe.edu.sg)  <br>[lee_chee_leong@moe.edu.sg](mailto:lee_chee_leong@moe.edu.sg)  |
-
 |  |  |  |
