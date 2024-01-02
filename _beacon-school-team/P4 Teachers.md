@@ -2,16 +2,18 @@
 title: P4 Teachers
 permalink: /beacon-school-team/p4/
 description: ""
+variant: markdown
 ---
 ### P4 Teachers
 
-**Ass. Year Head:** Mdm Ang An Lian
+**Year Head:** Mdm Ang An Lian
 
 | **Class** | **Form Teachers** | **Email** |
 |:---:|---|---|
-| 4.1 | Miss Juzain Binte Jasin  <br>Mr Ang Hiang Chai | [juzain\_jasin@moe.edu.sg](mailto:juzain_jasin@moe.edu.sg)<br>[ang\_hiang\_chai@moe.edu.sg](mailto:ang_hiang_chai@moe.edu.sg) |
-| 4.2 | Mr Mustaffa Bin Ahmad  <br>Mdm Wen Li Li | [mustaffa\_ahmad@moe.edu.sg](mailto:mustaffa_ahmad@moe.edu.sg)<br>[wen\_li\_li@moe.edu.sg](mailto:wen_li_li@moe.edu.sg) |
-| 4.3 | Mdm Nazreen Binte Mohamed Zulfakir  <br>Ms Kwek Keem Shin Vanessa | [nazreen\_mohamed\_zulfakir@moe.edu.sg](mailto:nazreen_mohamed_zulfakir@moe.edu.sg)<br>[kwek_keem_shin_vanessa@moe.edu.sg](mailto:kwek_keem_shin_vanessa@moe.edu.sg) |
-| 4.4 | Ms Ler Leng Leng  <br>Mdm Wahindah Suhari | [ler\_leng\_leng@moe.edu.sg](mailto:ler_leng_leng@moe.edu.sg)<br>[wahindah\_suhari@moe.edu.sg](mailto:wahindah_suhari@moe.edu.sg) |
-| 4.5 | Ms Nurhuda Bte Mohamed <br>Mdm Noraini Binte Zainal (Mrs Ra'uf) | [nurhuda\_mohamed@moe.edu.sg](mailto:nurhuda_mohamed@moe.edu.sg)<br>[noraini\_zainal@moe.edu.sg](mailto:noraini_zainal@moe.edu.sg) |
+| 4.1 | Mdm Tan Lam Yen  <br>Ms Lee Pei Pei | [tan\_lam\_yen@moe.edu.sg](mailto:tan_lam_yen@moe.edu.sg)  <br>[lee\_pei\_pei@moe.edu.sg](mailto:lee_pei_pei@moe.edu.sg)  |
+| 4.2 | Mr Siu Kai Chong  <br>Ms Nur Erliana Bte Supanie | [siu\_kai\_chong@moe.edu.sg](mailto:siu_kai_chong@moe.edu.sg)  <br>[nur\_erliana\_supanie@moe.edu.sg](mailto:nur_erliana_supanie@moe.edu.sg)   |
+| 4.3 | Mdm Soon Hui Ting  <br>Ms Kwek Keem Shin Vanessa | [soon\_hui\_ting@moe.edu.sg](mailto:soon_hui_ting@moe.edu.sg)  <br>[kwek_keem_shin_vanessa@moe.edu.sg](mailto:kwek_keem_shin_vanessa@moe.edu.sg)   |
+| 4.4 | Mr Mustaffa Bin Ahmad  <br>Mdm Ang An Lian | [mustaffa\_ahmad@moe.edu.sg](mailto:mustaffa_ahmad@moe.edu.sg)  <br>[ang\_an\_lian@moe.edu.sg](mailto:ang_an_lian@moe.edu.sg)   |
+| 4.5 | Ms Li Chang  <br>Mdm Nasheda Binte Hamzah | [li\_chang@moe.edu.sg](mailto:li_chang@moe.edu.sg)   <br>[nasheda\_hamzah@moe.edu.sg](mailto:nasheda_hamzah@moe.edu.sg)  |
+| 4.6 | Mdm Sri Shangeetha D/O Sangar  <br>Dr Lye Sze Yee | [sri\_shangeetha\_sangar@moe.edu.sg](mailto:sri_shangeetha_sangar@moe.edu.sg)  <br>[lye\_sze\_yee@moe.edu.sg](mailto:lye_sze_yee@moe.edu.sg)   |
 |  |  |  |
