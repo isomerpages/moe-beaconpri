@@ -2,54 +2,42 @@
 title: Term 4 Important Dates
 permalink: /school-information/t4-impt-dates/
 description: ""
+variant: markdown
 ---
-### Term 4 Important Dates
+### Term 1 Important Dates
 
 | Week | Date | Levels | Activity |
 |:---:| -------- | --- | --- |
-| 1 | 11 Sep | All |**School Holiday** - Teacher's Day |
-| 1 | 12 Sep | P3 &amp; 4 | Commencement of SDR<br>(2.15 to 3.15 pm, selected students) |
-| 1 | 12 Sep | P6 | Commencement of Self-study Programme<br>(2.15 to 4.15 pm, selected students) |
-| 1 | 12 Sep | P6 | Release of HDP Report to students |
-| 1 | 14 Sep | All | No CCA <br>(PSLE Listening Comprehension Preparation) |
-| 1 | 15 Sep | P6 | PSLE Listening Comprehension, Home-Based Learning for P1 to P5 |
-| 2 | 18 Sep | P5 &amp; P6 | Commencement of MA Remedial<br>(2.15 to 3.15 pm, selected students) |
-| 2 | 21 Sep | P1 &amp; P2 | Commencement of KidsRead (2.15 to 4.15pm) |
-| 2 | 21 Sep | P3 - P5 | Commencement of CCA<br>(2.15 to 4.15 pm/3.30 to 5.30 pm) |
-| 2 | 21 Sep | P6 | Commencement of EL/MT and SC Remedial (selected students) |
-| 2 | 22 Sep | All | **Cultural Celebrations and Family Day** (6 to 8pm) |
-| 3 | 25 - 27 Sep | P6 | PSLE Study Break |
-| 3 | 26 Sep | P4 | Commencement of E2K Science Enrichment<br>(2.15 to 3.45 pm, selected students)|
-| 3 | 28 - 29 Sep | P6 | PSLE Written Papers (EL and MA) |
-| 3 | 28 - 29 Sep | P4 &amp; P5 | Home-Based Learning |
-| 4 | 2 - 3 Oct | P6 | PSLE Written Papers (MTL and SC) |
-| 4 | 2 - 3 Oct | P1 - P3 | Home-Based Learning |
-| 4 | 4 Oct | P6 | PSLE Written Paper (HTML) |
-| 4 | 5 Oct | All | Children’s Day Celebration (dismissal at 1.30 pm) |
-| 4 | 5 Oct | P2 | CCA Showcase (AM) |
-| 4 | 6 Oct | All | **School Holiday** - Children's Day |
-| 5 | 9 Oct | P3 - P5 | End of Year Examination (EYE) -<br>EL Paper 1 and Listening Comprehension |
-| 5 | 10 Oct | P3 - P5 | End of Year Examination (EYE) -<br>MTL Paper 1 and Listening Comprehension |
-| 5 | 11 Oct | P4 | End of Year Examination (EYE) -<br>EL/MTL Oral (PM) |
-| 5 | 12 Oct | P5 | End of Year Examination (EYE) -<br>EL Oral (PM) |
-| 5 | 13 Oct | P5 | End of Year Examination (EYE) -<br>e-MTL Oral (PM) |
-| 6 | 16 - 18 Oct | All | **PSLE Marking Exercise**<br>Home Based Learning |
-| 7 | 23 Oct | P5 | End of Year Examination (EYE) -<br>HTML Paper 1 and 2 |
-| 7 | 24 - 27 Oct | P3 - P5 | End of Year Examination (EYE) -<br>EYE EL, MTL, MA, SC Paper |
-| 8 | 2 Nov | P3 - P5 | Last CCA Session |
-| 8 | 2 Nov | P1 - P2 &amp; P6 | Beacon Gives Programme |
-| 8 | 3 Nov | P3 - P5 | Beacon Gives Programme |
-| 9 | 8 Nov | All | **Admin Day**<br>Home Based Learning |
-| 9 | 10 Nov | P1 &amp; P2 | Beacon Achievement Ceremony<br>(P2 dismissal at 10am, P1 dismissal at 12pm) |
-| 10 | 13 Nov | All | **Public Holiday** - Deepavali in Lieu |
-| 10 | 14 Nov | P1 - P5 | Release of Sem 2 HDP Report |
-| 10 | 15 Nov | P5 | Beacon Achievement Ceremony<br>(dismissal at 10am) |
-| 10 | 15 Nov | P6 | Beacon Achievement and Graduation Ceremony<br>(11.30am-3.30pm)<br><br>P6 Students to report to school at 11.30am |
-| 10 | 15 Nov | P1 &amp; P2<br>P5 &amp; P6 | Last Day of School |
-| 10 | 16 Nov | P3 &amp; P4 | Beacon Achievement Ceremony<br>(P3 dismissal at 10am, P4 dismissal at 12pm) |
-| 10 | 16 Nov | P3 &amp; P4 | Last Day of School |
-| 10 | 16 - 17 Nov | P1 - P5 | Parent - Teacher Meeting for selected students |
-| 10 | 17 Nov |  | 2024 P1 Briefing (9am-10am) |
-| 2024 | 2 Jan | P1 | Start of new school year for P1 students |
-| 2024 | 3 Jan | All | Start of new school year for all levels |
+| 1 | 2 Jan | P1 | P1 to report at 9.30am. P1 Parents’ Briefing |
+| 1 | 3 Jan | P1 | P1 to report at 9.30am |
+| 1 | 3 Jan | P2 - P6 | P2 to P6 to report at usual school hours |
+| 1 | 4 Jan | P1 | P1 to report at 9.30am |
+| 1 | 5 Jan | P1 | P1 to report at usual school hours |
+| 2 | 8 Jan | P5 &amp; P6 | Commencement of HMT and FMA lessons (2.15pm – 3.15pm) |
+| 2 | 8 Jan | P3 &amp; P4 | Commencement of HCL (2.15pm- 3.15pm) |
+| 2 | 8 Jan | P3 &amp; P4 | Commencement of SDR (2.15pm – 3.15pm, selected students) |
+| 2 | 8 Jan | P3 &amp; P4 | Commencement of RRP (2.15pm – 3.15pm, selected students) |
+| 2 | 9 Jan | P4 - P6 | Commencement of Maths Olympiad Workshops <br>(2.15 to 3.45 pm, selected students) |
+| 2 | 11 Jan | P3 - P6 | Commencement of CCA (2.15 to 4.15pm/3.30 to 5.30 pm) |
+| 2 | 12 Jan | P4 | Commencement of Reading Circle <br>(2.15pm-3.45pm, selected students) |
+| 2 | 12 Jan | P1 | Parents’ Briefing via Zoom (4-5pm) |
+| 2 | 12 Jan | P3 | Parents and Swimsafer Briefing via Zoom (5-6.30pm) |
+| 3 | 15 Jan | P5 &amp; P6 | Commencement of Maths Remediation<br>(2.15pm-3.15pm, selected students) |
+| 3 | 15 Jan | P5 | Parents and Camp Briefing via Zoom (4-6pm) |
+| 3 | 16 Jan | P1 - P6 | Commencement of Read with Me<br>(7.10-7.30am, selected students) |
+| 3 | 16 Jan | P6 | Commencement of Tamil Remediation<br>(2.15pm-3.15pm, selected students) |
+| 3 | 18 Jan | P1 &amp; P2 | Commencement of KidsREAD (2.15-4pm, selected students) |
+| 3 | 18 Jan | P3 | Commencement of P3 Swimsafer Programme (2-4.30pm) |
+| 3 | 19 Jan | P2 | Parents’ Briefing via Zoom (4-5pm) |
+| 3 | 19 Jan | P6 | Parents’ Breifing via Zoom (5-6pm) |
+| 4 | 22 Jan | P4 | Parents’ Breifing via Zoom (4-5pm) |
+| 4 | 23 Jan | P6 | Commencement of P6 Self-Study Programme (2.15-4.15pm) |
+| 4 | 25 - 27 Jan | P5 | P5 Camp |
+| 4 | 26 Jan | P1 | Parents’ Briefing for Learning Support Programme<br>(selected students, 2.15-3.15pm) |
+| 6 | 9 Feb | All | Chinese New Year Celebrations (Dismissal at 10.30am) |
+| 7 | 12 - 13 Feb | All | **Public Holiday** - Chinese New Year |
+| 7 | 16 Feb | All | Total Defence Day |
+| 7 | 16 Feb | P5 | Start of P5 BFRP Microbit Workshop (2-4.15pm) |
+| 10 | 5 - 8 Mar | P6 | PTM via Zoom (PM) |
+| 10 | 11 - 15 Mar | All |  **March School Holiday** |
 |  |  |  |  |
