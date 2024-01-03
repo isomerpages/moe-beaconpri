@@ -6,4 +6,4 @@ variant: markdown
 ---
 ### Beacon School Team
 
-<img src="/images/staff_photo_B.jpg" style="width:95%">
+<img src="/images/staff_photo_C.jpg" style="width:95%">
