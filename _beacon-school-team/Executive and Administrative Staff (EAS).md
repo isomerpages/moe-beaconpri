@@ -12,7 +12,6 @@ variant: markdown
 | Mdm Noorzana Binte Sa'don | ICT Manager |
 | Mdm Nur Emilda Binte Mohamed | Admin Executive |
 | Mdm Lee Mui Chon | Corporate Support Officer |
-| Mdm Roselinda Binte Ahmad | Corporate Support Officer |
 | Mdm Ng Bee Tin | Corporate Support Officer |
 | Mdm Hatijah Samsudin | Operations Support Officer |
 | Mdm Ang Lay Choo | Operations Support Officer |
