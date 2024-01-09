@@ -2,7 +2,8 @@
 title: Announcement
 permalink: /announcement/
 description: ""
+variant: markdown
 ---
 ### Announcement
 
-**Final CCA session for 2023** will be on the following Thursday, 2 November 2023 for P3 - P5 students.
+**11 January 2024** - Commencement of CCA for P4 – P6 Students (Session 1) 
