@@ -2,12 +2,13 @@
 title: Co Curricular Activities
 permalink: /cca/cca/
 description: ""
+variant: markdown
 ---
 ### Co-Curricular Activities
 
 CCA is an important part of our students’ holistic education and development. CCA enables students to realise their potential by providing them with opportunities to discover their interests and talents. In Beacon Primary School, we aim to cultivate in our students the joy of learning so that they are motivated to pursue their interests and talents in the long run. Our CCAs also emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds.
 
-❯ [Click for 2023 CCA Schedule ](/files/cca%20schedule%202023.pdf)
+❯ [Click for 2024 CCA Schedule](/files/CCA_Schedule_2024.pdf)
 
 #### Summary of CCAs offered in Beacon Primary School
 
