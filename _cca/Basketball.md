@@ -2,12 +2,13 @@
 title: Basketball
 permalink: /cca/bball/
 description: ""
+variant: markdown
 ---
 ### Basketball
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 2.15pm – 4.15pm | Indoor Sports Hall Level 1 | Mr Chan Poh Loong<br><br>Ms Nur Atiqah Binte Ilham<br><br>Mdm Siti Maizurah Bte Amzah |
+| Thursday | 2.15pm – 4.15pm | Indoor Sports Hall Level 1 | Mr Chan Poh Loong<br><br>Ms Nur Atiqah Binte Ilham<br><br>Mr Lee Chee Leong |
 |  |  |  |  |
 
 #### Objectives
