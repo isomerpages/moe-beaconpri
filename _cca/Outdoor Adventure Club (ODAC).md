@@ -2,12 +2,13 @@
 title: Outdoor Adventure Club (ODAC)
 permalink: /cca/odac/
 description: ""
+variant: markdown
 ---
 ### Outdoor Adventure Club (ODAC)
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 2.15pm – 4.15pm | Various venues depending on the activity |  Mrs Goh-Toh Lee Ching<br><br>Mdm Aliah Binte Ariffin<br><br>Ms Nur Erliana Binte Supanie<br><br>Mdm Sri Shangeetha D/O Sangar<br><br>Mr Ng Renjie Ken |
+| Thursday | 2.15pm – 4.15pm | Various venues depending on the activity |  Mrs Goh-Toh Lee Ching<br><br>Mdm Sri Shangeetha D/O Sangar<br><br>Mdm Zhang Li Wen<br><br>Mdm Nazreen Binte Mohamed Zulfakir |
 |  |  |  |  |
 
 #### Objectives
