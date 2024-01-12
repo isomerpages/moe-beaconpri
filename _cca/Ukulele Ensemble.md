@@ -2,6 +2,7 @@
 title: Ukulele Ensemble
 permalink: /cca/ukulele/
 description: ""
+variant: markdown
 ---
 ### Ukulele Ensemble
 
@@ -19,11 +20,3 @@ The Ukulele Ensemble CCA aims to nurture students with the passion for the perfo
 Sessions are planned and guided by professional instructors. The ukulele sessions encompass all aspects of ukulele playing, including chord reading, strumming and plucking patterns, and melody playing (ranging from tunes of popular songs to classical music) arranged for ukulele. Through the CCA, students interact and bond amongst teams, combining the playing of chords and melodies to songs. By learning a musical skill together, students can have fun through the learning process.
 
 <img src="/images/BEL/bel-sd02k.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Yumilesca Pang Yi Qin | P6.6 | Chairperson |
-| Chan Wei Hong Shann | P5.5 | Vice-Chairperson |
-|  |  |  |
