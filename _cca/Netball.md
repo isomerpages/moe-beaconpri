@@ -31,13 +31,3 @@ Our Netball girls are engaged in:
 *   Communication and teamwork
 
 <img src="/images/BEL/bel-sd02f.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Chua Li Xin | P6.5 | Captain (Senior Team) |
-| Ashley Kuan | P6.5 | Vice-Captain (Senior Team) |
-| Faith Kaitlyn Teo | P5.5 | Captain (Junior Team) |
-| Nur Qo'adrianna Binte Muhammad Qo'aza | P5.3 | Vice-Captain (Junior Team) |
-|  |  |  |
