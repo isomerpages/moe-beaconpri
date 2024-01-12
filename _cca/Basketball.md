@@ -25,14 +25,3 @@ Students are divided into two teams, Junior (Primary 3 and 4) and Senior (Primar
 *   Students who meet the required basketball skills and qualities are invited to join the school team to participate in competitions.
 
 <img src="/images/BEL/bel-sd02c.jpg" style="width:100%">
-
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Nor Hakim Bin Abbas | P6.2 | Captain (Senior Team) |
-| Joven Tan | P6.2 | Vice-Captain (Senior Team) |
-| Yap Jing Rong | P5.6 | Captain (Junior Team) |
-| Vu Yi Kang | P5.6 | Vice-Captain (Junior Team) |
-|  |  |  |
