@@ -23,12 +23,3 @@ The Outdoor Adventure Club (ODAC) CCA aims to develop outdoor skills through act
 *   Hiking
 
 <img src="/images/BEL/bel-sd02g.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Andi Alfie Bin Mazlan | P6.3 | Captain |
-| Ahmad Shafi Bin Muhammad Sufian | P6.2 | Vice-Captain |
-| Lee Jie Qing | P4.3 | Level Rep |
-|  |  |  |
