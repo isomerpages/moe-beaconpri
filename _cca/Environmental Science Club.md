@@ -23,11 +23,3 @@ variant: markdown
 *   Activities include litter-free environment, mozzie wipe-out, 4Rs, Upcycling, Earth Day commemoration and waste minimisation.
 
 <img src="/images/BEL/bel-sd02d.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Kang Som | P6.6 | Chairperson |
-| Zikry Mikhail Bin Indrazahri | P5.6 | Vice-Chairperson |
-|  |  |  |
