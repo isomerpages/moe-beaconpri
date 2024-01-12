@@ -2,6 +2,7 @@
 title: Art Club
 permalink: /cca/ac/
 description: ""
+variant: markdown
 ---
 ### Art Club
 
@@ -27,12 +28,3 @@ Sessions are planned and guided by the Studio Habits of Mind framework. Student-
 
 <img src="/images/BEL/bel-sd02a.jpg" style="width:100%">
 
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Shinta Kuru | P6.3 | Chairperson |
-| Aw Yong Pei Shan | P6.6 | Vice-Chairperson |
-| Tan Yin Xuan | P5.4 | Level Rep |
-| Alvina Lyn Binte Mohammad Hanafi | P4.3 | Level Rep |
-|  |  |  |
