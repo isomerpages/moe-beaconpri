@@ -28,13 +28,3 @@ variant: markdown
 *   Aside from competition, Wushu is also actively involved in school performances such as Chinese New Year and the Year End Beacon Awards Ceremony Performance.
 
 <img src="/images/BEL/bel-sd02l.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Chrystabel Tan Jing Wen | P6.5 | Captain |
-| Rayden Chan Yi Kai | P6.6 | Vice-Captain |
-| Toh Hui Min | P5.4 | Vice-Captain |
-| Neo Jia Heng | P5.5 | Vice-Captain |
-|  |  |  |
