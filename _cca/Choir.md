@@ -30,11 +30,3 @@ Students annotate solfege on their full scores and practise regularly at home fr
 *   P2 CCA showcase
 
 <img src="/images/BEL/bel-sd02b.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Mark Ang Shi Hao | P6.5 | Chairperson |
-| Yong Ming Si | P6.4 | Vice-Chairperson |
-|  |  |  |
