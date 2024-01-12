@@ -29,11 +29,3 @@ Open House and National Day concerts.
 3. Trainings for Singapore Youth Festival 2024.
 
 <img src="/images/BEL/bel-sd02m.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Faith Teoh | P6.5 | Chairperson |
-| Nur Fitriyah Binte Muhammad Fazri | P6.2 | Vice-Chairperson |
-|  |  |  |
