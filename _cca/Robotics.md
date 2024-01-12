@@ -28,12 +28,3 @@ The main objectives are to :<br>
 *   Be proficient in a variety of Information and Communications Technology (ICT) skills
 
 <img src="/images/BEL/bel-sd02h.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Ang Hao You | P6.5 | Chairperson |
-| Adam Bin Rosli | P5.3 | Vice-Chairperson |
-| Motwani Preet Sanjay | P5.6 | Vice-Chairperson |
-|  |  |  |
