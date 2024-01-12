@@ -2,12 +2,13 @@
 title: Scouts
 permalink: /cca/scouts/
 description: ""
+variant: markdown
 ---
 ### Scouts
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 2.15pm – 4.15pm | P1.2 and P1.3 Classroom | Ms Nurhuda Binte Mohamed  <br><br>Mdm Nazreen Bte Mohamed Zulfakir<br><br>Ms Emielliana Mira Binte Jafry<br><br>Miss Pang Xiao Tian Patricia<br><br>Mr Leslie Gwee Cher Siang |
+| Thursday | 2.15pm – 4.15pm | P1.2 and P1.3 Classroom | Ms Emielliana Mira Binte Jafry<br><br>Mr Leslie Gwee Cher Siang<br><br>Miss Pang Xiao Tian Patricia<br><br>Mdm Stella Loy Ann Ting (Mrs Chai) |
 |  |  |  |  |
 
 #### Objectives
