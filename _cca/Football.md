@@ -2,12 +2,13 @@
 title: Football
 permalink: /cca/fb/
 description: ""
+variant: markdown
 ---
 ### Football
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 3.30pm – 5.30pm | School Field<br><br>Indoor Sports Hall Level 2<br><br>(if it rains) | Mr Mustaffa Bin Ahmad<br><br>Mr Saw Wee Leong<br><br>Mr Wong Jun Kai |
+| Thursday | 3.30pm – 5.30pm | School Field<br><br>Indoor Sports Hall Level 2<br><br>(if it rains) | Mr Mustaffa Bin Ahmad<br><br>Mr Wong Jun Kai<br><br>Mr Abdul Aziz Bin Ansari |
 |  |  |  |  |
 
 #### Objectives
