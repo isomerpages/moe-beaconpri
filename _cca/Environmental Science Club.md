@@ -2,12 +2,13 @@
 title: Environmental Science Club
 permalink: /cca/esc/
 description: ""
+variant: markdown
 ---
 ### Environmental Science Club
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 2.15pm – 4.15pm | Discovery Rooms 1 and 2 | Mdm Lim Siew Ling<br><br>Mdm Tan Lam Yen<br><br>Miss Ong Yong Qi  <br><br>Mdm Sam Wei Ting |
+| Thursday | 2.15pm – 4.15pm | Discovery Rooms 1 and 2 | Mdm Lim Siew Ling<br><br>Mdm Tan Lam Yen<br><br>Miss Ong Yong Qi  <br><br>Mdm Soon Hui Ting |
 |  |  |  |  |
 
 #### Objectives
