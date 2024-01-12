@@ -25,13 +25,3 @@ We aim to make Football an enjoyable CCA for both competitive and recreational p
 *   Attachment to clubs
 
 <img src="/images/BEL/bel-sd02e.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Nguyen Cao Khanh | P6.6 | Captain (Senior Team) |
-| Iniesta Lim | P6.3 | Vice-Captain (Senior Team) |
-| Muhammad Ra'uf Azraqi Bin Muhammad Aliff | P5.2 | Captain (Junior Team) |
-| Konishi Kiyoharu | P4.5 | Vice-Captain (Junior Team) |
-|  |  |  |
