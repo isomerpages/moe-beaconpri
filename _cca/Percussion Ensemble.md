@@ -24,12 +24,3 @@ Students are trained by professional instructors to play a selection of percussi
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMwjvKtkCgYwOFJ9fwbNfaz5G5dG7tqDvEDEQOcuqz8dwLH6XCC0NHPcXISMzhmW0dkQcVxHANJn99/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Our Percussion Ensemble members learning to play an instrument and perform collaboratively as a musical group.
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Hiro Ramadhan Purbojati | P5.6 | Chairperson |
-| Hannah Ong Jing Han | P5.6 | Vice-Chairperson |
-| Oh Le Xuan | P5.4 | Vice-Chairperson |
-|  |  |  |
