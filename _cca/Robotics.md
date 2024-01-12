@@ -2,12 +2,13 @@
 title: Robotics
 permalink: /cca/robotics/
 description: ""
+variant: markdown
 ---
 ### Robotics
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 2.15pm – 4.15pm | iConnect Rooms 1, 2 and 3 | Mr Siu Kai Chong  <br><br>Ms Juzain Binte Jasin<br><br>Mdm Siti Farina Binte Osman |
+| Thursday | 2.15pm – 4.15pm | iConnect Rooms 1, 2 and 3 | Mr Siu Kai Chong  <br><br>Ms Juzain Binte Jasin<br><br>Ms Kwek Keem Shin Vanessa |
 |  |  |  |  |
 
 #### Objectives
