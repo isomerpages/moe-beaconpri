@@ -2,12 +2,13 @@
 title: Tchoukball
 permalink: /cca/tchoukball/
 description: ""
+variant: markdown
 ---
 # Tchoukball
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 2.15pm – 4.15pm | Indoor Sports Hall Level 2 | Ms Ler Leng Leng<br><br>Miss Kwek Keem Shin Vanessa<br><br>Mr Teo Shi Han |
+| Thursday | 2.15pm – 4.15pm | Indoor Sports Hall Level 2 | Ms Ler Leng Leng<br><br>Mdm Zainah Binte Alias<br><br>Mr Sim Wei Xiong |
 |  |  |  |  |
 
 #### Objectives
@@ -26,13 +27,3 @@ Students are engaged in the following:<br>
 Students in the Junior team will familiarise themselves with the rules of the games and learn basic ball handling skills while those in the Senior team will hone their skills in specific player positions and learn to coordinate as a team in offence and defence.
 
 <img src="/images/BEL/bel-sd02j.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Seng Wen Yuan | P6.3 | Captain (Boys Team) |
-| Byron Teo Cheng Jung | P5.4 | Vice-Captain (Boys Team) |
-| Tan Xin Tong Joy | P6.5 | Captain (Girls Team) |
-| Elfa Nur Adriana Binti Mohammad Yassin | P5.2 | Vice-Captain (Girls Team) |
-|  |  |  |

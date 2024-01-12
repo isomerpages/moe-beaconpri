@@ -2,12 +2,13 @@
 title: Wushu
 permalink: /cca/wushu/
 description: ""
+variant: markdown
 ---
 ### Wushu
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 2.15pm – 4.15pm | School Hall, Level 2 | Mdm Wong Choy Hong  <br><br>Mrs Candice Huang-Tan Yar Hui<br><br>Mdm Toh Hui Ming |
+| Thursday | 2.15pm – 4.15pm | School Hall, Level 2 | Mr Ang Hiang Chai<br><br>Mdm Toh Hui Ming<br><br>Mdm Sam Wei Ting |
 |  |  |  |  |
 
 #### Objectives
@@ -27,13 +28,3 @@ description: ""
 *   Aside from competition, Wushu is also actively involved in school performances such as Chinese New Year and the Year End Beacon Awards Ceremony Performance.
 
 <img src="/images/BEL/bel-sd02l.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Chrystabel Tan Jing Wen | P6.5 | Captain |
-| Rayden Chan Yi Kai | P6.6 | Vice-Captain |
-| Toh Hui Min | P5.4 | Vice-Captain |
-| Neo Jia Heng | P5.5 | Vice-Captain |
-|  |  |  |

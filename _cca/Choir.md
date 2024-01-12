@@ -2,12 +2,13 @@
 title: Choir
 permalink: /cca/choir/
 description: ""
+variant: markdown
 ---
 ### Choir
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 2.15pm – 4.15pm | Spotlight | Mdm Stella Loy Ann Ting<br><br>Mdm Phua Sor Lay<br><br>Mdm Wong Jing Mei Joyce |
+| Thursday | 2.15pm – 4.15pm | Spotlight | Mdm Phua Sor Lay<br><br>Mdm Wong Jing Mei Joyce |
 |  |  |  |  |
 
 #### Objectives
@@ -29,11 +30,3 @@ Students annotate solfege on their full scores and practise regularly at home fr
 *   P2 CCA showcase
 
 <img src="/images/BEL/bel-sd02b.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Mark Ang Shi Hao | P6.5 | Chairperson |
-| Yong Ming Si | P6.4 | Vice-Chairperson |
-|  |  |  |

@@ -2,12 +2,13 @@
 title: Dance
 permalink: /cca/dance/
 description: ""
+variant: markdown
 ---
 ### Dance
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 2.15pm – 4.15pm | Dance Studio and Band Room 2 | Mdm Liyana Saad<br><br>Mdm Ng Wan Qing |
+| Thursday | 2.15pm – 4.15pm | Dance Studio and Band Room 2 | Mdm Liyana Saad<br><br>Mdm Ng Wan Qing<br><br>Mdm Siti Maizurah Binte Amzah |
 |  |  |  |  |
 
 #### Objectives
@@ -28,11 +29,3 @@ Open House and National Day concerts.
 3. Trainings for Singapore Youth Festival 2024.
 
 <img src="/images/BEL/bel-sd02m.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Faith Teoh | P6.5 | Chairperson |
-| Nur Fitriyah Binte Muhammad Fazri | P6.2 | Vice-Chairperson |
-|  |  |  |

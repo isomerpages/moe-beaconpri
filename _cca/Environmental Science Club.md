@@ -2,12 +2,13 @@
 title: Environmental Science Club
 permalink: /cca/esc/
 description: ""
+variant: markdown
 ---
 ### Environmental Science Club
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 2.15pm – 4.15pm | Discovery Rooms 1 and 2 | Mdm Lim Siew Ling<br><br>Mdm Tan Lam Yen<br><br>Miss Ong Yong Qi  <br><br>Mdm Sam Wei Ting |
+| Thursday | 2.15pm – 4.15pm | Discovery Rooms 1 and 2 | Mdm Lim Siew Ling<br><br>Mdm Tan Lam Yen<br><br>Miss Ong Yong Qi  <br><br>Mdm Soon Hui Ting |
 |  |  |  |  |
 
 #### Objectives
@@ -22,11 +23,3 @@ description: ""
 *   Activities include litter-free environment, mozzie wipe-out, 4Rs, Upcycling, Earth Day commemoration and waste minimisation.
 
 <img src="/images/BEL/bel-sd02d.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Kang Som | P6.6 | Chairperson |
-| Zikry Mikhail Bin Indrazahri | P5.6 | Vice-Chairperson |
-|  |  |  |

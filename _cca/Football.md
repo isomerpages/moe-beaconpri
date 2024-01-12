@@ -2,12 +2,13 @@
 title: Football
 permalink: /cca/fb/
 description: ""
+variant: markdown
 ---
 ### Football
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 3.30pm – 5.30pm | School Field<br><br>Indoor Sports Hall Level 2<br><br>(if it rains) | Mr Mustaffa Bin Ahmad<br><br>Mr Saw Wee Leong<br><br>Mr Wong Jun Kai |
+| Thursday | 3.30pm – 5.30pm | School Field<br><br>Indoor Sports Hall Level 2<br><br>(if it rains) | Mr Mustaffa Bin Ahmad<br><br>Mr Wong Jun Kai<br><br>Mr Abdul Aziz Bin Ansari |
 |  |  |  |  |
 
 #### Objectives
@@ -24,13 +25,3 @@ We aim to make Football an enjoyable CCA for both competitive and recreational p
 *   Attachment to clubs
 
 <img src="/images/BEL/bel-sd02e.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Nguyen Cao Khanh | P6.6 | Captain (Senior Team) |
-| Iniesta Lim | P6.3 | Vice-Captain (Senior Team) |
-| Muhammad Ra'uf Azraqi Bin Muhammad Aliff | P5.2 | Captain (Junior Team) |
-| Konishi Kiyoharu | P4.5 | Vice-Captain (Junior Team) |
-|  |  |  |

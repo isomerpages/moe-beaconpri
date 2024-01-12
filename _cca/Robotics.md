@@ -2,12 +2,13 @@
 title: Robotics
 permalink: /cca/robotics/
 description: ""
+variant: markdown
 ---
 ### Robotics
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 2.15pm – 4.15pm | iConnect Rooms 1, 2 and 3 | Mr Siu Kai Chong  <br><br>Ms Juzain Binte Jasin<br><br>Mdm Siti Farina Binte Osman |
+| Thursday | 2.15pm – 4.15pm | iConnect Rooms 1, 2 and 3 | Mr Siu Kai Chong  <br><br>Ms Juzain Binte Jasin<br><br>Ms Kwek Keem Shin Vanessa |
 |  |  |  |  |
 
 #### Objectives
@@ -27,12 +28,3 @@ The main objectives are to :<br>
 *   Be proficient in a variety of Information and Communications Technology (ICT) skills
 
 <img src="/images/BEL/bel-sd02h.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Ang Hao You | P6.5 | Chairperson |
-| Adam Bin Rosli | P5.3 | Vice-Chairperson |
-| Motwani Preet Sanjay | P5.6 | Vice-Chairperson |
-|  |  |  |

@@ -2,12 +2,13 @@
 title: Percussion Ensemble
 permalink: /cca/percussion-ensemble/
 description: ""
+variant: markdown
 ---
 ### Percussion Ensemble
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 2.15pm – 4.15pm | Music Rooms 1 &amp; 2, Level 4 | Mdm Goh Wee Peng<br><br>Mr Felix Cheong Mun Jee<br><br>Ms Li Chang |
+| Thursday | 2.15pm – 4.15pm | Music Rooms 1 &amp; 2, Level 4 | Mdm Goh Wee Peng<br><br>Ms Li Chang<br><br>Ms Nurhuda Bte Mohamed |
 |  |  |  |  |
 
 #### Objectives
@@ -23,12 +24,3 @@ Students are trained by professional instructors to play a selection of percussi
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMwjvKtkCgYwOFJ9fwbNfaz5G5dG7tqDvEDEQOcuqz8dwLH6XCC0NHPcXISMzhmW0dkQcVxHANJn99/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Our Percussion Ensemble members learning to play an instrument and perform collaboratively as a musical group.
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Hiro Ramadhan Purbojati | P5.6 | Chairperson |
-| Hannah Ong Jing Han | P5.6 | Vice-Chairperson |
-| Oh Le Xuan | P5.4 | Vice-Chairperson |
-|  |  |  |

@@ -2,12 +2,13 @@
 title: Scouts
 permalink: /cca/scouts/
 description: ""
+variant: markdown
 ---
 ### Scouts
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 2.15pm – 4.15pm | P1.2 and P1.3 Classroom | Ms Nurhuda Binte Mohamed  <br><br>Mdm Nazreen Bte Mohamed Zulfakir<br><br>Ms Emielliana Mira Binte Jafry<br><br>Miss Pang Xiao Tian Patricia<br><br>Mr Leslie Gwee Cher Siang |
+| Thursday | 2.15pm – 4.15pm | P1.2 and P1.3 Classroom | Ms Emielliana Mira Binte Jafry<br><br>Mr Leslie Gwee Cher Siang<br><br>Miss Pang Xiao Tian Patricia<br><br>Mdm Stella Loy Ann Ting (Mrs Chai) |
 |  |  |  |  |
 
 #### Objectives
@@ -28,13 +29,3 @@ Scouting is a movement of self-education for young people, through a value syste
 *   Flag march for National Day Observance Ceremony
 
 <img src="/images/BEL/bel-sd02i.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Pham Dang Khoa | P6.5 | Chairperson |
-| Nyla Alesha Binte Azhar | P5.2 | Vice-Chairperson |
-| Mukherjee Anusmit | P4.5 | Level Rep P3/4 |
-| Muhamad Irfan Aslam Bin Muhamad Aslizar | P5.3 | Level Rep P5/6 |
-|  |  |  |

@@ -2,12 +2,13 @@
 title: Netball
 permalink: /cca/netball/
 description: ""
+variant: markdown
 ---
 ### Netball
 
 | **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 3.30pm – 5.30pm | Parade Square and Indoor Sports Hall<br><br>Foyer and Indoor Sports Hall<br>(if it rains) | Mdm Zainah Binte Alias<br><br>Mdm Lee Li Ying<br><br>Miss Arina Nadiah Binte Saifudin |
+| Thursday | 3.30pm – 5.30pm | Parade Square and Indoor Sports Hall<br><br>Foyer and Indoor Sports Hall<br>(if it rains) | Mdm Lee Li Ying<br><br>Miss Arina Nadiah Binte Saifudin<br><br>Miss Chang Jia Wei |
 |  |  |  |  |
 
 #### Objectives
@@ -30,13 +31,3 @@ Our Netball girls are engaged in:
 *   Communication and teamwork
 
 <img src="/images/BEL/bel-sd02f.jpg" style="width:100%">
-
-#### CCA Leaders
-
-| **Student Name** | **Class** | **Appointment** |
-|---|---|---|
-| Chua Li Xin | P6.5 | Captain (Senior Team) |
-| Ashley Kuan | P6.5 | Vice-Captain (Senior Team) |
-| Faith Kaitlyn Teo | P5.5 | Captain (Junior Team) |
-| Nur Qo'adrianna Binte Muhammad Qo'aza | P5.3 | Vice-Captain (Junior Team) |
-|  |  |  |
