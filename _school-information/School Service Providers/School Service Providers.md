@@ -26,7 +26,7 @@ Although the school does not have a dedicated stall selling vegetarian food, stu
 
 The school dental clinic will be open on alternate weeks. Please refer to [HERE](/files/Dental01_02.pdf) for the Dental Clinic Opening Days. Please contact 91141358 (call/SMS/WhatsApp) to make an appointment for dental services.
 
-In the event that the clinic is closed, students who need urgent dental treatment may contact Bukit Panjang Primary Dental Clinic at 91142186.
+In the event that the clinic is closed, students who need urgent dental treatment may contact Bukit Panjang Primary Dental Clinic at 9114 2186.
 
 For emergency dental treatment such as facial/gum swelling, severe toothache and dental trauma, please contact School Dental Centre via email at Contact_YPS@hpb.gov.sg.
 
@@ -41,7 +41,7 @@ For emergency dental treatment such as facial/gum swelling, severe toothache and
 
 | |
 | -------- |
-| **Open to Parents/Guardians of Students :** <br><br>Wednesday and Friday: 1.50 pm to 2.50 pm<br>Tel: 6465 5523      |
+| **Open to Parents/Guardians of Students :** <br><br>Wednesday and Friday: 1.50 pm to 2.50 pm<br>Tel: 9091 8477     |
 | (**Note:** For purchase from school bookshop, parents are required to enter and exit through **Side Gate 1**) |
 
 #### Booklist 2024
