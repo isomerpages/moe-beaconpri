@@ -1,0 +1,14 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Message From School Leaders.md
+      - School Advisory Committee.md
+      - Staff/.keep
+      - Staff/Beacon School Team.md
+      - Engaging Environment.md
+      - History.md
+      - Mission and Vision.md
+      - Core Values and Desired Outcomes.md
+      - School Crest, School Song and School Uniform.md
+      - Student Achievements.md

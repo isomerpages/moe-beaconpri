@@ -1,0 +1,19 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Co Curricular Activities.md
+      - Art Club.md
+      - Basketball.md
+      - Choir.md
+      - Dance.md
+      - Environmental Science Club.md
+      - Football.md
+      - Netball.md
+      - Outdoor Adventure Club (ODAC).md
+      - Percussion Ensemble.md
+      - Robotics.md
+      - Scouts.md
+      - Tchoukball.md
+      - Ukulele Ensemble.md
+      - Wushu.md

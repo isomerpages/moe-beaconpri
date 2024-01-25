@@ -1,0 +1,64 @@
+logo: /images/bpslogo_b.png
+links:
+  - title: About us
+    url: /about-us/msg-sch-ldrs/
+    sublinks:
+      - title: Message From School Leaders
+        url: /about-us/msg-sch-ldrs/
+      - title: School Advisory Committee
+        url: /about-us/sch-ad-c/
+      - title: Staff
+        url: /beacon-school-team/bst/
+      - title: Engaging Environment
+        url: /about-us/environment/
+      - title: History
+        url: /about-us/history/
+      - title: Mission & Vision
+        url: /about-us/mnv/
+      - title: Core Values & Desired Outcomes
+        url: /about-us/cvndo/
+      - title: School Crest, Song & Uniform
+        url: /about-us/scsssu/
+      - title: Student Achievements
+        url: /about-us/std-achievements/
+  - title: Beacon Experiential Learning
+    url: /beacon-experiential-learning/Special-Programmes/sp/
+    sublinks:
+      - title: Special Programmes
+        url: /beacon-experiential-learning/Special-Programmes/sp/
+      - title: Teaching & Learning Programme
+        url: /beacon-experiential-learning/Teaching-and-Learning-Programmes/tnl/
+      - title: Student Development Programmes
+        url: /beacon-experiential-learning/Student-Development-Programmes/sdp/
+  - title: School Information
+    url: /school-information/impt-dates/
+    sublinks:
+      - title: Term 1 Important Dates
+        url: /school-information/impt-dates/
+      - title: School Hours
+        url: /school-information/sch-hrs/
+      - title: School Security & Safety
+        url: /school-information/School-Security-and-Safety/sss/
+      - title: School Rules and Practices
+        url: /school-information/srp/
+      - title: Home-Based Learning
+        url: /school-information/hbl/
+      - title: Home-School Partnership
+        url: /school-information/hsp/
+      - title: School Service Providers
+        url: /school-information/ssp/
+      - title: School-Based Student Care
+        url: /school-information/sbscc/
+      - title: Useful Links
+        url: /school-information/ul/
+      - title: Admin Forms
+        url: /school-information/admin-forms/
+      - title: P1 Registration & Information
+        url: /school-information/P1-Registration-and-Information/p1-reg-info/
+  - title: School Events
+    url: /school-events/event-gallery/2024/
+    sublinks:
+      - title: Event Gallery
+        url: /school-events/event-gallery/2024/
+  - title: Contact Us
+    url: /contact-us/contactus

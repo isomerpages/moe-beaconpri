@@ -1,0 +1,25 @@
+collections:
+  school-information:
+    output: true
+    order:
+      - Term 1 Important Dates.md
+      - School Hours.md
+      - School Security and Safety/.keep
+      - School Security and Safety/School Security and Safety.md
+      - School Security and Safety/Group Personal Accident Insurance for
+        Students.md
+      - School Rules And Practices.md
+      - School Rules and Practices.md
+      - Home Based Learning.md
+      - Home School Partnership.md
+      - School Service Providers/.keep
+      - School Service Providers/School Service Providers.md
+      - School Service Providers/Canteen Advertisement.md
+      - School Based Student Care Centre.md
+      - Useful Links.md
+      - Admin Forms.md
+      - P1 Registration & Information/.keep
+      - P1 Registration & Information/P1 Registration and Information.md
+      - P1 Registration & Information/Open House.md
+      - P1 Registration & Information/Preparing for Primary 1.md
+      - P1 Registration & Information/Beacon Initiation Ceremony.md
