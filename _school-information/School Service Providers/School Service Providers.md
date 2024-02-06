@@ -92,7 +92,8 @@ and dental trauma, please contact School Dental Centre via email at Contact_YPS@
 <tr>
 <td rowspan="1" colspan="1">
 <p>(<strong>Note:</strong> For purchase from school bookshop, parents are
-required to enter and exit through <strong>Side Gate 1</strong>)</p>
+required to enter and exit
+<br>through <strong>Side Gate 1</strong>)</p>
 </td>
 </tr>
 </tbody>
