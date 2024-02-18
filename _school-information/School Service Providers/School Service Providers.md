@@ -34,13 +34,14 @@ or strict dietary requirements are encouraged to bring their own food.</p>
 </p>
 <h4>School Dental Clinic</h4>
 <p>The school dental clinic will be open on alternate weeks. Please refer
-to <a href="/files/Dental01_02.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for
+to <a href="/files/Dental03.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE </a>for
 the Dental Clinic Opening Days. Please contact 91141358 (call/SMS/WhatsApp)
 to make an appointment for dental services.</p>
 <p>In the event that the clinic is closed, students who need urgent dental
 treatment may contact Bukit Panjang Primary Dental Clinic at 9114 2186.</p>
 <p>For emergency dental treatment such as facial/gum swelling, severe toothache
-and dental trauma, please contact School Dental Centre via email at Contact_YPS@hpb.gov.sg.</p>
+and dental trauma, please contact School Dental Centre via email at <a href="mailto:Contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a>.</p>
+<p>Dental Clinic <strong>will only </strong>open from <strong><u>08.00am to 10.30am</u></strong> on <strong><u>28 February 2024</u></strong>.</p>
 <h4>School Uniform Supplier</h4>
 <table>
 <tbody>
