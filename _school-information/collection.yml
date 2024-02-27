@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Service Providers.md
       - Term 1 Important Dates.md
       - School Hours.md
       - School Security and Safety/.keep
