@@ -2,7 +2,6 @@
 title: Canteen Advertisement
 permalink: /school-information/ca/
 description: ""
-third_nav_title: School Service Providers
 ---
 ### School Canteen
 
