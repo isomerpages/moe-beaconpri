@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - School Service Providers.md
       - Term 1 Important Dates.md
       - School Hours.md
       - School Security and Safety/.keep
@@ -13,6 +12,7 @@ collections:
       - School Rules and Practices.md
       - Home Based Learning.md
       - Home School Partnership.md
+      - School Service Providers.md
       - School Service Providers/.keep
       - School Based Student Care Centre.md
       - Useful Links.md
