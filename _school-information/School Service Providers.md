@@ -40,7 +40,7 @@ to make an appointment for dental services.</p>
 treatment may contact Bukit Panjang Primary Dental Clinic at 9114 2186.</p>
 <p>For emergency dental treatment such as facial/gum swelling, severe toothache
 and dental trauma, please contact School Dental Centre via email at <a href="mailto:Contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a>.</p>
-<p>Dental Clinic <strong>will only </strong>open from <strong><u>08.00am to 10.30am</u></strong> on <strong><u>28 February 2024</u></strong>.</p>
+<p></p>
 <h4>School Uniform Supplier</h4>
 <table>
 <tbody>
