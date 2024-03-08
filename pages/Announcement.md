@@ -6,3 +6,4 @@ variant: tiptap
 ---
 <h3>Announcement</h3>
 <p></p>
+<p></p>
