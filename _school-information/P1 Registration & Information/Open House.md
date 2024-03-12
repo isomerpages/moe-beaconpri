@@ -17,11 +17,10 @@ students’ CCA experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Open_House_2024_Header__2_.jpg">
 </div>
-<p></p>
+<h4>Here is a glimpse of the year 2023 and 2022’s Open House:</h4>
 <div class="iframe-wrapper">
 <iframe height="494" width="660" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1ZYl_RY_NpU"></iframe>
 </div>
-<h4>Here is a glimpse of the year 2022’s Open House:</h4>
 <div class="iframe-wrapper">
 <iframe height="494" width="660" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rpXNwq8MMMU"></iframe>
 </div>
