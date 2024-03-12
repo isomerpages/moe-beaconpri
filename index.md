@@ -14,7 +14,7 @@ sections:
         - title: quick links
           description: ""
           url: /quick-links/
-        - title: 2023 OPEN HOUSE
+        - title: 2024 OPEN HOUSE
           description: ""
           url: /school-information/p1-registration-and-information/op/
       background: /images/5cshero.gif
