@@ -12,7 +12,8 @@ learn more about the school’s curriculum, distinctive programmes and our
 students’ CCA experiences.</p>
 <p></p>
 <p>Information for Open House’s registration will be available from 15 May
-2024. Do come back to this website page for registration!</p>
+2024.
+<br>Do come back to this website page for registration!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Open_House_2024_Header__2_.jpg">
@@ -21,6 +22,7 @@ students’ CCA experiences.</p>
 <div class="iframe-wrapper">
 <iframe height="494" width="660" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1ZYl_RY_NpU"></iframe>
 </div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="494" width="660" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rpXNwq8MMMU"></iframe>
 </div>
