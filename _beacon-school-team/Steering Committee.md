@@ -2,35 +2,229 @@
 title: Steering Committee
 permalink: /beacon-school-team/sc/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Steering Committee
-
-| **Name** | **Designation** |
-|---|---|
-| Ms Pang Wee Mian | Principal |
-| Mdm Lela Shamsuhadi | Vice-Principal (Education) |
-| Mrs Melissa Loh-Chang Suet Mun | Vice-Principal (Education) |
-| Mr Chen Wei Ngiap | Vice-Principal (Admin) |
-| Mdm Ng Siew Choon  (Mrs Low) | Year Head (Pri 1 & Pri 2) |
-| Mdm Ang An Lian | Year Head (Pri 3 & Pri 4) |
-| Mdm Norina Seno (Mdm Rina) | Year Head (Pri 5 & Pri 6) |
-| Dr Lye Sze Yee | HOD Science |
-| Mdm Wen Lili | HOD Mother Tongue Languages |
-| Mr Ong Seng Lee, Alex | HOD PHE & CCA |
-| Mdm Noraini Binte Zainal (Mrs Ra'uf) | HOD English |
-| Mdm Khairyani Bte Kamarolzaman | HOD CCE |
-| Mdm Ma Yanying | School Staff Developer |
-| Mdm Ng Wan Qing | SH/ Chinese Language |
-| Mrs Goh-Toh Lee Ching | SH/ PHE & PAL |
-| Mdm Nasheda Binte Hamzah | SH/ Student Management |
-| Mdm Goh Wee Peng | SH/ Aesthetics |
-| Mdm Nur Aini Bte Mohd Yunos | SH/NESS |
-| Mr Ng Renjie Ken | LH/ Mathematics |
-| Mdm Go Qiuxia | LH/ CCE |
-| Mr Foo Yaosheng | LH/ ICT |
-| Mdm Sri Devi d/o Sritharan (Mrs Siva) | Senior Teacher/ English |
-| Mdm Wahindah Bte Suhari | Senior Teacher/ Malay Language |
-| Mdm Norazlin Bte Jumadi | Senior Teacher / Educational Support |
-| Mrs Liew-Lim Hui Leng | Senior Teacher/ Mathematics |
-|  |  |
+<h3>Steering Committee</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Pang Wee Mian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lela Shamsuhadi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Education)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Melissa Loh-Chang Suet Mun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Education)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chen Wei Ngiap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Admin)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Siew Choon&nbsp; (Mrs Low)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Pri 1 &amp; Pri 2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ang An Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Pri 3 &amp; Pri 4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norina Seno (Mdm Rina)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Pri 5 &amp; Pri 6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Lye Sze Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wen Lili</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mother Tongue Languages</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Seng Lee, Alex</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD PHE &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Noraini Binte Zainal (Mrs Ra'uf)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Khairyani Bte Kamarolzaman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ma Yanying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Wan Qing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Goh-Toh Lee Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ PHE &amp; PAL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nasheda Binte Hamzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Wee Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/&nbsp;Aesthetics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Aini Bte Mohd Yunos</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/NESS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Renjie Ken</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/ Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Go Qiuxia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/ CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Foo Yaosheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/ ICT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sri Devi d/o Sritharan (Mrs Siva)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/ English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wahindah Bte Suhari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/ Malay Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norazlin Bte Jumadi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / Educational Support</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Liew-Lim Hui Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/ Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
