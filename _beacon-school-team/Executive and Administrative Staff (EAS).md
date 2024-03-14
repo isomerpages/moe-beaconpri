@@ -2,23 +2,133 @@
 title: Executive and Administrative Staff (EAS)
 permalink: /beacon-school-team/eas/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Executive and Administrative Staff (EAS)
-
-| **Name** | **Designation** |
-|---|---|
-| Mr Tan Choon Hee | Operations Manager |
-| Mdm Soh Siow Yen | Administration Manager |
-| Mdm Noorzana Binte Sa'don | ICT Manager |
-| Mdm Nur Emilda Binte Mohamed | Admin Executive |
-| Mdm Lee Mui Chon | Corporate Support Officer |
-| Mdm Yeap Cheng Leng | Corporate Support Officer |
-| Mdm Ng Bee Tin | Corporate Support Officer |
-| Mdm Hatijah Samsudin | Operations Support Officer |
-| Mdm Ang Lay Choo | Operations Support Officer |
-| Mdm Cheong Lye Peng | Operations Support Officer |
-| Mr Siew Thian Meng | Operations Support Officer |
-| Mr Ramli Bin Othman | Operations Support Officer |
-| Mr Kanesh Naiker Arujunan | Desktop Engineer |
-|  |  |
+<h3>Executive and Administrative Staff (EAS)</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Choon Hee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Soh Siow Yen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Noorzana Binte Sa'don</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Emilda Binte Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Mui Chon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeap Cheng Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Bee Tin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hatijah Samsudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ang Lay Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheong Lye Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Siew Thian Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ramli Bin Othman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kanesh Naiker Arujunan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
