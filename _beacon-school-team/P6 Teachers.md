@@ -101,7 +101,7 @@ variant: tiptap
 <br>Mdm Ng Wan Qing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:long_yong_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yong_qi@moe.edu.sg</a>
+<p><a href="mailto:long_yong_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yong_qi@moe.edu.sg</a> 
 <br><a href="mailto:ng_wan_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wan_qing@moe.edu.sg</a>
 </p>
 </td>
