@@ -8,36 +8,35 @@ variant: markdown
 
 | Week | Date | Levels | Activity |
 |:---:| -------- | --- | --- |
-| 1 | 2 Jan | P1 | P1 to report at 9.30am. P1 Parents’ Briefing |
-| 1 | 3 Jan | P1 | P1 to report at 9.30am |
-| 1 | 3 Jan | P2 - P6 | P2 to P6 to report at usual school hours |
-| 1 | 4 Jan | P1 | P1 to report at 9.30am |
-| 1 | 5 Jan | P1 | P1 to report at usual school hours |
-| 2 | 8 Jan | P5 &amp; P6 | Commencement of HMT and FMA lessons (2.15pm – 3.15pm) |
-| 2 | 8 Jan | P3 &amp; P4 | Commencement of HCL (2.15pm- 3.15pm) |
-| 2 | 8 Jan | P3 &amp; P4 | Commencement of SDR (2.15pm – 3.15pm, selected students) |
-| 2 | 8 Jan | P3 &amp; P4 | Commencement of RRP (2.15pm – 3.15pm, selected students) |
-| 2 | 9 Jan | P4 - P6 | Commencement of Maths Olympiad Workshops <br>(2.15 to 3.45 pm, selected students) |
-| 2 | 11 Jan | P3 - P6 | Commencement of CCA (2.15 to 4.15pm/3.30 to 5.30 pm) |
-| 2 | 12 Jan | P4 | Commencement of Reading Circle <br>(2.15pm-3.45pm, selected students) |
-| 2 | 12 Jan | P1 | Parents’ Briefing via Zoom (4-5pm) |
-| 2 | 12 Jan | P3 | Parents and Swimsafer Briefing via Zoom (5-6.30pm) |
-| 3 | 15 Jan | P5 &amp; P6 | Commencement of Maths Remediation<br>(2.15pm-3.15pm, selected students) |
-| 3 | 15 Jan | P5 | Parents and Camp Briefing via Zoom (4-6pm) |
-| 3 | 16 Jan | P1 - P6 | Commencement of Read with Me<br>(7.10-7.30am, selected students) |
-| 3 | 16 Jan | P6 | Commencement of Tamil Remediation<br>(2.15pm-3.15pm, selected students) |
-| 3 | 18 Jan | P1 &amp; P2 | Commencement of KidsREAD (2.15-4pm, selected students) |
-| 3 | 18 Jan | P3 | Commencement of P3 Swimsafer Programme (2-4.30pm) |
-| 3 | 19 Jan | P2 | Parents’ Briefing via Zoom (4-5pm) |
-| 3 | 19 Jan | P6 | Parents’ Breifing via Zoom (5-6pm) |
-| 4 | 22 Jan | P4 | Parents’ Breifing via Zoom (4-5pm) |
-| 4 | 23 Jan | P6 | Commencement of P6 Self-Study Programme (2.15-4.15pm) |
-| 4 | 25 - 27 Jan | P5 | P5 Camp |
-| 4 | 26 Jan | P1 | Parents’ Briefing for Learning Support Programme<br>(selected students, 2.15-3.15pm) |
-| 6 | 9 Feb | All | Chinese New Year Celebrations (Dismissal at 10.30am) |
-| 7 | 12 - 13 Feb | All | **Public Holiday** - Chinese New Year |
-| 7 | 16 Feb | All | Total Defence Day |
-| 7 | 16 Feb | P5 | Start of P5 BFRP Microbit Workshop (2-4.15pm) |
-| 10 | 5 - 8 Mar | P6 | PTM via Zoom (PM) |
-| 10 | 11 - 15 Mar | All |  **March School Holiday** |
+| 1 | 19 Mar | P4 | Commencement of E2K Math (2.15pm-3.45pm, selected students) |
+| 1 | 19 Mar | P5 | Commencement of E2K Math (2.15pm-3.45pm, selected students) |
+| 2 | 29 Mar | All | **Public Holiday** - Good Friday |
+| 3 | 1 Apr | All | International Friendship Day |
+| 3 | 5 Apr | P5 | Commencement of E2K Science (2.15pm-3.45pm, selected students) |
+| 4 | 10 Apr | All | **Public Holiday** - Hari Raya Puasa |
+| 4 | 12 Apr | P3 - P5 | Commencement of Conversational Chinese and Malay Programme (2.15-4.15pm, selected students) |
+| 5 | 16 Apr | P6 | NAPFA (2.15pm-4.30pm) |
+| 6 | 24 Apr | P5 | MTL e-Oral Practice (PM) |
+| 6 | 24 Apr | P6 | EL Oral Practice (PM) |
+| 6 | 25 Apr | P5 | EL Oral Practice (PM) |
+| 6 | 25 Apr | P6 | MTL e-Oral Practice (PM) |
+| 6 | 25 Apr | P3 - P6 | No CCA |
+| 7 | 1 May | All | **Public Holiday** - Labour Day |
+| 7 | 3 May | P6 | EL Paper 2 Common Test |
+| 8 | 6 May | P6 | Math Common Test |
+| 8 | 7 May | P6 | MTL Paper 2 Common Test |
+| 8 | 8 May | P6 | Science Common Test |
+| 8 | 9 May | P6 | HMTL Paper 2 Common Test |
+| 9 | 15 May | All | **Admin Day** - No school for students |
+| 9 | 17 May | All | Beacon Experiential Learning Week |
+| 9 | 17 May | All | PTM via Zoom (PM) |
+| 10 | 20,21, 23-24 May | All | Beacon Experiential Learning Week |
+| 10 | 20,21,23 May | All | PTM via Zoom (PM) |
+| 10 | 22 May | All | **Public Holiday** - Vesak Day |
+| 10 | 23 May | P1 & P2 | Sports Day (dismissal at 10.30 am) |
+| 10 | 23 May | P1 & P2 | Last day of school in T2 for P1 & P2 |
+| 10 | 23 May | All | No CCA |
+| 10 | 24 May | P3 - P6 | Games Carnival (dismissal at 10.30 am) |
+| 10 | 25 May - 23 Jun | All | **School Vacation** |
+| T3 | 24 Jun | All | Start of Term 3 |
 |  |  |  |  |
