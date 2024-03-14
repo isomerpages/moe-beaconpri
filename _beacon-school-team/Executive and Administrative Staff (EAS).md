@@ -9,9 +9,11 @@ variant: markdown
 | **Name** | **Designation** |
 |---|---|
 | Mr Tan Choon Hee | Operations Manager |
+| Mdm Soh Siow Yen | Administration Manager |
 | Mdm Noorzana Binte Sa'don | ICT Manager |
 | Mdm Nur Emilda Binte Mohamed | Admin Executive |
 | Mdm Lee Mui Chon | Corporate Support Officer |
+| Mdm Yeap Cheng Leng | Corporate Support Officer |
 | Mdm Ng Bee Tin | Corporate Support Officer |
 | Mdm Hatijah Samsudin | Operations Support Officer |
 | Mdm Ang Lay Choo | Operations Support Officer |
