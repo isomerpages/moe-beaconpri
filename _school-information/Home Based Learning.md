@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Home-Based Learning</h3>
 <p>In the event of school closures, Home-Based Learning (HBL) activities
 will be assigned by teachers to ensure continuity of learning. These activities
-include videos, textbook reading, work book tasks, online work, etc.</p>
+include videos, textbook reading, workbook tasks, online work, etc.</p>
 <h4>HBL Instructions</h4>
 <p>You may access the HBL Site for learning activity instructions. The site
 will be updated by 7 pm for the following day's learning activities.</p>
@@ -18,7 +18,7 @@ will be updated by 7 pm for the following day's learning activities.</p>
 like SLS, Google Suites, E-Zhishi, Raz-Kids (P1 to P4), Koobits, etc. Should
 you face issues accessing the online platforms, please email <a href="mailto:beaconprisch_ICT@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">beaconprisch_ICT@moe.edu.sg</a>.</p>
 <p>Please include your child's name and class in your email.</p>
-<p><strong>Safety and Security of E-Learning Platforms</strong>
+<p><strong>Safety and Security of E-Learning Platforms</strong> 
 <br>Teachers have put in place multiple measures to prevent uninvited participants
 from entering these platforms. Some of these measures include:</p>
 <ul data-tight="true" class="tight">
@@ -47,13 +47,12 @@ activities.</p>
 <p>Internet access</p>
 </li>
 </ul>
-<p><strong>Loan of Learning Devices</strong>
+<p><strong>Loan of Learning Devices</strong> 
 <br>If you need to loan a learning device for your child, please email <a href="mailto:beaconprisch_ICT@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">beaconprisch_ICT@moe.edu.sg</a> to
 request. Please note that as devices available for loan are limited, please
 try to work within your household to share devices first.</p>
 <p><strong>Families on Financial Assistance</strong>
-</p>
-<p>IMDA has replaced NEU PC Plus programme to a new DigitalAccess@Home scheme.
+<br>IMDA has replaced NEU PC Plus programme to a new DigitalAccess@Home scheme.
 For assistance on broadband access and digital devices refer to <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
 <h4>Support for Teacher-Student Live Interaction Sessions</h4>
 <p>Your child's teachers would be conducting live lesson or interaction sessions
@@ -71,7 +70,7 @@ the following:</p>
 <p>Web camera</p>
 </li>
 </ul>
-<p><strong>Live Session Applications</strong>
+<p><strong>Live Session Applications</strong> 
 <br>Please assist your child with setting up the following applications to
 allow the use of a microphone and camera:</p>
 <ul data-tight="true" class="tight">
@@ -92,7 +91,7 @@ application for easier usage.</p>
 <p>As teachers continue to innovate and introduce other web-based applications
 (Kahoot, Nearpod, Quizziz, etc.) for lessons, we seek your understanding
 and patience in guiding your child to navigate these applications.</p>
-<p><strong>Live Session Etiquette</strong>
+<p><strong>Live Session Etiquette</strong> 
 <br>During live sessions, your child should also observe the following etiquette:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -139,7 +138,7 @@ while your child is in a live session. As other students in the live session
 can see and hear what is happening in the background, please take additional
 care when walking past your child, live session etiquette mentioned above
 should be adhered by other family members.</p>
-<p><strong>Recording of Live Sessions</strong>
+<p><strong>Recording of Live Sessions</strong> 
 <br>Please note that live sessions may be recorded to support others who are
 unable to join in at the specified time.</p>
 <h4>Staggered Online Access</h4>
@@ -195,7 +194,7 @@ provide your child with routines, taking the following details into consideratio
 <p>Set up parental restrictions on your child's device and home network</p>
 </li>
 </ul>
-<p><strong>Monitoring</strong>
+<p><strong>Monitoring</strong> 
 <br>You should monitor your child's well-being regularly.</p>
 <ul data-tight="true" class="tight">
 <li>
