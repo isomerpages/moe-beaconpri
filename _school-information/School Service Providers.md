@@ -27,7 +27,7 @@ teaching and learning.</p>
 </ul>
 <p>Although the school does not have a dedicated stall selling vegetarian
 food, students who are on a vegetarian diet may purchase the required food
-from the stalls selling Chinese cooked food and snacks. Students with special
+from the stalls selling Chinese-cooked food and snacks. Students with special
 or strict dietary requirements are encouraged to bring their own food.</p>
 <p>❯ <a href="/files/CM2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click to view Canteen Menu</a>
 </p>
