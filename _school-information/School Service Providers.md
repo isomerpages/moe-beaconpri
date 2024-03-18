@@ -29,7 +29,7 @@ teaching and learning.</p>
 food, students who are on a vegetarian diet may purchase the required food
 from the stalls selling Chinese-cooked food and snacks. Students with special
 or strict dietary requirements are encouraged to bring their own food.</p>
-<p>❯ <a href="/files/CM2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click to view Canteen Menu</a>
+<p>❯ <a href="/files/CM2024V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Click to view Canteen Menu</a>
 </p>
 <h4>School Dental Clinic</h4>
 <p>The school dental clinic will be open on alternate weeks. Please refer
