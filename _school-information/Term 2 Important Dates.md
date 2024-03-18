@@ -12,9 +12,11 @@ variant: markdown
 | 1 | 19 Mar | P5 | Commencement of E2K Math (2.15pm-3.45pm, selected students) |
 | 2 | 29 Mar | All | **Public Holiday** - Good Friday |
 | 3 | 1 Apr | All | International Friendship Day |
-| 3 | 5 Apr | P5 | Commencement of E2K Science (2.15pm-3.45pm, selected students) |
+| 3 | 4 Apr | P3 | Commencement of CCA for P3 Students (2.15 to 4.15pm/3.30 to 5.30 pm) |
+| 4 | 9 Apr | All | Dismissal for Muslim students at 10.30 am |
 | 4 | 10 Apr | All | **Public Holiday** - Hari Raya Puasa |
 | 4 | 12 Apr | P3 - P5 | Commencement of Conversational Chinese and Malay Programme (2.15-4.15pm, selected students) |
+| 4 | 12 Apr | P5 | Commencement of E2K Science (2.15pm-3.45pm, selected students) |
 | 5 | 16 Apr | P6 | NAPFA (2.15pm-4.30pm) |
 | 6 | 24 Apr | P5 | MTL e-Oral Practice (PM) |
 | 6 | 24 Apr | P6 | EL Oral Practice (PM) |
@@ -22,7 +24,7 @@ variant: markdown
 | 6 | 25 Apr | P6 | MTL e-Oral Practice (PM) |
 | 6 | 25 Apr | P3 - P6 | No CCA |
 | 7 | 1 May | All | **Public Holiday** - Labour Day |
-| 7 | 3 May | P6 | EL Paper 2 Common Test |
+| 7  |3 May | P6 | EL Paper 2 Common Test |
 | 8 | 6 May | P6 | Math Common Test |
 | 8 | 7 May | P6 | MTL Paper 2 Common Test |
 | 8 | 8 May | P6 | Science Common Test |
