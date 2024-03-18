@@ -2,18 +2,117 @@
 title: P3 Teachers
 permalink: /beacon-school-team/p3/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### P3 Teachers
-
-**Year Yead:** Mdm Ang An Lian
-
-| **Class** | **Form Teachers** | **Email** |
-|:---:|---|---|
-| 3.1 | Mr Sim Wei Xiong  <br>Mdm Wen Li Li | [sim_wei_xiong@moe.edu.sg](mailto:sim_wei_xiong@moe.edu.sg) <br>[wen_li_li@moe.edu.sg](mailto:wen_li_li@moe.edu.sg)  |
-| 3.2 | Miss Tioh Sze Bing Esther  <br>Mdm Sam Wei Ting | [tioh_sze_bing_esther@moe.edu.sg](mailto:tioh_sze_bing_esther@moe.edu.sg) <br>[sam_wei_ting@moe.edu.sg](mailto:sam_wei_ting@moe.edu.sg) |
-| 3.3 | Mdm Norazlin Bte Jumadi | [norazlin_jumadi@moe.edu.sg](mailto:norazlin_jumadi@moe.edu.sg)    |
-| 3.4 | Ms Ler Leng Leng  <br>Mdm Go Qiuxia | [ler_leng_leng@moe.edu.sg](mailto:ler_leng_leng@moe.edu.sg) <br>[go_qiuxia@moe.edu.sg](mailto:go_qiuxia@moe.edu.sg)  |
-| 3.5 | Mdm Khairyani Bte Kamarolzaman | [khairyani_kamarolzaman@moe.edu.sg](mailto:khairyani_kamarolzaman@moe.edu.sg)   |
-| 3.6 | Mdm Wong Jing Mei Joyce  <br>Mr Abdul Aziz Ansari | [wong_jing_mei_joyce@moe.edu.sg](mailto:wong_jing_mei_joyce@moe.edu.sg)  <br>[abdul_aziz_ansari@moe.edu.sg](mailto:abdul_aziz_ansari@moe.edu.sg)  |
-|  |  |  |
+<h3>P3 Teachers</h3>
+<p><strong>Year Yead:</strong> Mdm Ang An Lian</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Form Teachers</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Wei Xiong
+<br>Mdm Wen Li Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_wei_xiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_wei_xiong@moe.edu.sg</a> 
+<br><a href="mailto:wen_li_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wen_li_li@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tioh Sze Bing Esther
+<br>Mdm Sam Wei Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tioh_sze_bing_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tioh_sze_bing_esther@moe.edu.sg</a> 
+<br><a href="mailto:sam_wei_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sam_wei_ting@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norazlin Bte Jumadi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:norazlin_jumadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norazlin_jumadi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ler Leng Leng
+<br>Mdm Go Qiuxia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ler_leng_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ler_leng_leng@moe.edu.sg</a> 
+<br><a href="mailto:go_qiuxia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">go_qiuxia@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Khairyani Bte Kamarolzaman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khairyani_kamarolzaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khairyani_kamarolzaman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Jing Mei Joyce
+<br>Mr Abdul Aziz Ansari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_jing_mei_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jing_mei_joyce@moe.edu.sg</a> 
+<br><a href="mailto:abdul_aziz_ansari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_aziz_ansari@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

@@ -28,7 +28,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wong Jun Kai
-<br>Miss Arina Nadiah Binte Saifudin</p>
+<br>Ms Arina Nadiah Binte Saifudin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_jun_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jun_kai@moe.edu.sg</a> 
