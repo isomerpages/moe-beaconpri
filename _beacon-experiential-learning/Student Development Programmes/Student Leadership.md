@@ -3,66 +3,339 @@ title: Student Leadership
 permalink: /beacon-experiential-learning/Student-Development-Programmes/sl/
 description: ""
 third_nav_title: Student Development Programmes
+variant: tiptap
 ---
-### Student Leadership
-
-#### “Every Beacon Is A Leader”
-
-Stemming from the belief that every Beacon is a Leader responsible for the well-being of oneself, society, and nation building, the schooling experience at Beacon aims to nurture Beacons with the necessary skills and values, providing them with opportunities to lead successfully. Our Student Leadership Programme leverages Beacon's SHINE values to provide student leaders with the necessary scaffolding at various tiers, so as to achieve the school’s desired outcomes. Our 3 Tier leadership framework ensures leadership opportunities for every Beacon to lead.
-
-<img src="/images/BEL/bel-sd03a.png" style="width:90%">
-
-#### Tier 1 Leadership
-
-At Tier 1, students learn to Respect Self – a key driver that encapsulates students’ actions and choices when they lead and conduct themselves as Leaders. Students are given the opportunity to lead within the class so that they take ownership over their class and be role models to their peers.
-
-Leadership roles: Group Leaders/ Asst Group Leaders, Subject Leaders, Class librarians, Class/Canteen Duty Leaders
-
-<img style="width:100%" src="/images/BEL/bel-sd03b.jpg">
-
-#### Tier 2 Leadership  
-
-At Tier 2, students exhibit ‘Respect to Friends’ through cohort-based or group based activities. Students shoulder responsibility when they represent the cohort/group in terms of duties assigned in the various areas/ domains. Student Leaders are actively engaged in leading others in carrying out their responsibilities in curriculum/non-curriculum related areas.
-
-Leadership roles: Prefects, CCA Leaders, Class Monitors, AVA Representatives, Green Ambassadors, NE Ambassadors, VIA Ambassadors, Cyber Champs, Student Peer Leaders, Buddy Readers
-
-<img style="width:100%" src="/images/BEL/bel-sd03c.jpg">
-
-#### Tier 3 Leadership  
-
-At the highest tier, we have the School's Prefectorial Exco which comprises a body of student leaders elected by their teachers for their exemplary conduct. They help the school in various school events like the Beacon Achievement Ceremony and P1 Orientation Day. Beyond this, they also play a disciplinary role and help to remind fellow students of their conduct and behaviour. As Exco members, they are vested with authority by the school to serve with confidence and conviction.
-
-<img style="width:100%" src="/images/2023 p5 exco.jpg">
-
-#### Prefect Exco 2023/2024
-
-|  |  |
-|---|---|
-| Head Prefect | Chan Wei Hong Shann |
-| Vice-Head Prefect | Zikry Mikhail Bin Indrazahri |
-| Vice-Head Prefect | Lau Ching Yern, Jenna |
-| Exco Member | Nyla Alesha Binte Azhar |
-| Exco Member | Faith Kaitlyn Teo |
-| Exco Member | Hiro Ramadhan Purbojati |
-| Exco Member | Yu Zichen |
-|  |  |
-
-#### Beacon Primary School - Prefectorial Board
-
-**Record of Head &amp; Vice Head Prefects** 
-
-| Year | P6 Head Prefect | P6 Vice-Head Prefect 1 | P6 Vice-Head Prefect 2 |
-| -------- | -------- | -------- | -------- |
-| 2013  | Ernie Herlynni Bte Herman     | Freda Marissa Shahrin     | Muhammad Raziq B Rozali     |
-| 2014  | Cassandra Seah Man Ling     | Samantha Seah Man Ru     | Sandeep Joseph Pugalendhi     |
-| 2015  | Sarah Qistina Bte Mazalan     | Ang Hui Wen, Rachel     | Manda Bey Shi Ning     |
-| 2016  | Tan Kun Sheng     | Ng Huey Kit     | Troy Tan Hong Kai     |
-| 2017  | Tay Kai En     | Diya Sandhu     | Lee Hao Xuan, Brandon     |
-| 2018  | Lim Han Yen     | Kuek Yu Jing     | Liaw Shi Xuan, Valerie     |
-| 2019  | Jenelle Tan See Suen     | Iman Atrisyia Iwani Bte Nazarudi     | Neeshan S/O Suresh     |
-| 2020  | Liew Hng Kai Jethro     | Sahirah Darwisyah Binte Sheik Danil     | Ethan Hun Zhe Kai     |
-| 2021  | Josiah Kee Songyi     | Neo Kai En     | Thamilvanan Sahaanashri     |
-| 2022  | Teo Yu Ting Adeen     | Danis Alfie Bin Mazlan     | Alam Raifa Nashita     |
-| 2023  | Yeow Bei Ning     | Muhammad Shahir Mifzal Bin Muchamed Sha’ari     | Nithya Sree Saravanan     |
-| 2024  | Chan Wei Hong Shann     | Zikry Mikhail Bin Indrazahri     | Lau Ching Yern, Jenna     |
-|  |  |  |  |
+<h3>Student Leadership</h3>
+<h4>“Every Beacon Is A Leader”</h4>
+<p>Stemming from the belief that every Beacon is a Leader responsible for
+the well-being of oneself, society, and nation building, the schooling
+experience at Beacon aims to nurture Beacons with the necessary skills
+and values, providing them with opportunities to lead successfully. Our
+Student Leadership Programme leverages Beacon's SHINE values to provide
+student leaders with the necessary scaffolding at various tiers, so as
+to achieve the school’s desired outcomes. Our 3 Tier leadership framework
+ensures leadership opportunities for every Beacon to lead.</p>
+<div class="isomer-image-wrapper">
+<img style="width:90%" height="auto" width="100%" src="/images/BEL/bel-sd03a.png">
+</div>
+<h4>Tier 1 Leadership</h4>
+<p>At Tier 1, students learn to Respect Self – a key driver that encapsulates
+students’ actions and choices when they lead and conduct themselves as
+Leaders. Students are given the opportunity to lead within the class so
+that they take ownership over their class and be role models to their peers.</p>
+<p>Leadership roles: Group Leaders/ Asst Group Leaders, Subject Leaders,
+Class librarians, Class/Canteen Duty Leaders</p>
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/BEL/bel-sd03b.jpg">
+</div>
+<h4>Tier 2 Leadership</h4>
+<p>At Tier 2, students exhibit ‘Respect to Friends’ through cohort-based
+or group based activities. Students shoulder responsibility when they represent
+the cohort/group in terms of duties assigned in the various areas/ domains.
+Student Leaders are actively engaged in leading others in carrying out
+their responsibilities in curriculum/non-curriculum related areas.</p>
+<p>Leadership roles: Prefects, CCA Leaders, Class Monitors, AVA Representatives,
+Green Ambassadors, NE Ambassadors, VIA Ambassadors, Cyber Champs, Student
+Peer Leaders, Buddy Readers</p>
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/BEL/bel-sd03c.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03e.jpg">
+</div>
+<h4>Tier 3 Leadership</h4>
+<p>At the highest tier, we have the School's Prefectorial Exco which comprises
+a body of student leaders elected by their teachers for their exemplary
+conduct. They help the school in various school events like the Beacon
+Achievement Ceremony and P1 Orientation Day. Beyond this, they also play
+a disciplinary role and help to remind fellow students of their conduct
+and behaviour. As Exco members, they are vested with authority by the school
+to serve with confidence and conviction.</p>
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/2023 p5 exco.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03f.jpg">
+</div>
+<h4>Prefect Exco 2023/2024</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head Prefect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Wei Hong Shann</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Head Prefect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zikry Mikhail Bin Indrazahri</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Head Prefect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lau Ching Yern, Jenna</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nyla Alesha Binte Azhar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Faith Kaitlyn Teo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hiro Ramadhan Purbojati</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yu Zichen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Beacon Primary School - Prefectorial Board</h4>
+<p><strong>Record of Head &amp; Vice Head Prefects</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P6 Head Prefect</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P6 Vice-Head Prefect 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P6 Vice-Head Prefect 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ernie Herlynni Bte Herman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Freda Marissa Shahrin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Raziq B Rozali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2014</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cassandra Seah Man Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Samantha Seah Man Ru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sandeep Joseph Pugalendhi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sarah Qistina Bte Mazalan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Hui Wen, Rachel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Manda Bey Shi Ning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Kun Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Huey Kit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Troy Tan Hong Kai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Kai En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diya Sandhu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Hao Xuan, Brandon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Han Yen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kuek Yu Jing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liaw Shi Xuan, Valerie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jenelle Tan See Suen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Iman Atrisyia Iwani Bte Nazarudi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neeshan S/O Suresh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liew Hng Kai Jethro</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sahirah Darwisyah Binte Sheik Danil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ethan Hun Zhe Kai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Josiah Kee Songyi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neo Kai En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thamilvanan Sahaanashri</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teo Yu Ting Adeen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Danis Alfie Bin Mazlan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alam Raifa Nashita</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yeow Bei Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Shahir Mifzal Bin Muchamed Sha’ari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nithya Sree Saravanan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Wei Hong Shann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zikry Mikhail Bin Indrazahri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lau Ching Yern, Jenna</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
