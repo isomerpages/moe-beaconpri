@@ -2,6 +2,7 @@ collections:
   character-n-citizenship:
     output: true
     order:
+      - Enactment of CCE.md
       - Character & Citizenship.md
       - SHINE Values.md
       - CCE Curriculum Content.md
