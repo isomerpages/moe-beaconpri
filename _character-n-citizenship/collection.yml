@@ -2,8 +2,8 @@ collections:
   character-n-citizenship:
     output: true
     order:
-      - Caring and Enabling School Environment.md
-      - Enactment of CCE.md
       - Character & Citizenship.md
       - SHINE Values.md
       - CCE Curriculum Content.md
+      - Enactment of CCE.md
+      - Caring and Enabling School Environment.md
