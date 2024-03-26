@@ -14,3 +14,7 @@ Learner. Through the SHINE values lessons, students and teachers explore,
 reflect and practice on how to be a SHINE-ing Beacon in our daily activities
 and actions.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_sv.jpg">
+</div>
+<p></p>
