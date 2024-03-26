@@ -4,22 +4,13 @@ permalink: /character-n-citizenship/ccsv/
 description: ""
 variant: tiptap
 ---
-<h3>Sexuality Education Programme</h3>
-<p>The Sexuality Education programme in Beacon Primary School follows the
-syllabus set by MOE. The programme aims to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Support students in managing their physiological, social and emotional
-changes as they grow up and develop healthy relationships.</p>
-</li>
-<li>
-<p>Guide students to make wise, informed and responsible decisions on sexuality
-matters.</p>
-</li>
-<li>
-<p>Help students develop a moral compass and respect for themselves and others
-by having positive mainstream values and attitudes about sexuality that
-are premised on the family as the basic unit of society.</p>
-</li>
-</ul>
-<p>Please click on the following&nbsp;<a href="/files/SexEd2024.pdf" rel="noopener noreferrer nofollow" target="_blank">link for more information</a>.</p>
+<h3>SHINE Values</h3>
+<p>Beacon’s SHINE values drive all character development programmes. The
+school explicitly aligned the SHINE values to the Character and Citizenship
+Education (CCE) learning outcomes and emphasised on having a common language
+when delivering CCE curriculum content and experiences. Every Beacon aspires
+to be a Contributor, Connector, Constructor, Conductor and a Confident
+Learner. Through the SHINE values lessons, students and teachers explore,
+reflect and practice on how to be a SHINE-ing Beacon in our daily activities
+and actions.</p>
+<p></p>
