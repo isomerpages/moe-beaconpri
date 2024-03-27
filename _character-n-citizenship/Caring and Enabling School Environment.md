@@ -29,5 +29,7 @@ are designed with these necessary features to meet our students’ needs:</p>
 <p>Educational and Well-Being Support</p>
 </li>
 </ul>
-<p><em>&gt;&gt;&gt;&gt; Insert Slides Images</em>
-</p>
+<div class="iframe-wrapper">
+<iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT51Zd3Vfz0yPxpKosJU9okXuZfCRSldRuh4HHJz6BhK6q-vpHBMVI3MxFF2oS6XrAR5hdcVNvGrj0B/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
