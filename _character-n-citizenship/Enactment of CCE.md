@@ -46,13 +46,15 @@ to build EF skills in a progressive manner. Classroom practices and school
 routines are platforms for students to practise these EF skills daily to
 ensure consistency.</p>
 <div class="iframe-wrapper">
-<iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIvtPcpzFAdTk4yFpxIoN3lNsfp4AC7ZFZJ0T2lD-Qyc165vlk-nDeAj85BTFjLKxrtK87gSvmAKKC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0tIxu3YrymLniRR8gr5OAlxLLk74jFsfwJR_B02KjJZPbRQQtPdHlk9bo0paXizIy5Nh7m2IvguAk/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Beacon Experiences</h4>
 <p>The Beacon Experience aims to provide programmes and activities that contribute
 towards the holistic development of our Beacons in the physical, aesthetic,
 intellectual, moral and social domains. The experiences provide authentic
 opportunities for Beacons to apply and display their SHINE Values.</p>
-<p><em>&gt;&gt;&gt;&gt; Insert Slides Images</em>
-</p>
+<div class="iframe-wrapper">
+<iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIvtPcpzFAdTk4yFpxIoN3lNsfp4AC7ZFZJ0T2lD-Qyc165vlk-nDeAj85BTFjLKxrtK87gSvmAKKC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
 <p></p>
