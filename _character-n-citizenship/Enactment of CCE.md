@@ -9,7 +9,7 @@ description: ""
 These include CCE Lessons during curriculum time, planned student development
 learning experiences beyond the classroom, teachable moments during other
 subject lessons and learning opportunities beyond school.</p>
-<h4>a) CCE Lesson</h4>
+<h4>CCE Lesson</h4>
 <p>These lessons which include CCE Form Teacher Guidance Period (FTGP), CCE
 Mother Tongue Languages (MTL) and Programme for Active Learning (PAL) provide
 the time for teachers to engage and build relationships with their students
@@ -24,7 +24,7 @@ understand and navigate the real world,</p>
 and community through VIA projects and leadership tasks.</p>
 <p><em>&gt;&gt;&gt;&gt; Insert Slides Images</em>
 </p>
-<h4>b) Sexuality Education</h4>
+<h4>Sexuality Education</h4>
 <p>The Sexuality Education programme in Beacon Primary School follows the
 syllabus set by MOE. The programme aims to:</p>
 <p>Support students in managing their physiological, social and emotional
@@ -35,7 +35,7 @@ matters.</p>
 by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
 <p>Please click on the following <a href="/files/SexEd2024.pdf" rel="noopener noreferrer nofollow" target="_blank">link for more information</a>.</p>
-<h4>c) Enhancing Social Emotional Learning through Executive Functioning Skills</h4>
+<h4>Enhancing Social Emotional Learning through Executive Functioning Skills</h4>
 <p>Executive Function (EF) refers to a set of skills that are essential for
 learners to develop the capacity to plan ahead and meet goals, display
 self-control, follow multi-step directions and stay focused despite distractions.
@@ -46,7 +46,7 @@ routines are platforms for students to practise these EF skills daily to
 ensure consistency.</p>
 <p><em>&gt;&gt;&gt;&gt; Insert Slides Images</em>
 </p>
-<h4>d) Beacon Experience</h4>
+<h4>Beacon Experiences</h4>
 <p>The Beacon Experience aims to provide programmes and activities that contribute
 towards the holistic development of our Beacons in the physical, aesthetic,
 intellectual, moral and social domains. The experiences provide authentic
