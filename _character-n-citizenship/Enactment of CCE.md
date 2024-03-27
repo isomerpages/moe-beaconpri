@@ -22,8 +22,9 @@ skills addresses the holistic developmental needs of students, e.g. CCE
 understand and navigate the real world,</p>
 <p>ii) provide <strong>opportunities for contribution</strong> to family, school
 and community through VIA projects and leadership tasks.</p>
-<p><em>&gt;&gt;&gt;&gt; Insert Slides Images</em>
-</p>
+<div class="iframe-wrapper">
+<iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTE7MV9MbIY_HpCbdYrcUzKZHRL82H6-l3_mTwYZNCsR5HOYv54IH09mbytyOJJ6Ixc_bKYh0w_Wvhy/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4>Sexuality Education</h4>
 <p>The Sexuality Education programme in Beacon Primary School follows the
 syllabus set by MOE. The programme aims to:</p>
