@@ -2,6 +2,7 @@
 title: Engaging Environment
 permalink: /about-us/environment/
 description: ""
+variant: markdown
 ---
 ### Engaging Environment
 
@@ -10,7 +11,7 @@ description: ""
 
 Our learning environment includes both physical and virtual spaces. These spaces have been designed and developed to support the school’s ICT-enriched curriculum. The flexibility and interconnectedness of the physical spaces facilitate collaborative and independent learning, and support pedagogical change.
 
-<img style="width:95%" src="/images/abt-ee03.jpeg"><br>
+<img style="width:95%" src="/images/abt-ee08.jpg"><br>
 <img style="width:95%" src="/images/abt-ee04.jpg">
 
 Our physical learning space has also been greatly extended and enhanced by the Zhenghua Park, located right next to the school. The park offers a natural and an authentic outdoor ‘classroom’ and supports the school’s Outdoor Education under the Programme for Active Learning (PAL).
