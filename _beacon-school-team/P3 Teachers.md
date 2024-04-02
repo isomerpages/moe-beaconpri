@@ -27,12 +27,10 @@ variant: tiptap
 <p>3.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Wei Xiong
-<br>Mdm Wen Li Li</p>
+<p>Mdm Wen Li Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_wei_xiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_wei_xiong@moe.edu.sg</a> 
-<br><a href="mailto:wen_li_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wen_li_li@moe.edu.sg</a>
+<p><a href="mailto:wen_li_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wen_li_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
