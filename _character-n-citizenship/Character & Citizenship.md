@@ -2,9 +2,44 @@
 title: Character & Citizenship
 permalink: /character-n-citizenship/cc/
 description: ""
+variant: tiptap
 ---
-### Character & Citizenship
-
-Beacon’s Character and Citizenship Education (CCE) curriculum is designed to build character and inculcate values that are aligned to the school’s MVV and MOE’s framework for 21st century competencies and outcomes.
-
-In our efforts to nurture students to be a gracious community of active and creative learners who are global in outlook, grounded in basics and rooted in values, our CCE Department adopts a whole-school approach to ensure that students are provided a holistic Beacon Experience. The teaching of CCE is developmental and progressive, with structured programmes for each level, and is delivered through direct teaching, teachable moments and infusion in the following 3 areas, CCE Curriculum, CCE Experience and Formal Curriculum. With the 3Cs as our guiding principles, ‘Common Language’, ‘Concrete Experience’ and ‘Consistent Delivery’, Beacons are provided with opportunities to acquire these competencies through our diverse and balanced curriculum that support students' development and well-being.
+<h3>Beacons SHINE for Life: Learn, Experience, Live</h3>
+<p>Character and Citizenship Education (CCE) in Beacon is more than just
+learning the values; it is a continuous journey of discovering one’s best
+self. By infusing our SHINE Values into the schools’ learning experiences,
+Beacons strive to</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>S</strong>erve with Compassion</p>
+</li>
+<li>
+<p><strong>H</strong>onour Relationships with Integrity,</p>
+</li>
+<li>
+<p><strong>I</strong>nnovate with Passion,</p>
+</li>
+<li>
+<p><strong>N</strong>avigate with Resourcefulness and</p>
+</li>
+<li>
+<p><strong>E</strong>xcel through Ownership in Learning.</p>
+</li>
+<li>
+<p><strong>S</strong>haping a brighter future for all Beacons.</p>
+</li>
+</ol>
+<h4>SHINE Values</h4>
+<p>Beacon’s SHINE values drive all character development programmes. The
+school explicitly aligned the SHINE values to the Character and Citizenship
+Education (CCE) learning outcomes and emphasised on having a common language
+when delivering CCE curriculum content and experiences. Every Beacon aspires
+to be a Contributor, Connector, Constructor, Conductor and a Confident
+Learner. Through the SHINE values lessons, students and teachers explore,
+reflect and practice on how to be a SHINE-ing Beacon in our daily activities
+and actions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_sv.jpg">
+</div>
+<p></p>
