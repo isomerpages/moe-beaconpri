@@ -39,7 +39,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Sexuality Education 2024</p>
+<p><a href="https://www.beaconpri.moe.edu.sg/character-n-citizenship/ccec/" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education 2024</a>
+</p>
 </li>
 </ul>
 <h4>Other Useful Sites</h4>
@@ -58,7 +59,7 @@ variant: tiptap
 <p>Primary 1 Guides</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education Parent Kit</a>
+<p>❯ <a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education Parent Kit</a> 
 <br>❯ <a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag The Education New Site</a>
 </p>
 </td>
@@ -68,7 +69,7 @@ variant: tiptap
 <p>Health Promotion Board</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/cotm-one" rel="noopener noreferrer nofollow" target="_blank">Colours of the Mind</a>
+<p>❯ <a href="https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/cotm-one" rel="noopener noreferrer nofollow" target="_blank">Colours of the Mind</a> 
 <br>❯ <a href="https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/healthy-eating-active-living" rel="noopener noreferrer nofollow" target="_blank">Healthy Eating, Active Living</a>
 </p>
 </td>
@@ -78,9 +79,9 @@ variant: tiptap
 <p>Fei Yue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="https://www.fycs.org/" rel="noopener noreferrer nofollow" target="_blank">Fei Yue Community Services</a>
-<br>❯ <a href="https://www.family-central.sg/" rel="noopener noreferrer nofollow" target="_blank">Family Central - a service by Fei Yue Community Services</a>
-<br>❯ <a href="https://forms.office.com/pages/responsepage.aspx?id=enp5W2h6KEyJkTbCaPjr60xXTovmoVVHr8HSB-0UwTtUMk81RjhRSTZSOUhFWEZTVUswQ0pNMlhDQS4u" rel="noopener noreferrer nofollow" target="_blank">Parenting Support Services - subscription form</a>
+<p>❯ <a href="https://www.fycs.org/" rel="noopener noreferrer nofollow" target="_blank">Fei Yue Community Services</a> 
+<br>❯ <a href="https://www.family-central.sg/" rel="noopener noreferrer nofollow" target="_blank">Family Central - a service by Fei Yue Community Services</a> 
+<br>❯ <a href="https://forms.office.com/pages/responsepage.aspx?id=enp5W2h6KEyJkTbCaPjr60xXTovmoVVHr8HSB-0UwTtUMk81RjhRSTZSOUhFWEZTVUswQ0pNMlhDQS4u" rel="noopener noreferrer nofollow" target="_blank">Parenting Support Services - subscription form</a> 
 <br>❯ <a href="/files/Primary_Triple_P_Calendar_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Fei Yue Triple P Seminars for 2024 (Primary Level)</a>
 </p>
 </td>
