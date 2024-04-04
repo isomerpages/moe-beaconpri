@@ -4,7 +4,7 @@ permalink: /about-us/Staff/prof-development/
 description: ""
 variant: tiptap
 ---
-<h3>Professional Development</h3>
+<h3>Professional Development &amp; Well-being</h3>
 <p><strong>Building Competent and Caring Staff</strong>
 </p>
 <p>As quality staff is a key enabler in realising our Vision and achieving
