@@ -1,10 +1,10 @@
 ---
-title: Professional Development
-permalink: /about-us/Staff/prof-development/
+title: Professional Development and Wellbeing
+permalink: /about-us/staff/prof-development/
 description: ""
 variant: tiptap
 ---
-<h3>Professional Development</h3>
+<h3>Professional Development and Wellbeing</h3>
 <p><strong>Building Competent and Caring Staff</strong>
 </p>
 <p>As quality staff is a key enabler in realising our Vision and achieving
