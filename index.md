@@ -17,5 +17,5 @@ sections:
         - title: 2024 OPEN HOUSE
           description: ""
           url: /school-information/p1-registration-and-information/op/
-      background: /images/Open_House_2024_Header__1_.jpg
+      background: /images/Open_House_2024_Header__1a.jpg
 ---
