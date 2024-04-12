@@ -12,9 +12,8 @@ Experience and learn more about the school’s curriculum, distinctive programme
 and our students’ CCA experiences!</p>
 <p>You may now register for the Open House via this link: <a href="https://go.gov.sg/beaconopenhouse2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/beaconopenhouse2024</a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Open_House_2024_Header__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_2024_Header__2a.jpg">
 </div>
 <h4>Here is a glimpse of the year 2023 and 2022’s Open House:</h4>
 <div class="iframe-wrapper">
