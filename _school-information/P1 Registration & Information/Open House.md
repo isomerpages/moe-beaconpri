@@ -6,14 +6,13 @@ third_nav_title: P1 Registration & Information
 variant: tiptap
 ---
 <h3>Open House 2024</h3>
-<p>Beacon Primary School is having our Open House on Saturday, 29 June 2024
-from 10am to 12pm. Come and embark on an immersive Beacon Experience and
-learn more about the school’s curriculum, distinctive programmes and our
-students’ CCA experiences.</p>
-<p></p>
-<p>Information for Open House’s registration will be available from 15 May
-2024.
-<br>Do come back to this website page for registration!</p>
+<p>Beacon Primary School is having our&nbsp;Open&nbsp;House&nbsp;on Saturday,
+29 June 2024 from 10am to 12pm.&nbsp; Come and embark on an immersive Beacon
+Experience and learn more about the school’s curriculum, distinctive programmes
+and our students’ CCA experiences!</p>
+<p>You may now register for the Open House via this link:</p>
+<p><a href="https://go.gov.sg/beaconopenhouse2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/beaconopenhouse2024</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Open_House_2024_Header__2_.jpg">
