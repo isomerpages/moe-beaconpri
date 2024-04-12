@@ -10,8 +10,7 @@ variant: tiptap
 29 June 2024 from 10am to 12pm.&nbsp; Come and embark on an immersive Beacon
 Experience and learn more about the school’s curriculum, distinctive programmes
 and our students’ CCA experiences!</p>
-<p>You may now register for the Open House via this link:</p>
-<p><a href="https://go.gov.sg/beaconopenhouse2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/beaconopenhouse2024</a>
+<p>You may now register for the Open House via this link: <a href="https://go.gov.sg/beaconopenhouse2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/beaconopenhouse2024</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
