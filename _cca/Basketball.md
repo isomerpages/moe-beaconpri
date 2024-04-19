@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Basketball
 
-| **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
+| **Day** | **Time** | **Venue** | **Teachers-In-Charge** |
 |---|---|---|---|
 | Thursday | 2.15pm – 4.15pm | Indoor Sports Hall Level 1 | Mr Chan Poh Loong<br><br>Ms Nur Atiqah Binte Ilham<br><br>Mr Lee Chee Leong |
 |  |  |  |  |
