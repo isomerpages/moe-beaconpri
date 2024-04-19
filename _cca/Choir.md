@@ -6,9 +6,9 @@ variant: markdown
 ---
 ### Choir
 
-| **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
+| **Day** | **Time** | **Venue** | **Teachers-In-Charge** |
 |---|---|---|---|
-| Thursday | 2.15pm – 4.15pm | Spotlight | Mdm Phua Sor Lay<br><br>Mdm Wong Jing Mei Joyce |
+| Thursday | 2.15pm – 4.15pm | Band Room 1 | Mdm Puah Sor Lay<br><br>Mdm Wong Jing Mei Joyce |
 |  |  |  |  |
 
 #### Objectives
