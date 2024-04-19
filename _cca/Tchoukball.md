@@ -6,7 +6,7 @@ variant: markdown
 ---
 # Tchoukball
 
-| **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
+| **Day** | **Time** | **Venue** | **Teachers-In-Charge** |
 |---|---|---|---|
 | Thursday | 2.15pm – 4.15pm | Indoor Sports Hall Level 2 | Ms Ler Leng Leng<br><br>Mdm Zainah Binte Alias<br><br>Mr Sim Wei Xiong |
 |  |  |  |  |

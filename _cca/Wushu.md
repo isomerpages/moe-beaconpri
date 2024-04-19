@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Wushu
 
-| **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
+| **Day** | **Time** | **Venue** | **Teachers-In-Charge** |
 |---|---|---|---|
 | Thursday | 2.15pm – 4.15pm | School Hall, Level 2 | Mr Ang Hiang Chai<br><br>Mdm Toh Hui Ming<br><br>Mdm Sam Wei Ting |
 |  |  |  |  |
