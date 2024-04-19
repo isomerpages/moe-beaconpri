@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Ukulele Ensemble
 
-| **Day** | **Time** | **Venues** | **Teachers-In-Charge** |
+| **Day** | **Time** | **Venue** | **Teachers-In-Charge** |
 |---|---|---|---|
 | Thursday | 2.15pm – 4.15pm | Teaching Lab, Level 4 | Miss Tioh Sze Bing Esther<br><br>Mdm Ee Yen Teng|
 |  |  |  |  |
