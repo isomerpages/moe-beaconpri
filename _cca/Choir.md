@@ -62,13 +62,13 @@ variant: tiptap
 genres.</p>
 <ul>
 <li>
-<p><strong>Passionate learner</strong>
+<p><strong>Passionate learner</strong> 
 <br>Students learn both local and foreign language songs within a short period
 of time and understand the different components of music such as the mood
 and lyrics of the song.</p>
 </li>
 <li>
-<p><strong>Resilient learner</strong>
+<p><strong>Resilient learner</strong> 
 <br>Students annotate solfege on their full scores and practise regularly
 at home from the singing notes shared by the teachers on Padlet and Google
 Classroom.</p>
