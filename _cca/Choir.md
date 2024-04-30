@@ -97,9 +97,3 @@ reading</p>
 <img style="width:100%" height="auto" width="100%" src="/images/BEL/bel-sd02b.jpg">
 </div>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTvFMzWT78JBO0n1JgAfVSFXS0RF1XdZnuWzEAvVufMLZLIEtmtU7_sEyVS8fJRx6gbkYG14AAHqyBx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p><strong><em>Beacon Choir</em></strong>, together with <strong><em>The A Cappella Society</em></strong> and <strong><em>Extra•Ordinary People</em></strong>,
-performed at the <strong>GALA 2024</strong> at <strong>Esplanade Concert Hall</strong>.</p>
-<p></p>
