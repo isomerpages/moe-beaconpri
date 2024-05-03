@@ -105,4 +105,19 @@ ensure consistency.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_02.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/BEL/cce_05.jpg">
+</div>
+<h4>Beacon Experiences</h4>
+<p>The Beacon Experience aims to provide programmes and activities that contribute
+towards the holistic development of our Beacons in the physical, aesthetic,
+intellectual, moral and social domains. The experiences provide authentic
+opportunities for Beacons to apply and display their SHINE Values. These
+experiences comprise of:</p>
+<p>i) Student Leadership Development (SLD) [link to leadership page]
+<br>ii) Values in Action (VIA)
+<br>iii) Co-Curriculum Activity (CCA) [link to CCA page]
+<br>iv) Cohort Learning Journey
+<br>v) Outdoor Adventure Learning (OAL) Cohort Camps
+<br>vi) National Education (NE) Commemorative Days</p>
 <p></p>
