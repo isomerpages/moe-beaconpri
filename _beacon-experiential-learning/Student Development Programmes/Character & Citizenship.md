@@ -41,7 +41,7 @@ reflect and practice on how to be a SHINE-ing Beacon in our daily activities
 and actions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_sv.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/BEL/cce_sv.jpg">
 </div>
 <h4>CCE Curriculum Content</h4>
 <p>The curriculum content of CCE is based on the three big ideas of Identity,
@@ -102,3 +102,7 @@ skills and prepare them for learning. Beacon customises and designs lessons
 to build EF skills in a progressive manner. Classroom practices and school
 routines are platforms for students to practise these EF skills daily to
 ensure consistency.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_02.jpg">
+</div>
+<p></p>
