@@ -33,7 +33,7 @@ or strict dietary requirements are encouraged to bring their own food.</p>
 </p>
 <h4>School Dental Clinic</h4>
 <p>The school dental clinic will be open on alternate weeks. Please refer
-to <a href="/files/Dental04.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for
+to <a href="/files/Dental05.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for
 the Dental Clinic Opening Days. Please contact 91141358 (call/SMS/WhatsApp)
 to make an appointment for dental services.</p>
 <p>In the event that the clinic is closed, students who need urgent dental
@@ -42,7 +42,10 @@ treatment may contact Bukit Panjang Primary Dental Clinic at 9114 2186.</p>
 and dental trauma, please contact School Dental Centre via email at <a href="mailto:Contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a>.</p>
 <p></p>
 <h4>School Uniform Supplier</h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -74,7 +77,10 @@ and dental trauma, please contact School Dental Centre via email at <a href="mai
 </tbody>
 </table>
 <h4>School Bookshop (By Pacific Book Shop)</h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -126,7 +132,10 @@ required to enter and exit
 </li>
 </ul>
 <h4>Bus Services</h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -159,7 +168,10 @@ students from home to school and vice versa):
 <p>❯ <a href="/files/school%20bus%20services%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services Form</a>
 </p>
 <h4>YMCA SCC@Beacon</h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
