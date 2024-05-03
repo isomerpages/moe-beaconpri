@@ -76,5 +76,29 @@ understand and navigate the real world,
 and community through VIA projects and leadership tasks.</p>
 <p><strong>Beacons completing a CCE (FTGP) activity</strong>
 </p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_04.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_03.jpg">
+</div>
+<h4>Sexuality Education</h4>
+<p>The Sexuality Education programme in Beacon Primary School follows the
+syllabus set by MOE. The programme aims to:</p>
+<p>Support students in managing their physiological, social and emotional
+changes as they grow up and develop healthy relationships.</p>
+<p>Guide students to make wise, informed and responsible decisions on sexuality
+matters.</p>
+<p>Help students develop a moral compass and respect for themselves and others
+by having positive mainstream values and attitudes about sexuality that
+are premised on the family as the basic unit of society.</p>
+<p>Please click on the following <a href="/files/SexEd2024.pdf" rel="noopener noreferrer nofollow" target="_blank">link for more information</a>.</p>
+<h4>Enhancing Social Emotional Learning through Executive Functioning Skills</h4>
+<p>Executive Function (EF) refers to a set of skills that are essential for
+learners to develop the capacity to plan ahead and meet goals, display
+self-control, follow multi-step directions and stay focused despite distractions.
+This forms a foundation for self-regulation to help children build social-emotional
+skills and prepare them for learning. Beacon customises and designs lessons
+to build EF skills in a progressive manner. Classroom practices and school
+routines are platforms for students to practise these EF skills daily to
+ensure consistency.</p>
