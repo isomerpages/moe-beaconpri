@@ -144,4 +144,53 @@ experiences comprise of:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_09.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_12.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_13.jpg">
+</div>
+<h4>Caring and Enabling School Environment</h4>
+<p>In Beacon, we believe in creating a rich learning environment where our
+students can cultivate dispositions for character and citizenship, social-emotional
+well-being, and feel empowered to become their best selves. Our programmes
+are designed with these necessary features to meet our students’ needs:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Let’s CHAT (1-1 conversations between student and teacher)</p>
+</li>
+<li>
+<p>Form Teachers’ (FT) Engagement time</p>
+</li>
+<li>
+<p>Year Head Engagement Time</p>
+</li>
+<li>
+<p>Peer Support and Relationship Building</p>
+</li>
+<li>
+<p>Beacon Voices</p>
+</li>
+<li>
+<p>Educational and Well-Being Support</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_14.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_15.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_16.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_17.jpg">
+</div>
 <p></p>
