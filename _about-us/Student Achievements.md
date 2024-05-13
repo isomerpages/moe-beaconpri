@@ -43,10 +43,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Swimming Breaststroke</p>
+<p>National School Games Swimming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>D Division, 25m</p>
+<p>Breaststroke (D Division) 25m</p>
 <p>❯ 7th - Chua Jia Yun Axelia</p>
 </td>
 </tr>
