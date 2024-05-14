@@ -5,7 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h3>Choir</h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -36,9 +42,14 @@ variant: tiptap
 <p>Band Room 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Puah Sor Lay
-<br>
-<br>Mdm Wong Jing Mei Joyce</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Puah Sor Lay</p>
+</li>
+<li>
+<p>Mdm Wong Jing Mei Joyce</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
