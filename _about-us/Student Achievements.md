@@ -6,7 +6,11 @@ variant: tiptap
 ---
 <h3>Student Achievements</h3>
 <h4>2024</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -15,6 +19,52 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>ACHIEVEMENTS</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ActiveSG-TBAS Tchoukball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>❯ Girls Senior Team - 2nd
+<br>❯ Boys Senior Team - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Taekwondo Competition (Poomsae)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Green 6 Belt Category
+<br>❯ 1st - Yongco Nicholas Reid Jo</p>
+<p></p>
+<p>Red 2 Belt Category
+<br>❯ 3rd - Kamille Carmen Isaacs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Swimming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Breaststroke (D Division) 25m
+<br>❯ 7th - Chua Jia Yun Axelia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Percussion Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction in SYF Arts Presentation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment in SYF Arts Presentation</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -35,7 +85,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>2023</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -275,7 +329,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>2022</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -323,7 +381,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games -Football</p>
+<p>National School Games - Football</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st in Tier 4 (Junior)</p>
@@ -364,7 +422,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>2021</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -448,7 +510,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>2020</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -477,7 +543,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>2019</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -550,7 +620,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>2018</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -614,7 +688,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>2017</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -764,7 +842,11 @@ Competition</p>
 </tbody>
 </table>
 <h4>2016</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -908,7 +990,11 @@ Competition</p>
 </tbody>
 </table>
 <h4>2015</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1121,7 +1207,11 @@ speech contest</p>
 </tbody>
 </table>
 <h4>2014</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1187,7 +1277,11 @@ speech contest</p>
 </tbody>
 </table>
 <h4>2013</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1261,7 +1355,11 @@ in the Under-12 competition</p>
 </tbody>
 </table>
 <h4>2012</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1366,7 +1464,11 @@ Dark</p>
 </tbody>
 </table>
 <h4>2011</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1500,7 +1602,11 @@ Dark</p>
 </tbody>
 </table>
 <h4>2010</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1594,7 +1700,11 @@ sent to the JAL Foundation, Tokyo</p>
 </tbody>
 </table>
 <h4>2009</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1647,7 +1757,11 @@ sent to the JAL Foundation, Tokyo</p>
 </tbody>
 </table>
 <h4>2008</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
