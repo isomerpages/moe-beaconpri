@@ -74,7 +74,7 @@ variant: tiptap
 <h4>Objectives</h4>
 <p>The Percussion CCA seeks to inculcate students’ interests in the performing
 arts by participating in music events at both non-competitive and competitive
-level. The performing aspect helps students to build confidence when they
+levels. The performing aspect helps students to build confidence when they
 express themselves and communicate with the audience through percussion
 music. The learning process of playing in an ensemble also develops teamwork,
 resilience and the spirit of excellence.</p>
