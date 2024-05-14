@@ -82,13 +82,13 @@ variant: tiptap
 <p>Develop students' technical and tactical skills pertaining to netball</p>
 </li>
 <li>
-<p>Give the girls the opportunity to develop the basic footwork and ball
-skills, goal shooting skills, and study the principles of attacking/defending,
-as well as the application of these skills and game tactics in game play</p>
+<p>Give the girls the opportunity to develop basic footwork and ball skills,
+goal shooting skills, and study the principles of attacking/defending,
+as well as the application of these skills and game tactics in gameplay</p>
 </li>
 <li>
 <p>Provide a platform for students to develop their character and achieve
-the 21CC students outcomes such as team spirit and resilience</p>
+the 21CC student's outcomes such as team spirit and resilience</p>
 </li>
 <li>
 <p>Inculcate the love for sports and a healthy lifestyle and maximise students'
