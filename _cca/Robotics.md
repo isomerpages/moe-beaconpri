@@ -39,7 +39,8 @@ variant: tiptap
 <p>2.15pm – 4.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>iConnect Rooms 1, 2 and 3</p>
+<p>iConnect Rooms
+<br>1, 2 and 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
