@@ -88,7 +88,7 @@ as well as the application of these skills and game tactics in gameplay</p>
 </li>
 <li>
 <p>Provide a platform for students to develop their character and achieve
-the 21CC student's outcomes such as team spirit and resilience</p>
+the 21CC student outcomes such as team spirit and resilience</p>
 </li>
 <li>
 <p>Inculcate the love for sports and a healthy lifestyle and maximise students'
