@@ -42,11 +42,17 @@ variant: tiptap
 <p>Music Rooms 1 &amp; 2, Level 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Wee Peng
-<br>
-<br>Ms Li Chang
-<br>
-<br>Ms Nurhuda Bte Mohamed</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Goh Wee Peng</p>
+</li>
+<li>
+<p>Ms Li Chang</p>
+</li>
+<li>
+<p>Ms Nurhuda Bte Mohamed</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
