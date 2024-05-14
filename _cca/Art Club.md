@@ -5,7 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h3>Art Club</h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -36,15 +42,23 @@ variant: tiptap
 <p>Art Rooms, Level 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Faridah Hajarmustika Binte Rahmat
-<br>
-<br>Ms Lee Pei Pei
-<br>
-<br>Mdm Rekha Ramadoss
-<br>
-<br>Miss Saraniya Aburvam D/O N S
-<br>
-<br>Mdm Liyana Bte Mohd Yusof</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Faridah Hajarmustika Binte Rahmat</p>
+</li>
+<li>
+<p>Ms Lee Pei Pei</p>
+</li>
+<li>
+<p>Mdm Rekha Ramadoss</p>
+</li>
+<li>
+<p>Miss Saraniya Aburvam D/O N S</p>
+</li>
+<li>
+<p>Mdm Liyana Bte Mohd Yusof</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
