@@ -42,11 +42,17 @@ variant: tiptap
 <p>Music Rooms 1 &amp; 2, Level 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Wee Peng
-<br>
-<br>Ms Li Chang
-<br>
-<br>Ms Nurhuda Bte Mohamed</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Goh Wee Peng</p>
+</li>
+<li>
+<p>Ms Li Chang</p>
+</li>
+<li>
+<p>Ms Nurhuda Bte Mohamed</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -68,7 +74,7 @@ variant: tiptap
 <h4>Objectives</h4>
 <p>The Percussion CCA seeks to inculcate students’ interests in the performing
 arts by participating in music events at both non-competitive and competitive
-level. The performing aspect helps students to build confidence when they
+levels. The performing aspect helps students to build confidence when they
 express themselves and communicate with the audience through percussion
 music. The learning process of playing in an ensemble also develops teamwork,
 resilience and the spirit of excellence.</p>
