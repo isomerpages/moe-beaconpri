@@ -84,7 +84,7 @@ and appreciate both the natural and physical world.</p>
 <li>
 <p>To use the environment as our third teacher for our students to apply
 their knowledge and skills as they explore environmental issues, engage
-in authentic problem solving contexts and take actions to improve the environment.</p>
+in authentic problem-solving contexts and take actions to improve the environment.</p>
 </li>
 <li>
 <p>To provide authentic learning experiences for our students to hone their
