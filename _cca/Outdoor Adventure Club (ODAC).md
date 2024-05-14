@@ -76,7 +76,7 @@ variant: tiptap
 </table>
 <h4>Objectives</h4>
 <p>The Outdoor Adventure Club (ODAC) CCA aims to develop outdoor skills through
-activities such as camp craft, orienteering and hiking. The activities
+activities such as camp crafts, orienteering and hiking. The activities
 will also foster mental resilience, perseverance, teamwork and leadership
 to overcome the obstacles and challenges faced.</p>
 <h4>Main Activities</h4>
