@@ -22,6 +22,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Leng Kee CC Tamil Language Competitions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Storytelling
+<br>❯ Top 10 - Tejasree Ganesh
+<br>
+<br>Essay Writing
+<br>❯ Top 10 - Thamilvanan Hashini</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Marsiling CC Tamil Language Competitions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monologue
+<br>❯ Top 10 - Ishan Sharath Ram
+<br>
+<br>Oratorical
+<br>❯ Top 3 - Avijit Venkatesh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ActiveSG-TBAS Tchoukball Championships</p>
 </td>
 <td rowspan="1" colspan="1">
