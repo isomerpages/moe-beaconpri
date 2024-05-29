@@ -3,6 +3,7 @@ title: Social Studies
 permalink: /beacon-experiential-learning/Teaching-and-Learning-Programmes/ss/
 description: ""
 third_nav_title: Teaching & Learning Programmes
+variant: markdown
 ---
 ### Social Studies
 
@@ -13,5 +14,3 @@ Beacons get to be curious on real-life issues, understand current affairs and de
 In Beacon, SS is experienced in an Active, Reflective and Collective approach. Beacons are **actively engaged** in discussions, **reflective on the impact** of current and contemporary issues and **collective in creating meaning and identity** of themselves as a Singaporean and as a global citizen.
 
 To develop Beacons to be informed and concerned citizens, our SS programme brings learning beyond the classroom. Beacons go on learning journeys to have authentic experiences on understanding our national history, learn from the experts and reflect on how our past impacts our present.
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCX6HVuwuo9QxxVb78xgnjMnrWecIKYgL-bfRMrullbsn4F84tCEgnSg3WCwu5BrL1D3-CkVkWWC7w/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
