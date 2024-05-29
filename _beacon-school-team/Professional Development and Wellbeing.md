@@ -44,7 +44,7 @@ and wellness.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PD/pd_05.jpg">
 </div>
 <p></p>
-<p><strong>Learning Journey to My First Sckool (MFS) at Segar Road</strong>
+<p><strong>Learning Journey to My First School (MFS) at Segar Road</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PD/pd_06.jpg">
