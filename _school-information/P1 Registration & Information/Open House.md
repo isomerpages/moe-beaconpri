@@ -12,6 +12,12 @@ Experience and learn more about the school’s curriculum, distinctive programme
 and our students’ CCA experiences!</p>
 <p>You may now register for the Open House via this link: <a href="https://go.gov.sg/beaconopenhouse2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/beaconopenhouse2024</a>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Open_House_Map_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click to view the Open House map &gt;&gt;</a>
+</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_2024_Header__2a.jpg">
 </div>
