@@ -17,9 +17,9 @@ define the Singaporean society and nurture disposition to show concern
 for the world they live in. It also provides an avenue to demonstrate empathy
 in their relationships with others.</p>
 <p>In Beacon, SS is experienced in an Active, Reflective and Collective approach.
-Beacons are actively engaged in discussions, reflective on the impact of
-current and contemporary issues and collective in creating meaning and
-identity of themselves as a Singaporean and as a global citizen.</p>
+Beacons are <strong>actively engaged</strong> in discussions, <strong>reflective on the impact</strong> of
+current and contemporary issues and <strong>collective in creating meaning and identity</strong> of
+themselves as a Singaporean and as a global citizen.</p>
 <p><strong><em>Insert pictures from “SS Lessons” folder.</em></strong>
 </p>
 <p>To develop Beacons to be informed and concerned citizens, our SS programme
