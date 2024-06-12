@@ -20,12 +20,25 @@ in their relationships with others.</p>
 Beacons are <strong>actively engaged</strong> in discussions, <strong>reflective on the impact</strong> of
 current and contemporary issues and <strong>collective in creating meaning and identity</strong> of
 themselves as a Singaporean and as a global citizen.</p>
-<p><strong><em>Insert pictures from “SS Lessons” folder.</em></strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_TLSS01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_TLSS02.jpg">
+</div>
 <p>To develop Beacons to be informed and concerned citizens, our SS programme
 brings learning beyond the classroom. Beacons go on learning journeys to
 have authentic experiences on understanding our national history, learn
 from the experts and reflect on how our past impacts our present.</p>
 <h4>SS Learning Journeys</h4>
-<p><strong><em>Insert the pictures from the ‘SS Learning Journey’ folder</em></strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_TLSS03.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_TLSS04.jpg">
+</div>
+<p></p>
