@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>Steering Committee</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -55,14 +59,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Pri 1 &amp; Pri 2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ang An Lian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Pri 3 &amp; Pri 4)</p>
 </td>
 </tr>
 <tr>
