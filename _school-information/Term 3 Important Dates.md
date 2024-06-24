@@ -15,16 +15,20 @@ variant: markdown
 | 2 | 1 Jul | All | **School Holiday** - Youth Day |
 | 2 | 3 - 10 Jul | All | Annual Health Screening and Immunisation by HPB |
 | 2 | 6 Jul | P5 | NE Show |
-| x | x | x | x |
-| x | x | x | x |
-| x | x | x | x |
-| x | x | x | x |
-| x | x | x | x |
-| x | x | x | x |
-| x | x | x | x |
-| x | x | x | x |
-| x | x | x | x |
-| x | x | x | x |
+| 3 | 8 Jul | P5 | Commencement of Sem 2 Maths Remedial (2.15 to 3.15 pm, selected students) |
+| 4 | 15 Jul | All | Racial Harmony Day Commemoration |
+| 4 | 16 Jul | P6 | Prelim LC |
+| 4 | 18 Jul | P6 | Prelim MTL e-Oral (PM) |
+| 4 | 18 Jul  | P3 - P5 | No CCA |
+| 4 | 19 Jul | P6 | Prelim EL Oral (PM) |
+| 7 | 8 Aug | All | National Day Celebrations (dismissal at 10.30 am) |
+| 7 | 9 Aug | All | **Public Holiday** - National Day |
+| 8 | 13 Aug | x | x |
+| 8 | 14 Aug | x | x |
+| 8 | 15 Aug | x | x |
+| 8 | x | x | x |
+| 8 | x | x | x |
+| 8 | x | x | x |
 | x | x | x | x |
 | x | x | x | x |
 | x | x | x | x |
