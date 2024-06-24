@@ -15,8 +15,13 @@ competencies, character development, and values instillation. BAYS provides
 concrete experiences for Beacons to identify their strengths and refine
 their leadership abilities.&nbsp;</p>
 <h4>Beacons serving the school community</h4>
-<p><strong>&gt;&gt; PHOTOS &gt;&gt;</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_LLP01.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_LLP02.jpg">
+</div>
 <p>Beacons have the opportunity to also serve the extended community. They
 develop responsibility, empathy, and stronger social skills through these
 experiences. Community service also provides practical knowledge that complements
@@ -24,16 +29,21 @@ what they learn during lessons. Ultimately, it inspires students to become
 active and caring citizens.</p>
 <p></p>
 <h4>Beacons serving the extended community</h4>
-<p><strong>&gt;&gt; PHOTOS &gt;&gt;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_LLP03.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_LLP04.jpg">
+</div>
 <p>Leadership opportunities teach decision-making, communication, and teamwork
 skills. Early leadership roles encourage responsibility and independence.
 Overall, they lay a strong foundation for our Beacons’ future success and
 active community participation.</p>
 <p></p>
 <h4>Student leadership</h4>
-<p><strong>&gt;&gt; PHOTOS &gt;&gt;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_LLP05.jpg">
+</div>
 <p>
 <br>
 </p>
