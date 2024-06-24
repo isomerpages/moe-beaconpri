@@ -23,11 +23,12 @@ variant: markdown
 | 4 | 19 Jul | P6 | Prelim EL Oral (PM) |
 | 7 | 8 Aug | All | National Day Celebrations (dismissal at 10.30 am) |
 | 7 | 9 Aug | All | **Public Holiday** - National Day |
-| 8 | 13 Aug | x | x |
-| 8 | 14 Aug | x | x |
-| 8 | 15 Aug | x | x |
-| 8 | x | x | x |
-| 8 | x | x | x |
+| 8 | 13 Aug | P6 | PSLE Oral Day 1  |
+| 8 | 14 Aug | P6 | PSLE Oral Day 2  |
+| 8 | 13 - 14 Aug | P1 - P5 | Home-Based Learning |
+| 8 | 15 Aug | P3 | GEP Screening Exercise |
+| 8 | 15 Aug | P4 | NAPFA (2.15pm-4pm) |
+| 8 | 15 Aug | P3 - P5 | No CCA |
 | 8 | x | x | x |
 | x | x | x | x |
 | x | x | x | x |
