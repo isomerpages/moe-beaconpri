@@ -6,7 +6,12 @@ variant: tiptap
 ---
 <h3>P2 Teachers</h3>
 <p><strong>Year Head:</strong> Mdm Ng Siew Choon (Mrs Low)</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -56,11 +61,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Saraniya Aburvam D/O N S
-<br>Mdm Stella Loy Ann Ting (Mrs Chai)</p>
+<br>Mdm Wong Jing Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:saraniya_aburvam_suriamoorthy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saraniya_aburvam_suriamoorthy@moe.edu.sg</a> 
-<br><a href="mailto:loy_ann_ting_stella@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loy_ann_ting_stella@moe.edu.sg</a>
+<br><a href="mailto:wong_jing_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jing_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
