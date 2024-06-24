@@ -5,8 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h3>P3 Teachers</h3>
-<p><strong>Year Yead:</strong> Mdm Ang An Lian</p>
-<table>
+<p><strong>Year Yead:</strong> 
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
