@@ -5,8 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h3>P4 Teachers</h3>
-<p><strong>Year Head:</strong> Mdm Ang An Lian</p>
-<table>
+<p><strong>Year Head:</strong> 
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -56,11 +62,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mustaffa Bin Ahmad
-<br>Mdm Ang An Lian</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mustaffa_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mustaffa_ahmad@moe.edu.sg</a> 
-<br><a href="mailto:ang_an_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_an_lian@moe.edu.sg</a>
+<br><a href="mailto:noraini_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_zainal@moe.edu.sg</a>
 </p>
 </td>
 </tr>
