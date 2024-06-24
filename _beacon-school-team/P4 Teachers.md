@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>P4 Teachers</h3>
-<p><strong>Year Head:</strong> 
+<p><strong>Year Head:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -62,8 +62,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mustaffa Bin Ahmad
-<br>
-</p>
+<br>Mdm Noraini Binte Zainal (Mrs Ra'uf)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mustaffa_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mustaffa_ahmad@moe.edu.sg</a> 
