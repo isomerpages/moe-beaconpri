@@ -29,9 +29,13 @@ variant: markdown
 | 8 | 15 Aug | P3 | GEP Screening Exercise |
 | 8 | 15 Aug | P4 | NAPFA (2.15pm-4pm) |
 | 8 | 15 Aug | P3 - P5 | No CCA |
-| 8 | x | x | x |
-| x | x | x | x |
-| x | x | x | x |
-| x | x | x | x |
-| x | x | x | x |
+| 8 | 16 Aug | P6 | Prelim EL Paper 1 & 2 (dismissal after paper) |
+| 9 | 19 Aug | P6 | Prelim Math Paper 1 & 2 (dismissal after paper) |
+| 9 | 20 Aug | P6 | Prelim MTL Paper 1 & 2 (dismissal after paper) |
+| 9 | 21 Aug | P6 | Prelim Science (dismissal after paper) |
+| 9 | 22 Aug | P6 | Prelim HTML Paper 1 & 2 |
+| 10 | 29 Aug | All | Teachers’ Day Celebrations (dismissal at 10.30 am) |
+| 10 | 29 Aug | P3 - P5 | No CCA |
+| 10 | 30 Aug | All | **School Holiday** - Teachers' Day |
+|  | 2-8 Sept | All | School Vacation |
 |  |  |  |  |
