@@ -37,5 +37,5 @@ variant: markdown
 | 10 | 29 Aug | All | Teachers’ Day Celebrations (dismissal at 10.30 am) |
 | 10 | 29 Aug | P3 - P5 | No CCA |
 | 10 | 30 Aug | All | **School Holiday** - Teachers' Day |
-|  | 2-8 Sept | All | School Vacation |
+|  | 2-8 Sept | All | **School Vacation** |
 |  |  |  |  |
