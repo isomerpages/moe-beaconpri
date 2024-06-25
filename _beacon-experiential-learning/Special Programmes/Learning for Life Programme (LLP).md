@@ -34,7 +34,6 @@ teaching empathy and responsibility. It encourages teamwork and a sense
 of belonging. Through acts of kindness and service, Beacons learn important
 social skills and the value of helping others. This experience prepares
 them to be positive contributors to society.</p>
-<p></p>
 <h4>Beacons serving the extended community</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_LLP03.jpg">
