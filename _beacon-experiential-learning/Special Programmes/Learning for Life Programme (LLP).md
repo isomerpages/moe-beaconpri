@@ -47,9 +47,3 @@ empathy, and stronger social skills. Community service also provides practical
 knowledge that complements what they learn during lessons. Ultimately,
 it inspires students to become active and caring citizens.</p>
 <p></p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
