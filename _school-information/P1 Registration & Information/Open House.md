@@ -27,7 +27,7 @@ and our students’ CCA experiences!</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="494" width="660" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rpXNwq8MMMU"></iframe>
+<iframe height="494" width="660" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oUsRnyaiees?si=7QvjN2Gx3RAjDnV3"></iframe>
 </div>
 <h4>Virtual Tour</h4>
 <div class="iframe-wrapper">
