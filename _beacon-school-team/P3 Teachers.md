@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>P3 Teachers</h3>
-<p><strong>Year Yead:</strong> 
+<p><strong>Year Yead:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -98,11 +98,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wong Jing Mei Joyce
-<br>Mr Abdul Aziz Ansari</p>
+<br>Mr Weng Qizong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_jing_mei_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jing_mei_joyce@moe.edu.sg</a> 
-<br><a href="mailto:abdul_aziz_ansari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_aziz_ansari@moe.edu.sg</a>
+<br><a href="mailto:weng_qizong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">weng_qizong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
