@@ -22,15 +22,38 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cui Enya, P6.5</p>
+<p>Ngee Ann National School Calligraphy Competition 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ Ngee Ann National School Calligraphy Competition - Rising Star Award</p>
-<p>❯ National Chinese Calligraphy Competition (Hong Wen School)&nbsp; - Award
-of Excellence&nbsp;</p>
-<p>❯ Fo Guang Shan National Calligraphy Competition - Award of Excellence</p>
-<p>❯ National Chinese Calligraphy Centre 35th National Calligraphy Competition
-- 4th place</p>
+<p>Cui Enya
+<br>❯ Rising Star Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Chinese Calligraphy Competition (Hong Wen School)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cui Enya
+<br>❯ Award of Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fo Guang Shan National Calligraphy Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cui Enya
+<br>❯ Award of Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Chinese Calligraphy Centre 35th National Calligraphy Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cui Enya
+<br>❯ 4th place</p>
 </td>
 </tr>
 <tr>
