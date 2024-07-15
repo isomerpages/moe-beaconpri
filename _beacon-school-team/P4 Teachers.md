@@ -66,7 +66,9 @@ variant: tiptap
 <p>4.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:siu_kai_chong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Siu Kai Chong</a>
+<br><a href="mailto:nur_erliana_supanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Erliana Bte Supanie</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +76,9 @@ variant: tiptap
 <p>4.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_lam_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Lam Yen</a>
+<br><a href="mailto:lee_pei_pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Pei Pei</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -87,13 +91,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>4.5</p>
-<p>Mr Siu Kai Chong
-<br>Ms Nur Erliana Bte Supanie</p>
-<p>4.6</p>
-<p>Mdm Tan Lam Yen
-<br>Ms Lee Pei Pei</p>
 <p></p>
 <p></p>
 <p></p>
