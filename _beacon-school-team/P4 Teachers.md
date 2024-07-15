@@ -2,21 +2,8 @@
 title: P4 Teachers
 permalink: /beacon-school-team/p4/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### P4 Teachers
-
-**Year Head:**
-
-
-
-| Class | Form Teachers | 
-| -------- | -------- |
-| 4.1     | [Mdm Sri Shangeetha D/O Sangar](mailto:sri_shangeetha_sangar@moe.edu.sg)<br>[Dr Lye Sze Yee](mailto:lye_sze_yee@moe.edu.sg)     |
-| Text     | Text     |
-
-
-
 <h3>P4 Teachers</h3>
 <p><strong>Year Head:</strong>
 </p>
@@ -28,12 +15,10 @@ variant: markdown
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Form Teachers</strong>
-</p>
+<p>Form Teachers</p>
 </th>
 </tr>
 <tr>
@@ -41,8 +26,9 @@ variant: markdown
 <p>4.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sri Shangeetha D/O Sangar
-<br>Dr Lye Sze Yee</p>
+<p><a href="mailto:sri_shangeetha_sangar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sri Shangeetha D/O Sangar</a>
+<br><a href="mailto:lye_sze_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Lye Sze Yee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -50,8 +36,9 @@ variant: markdown
 <p>4.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Chang
-<br>Mdm Nasheda Binte Hamzah</p>
+<p><a href="mailto:li_chang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Li Chang</a>
+<br><a href="mailto:nasheda_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nasheda Binte Hamzah</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -59,8 +46,9 @@ variant: markdown
 <p>4.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mustaffa Bin Ahmad
-<br>Mdm Noraini Binte Zainal (Mrs Ra'uf)</p>
+<p><a href="mailto:mustaffa_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mustaffa Bin Ahmad</a>
+<br><a href="mailto:noraini_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noraini Binte Zainal (Mrs Ra'uf)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -68,8 +56,9 @@ variant: markdown
 <p>4.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Soon Hui Ting
-<br>Ms Kwek Keem Shin Vanessa</p>
+<p><a href="mailto:soon_hui_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Soon Hui Ting</a>
+<br><a href="mailto:kwek_keem_shin_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kwek Keem Shin Vanessa</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -77,8 +66,7 @@ variant: markdown
 <p>4.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Siu Kai Chong
-<br>Ms Nur Erliana Bte Supanie</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -86,8 +74,7 @@ variant: markdown
 <p>4.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Lam Yen
-<br>Ms Lee Pei Pei</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -100,4 +87,13 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>4.5</p>
+<p>Mr Siu Kai Chong
+<br>Ms Nur Erliana Bte Supanie</p>
+<p>4.6</p>
+<p>Mdm Tan Lam Yen
+<br>Ms Lee Pei Pei</p>
+<p></p>
+<p></p>
 <p></p>
