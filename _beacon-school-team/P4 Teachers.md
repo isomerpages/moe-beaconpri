@@ -4,6 +4,19 @@ permalink: /beacon-school-team/p4/
 description: ""
 variant: markdown
 ---
+### P4 Teachers
+
+**Year Head:**
+
+
+
+| Class | Form Teachers | 
+| -------- | -------- |
+| 4.1     | [Mdm Sri Shangeetha D/O Sangar](mailto:sri_shangeetha_sangar@moe.edu.sg)<br>[Dr Lye Sze Yee](mailto:lye_sze_yee@moe.edu.sg)     |
+| Text     | Text     |
+
+
+
 <h3>P4 Teachers</h3>
 <p><strong>Year Head:</strong>
 </p>
