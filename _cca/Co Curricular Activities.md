@@ -14,7 +14,7 @@ Our CCAs also emphasise social interaction by providing a common space
 for friendships and social integration amongst students of diverse backgrounds.</p>
 <p>❯ <a href="/files/CCA_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click for 2024 CCA Schedule</a>
 </p>
-<h4>Summary of CCAs offered in Beacon Primary School</h4>
+<h4>Summary of CCAs Offered in Beacon Primary School</h4>
 <p>Click on the links below to find out more about our CCAs.</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -66,7 +66,7 @@ for friendships and social integration amongst students of diverse backgrounds.<
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/odac/" rel="noopener noreferrer nofollow" target="_blank">Outdoor Adventure Club (ODAC)</a>
+<p><a href="/cca/robotics/" rel="noopener noreferrer nofollow" target="_blank">Robotics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,7 +83,7 @@ for friendships and social integration amongst students of diverse backgrounds.<
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/robotics/" rel="noopener noreferrer nofollow" target="_blank">Robotics</a>
+<p><a href="/beacon-experiential-learning/Special-Programmes/makerspace/" rel="noopener noreferrer nofollow" target="_blank">Makerspace</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,8 +100,7 @@ for friendships and social integration amongst students of diverse backgrounds.<
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/beacon-experiential-learning/Special-Programmes/makerspace/" rel="noopener noreferrer nofollow" target="_blank">Makerspace</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
