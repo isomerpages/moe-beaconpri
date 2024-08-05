@@ -51,15 +51,20 @@ Achievement Ceremony and P1 Orientation Day. Beyond this, they also play
 a disciplinary role and help to remind fellow students of their conduct
 and behaviour. As Exco members, they are vested with authority by the school
 to serve with confidence and conviction.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/2023 p5 exco.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_EXCO_2024.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03f.jpg">
 </div>
-<h4>Prefect Exco 2023/2024</h4>
-<table>
+<h4>Prefect Exco 2024/2025</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -74,7 +79,7 @@ to serve with confidence and conviction.</p>
 <p>Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Wei Hong Shann</p>
+<p>Lim Chiam Yee</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +87,7 @@ to serve with confidence and conviction.</p>
 <p>Vice-Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zikry Mikhail Bin Indrazahri</p>
+<p>Iman Nur Safiyya Binte Imran Nabhan</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +95,7 @@ to serve with confidence and conviction.</p>
 <p>Vice-Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lau Ching Yern, Jenna</p>
+<p>Senthilkumar Shrataesh</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +103,7 @@ to serve with confidence and conviction.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nyla Alesha Binte Azhar</p>
+<p>Zheng, Zimeng</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +111,7 @@ to serve with confidence and conviction.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Faith Kaitlyn Teo</p>
+<p>Peh Yu Tong Sherine</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +119,7 @@ to serve with confidence and conviction.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hiro Ramadhan Purbojati</p>
+<p>Fajardo Katherine Alexa Soliman</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +127,7 @@ to serve with confidence and conviction.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yu Zichen</p>
+<p>Sheik Dahisy Bin Sheik Danil</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +143,13 @@ to serve with confidence and conviction.</p>
 <h4>Beacon Primary School - Prefectorial Board</h4>
 <p><strong>Record of Head &amp; Vice Head Prefects</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -246,7 +257,8 @@ to serve with confidence and conviction.</p>
 <p>Jenelle Tan See Suen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Iman Atrisyia Iwani Bte Nazarudi</p>
+<p>Iman Atrisyia Iwani
+<br>Bte Nazarudi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neeshan S/O Suresh</p>
@@ -260,7 +272,8 @@ to serve with confidence and conviction.</p>
 <p>Liew Hng Kai Jethro</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sahirah Darwisyah Binte Sheik Danil</p>
+<p>Sahirah Darwisyah</p>
+<p>Binte Sheik Danil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ethan Hun Zhe Kai</p>
@@ -302,7 +315,8 @@ to serve with confidence and conviction.</p>
 <p>Yeow Bei Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Shahir Mifzal Bin Muchamed Sha’ari</p>
+<p>Muhammad Shahir Mifzal</p>
+<p>Bin Muchamed Sha’ari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nithya Sree Saravanan</p>
@@ -320,6 +334,21 @@ to serve with confidence and conviction.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lau Ching Yern, Jenna</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Chiam Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Iman Nur Safiyya</p>
+<p>Binte Imran Nabhan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senthilkumar Shrataesh</p>
 </td>
 </tr>
 <tr>
