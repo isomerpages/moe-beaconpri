@@ -257,7 +257,8 @@ to serve with confidence and conviction.</p>
 <p>Jenelle Tan See Suen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Iman Atrisyia Iwani Bte Nazarudi</p>
+<p>Iman Atrisyia Iwani
+<br>Bte Nazarudi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neeshan S/O Suresh</p>
