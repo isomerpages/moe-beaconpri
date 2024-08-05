@@ -198,7 +198,8 @@ to serve with confidence and conviction.</p>
 <p>2015</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sarah Qistina Bte Mazalan</p>
+<p>Sarah Qistina Bte
+<br>Mazalan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ang Hui Wen, Rachel</p>
