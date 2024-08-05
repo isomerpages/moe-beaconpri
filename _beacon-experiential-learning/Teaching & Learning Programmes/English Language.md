@@ -3,6 +3,7 @@ title: English Language
 permalink: /beacon-experiential-learning/Teaching-and-Learning-Programmes/el/
 description: ""
 third_nav_title: Teaching & Learning Programmes
+variant: markdown
 ---
 ### English Language
 
@@ -68,15 +69,9 @@ In Beacon, students are challenged to widen their vocabulary and improve on thei
 
 The Beacon Storytelling Festival provides opportunities for our students to share their love for storytelling with their peers. Through their creativity and the skilful use of their voice, gestures and self-made props, our Primary 1 to 5 storytellers draw their audience into their stories. As the students listen to these stories, they also learn about moral values as depicted in Aesop’s fables and virtues in the fairy tales that are shared with them.
 
-<iframe width="283" height="212" src="https://www.youtube.com/embed/y-Gax1b9A_0" title="ZAFYR EZRA BIN INDRAZAHRI - P1.5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/By1giEtbgCM?si=A35m53-DOu-2vAD_" height="212" width="283"></iframe>
 
-<iframe width="283" height="212" src="https://www.youtube.com/embed/f-efmQwwAro" title="MARIAH ULFAH BINTE ISKANDAR SHAH - P2.6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<iframe width="283" height="212" src="https://www.youtube.com/embed/iRw7MBTL0m4" title="LIM CHIAM YEE - P3-5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-<iframe width="283" height="212" src="https://www.youtube.com/embed/odjp9neCPDw" title="CHAN WEI HONG SHANN - P4-3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-<iframe width="283" height="212" src="https://www.youtube.com/embed/QHjHuFOMKKc" title="YOHANN ATHI SWETHAN SUGUMARAN - P5-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 #### Literacy Support Programme
 
