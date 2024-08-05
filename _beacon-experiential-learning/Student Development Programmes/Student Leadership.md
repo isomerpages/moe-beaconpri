@@ -58,8 +58,12 @@ to serve with confidence and conviction.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03f.jpg">
 </div>
-<h4>Prefect Exco 2023/2024</h4>
-<table>
+<h4>Prefect Exco 2024/2025</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -74,7 +78,7 @@ to serve with confidence and conviction.</p>
 <p>Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Wei Hong Shann</p>
+<p>Lim Chiam Yee</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +86,7 @@ to serve with confidence and conviction.</p>
 <p>Vice-Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zikry Mikhail Bin Indrazahri</p>
+<p>Iman Nur Safiyya Binte Imran Nabhan</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +94,7 @@ to serve with confidence and conviction.</p>
 <p>Vice-Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lau Ching Yern, Jenna</p>
+<p>Senthilkumar Shrataesh</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +102,7 @@ to serve with confidence and conviction.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nyla Alesha Binte Azhar</p>
+<p>Zheng, Zimeng</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +110,7 @@ to serve with confidence and conviction.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Faith Kaitlyn Teo</p>
+<p>Peh Yu Tong Sherine</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +118,7 @@ to serve with confidence and conviction.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hiro Ramadhan Purbojati</p>
+<p>Fajardo Katherine Alexa Soliman</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +126,7 @@ to serve with confidence and conviction.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yu Zichen</p>
+<p>Sheik Dahisy Bin Sheik Danil</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +142,13 @@ to serve with confidence and conviction.</p>
 <h4>Beacon Primary School - Prefectorial Board</h4>
 <p><strong>Record of Head &amp; Vice Head Prefects</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -320,6 +330,20 @@ to serve with confidence and conviction.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lau Ching Yern, Jenna</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Chiam Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Iman Nur Safiyya Binte Imran Nabhan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senthilkumar Shrataesh</p>
 </td>
 </tr>
 <tr>
