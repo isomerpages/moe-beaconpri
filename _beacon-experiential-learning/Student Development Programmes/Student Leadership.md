@@ -315,8 +315,8 @@ to serve with confidence and conviction.</p>
 <p>Yeow Bei Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Shahir Mifzal</p>
-<p>Bin Muchamed Sha’ari</p>
+<p>Muhammad Shahir Mifzal
+<br>Bin Muchamed Sha’ari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nithya Sree Saravanan</p>
