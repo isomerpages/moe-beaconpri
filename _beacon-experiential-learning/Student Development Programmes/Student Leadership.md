@@ -272,8 +272,8 @@ to serve with confidence and conviction.</p>
 <p>Liew Hng Kai Jethro</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sahirah Darwisyah</p>
-<p>Binte Sheik Danil</p>
+<p>Sahirah Darwisyah
+<br>Binte Sheik Danil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ethan Hun Zhe Kai</p>
@@ -344,8 +344,8 @@ to serve with confidence and conviction.</p>
 <p>Lim Chiam Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Iman Nur Safiyya</p>
-<p>Binte Imran Nabhan</p>
+<p>Iman Nur Safiyya
+<br>Binte Imran Nabhan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senthilkumar Shrataesh</p>
