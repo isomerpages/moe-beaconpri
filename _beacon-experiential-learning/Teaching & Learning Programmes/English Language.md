@@ -210,7 +210,6 @@ in Aesop’s fables and virtues in the fairy tales that are shared with them.</p
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Literacy Support Programme</h4>
 <p>Learning Support Programme for English (LSE), School-based Dyslexia Remediation
 Programme (SDR) and Reading Remediation Programme (RRP) are specialised
