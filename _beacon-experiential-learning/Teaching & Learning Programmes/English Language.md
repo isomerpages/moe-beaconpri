@@ -70,8 +70,12 @@ In Beacon, students are challenged to widen their vocabulary and improve on thei
 The Beacon Storytelling Festival provides opportunities for our students to share their love for storytelling with their peers. Through their creativity and the skilful use of their voice, gestures and self-made props, our Primary 1 to 5 storytellers draw their audience into their stories. As the students listen to these stories, they also learn about moral values as depicted in Aesop’s fables and virtues in the fairy tales that are shared with them.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/By1giEtbgCM?si=A35m53-DOu-2vAD_" height="212" width="283"></iframe>
-
-
+<br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gx1rzk6pw78?si=HEEfWS7EXipU-Iui" height="212" width="283"></iframe>
+<br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/DPTqL33m0rQ?si=MVT1MkYrDuFtNluq" height="212" width="283"></iframe>
+<br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dy81mkxUb8c?si=G0t6IriTp0i8afBi" height="212" width="283"></iframe>
 
 #### Literacy Support Programme
 
