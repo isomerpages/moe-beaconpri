@@ -52,9 +52,6 @@ a disciplinary role and help to remind fellow students of their conduct
 and behaviour. As Exco members, they are vested with authority by the school
 to serve with confidence and conviction.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_EXCO_2024.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03f.jpg">
