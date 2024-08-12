@@ -14,4 +14,4 @@ variant: markdown
 <img src="/images/BEL/bel-sd002.jpg" style="width:49%" align="left"></a></p>
 
 <p><a href="/beacon-experiential-learning/Student-Development-Programmes/sl/">
-<img src="/images/BEL/bel-sd03d.jpg" style="width:49%"></a></p>
+<img src="/images/BEL/BEL_SD03d1.jpg" style="width:49%"></a></p>
