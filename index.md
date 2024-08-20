@@ -18,5 +18,4 @@ sections:
           description: ""
           url: /school-information/p1-registration-and-information/op/
       background: /images/Homecoming2024_01.jpg
-      url: https://forms.gle/xvgmDmsBHwsGi6GD6
 ---
