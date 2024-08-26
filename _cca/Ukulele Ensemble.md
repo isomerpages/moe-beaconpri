@@ -85,6 +85,6 @@ CCA, students interact and bond amongst teams, combining the playing of
 chords and melodies to songs. By learning a musical skill together, students
 can have fun through the learning process.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/BEL/bel-sd02k.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD02K1.jpg">
 </div>
 <p></p>
