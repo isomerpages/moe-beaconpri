@@ -52,9 +52,6 @@ variant: tiptap
 <li>
 <p>Miss Pang Xiao Tian Patricia</p>
 </li>
-<li>
-<p>Mdm Stella Loy Ann Ting (Mrs Chai)</p>
-</li>
 </ul>
 </td>
 </tr>
