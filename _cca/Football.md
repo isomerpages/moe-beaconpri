@@ -51,9 +51,6 @@ variant: tiptap
 <li>
 <p>Mr Wong Jun Kai</p>
 </li>
-<li>
-<p>Mr Abdul Aziz Bin Ansari</p>
-</li>
 </ul>
 </td>
 </tr>
