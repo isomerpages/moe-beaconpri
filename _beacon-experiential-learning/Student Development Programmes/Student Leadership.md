@@ -58,6 +58,26 @@ to serve with confidence and conviction.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03f.jpg">
 </div>
+<h4>The Student Leaders' Investiture Ceremony</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03h.jpg">
+</div>
+<p>The Student Leaders' Investiture ceremony recognises and celebrates the
+leadership roles of all leaders in Tier 2 and 3, reinforcing their responsibilities
+and commitment to the school community. This event aims to develop leadership
+skills, foster a sense of unity, and empower students to lead by example.
+By formally acknowledging their roles, the ceremony highlights the importance
+of student contributions to the school’s environment, encouraging them
+to embody the values of responsibility, integrity, and service.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03g.jpg">
+</div>
+<p>The Prefect EXCO Handover Ceremony is a cherished tradition in our school,
+where we acknowledge and applaud the efforts and achievements of our students
+in various fields. The event highlights the significance of the prefects’
+duties and responsibilities, showcasing their commitment and development
+of leadership. It’s a wonderful opportunity to witness how our students
+have grown throughout their journey.</p>
 <h4>Prefect Exco 2024/2025</h4>
 <table style="minWidth: 50px">
 <colgroup>
