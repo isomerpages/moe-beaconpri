@@ -69,6 +69,9 @@ skills, foster a sense of unity, and empower students to lead by example.
 By formally acknowledging their roles, the ceremony highlights the importance
 of student contributions to the school’s environment, encouraging them
 to embody the values of responsibility, integrity, and service.</p>
+<p><a href="https://www.beaconpri.moe.edu.sg/school-events/event-gallery/2024/" rel="noopener nofollow" target="_blank">Click to view Album &gt;&gt;</a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03g.jpg">
 </div>
@@ -78,6 +81,9 @@ in various fields. The event highlights the significance of the prefects’
 duties and responsibilities, showcasing their commitment and development
 of leadership. It’s a wonderful opportunity to witness how our students
 have grown throughout their journey.</p>
+<p><a href="https://www.beaconpri.moe.edu.sg/school-events/event-gallery/2024/" rel="noopener nofollow" target="_blank">Click to view Album &gt;&gt;</a>
+</p>
+<p></p>
 <h4>Prefect Exco 2024/2025</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -387,4 +393,5 @@ have grown throughout their journey.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
