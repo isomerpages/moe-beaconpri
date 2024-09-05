@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Student Leadership</h3>
 <h4>“Every Beacon Is A Leader”</h4>
 <p>Stemming from the belief that every Beacon is a Leader responsible for
-the well-being of oneself, society, and nation building, the schooling
+the well-being of oneself, society, and nation-building, the schooling
 experience at Beacon aims to nurture Beacons with the necessary skills
 and values, providing them with opportunities to lead successfully. Our
 Student Leadership Programme leverages Beacon's SHINE values to provide
