@@ -8,19 +8,19 @@ variant: markdown
 
 | Week | Date | Levels | Activity |
 |:---:| -------- | --- | --- |
-| 1 | 9 Sept | P3 & 4 | Commencement of SDR, RRP (2.15 to 3.15 pm, selected students) |
+| 1 | 9 Sept | P3 &amp; 4 | Commencement of SDR, RRP (2.15 to 3.15 pm, selected students) |
 | 1 | 9 Sept | P6 | Commencement of Self-Study Programme (2.15 to 4.15 pm, selected students) |
-| 1 | 9 Sept | P5 & 6 | Commencement of MA Remedial (2.15 to 3.15 pm, selected students) |
+| 1 | 9 Sept | P5 &amp; 6 | Commencement of MA Remedial (2.15 to 3.15 pm, selected students) |
 | 1 | 13 Sept | P6 | PSLE Listening Comprehension |
 | 1 | 13 Sept | P6 | Home-Based Learning for P1 to P5 |
 | 2 | 16 Sept | P6 | Last session of P6 FMA and P6 HMTL |
-| 2 | 19 Sept | P1 & 2 | Last Session of KidsRead (2.15 to 4 pm) |
+| 2 | 19 Sept | P1 &amp; 2 | Last Session of KidsRead (2.15 to 4 pm) |
 | 2 | 19 Sept | P3 - P5 | Commencement of CCA (2.15 to 4.15 pm / 3.30 to 5.30 pm) |
 | 2 | 19 Sept | P6 | Remedial for selected students (2.15 to 4.15 pm) |
 | 2 | 20 Sept | All | Cultural Celebrations and Family Day (6 to 8 pm) |
 | 3 | 23 - 25 Sept | P6 | PSLE Study Break |
 | 3 | 26 - 27 Sept | P6 | PSLE Written Papers (EL and MA) |
-| 3 | 26 - 27 Sep | P4 & P5 | Home-Based Learning |
+| 3 | 26 - 27 Sep | P4 &amp; P5 | Home-Based Learning |
 | 4 | 30 Sept - 1 Oct | P6 | PSLE Written Papers (MTL and SC) |
 | 4 | 30 Sept - 1 Oct | P1 - P3 | Home-Based Learning |
 | 4 | 2 Oct | P6 | PSLE Written Paper (HTML) |
@@ -42,15 +42,16 @@ variant: markdown
 | 8 | 1 Nov | P1-P6 | Beacon Gives Programme |
 | 9 | 6 Nov | All | Admin Day |
 | 9 | 6 Nov | All | Home-Based Learning |
-| 9 | 8 Nov | P1 & P2 | X |
-| X | X | X | X |
-| X | X | X | X |
-| X | X | X | X |
-| X | X | X | X |
-| X | X | X | X |
-| X | X | X | X |
-| X | X | X | X |
-| X | X | X | X |
+| 9 | 8 Nov | P1 &amp; P2 | Beacon Achievement Ceremony<br>(P2 dismissal at 10.30am, P1 dismissal at 12.30pm) |
+| 10 | 12 Nov | P1 - P5 | Release of Sem 2 HDP Report |
+| 10 | 13 Nov | P5 | Beacon Achievement Ceremony (dismissal at 10.30am) |
+| 10 | 13 Nov | P6 | Beacon Graduation Ceremony (11.30am-4.15pm) |
+| 10 | 13 Nov | P6 | P6 Students to report to school at 11.30am |
+| 10 | 13 Nov | P1,2,5,6 | Last Day of School |
+| 10 | 14 Nov | P3 &amp; P4 | Achievement Ceremony (P3 dismissal at 10.30am, P4 dismissal at 12.30pm) |
+| 10 | 14 Nov | P3 &amp; P4 | Last Day of School |
+| 10 | 14 - 15 Nov | P1 - P5 | Parent- Teacher Meeting for selected students |
+| 10 | 15 Nov | P1 - P5 | 2025 P1 Briefing (9 to 10.30 am) |
 | X | X | X | X |
 | X | X | X | X |
 | X | X | X | X |
