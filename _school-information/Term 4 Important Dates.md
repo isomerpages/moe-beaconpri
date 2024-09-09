@@ -8,13 +8,13 @@ variant: markdown
 
 | Week | Date | Levels | Activity |
 |:---:| -------- | --- | --- |
-| 1 | 9 Sept | P3 &amp; 4 | Commencement of SDR, RRP (2.15 to 3.15 pm, selected students) |
+| 1 | 9 Sept | P3 &amp; P4 | Commencement of SDR, RRP (2.15 to 3.15 pm, selected students) |
 | 1 | 9 Sept | P6 | Commencement of Self-Study Programme (2.15 to 4.15 pm, selected students) |
-| 1 | 9 Sept | P5 &amp; 6 | Commencement of MA Remedial (2.15 to 3.15 pm, selected students) |
+| 1 | 9 Sept | P5 &amp; P6 | Commencement of MA Remedial (2.15 to 3.15 pm, selected students) |
 | 1 | 13 Sept | P6 | PSLE Listening Comprehension |
 | 1 | 13 Sept | P6 | Home-Based Learning for P1 to P5 |
 | 2 | 16 Sept | P6 | Last session of P6 FMA and P6 HMTL |
-| 2 | 19 Sept | P1 &amp; 2 | Last Session of KidsRead (2.15 to 4 pm) |
+| 2 | 19 Sept | P1 &amp; P2 | Last Session of KidsRead (2.15 to 4 pm) |
 | 2 | 19 Sept | P3 - P5 | Commencement of CCA (2.15 to 4.15 pm / 3.30 to 5.30 pm) |
 | 2 | 19 Sept | P6 | Remedial for selected students (2.15 to 4.15 pm) |
 | 2 | 20 Sept | All | Cultural Celebrations and Family Day (6 to 8 pm) |
