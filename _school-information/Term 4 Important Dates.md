@@ -52,9 +52,6 @@ variant: markdown
 | 10 | 14 Nov | P3 &amp; P4 | Last Day of School |
 | 10 | 14 - 15 Nov | P1 - P5 | Parent- Teacher Meeting for selected students |
 | 10 | 15 Nov | P1 - P5 | 2025 P1 Briefing (9 to 10.30 am) |
-| X | X | X | X |
-| X | X | X | X |
-| X | X | X | X |
-| X | X | X | X |
-| X | X | X | X |
+| 2025 | 2 Jan | P1 | Start of new school year for P1 students |
+| 2025 | 3 Jan | All | Start of new school year for all levels |
 |  |  |  |  |
