@@ -16,7 +16,7 @@ together.</p>
 <li>
 <p><strong>PSLE Listening Comprehension on 13 September 2024.</strong>
 <br>There will be Home-Based Learning (HBL) for P1 to P5 during this period.
-Details will be available only after 5 pm on 12 September 2024. For more
+Details will be available only after 7 pm on 12 September 2024. For more
 information, please refer to the <a href="https://www.beaconpri.moe.edu.sg/school-information/hbl/" rel="noopener nofollow" target="_blank">[ HBL Link ]</a>.</p>
 </li>
 </ol>
