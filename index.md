@@ -18,4 +18,5 @@ sections:
           description: ""
           url: /school-information/p1-registration-and-information/op/
       background: /images/5cshero.gif
+      variant: center
 ---
