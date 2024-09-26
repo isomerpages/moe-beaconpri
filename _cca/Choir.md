@@ -105,6 +105,6 @@ reading</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/BEL/bel-sd02b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD02B2.jpg">
 </div>
 <p></p>

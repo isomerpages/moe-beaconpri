@@ -12,7 +12,7 @@ School, we aim to cultivate in our students the joy of learning so that
 they are motivated to pursue their interests and talents in the long run.
 Our CCAs also emphasise social interaction by providing a common space
 for friendships and social integration amongst students of diverse backgrounds.</p>
-<p>❯ <a href="/files/CCA_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click for 2024 CCA Schedule</a>
+<p>❯ <a href="/files/CCA_Schedule_2024_V02.pdf" rel="noopener noreferrer nofollow" target="_blank">Click for 2024 CCA Schedule</a>
 </p>
 <h4>Summary of CCAs Offered in Beacon Primary School</h4>
 <p>Click on the links below to find out more about our CCAs.</p>
@@ -160,11 +160,9 @@ values and attitudes through sustained participation.</p>
 <h4>Change of CCA</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students are not allowed to change CCA within the same academic year;
-however, they may request for a change of CCA:
-<br>- At the end of P3; and
-<br>- At the end of P4 if the student is not a school team player or involved
-in SYF
+<p>Students may request for a change of CCA only at the end of P3. Once the
+request is approved, students will join the new CCA in the following academic
+year.
 <br>
 <br>For parents who would like to request for change of CCA, please click
 on the link below and print the Change of CCA Form. Parents are to fill

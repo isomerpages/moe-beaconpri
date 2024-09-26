@@ -2,6 +2,7 @@
 title: School Hours
 permalink: /school-information/sch-hrs/
 description: ""
+variant: markdown
 ---
 ### School Hours
 
@@ -17,13 +18,13 @@ Additional sessions may be conducted for students who are representing the schoo
 
 To accommodate staggered lunch timings, lessons will end at 2 pm for P4 to P6 students. On Thursdays without CCA, all students will be dismissed at 1.30 pm.
 
-#### Recess
+##### Recess
 
 Recess timings are staggered to reduce congestion and to have smaller groups of students. The timings for recess will not be the same for each day due to the constraints of the timetable. The schedule is as follows:
 
 <img src="/images/SI/si_sh01.jpg" style="width:100%">
 
-#### Dismissal Arrangements
+##### Dismissal Arrangements
 
 Students will be dismissed by the last period teachers via specific gates indicated in the table below.
 
@@ -35,13 +36,12 @@ Students will be dismissed by the last period teachers via specific gates indica
 |  |  |  |  |
 
 
-
 | **Time** | **Remarks** |
 | -------- | -------- |
 | **LEVEL DISMISSAL TIMING** | **Siblings going home together**<br><br>Proceed to the hall according to level dismissal timing&nbsp; to meet siblings.<br><br>Older siblings (P4 to P6) are able to leave via Side Gate 1 if they accompany their younger siblings (P1 to P3) out. |
 | **LEVEL DISMISSAL TIMING** | **Students going to student-care centres**<br><br>Proceed to the hall according to level dismissal timing. Staff of student-care centres will walk with students to the centres. |
 | **LEVEL DISMISSAL TIMING** | **Students taking school buses and private vans**<br><br>Proceed to the hall according to level dismissal timing.&nbsp; Bus attendants will take the students to the buses.<br><br>Gate 2 (for vehicles) will remain closed until the school buses leave about 15 min after dismissal bell. |
 
-#### For primary 1 only
+##### For primary 1 only
 
 In January,&nbsp; P1 students will return to their form classes from Mother Tongue Language (MTL) lessons before being dismissed. From February onwards, P1 students will be dismissed by their respective MTL teachers if the last period is MTL.

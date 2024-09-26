@@ -86,7 +86,7 @@ rhythmic pattern playing using drumming techniques. From rhythmic exercises
 to traditional and contemporary (including fusion) performing pieces, Percussion
 CCA offers a rich and engaging cultural experience for the students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD02N.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD02N2.jpg">
 </div>
 <p>Our Percussion Ensemble members learning to play an instrument and perform
 collaboratively as a musical group.</p>

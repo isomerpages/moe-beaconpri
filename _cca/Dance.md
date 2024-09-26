@@ -96,6 +96,6 @@ Assembly, Open House and National Day concerts.</p>
 </li>
 </ol>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/BEL/bel-sd02m.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sd02m2.jpg">
 </div>
 <p></p>
