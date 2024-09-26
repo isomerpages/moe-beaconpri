@@ -95,7 +95,6 @@ Assembly, Open House and National Day concerts.</p>
 <p>Trainings for Singapore Youth Festival 2024.</p>
 </li>
 </ol>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sd02m2.jpg">
 </div>
