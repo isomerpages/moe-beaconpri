@@ -69,7 +69,7 @@ and dental trauma, please contact School Dental Centre via email at <a href="mai
 <blockquote>
 <h4>School Bookshop (By Pacific Book Shop)</h4>
 </blockquote>
-<p><strong>Open to Parents/Guardians of Students :</strong> 
+<p><strong>Open to Parents/Guardians of Students :</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
