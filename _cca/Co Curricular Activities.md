@@ -12,7 +12,7 @@ School, we aim to cultivate in our students the joy of learning so that
 they are motivated to pursue their interests and talents in the long run.
 Our CCAs also emphasise social interaction by providing a common space
 for friendships and social integration amongst students of diverse backgrounds.</p>
-<p>❯ <a href="/files/CCA_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click for 2024 CCA Schedule</a>
+<p>❯ <a href="/files/CCA_Schedule_2024_V02.pdf" rel="noopener noreferrer nofollow" target="_blank">Click for 2024 CCA Schedule</a>
 </p>
 <h4>Summary of CCAs Offered in Beacon Primary School</h4>
 <p>Click on the links below to find out more about our CCAs.</p>
