@@ -12,7 +12,6 @@ variant: tiptap
 <p>The P6 students will be having their PSLE Written Examination from <strong>26 Sep to 2 Oct 2024</strong>.
 There will be Home-Based Learning (HBL) during this period on the following
 dates.</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>26 to 27 Sep 2024</strong> - P4 &amp; P5</p>
