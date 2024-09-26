@@ -17,9 +17,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
 <p>The P6 students will be having their PSLE Written Examination from <strong>26 Sep to 2 Oct 2024</strong>.
 There will be Home-Based Learning (HBL) during this period on the following
 dates.</p>
+</li>
+</ol>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -40,8 +44,12 @@ dates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
 <p><strong>There will be no CCA on the following dates &gt;</strong>
 </p>
+</li>
+</ol>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
