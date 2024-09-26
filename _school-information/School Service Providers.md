@@ -9,7 +9,10 @@ variant: tiptap
 the delivery of curriculum and programmes. These services contribute towards
 the child’s well-being as well as creating an environment conducive to
 teaching and learning.</p>
+<p></p>
+<blockquote>
 <h4>School Canteen</h4>
+</blockquote>
 <p>The stalls in the school canteen serve:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -31,7 +34,10 @@ from the stalls selling Chinese-cooked food and snacks. Students with special
 or strict dietary requirements are encouraged to bring their own food.</p>
 <p>❯ <a href="/files/CM2024V3.pdf" rel="noopener noreferrer nofollow" target="_blank">Click to view Canteen Menu</a>
 </p>
+<p></p>
+<blockquote>
 <h4>School Dental Clinic</h4>
+</blockquote>
 <p>The school dental clinic will be open on alternate weeks. Please refer
 to <a href="/files/Dental09.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> for
 the Dental Clinic Opening Days. Please contact 91141358 (call/SMS/WhatsApp)
@@ -41,7 +47,25 @@ treatment may contact Bukit Panjang Primary Dental Clinic at 9114 2186.</p>
 <p>For emergency dental treatment such as facial/gum swelling, severe toothache
 and dental trauma, please contact School Dental Centre via email at <a href="mailto:Contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a>.</p>
 <p></p>
+<blockquote>
 <h4>School Uniform Supplier</h4>
+</blockquote>
+<p><strong>Asencio Pte Ltd</strong>
+</p>
+<p>120 Hillview Avenue, #05-03
+<br>Kewalram Hillview
+<br>Singapore 669594
+<br>Tel: 6764 3102
+<br>Fax: 6764 1032</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Uniform can be purchased from school bookshop during school days or the
+<br>uniform retail shop</p>
+</li>
+<li>
+<p>For name tag orders, click on <a href="/files/Name_Tag_Order_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Name Tag Order Form</a> for information</p>
+</li>
+</ul>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
