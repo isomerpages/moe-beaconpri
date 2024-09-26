@@ -83,8 +83,7 @@ for friendships and social integration amongst students of diverse backgrounds.<
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/beacon-experiential-learning/Special-Programmes/makerspace/" rel="noopener noreferrer nofollow" target="_blank">Makerspace</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
