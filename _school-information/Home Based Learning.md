@@ -8,12 +8,18 @@ variant: tiptap
 <p>In the event of school closures, Home-Based Learning (HBL) activities
 will be assigned by teachers to ensure continuity of learning. These activities
 include videos, textbook reading, workbook tasks, online work, etc.</p>
+<p></p>
+<blockquote>
 <h4>HBL Instructions</h4>
+</blockquote>
 <p>You may access the HBL Site for learning activity instructions. The site
 will be updated by 7 pm for the following day's learning activities.</p>
 <p>Please follow these steps to log in to the <a href="https://go.gov.sg/bcps-hbl-site" rel="noopener noreferrer nofollow" target="_blank">HBL Site &gt;&gt;</a>
 </p>
+<p></p>
+<blockquote>
 <h4>E-Learning Platforms</h4>
+</blockquote>
 <p>Your child would have been given access to various online learning platforms
 like SLS, Google Suites, E-Zhishi, Raz-Kids (P1 to P4), Koobits, etc. Should
 you face issues accessing the online platforms, please email <a href="mailto:beaconprisch_ICT@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">beaconprisch_ICT@moe.edu.sg</a>.</p>
@@ -31,9 +37,12 @@ Classroom)</p>
 </li>
 <li>
 <p>Identification of participants before admission to the session</p>
+<p></p>
 </li>
 </ul>
+<blockquote>
 <h4>Learning Device Access</h4>
+</blockquote>
 <p>Please provide your child with the means to access instructions and learning
 activities.</p>
 <ul data-tight="true" class="tight">
@@ -54,7 +63,10 @@ try to work within your household to share devices first.</p>
 <p><strong>Families on Financial Assistance</strong>
 <br>IMDA has replaced NEU PC Plus programme to a new DigitalAccess@Home scheme.
 For assistance on broadband access and digital devices refer to <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
+<p></p>
+<blockquote>
 <h4>Support for Teacher-Student Live Interaction Sessions</h4>
+</blockquote>
 <p>Your child's teachers would be conducting live lesson or interaction sessions
 on HBL days. The teachers will be specifying the live session timing on
 the HBL instructions. To support the the sessions your child should prepare
@@ -141,10 +153,16 @@ should be adhered by other family members.</p>
 <p><strong>Recording of Live Sessions</strong> 
 <br>Please note that live sessions may be recorded to support others who are
 unable to join in at the specified time.</p>
+<p></p>
+<blockquote>
 <h4>Staggered Online Access</h4>
+</blockquote>
 <p>To ensure the various e-learning platforms are able to cope with the high
 volume of usage, students are encouraged to log in based on their timetable.</p>
+<p></p>
+<blockquote>
 <h4>Conducive Learning Environment</h4>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/WIN_20200330_16_42_51_Pro.jpg">
 </div>
@@ -166,9 +184,12 @@ participate in the HBL activities.</p>
 </li>
 <li>
 <p>Sufficient lighting</p>
+<p></p>
 </li>
 </ul>
+<blockquote>
 <h4>Student Well-Being</h4>
+</blockquote>
 <p>To ensure that students are taken care of during the HBL days, please
 provide your child with routines, taking the following details into consideration:</p>
 <ul data-tight="true" class="tight">
@@ -207,24 +228,39 @@ websites</p>
 </ul>
 <p>You may refer to the <a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">MOE Parent Kits</a> for more information
 and strategies to manage your child's well-being during HBL days.</p>
+<p></p>
+<blockquote>
 <h4>Technical Support during HBL</h4>
+</blockquote>
 <p><strong>School Operating Hours</strong>
-</p>
-<p>During school operating hours, students should contact the School-based
+<br>During school operating hours, students should contact the School-based
 Helpline for SLS queries including all SLS access matters such as password
 reset and unlocking of accounts. For queries related to learning activities,
 students should contact the subject teachers.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>School-based Helpline:</strong>  <a href="mailto:beaconprisch_ict@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">beaconprisch_ict@moe.edu.sg</a>
 </p>
+</li>
+<li>
 <p><strong>Mondays - Fridays:</strong> 8:00 am - 4:00 pm</p>
+</li>
+</ul>
 <p>For other matters, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>.
 When emailing the SLS Helpdesk, please include your full name, name of
 school and form class.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Non-School Operating Hours</strong>
-</p>
-<p>Students can only contact the <strong>SLS Helpdesk</strong> outside the
+<br>Students can only contact the <strong>SLS Helpdesk</strong> outside the
 school operating hours.</p>
-<table>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
