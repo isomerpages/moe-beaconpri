@@ -23,6 +23,25 @@ dates.</p>
 </ul>
 <p>For more information, please refer to the <a href="https://www.beaconpri.moe.edu.sg/school-information/hbl/" rel="noopener nofollow" target="_blank">HBL page &gt;&gt;</a>
 </p>
+<p></p>
+<blockquote>
+<p>There will be no CCA on the following dates :</p>
+</blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p>26 Sep 2024 - PSLE Written Examination</p>
+</li>
+<li>
+<p>3 Oct 2024 - Children’s Day Celebration <em>(Dismissal at 10.30 am)</em>
+</p>
+</li>
+<li>
+<p>10 Oct 2024 <em>-</em> P5 EYE EL Oral</p>
+</li>
+</ul>
+<p>All students will be dismissed from 1.30pm and there will be no lunch
+break. P1 and P2 students with older siblings (in P3 - P5) will be able
+to go home together.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
