@@ -28,14 +28,14 @@ dates.</p>
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p>26 Sep 2024 - PSLE Written Examination</p>
+<p><strong>26 Sep 2024</strong> - PSLE Written Examination</p>
 </li>
 <li>
-<p>3 Oct 2024 - Children’s Day Celebration <em>(Dismissal at 10.30 am)</em>
+<p><strong>3 Oct 2024</strong> - Children’s Day Celebration <em>(Dismissal at 10.30 am)</em>
 </p>
 </li>
 <li>
-<p>10 Oct 2024 <em>-</em> P5 EYE EL Oral</p>
+<p><strong>10 Oct 2024</strong>  <em>-</em> P5 EYE EL Oral</p>
 </li>
 </ul>
 <p>All students will be dismissed from 1.30pm and there will be no lunch
