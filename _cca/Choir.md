@@ -104,7 +104,6 @@ reading</p>
 <p>P2 CCA showcase</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD02B2.jpg">
 </div>
