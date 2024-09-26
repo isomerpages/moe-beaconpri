@@ -5,6 +5,24 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcement</h3>
+<p></p>
+<blockquote>
+<p>PSLE Written Examination</p>
+</blockquote>
+<p>The P6 students will be having their PSLE Written Examination from <strong>26 Sep to 2 Oct 2024</strong>.
+There will be Home-Based Learning (HBL) during this period on the following
+dates.</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>26 to 27 Sep 2024</strong> - P4 &amp; P5</p>
+</li>
+<li>
+<p><strong>30 Sept to 1 Oct</strong> - P1 - P3</p>
+</li>
+</ul>
+<p>For more information, please refer to the <a href="https://www.beaconpri.moe.edu.sg/school-information/hbl/" rel="noopener nofollow" target="_blank">HBL page &gt;&gt;</a>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -71,7 +89,9 @@ to go home together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<blockquote>
+<p>No CCA</p>
+</blockquote>
 </td>
 </tr>
 </tbody>
