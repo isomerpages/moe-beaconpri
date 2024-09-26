@@ -51,8 +51,7 @@ and dental trauma, please contact School Dental Centre via email at <a href="mai
 <h4>School Uniform Supplier</h4>
 </blockquote>
 <p><strong>Asencio Pte Ltd</strong>
-</p>
-<p>120 Hillview Avenue, #05-03
+<br>120 Hillview Avenue, #05-03
 <br>Kewalram Hillview
 <br>Singapore 669594
 <br>Tel: 6764 3102
@@ -66,69 +65,30 @@ and dental trauma, please contact School Dental Centre via email at <a href="mai
 <p>For name tag orders, click on <a href="/files/Name_Tag_Order_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Name Tag Order Form</a> for information</p>
 </li>
 </ul>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Asencio Pte Ltd</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>120 Hillview Avenue, #05-03
-<br>Kewalram Hillview
-<br>Singapore 669594
-<br>Tel: 6764 3102
-<br>Fax: 6764 1032</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Uniform can be purchased from school bookshop during school days or the
-<br>uniform retail shop</p>
-</li>
-<li>
-<p>For name tag orders, click on <a href="/files/Name_Tag_Order_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Name Tag Order Form</a> for information</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>School Bookshop (By Pacific Book Shop)</h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<blockquote>
+<h4>School Bookshop (By Pacific Book Shop)</h4>
+</blockquote>
 <p><strong>Open to Parents/Guardians of Students :</strong> 
-<br>
-<br>Wednesday and Friday: 1.50 pm to 2.50 pm
-<br>Tel: 9091 8477</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wednesday and Friday</p>
+</li>
+<li>
+<p>Opening Hours :1.50 pm to 2.50 pm</p>
+</li>
+<li>
+<p>Tel: 9091 8477</p>
+</li>
+</ul>
 <p>(<strong>Note:</strong> For purchase from school bookshop, parents are
 required to enter and exit
 <br>through <strong>Side Gate 1</strong>)</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<blockquote>
 <h4>Booklist 2024</h4>
+</blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/P1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Booklist</a>
@@ -155,61 +115,40 @@ required to enter and exit
 </p>
 </li>
 </ul>
+<p></p>
+<blockquote>
 <h4>Bus Services</h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Chang Chen Pte Ltd</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Blk 130 Choa Chu Kang Ave 1
+</blockquote>
+<p><strong>Chang Chen Pte Ltd<br></strong>lk 130 Choa Chu Kang Ave 1
 <br>#06-36, Singapore 680130
 <br>Tel: 6760 4835
 <br>Fax: 6892 5776
 <br>Email: <a href="mailto:griflim@hotmail.com" rel="noopener noreferrer nofollow" target="_blank">griflim@hotmail.com</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Daily School Bus Services based on Not to Exceed Price (i.e. for sending
 students from home to school and vice versa):
 <br>
 <br>Initial Contract Period : 1 Jan 2024 to 31 Dec 2025</p>
-</td>
-</tr>
-</tbody>
-</table>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/SI/ssp_01.jpg">
 </div>
 <p>❯ <a href="/files/school%20bus%20services%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services Form</a>
 </p>
+<p></p>
+<blockquote>
 <h4>YMCA SCC@Beacon</h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+</blockquote>
 <p>YMCA School-based Student Care Centre operates within the school</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tel: 6514 3190
-<br>Mobile: 8127 8049
-<br>Email: <a href="mailto:bcscc@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bcscc@ymca.edu.sg</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tel: 6514 3190</p>
+</li>
+<li>
+<p>Mobile: 8127 8049</p>
+</li>
+<li>
+<p>Email: <a href="mailto:bcscc@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bcscc@ymca.edu.sg</a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 <p></p>
