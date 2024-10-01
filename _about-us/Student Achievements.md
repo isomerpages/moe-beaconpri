@@ -25,8 +25,8 @@ variant: tiptap
 <p>ActiveSG-TBAS Tchoukball Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ Girls (Senior) Team - 2nd</p>
-<p>❯ Boys (Senior) Team - 3rd</p>
+<p>❯ Girls (Senior) Team - 2nd
+<br>❯ Boys (Senior) Team - 3rd</p>
 </td>
 </tr>
 <tr>
@@ -34,9 +34,9 @@ variant: tiptap
 <p>ActiveSG-TBAS Tchoukball Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ Girls Cup (Junior) Team - 1st</p>
-<p>❯ Boys Cup (Junior) Team - 1st</p>
-<p>❯ Girls Plate (Junior) Team - 2nd</p>
+<p>❯ Girls Cup (Junior) Team - 1st
+<br>❯ Boys Cup (Junior) Team - 1st
+<br>❯ Girls Plate (Junior) Team - 2nd</p>
 </td>
 </tr>
 <tr>
@@ -44,9 +44,9 @@ variant: tiptap
 <p>National School Games Football Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Boys Team</p>
-<p>❯ 1st in pool round</p>
-<p>❯ 1st in tiered round</p>
+<p>Junior Boys Team
+<br>❯ 1st in pool round
+<br>❯ 1st in tiered round</p>
 </td>
 </tr>
 <tr>
