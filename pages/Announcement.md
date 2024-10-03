@@ -11,10 +11,6 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>3 Oct 2024</strong> - Children’s Day Celebration <em>(Dismissal at 10.30 am)</em>
-</p>
-</li>
-<li>
 <p><strong>10 Oct 2024</strong>  <em>-</em> P5 EYE EL Oral</p>
 </li>
 </ul>
