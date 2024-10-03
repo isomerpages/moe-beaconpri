@@ -27,13 +27,17 @@ staff at these centres come to school to fetch the students to the centres
 after dismissal.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Aethelred Student Care (Blk 438 Fajar Road)</p>
+<p>AethelRed Eduwave LLP (Blk 438 Fajar Rd #B1-421, S670438)</p>
 </li>
 <li>
-<p>Groworld Learning Pte Ltd (Blk 442 Fajar Road)</p>
+<p>Groworld Learning Pte Ltd (Blk 442, Fajar Road, #1-482, S670442)</p>
 </li>
 <li>
-<p>Pro-Teach (Blk 453 Fajar Road)</p>
+<p>Pro-Teach @Fajar Branch (Blk 453 Fajar Rd #01-702, S670453)</p>
+</li>
+<li>
+<p>The Choice @Bukit Panjang Branch (436, Fajar Road, #B1-384, S670436)</p>
+<p></p>
 </li>
 </ul>
 <p></p>

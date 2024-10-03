@@ -22,6 +22,43 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Inaugural Beacon’s Got Talent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Winning Logo Designs
+<br>❯ Primary 2 - Zia Sumayya
+<br>❯ Primary 3 - Dede Prananto
+<br>❯ Primary 4 - Jihan Khansa
+<br>❯ Primary 5 - Clara Pang
+<br>❯ Primary 6 - Sivanathan Isaiko</p>
+<p></p>
+<p>Best 2 Logo Designs
+<br>❯ Primary 2 - Tang Yi Xu
+<br>❯ Primary 2 - Thing Yong Hui
+<br>❯ Primary 3 - Renee Goh
+<br>❯ Primary 3 - Teo Jun Lin
+<br>❯ Primary 4 - Mohd Eir’zaqy Eimaan
+<br>❯ Primary 4 - Raja Subhashree
+<br>❯ Primary 5 - Lim Chiam Yee
+<br>❯ Primary 5 - Natalia Ferris Tan
+<br>❯ Primary 6 - Ai Lisi
+<br>❯ Primary 6 - Auni Safwah</p>
+<p></p>
+<p>Top 3 Talents
+<br>❯ Lower Primary - Ashic Ruhee Zera
+<br>❯ Lower Primary - Qian Yushan
+<br>❯ Lower Primary - Zia Sumayya
+<br>❯ Middle Primary - Flores Tien Javier Buemio
+<br>❯ Middle Primary - Javier Liew Yin Kai
+<br>❯ Middle Primary - Mariah Ulfah
+<br>❯ Upper Primary - Amber Tan Zi Ying, Angel Julia Chee, Kady Yik, Liu Yixin,
+Toh Hui Min
+<br>❯ Upper Primary - Hao Yunqi &amp; Hao Yunyi
+<br>❯ Upper Primary - Zheng Zimeng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ActiveSG-TBAS Tchoukball Championships</p>
 </td>
 <td rowspan="1" colspan="1">
