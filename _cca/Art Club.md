@@ -110,6 +110,6 @@ digital art, outdoor drawing, and learning journey to art museums. The
 Art club also participates actively in the biennial Singapore Youth Festival
 (SYF) Visual Arts Exhibition.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/BEL/bel-sd02a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sd02a1.jpg">
 </div>
 <p></p>
