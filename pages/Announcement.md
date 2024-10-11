@@ -7,14 +7,10 @@ variant: tiptap
 <h3>Announcement</h3>
 <p></p>
 <blockquote>
-<p>There will be no CCA on the following dates :</p>
+<p>Home Base Learning (HBL)</p>
 </blockquote>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>10 Oct 2024</strong>  <em>-</em> P5 EYE EL Oral</p>
-</li>
-</ul>
-<p>All students will be dismissed from 1.30pm and there will be no lunch
-break. P1 and P2 students with older siblings (in P3 - P5) will be able
-to go home together.</p>
+<p>The PSLE Marking Exercise is from <strong>14 Oct to 16 Oct 2024</strong>.
+<br>There will be Home-Based Learning (HBL) for P1 to P6 during this period.
+For more information, please refer to the <a href="https://www.beaconpri.moe.edu.sg/school-information/hbl/" rel="noopener nofollow" target="_blank">HBL Page &gt;&gt;</a>
+</p>
 <p></p>
