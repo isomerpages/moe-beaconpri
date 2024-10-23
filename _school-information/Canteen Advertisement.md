@@ -34,7 +34,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Open to any Noodle Cuisine.
-<br>Halal or Non-Halal Food Stall are welcome to apply</p>
+<br>Halal or Non-Halal Food Stall are welcome to apply.</p>
 </td>
 </tr>
 <tr>
