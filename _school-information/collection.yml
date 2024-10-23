@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Canteen Advertisement.md
       - Term 4 Important Dates.md
       - School Hours.md
       - School Security and Safety/.keep
