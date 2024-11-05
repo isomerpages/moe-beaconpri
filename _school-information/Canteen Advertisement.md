@@ -178,7 +178,7 @@ Food Agency (SFA).</p>
 </li>
 <li>
 <p>Successful applicant will be expected to commence operation of the stall
-in <strong>Jan 2024</strong>.</p>
+in <strong>Jan 2025</strong>.</p>
 </li>
 <li>
 <p>Shortlisted applicants will be invited for an interview and food sampling
