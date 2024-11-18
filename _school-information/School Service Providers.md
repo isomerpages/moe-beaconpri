@@ -87,31 +87,31 @@ required to enter and exit
 <br>through <strong>Side Gate 1</strong>)</p>
 <p></p>
 <blockquote>
-<h4>Booklist 2024</h4>
+<h4>Booklist 2025</h4>
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/P1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Booklist</a>
+<p><a href="/files/BCPS_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/P2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Booklist</a>
+<p><a href="/files/BCPS_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/P3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Booklist</a>
+<p><a href="/files/BCPS_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 Booklist</a>
+<p><a href="/files/BCPS_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Booklist</a>
+<p><a href="/files/BCPS_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Booklist</a>
+<p><a href="/files/BCPS_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Booklist</a>
 </p>
 </li>
 </ul>
