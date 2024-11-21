@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>P3 Teachers</h3>
-<p><strong>Year Yead:</strong>
+<p><strong>Year Head:</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
