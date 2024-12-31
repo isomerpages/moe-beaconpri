@@ -16,10 +16,10 @@ teaching and learning.</p>
 <p>The stalls in the school canteen serve:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Muslim cooked food (rice, assorted dishes, and noodles)</p>
+<p>Muslim-cooked food (rice, assorted dishes, and noodles)</p>
 </li>
 <li>
-<p>Chinese cooked food (rice, assorted dishes, and noodles)</p>
+<p>Chinese-cooked food (rice, assorted dishes, and noodles)</p>
 </li>
 <li>
 <p>Cold drinks and cut fruits</p>
