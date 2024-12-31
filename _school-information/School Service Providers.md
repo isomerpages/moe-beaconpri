@@ -16,10 +16,10 @@ teaching and learning.</p>
 <p>The stalls in the school canteen serve:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Muslim cooked food (rice, assorted dishes, and noodles)</p>
+<p>Muslim-cooked food (rice, assorted dishes, and noodles)</p>
 </li>
 <li>
-<p>Chinese cooked food (rice, assorted dishes, and noodles)</p>
+<p>Chinese-cooked food (rice, assorted dishes, and noodles)</p>
 </li>
 <li>
 <p>Cold drinks and cut fruits</p>
@@ -32,7 +32,7 @@ teaching and learning.</p>
 food, students who are on a vegetarian diet may purchase the required food
 from the stalls selling Chinese-cooked food and snacks. Students with special
 or strict dietary requirements are encouraged to bring their own food.</p>
-<p>❯ <a href="/files/CM2024V3.pdf" rel="noopener noreferrer nofollow" target="_blank">Click to view Canteen Menu</a>
+<p>❯ <a href="/files/Canteen_Menu_2025.pdf" rel="noopener nofollow" target="_blank">Click to view Canteen Menu</a>
 </p>
 <p></p>
 <blockquote>
