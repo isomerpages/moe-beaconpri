@@ -4,7 +4,7 @@ permalink: /about-us/sch-ad-c/
 description: ""
 variant: tiptap
 ---
-<h3>School Advisory Committee 2023 &amp; 2024</h3>
+<h3>School Advisory Committee 2025 &amp; 2026</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Geraldine Oh Phaik Sim</p>
+<p>Mr Thing Yi Hao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
