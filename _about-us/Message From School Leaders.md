@@ -5,11 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Message From School Leaders</h3>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/SL Photo.jpg">
-</div>
-<p>Ms Pang Wee Mian (P), Mdm Lela Shamsuhadi (VP), Mr Chen Wei Ngiap (VP),
-Mrs Melissa Loh-Chang Suet Mun (VP)</p>
+<p></p>
 <p>Thank you for visiting our school website. You will be able to gather
 information on what we stand for and the learning opportunities we offer
 to both students and staff in our school. Please visit our page on Event
