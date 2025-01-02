@@ -45,10 +45,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Miss Tioh Sze Bing Esther</p>
+<p>Mdm Ee Yen Teng</p>
 </li>
 <li>
-<p>Mdm Ee Yen Teng</p>
+<p>Mdm Tay Li Lien</p>
 </li>
 </ul>
 </td>
