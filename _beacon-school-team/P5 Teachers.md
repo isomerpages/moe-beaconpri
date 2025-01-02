@@ -27,8 +27,8 @@ variant: tiptap
 <p>5.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nazreen_mohamed_zulfakir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazreen Binte Mohamed Zulfakir</a> 
-<br><a href="mailto:pang_xiao_tian_patricia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pang Xiao Tian Patricia</a>
+<p><a href="mailto:victoria_wong_zi_qing@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Victoria Wong Zi Qing</a>
+<br><a href="mailto:lim_hui_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Liew Lim Hui Leng</a>
 </p>
 </td>
 </tr>
@@ -37,8 +37,8 @@ variant: tiptap
 <p>5.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_poh_loong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chan Poh Loong </a>
-<br><a href="mailto:sri_devi_sritharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sri Devi d/o Sritharan (Mrs Siva)</a>
+<p><a href="mailto:sri_shangeetha_sangar@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sri Shangeetha Sangar</a>
+<br><a href="mailto:tan_seow_meng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Seow Meng</a>
 </p>
 </td>
 </tr>
@@ -47,8 +47,8 @@ variant: tiptap
 <p>5.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_guat_yiam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Guat Yiam </a>
-<br><a href="mailto:ong_seng_lee_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Seng Lee Alex</a>
+<p><a href="mailto:chua_kian_chuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chua Kian Chuan</a>
+<br><a href="mailto:tay_li_lien@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tay Li Lien</a>
 </p>
 </td>
 </tr>
@@ -57,8 +57,8 @@ variant: tiptap
 <p>5.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_siew_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Siew Ling </a>
-<br><a href="mailto:nur_aini_mohd_yunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Aini Bte Mohd Yunos</a>
+<p><a href="mailto:ting_chiow_kheng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ting Chiow Kheng</a>
+<br><a href="mailto:tan_shin_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Shin Ling</a>
 </p>
 </td>
 </tr>
@@ -67,8 +67,18 @@ variant: tiptap
 <p>5.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zainah_alias@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zainah Bte Alias </a>
-<br><a href="mailto:wahindah_suhari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wahindah Binte Suhari</a>
+<p><a href="mailto:nur_erliana_supanie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Erliana Supanie</a>
+<br><a href="mailto:norina_seno@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Norina Seno (Mdm Rina)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_yong_qi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ong Yong Qi</a>
+<br><a href="mailto:ng_wan_qing@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ng Wan Qing</a>
 </p>
 </td>
 </tr>
