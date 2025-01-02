@@ -235,15 +235,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norazlin_jumadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norazlin Bte Jumadi</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher / Educational Support</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:lim_hui_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Liew-Lim Hui Leng</a>
 </p>
 </td>
