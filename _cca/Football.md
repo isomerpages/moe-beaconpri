@@ -46,10 +46,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Mustaffa Bin Ahmad</p>
+<p>Mr Roslan Bin Yahya</p>
 </li>
 <li>
-<p>Mr Wong Jun Kai</p>
+<p>Mr Weng Qizong</p>
 </li>
 </ul>
 </td>
