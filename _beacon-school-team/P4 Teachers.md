@@ -35,7 +35,9 @@ variant: tiptap
 <p>4.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sam_wei_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sam Wei Ting</a>
+<br><a href="mailto:juzain_jasin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Juzain Jasin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +45,9 @@ variant: tiptap
 <p>4.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:li_tingting@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Li Tingting</a>
+<br><a href="mailto:lau_chee_wee_david@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lau Chee Wee David</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +55,9 @@ variant: tiptap
 <p>4.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ler_leng_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ler Leng Leng</a>
+<br><a href="mailto:weepeng_goh@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Goh Wee Peng</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +65,9 @@ variant: tiptap
 <p>4.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:rekha_pugalendhi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ramadoss Rekha</a>
+<br><a href="mailto:khairyani_kamarolzaman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Khairyani Kamarolzaman</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +75,9 @@ variant: tiptap
 <p>4.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:weng_qizong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Weng Qizong</a>
+<br><a href="mailto:ang_hiang_chai@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ang Hiang Chai</a>
+</p>
 </td>
 </tr>
 <tr>
