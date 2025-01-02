@@ -34,14 +34,12 @@ variant: markdown
 | 5 | 4 Feb | P6 | Commencement of Tamil Remediation (2.15pm-3.15pm, selected students) |
 | 6 | 11 Feb | P6 | Commencement of P6 Self-Study Programme (2.15pm-4.15pm) |
 | 6 | 14 Feb | All | Total Defence Day National Disruption Exercise |
-| 9 | xx | xx | xx |
-| 9 | xx | xx | xx |
-| 9 | xx | xx | xx |
-| 9 | xx | xx | xx |
-| 9 | xx | xx | xx |
-| 10 | xx | xx | xx |
-| 10 | xx | xx | xx |
-| T2 | xx | xx | xx |
-
-
+| 9 | 3 Mar | P6 | EL Paper 2 Common Test |
+| 9 | 4 Mar | P6 | Math Paper 1 Common Test |
+| 9 | 5 Mar | P6 | MTL Paper 2 Common Test |
+| 9 | 6 Mar | P6 | Science Common Test |
+| 9 | 7 Mar | P6 | HMTL Paper 1 Common Test |
+| 10 | 12 - 14 Mar | P6 | PTM via Teams (PM) |
+| 10 | 15 - 23 Mar | All | School Vacation |
+| T2 | 24 Mar | All | Start of Term 2 |
 |  |  |  |  |
