@@ -47,16 +47,13 @@ variant: tiptap
 <p>Mdm Lim Siew Ling</p>
 </li>
 <li>
-<p>Mdm Tan Lam Yen</p>
-</li>
-<li>
-<p>Miss Ong Yong Qi</p>
-</li>
-<li>
 <p>Mdm Soon Hui Ting</p>
 </li>
 <li>
-<p>Mdm Sri Shangeetha D/O Sanga</p>
+<p>Mdm Ting Chiow Kheng</p>
+</li>
+<li>
+<p>Mdm Tan Shin Ling</p>
 </li>
 </ul>
 </td>
