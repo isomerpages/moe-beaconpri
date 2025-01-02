@@ -46,10 +46,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Lee Li Ying</p>
+<p>Mdm Zainah Bte Alias</p>
 </li>
 <li>
-<p>Miss Arina Nadiah Binte Saifudin</p>
+<p>Mdm Wong Jing Yi</p>
 </li>
 <li>
 <p>Miss Chang Jia Wei</p>
