@@ -48,10 +48,10 @@ variant: tiptap
 <p>Mr Siu Kai Chong</p>
 </li>
 <li>
-<p>Ms Juzain Binte Jasin</p>
+<p>Mdm Pang Xiao Tian Patricia</p>
 </li>
 <li>
-<p>Ms Kwek Keem Shin Vanessa</p>
+<p>Mdm Nur Erliana Bte Supanie</p>
 </li>
 </ul>
 </td>
