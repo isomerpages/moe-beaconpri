@@ -44,13 +44,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Emielliana Mira Binte Jafry</p>
+<p>Mdm Nazreen Binte Mohamed Zulfakir</p>
 </li>
 <li>
-<p>Mr Leslie Gwee Cher Siang</p>
+<p>Mdm Nur Aini Bte Mohd Yunos</p>
 </li>
 <li>
-<p>Miss Pang Xiao Tian Patricia</p>
+<p>Mr Tan Seow Meng</p>
+</li>
+<li>
+<p>Mdm Sri Shangeetha Sangar</p>
 </li>
 </ul>
 </td>
