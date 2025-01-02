@@ -73,7 +73,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norina_seno@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norina Seno (Mdm Rina)</a>
+<p><a href="mailto:norina_seno@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norina Binte Seno (Mdm Rina)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
