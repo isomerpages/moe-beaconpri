@@ -47,7 +47,10 @@ variant: tiptap
 <p>Ms Ler Leng Leng</p>
 </li>
 <li>
-<p>Mdm Zainah Binte Alias</p>
+<p>Ms Kwek Keem Shin Vanessa</p>
+</li>
+<li>
+<p>Ms Lum Zhi Yu, Emma</p>
 </li>
 </ul>
 </td>
