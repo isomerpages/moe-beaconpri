@@ -8,7 +8,8 @@ variant: markdown
 
 | Week | Date | Levels | Activity |
 |:---:| -------- | --- | --- |
-| 0 | 2 Jan | P1 | P1 to report at 9.30am. P1 Parents’ Briefing |
+| 0 | 2 Jan | P1 | P1 to report at 9.30am |
+| 0 | 2 Jan | P1 | P1 Parents’ Briefing |
 | 0 | 3 Jan | P1 | P1 to report at 9.30am |
 | 0 | 3 Jan | P2 - P6 | P2 to P6 to report at usual school hours |
 | 1 | 6 Jan | P1 | P1 to report at usual school hours |
