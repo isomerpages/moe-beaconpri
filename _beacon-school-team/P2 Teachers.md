@@ -57,7 +57,7 @@ variant: tiptap
 <p>2.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurhuda_mohamed@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nurhuda Mohamed</a>
+<p><a href="mailto:nurhuda_mohamed@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nurhuda Bte Mohamed</a>
 <br><a href="mailto:ng_siew_choon@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ng Siew Choon (Mrs Low)</a>
 </p>
 </td>
@@ -67,7 +67,7 @@ variant: tiptap
 <p>2.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_farina_osman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Siti Farina Osman</a>
+<p><a href="mailto:siti_farina_osman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Siti Farina Bte Osman</a>
 <br><a href="mailto:foo_yaosheng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Foo Yaosheng</a>
 </p>
 </td>
