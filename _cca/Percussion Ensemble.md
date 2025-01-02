@@ -47,9 +47,6 @@ variant: tiptap
 <p>Mdm Goh Wee Peng</p>
 </li>
 <li>
-<p>Ms Li Chang</p>
-</li>
-<li>
 <p>Ms Nurhuda Bte Mohamed</p>
 </li>
 </ul>
