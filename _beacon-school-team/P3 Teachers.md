@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>P3 Teachers</h3>
-<p><strong>Year Head:</strong>
-</p>
+<p><strong>Assistant Year Head: </strong>Ms Juzain Binte Jasin</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
