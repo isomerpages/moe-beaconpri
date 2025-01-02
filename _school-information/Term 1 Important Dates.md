@@ -26,14 +26,14 @@ variant: markdown
 | 2 | 14 Jan | P1 - P6 | Commencement of Read with Me (7.10am -7.30am, selected students) |
 | 2 | 16 Jan | P4 - P6 | Commencement of CCA (2.15pm - 4.15pm/3.30pm - 5.30 pm) |
 | 2 | 16 Jan | P3 | Commencement of P3 Swimsafer Programme (2pm - 5pm) |
-| 3 | 20 Jan | xx | xx |
-| 3 | 20 Jan | xx | xx |
-| 3 | xx | xx | xx |
-| 4 | xx | xx | xx |
-| 4 | xx | xx | xx |
-| 5 | xx | xx | xx |
-| 6 | xx | xx | xx |
-| 6 | xx | xx | xx |
+| 3 | 20 Jan | P5 &amp; P6 | Commencement of Maths Remediation<br>(P5: 2.15pm - 3.15pm, P6: 2.15pm - 3.30pm selected students) |
+| 3 | 20 Jan | P4 | Parents’ Briefing via Teams (4pm - 5pm) |
+| 3 | 24 Jan | P1 &amp; P2 | Parents’ Briefing for Learning Support Programme (2.15pm - 3.45pm) |
+| 4 | 28 Jan | All | Chinese New Year Celebrations (Dismissal at 10.30am) |
+| 4 | 29 - 30 Jan | All | **Public Holiday** - Chinese New Year |
+| 5 | 4 Feb | P6 | Commencement of Tamil Remediation (2.15pm-3.15pm, selected students) |
+| 6 | 11 Feb | P6 | Commencement of P6 Self-Study Programme (2.15pm-4.15pm) |
+| 6 | 14 Feb | All | Total Defence Day National Disruption Exercise |
 | 9 | xx | xx | xx |
 | 9 | xx | xx | xx |
 | 9 | xx | xx | xx |
