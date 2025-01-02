@@ -16,12 +16,12 @@ variant: markdown
 | 1 | 10 Jan | P1 | Parents’ Briefing via Teams (4pm - 5pm) |
 | 1 | 10 Jan | P3 | Parents’ and SwimSafer Briefing via Teams (5pm – 6.30pm) |
 | 1 | 10 Jan | P4 | Commencement of Reading Circle (2.15pm - 3.45pm, selected students) |
-| 2 | xx | xx | xx |
-| 2 | xx | xx | xx |
-| 2 | xx | xx | xx |
-| 2 | xx | xx | xx |
-| 2 | xx | xx | xx |
-| 2 | xx | xx | xx |
+| 2 | 13 Jan | P5 & P6 | Commencement of HMT and FMA lessons (2.15pm – 3.15pm) |
+| 2 | 13 Jan | P3 & P4 | Commencement of HCL (2.15pm - 3.15pm) |
+| 2 | 13 Jan | P3 & P4 | Commencement of SDR (2.15pm – 3.15pm, selected students) |
+| 2 | 13 Jan | P3 & P4 | Commencement of RRP (2.15pm – 3.15pm, selected students) |
+| 2 | 13 Jan | P5 | Parents’ Briefing via Teams (4pm - 5pm) |
+| 2 | 13 Jan | P6 | Parents’ Briefing via Teams (5pm - 6pm) |
 | 2 | xx | xx | xx |
 | 2 | xx | xx | xx |
 | 2 | xx | xx | xx |
