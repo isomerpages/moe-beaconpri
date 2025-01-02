@@ -27,8 +27,8 @@ variant: tiptap
 <p>3.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mustaffa_ahmad@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mustaffa Ahmad</a>
-<br><a href="mailto:liyana_saad@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Liyana Saad</a>
+<p><a href="mailto:mustaffa_ahmad@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mustaffa Bin Ahmad</a>
+<br><a href="mailto:liyana_saad@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Liyana Binte Saad</a>
 </p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_xiao_tian_patricia@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Pang Xiao Tian Patricia</a>
-<br><a href="mailto:noraini_zainal@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Noraini Zainal (Mrs Rauf)</a>
+<br><a href="mailto:noraini_zainal@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Noraini Binte Zainal (Mrs Rauf)</a>
 </p>
 </td>
 </tr>
