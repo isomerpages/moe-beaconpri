@@ -53,9 +53,6 @@ variant: tiptap
 <p>Mdm Rekha Ramadoss</p>
 </li>
 <li>
-<p>Miss Saraniya Aburvam D/O N S</p>
-</li>
-<li>
 <p>Mdm Liyana Bte Mohd Yusof</p>
 </li>
 </ul>
