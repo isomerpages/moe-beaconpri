@@ -16,16 +16,16 @@ variant: markdown
 | 1 | 10 Jan | P1 | Parents’ Briefing via Teams (4pm - 5pm) |
 | 1 | 10 Jan | P3 | Parents’ and SwimSafer Briefing via Teams (5pm – 6.30pm) |
 | 1 | 10 Jan | P4 | Commencement of Reading Circle (2.15pm - 3.45pm, selected students) |
-| 2 | 13 Jan | P5 & P6 | Commencement of HMT and FMA lessons (2.15pm – 3.15pm) |
-| 2 | 13 Jan | P3 & P4 | Commencement of HCL (2.15pm - 3.15pm) |
-| 2 | 13 Jan | P3 & P4 | Commencement of SDR (2.15pm – 3.15pm, selected students) |
-| 2 | 13 Jan | P3 & P4 | Commencement of RRP (2.15pm – 3.15pm, selected students) |
+| 2 | 13 Jan | P5 &amp; P6 | Commencement of HMT and FMA lessons (2.15pm – 3.15pm) |
+| 2 | 13 Jan | P3 &amp; P4 | Commencement of HCL (2.15pm - 3.15pm) |
+| 2 | 13 Jan | P3 &amp; P4 | Commencement of SDR (2.15pm – 3.15pm, selected students) |
+| 2 | 13 Jan | P3 &amp; P4 | Commencement of RRP (2.15pm – 3.15pm, selected students) |
 | 2 | 13 Jan | P5 | Parents’ Briefing via Teams (4pm - 5pm) |
 | 2 | 13 Jan | P6 | Parents’ Briefing via Teams (5pm - 6pm) |
-| 2 | xx | xx | xx |
-| 2 | xx | xx | xx |
-| 2 | xx | xx | xx |
-| 2 | xx | xx | xx |
+| 2 | 14 Jan | P4 - P6 | Commencement of Maths Olympiad Workshops<br>(2.15pm - 3.45 pm, selected students) |
+| 2 | 14 Jan | P1 - P6 | Commencement of Read with Me (7.10am -7.30am, selected students) |
+| 2 | 16 Jan | P4 - P6 | Commencement of CCA (2.15pm - 4.15pm/3.30pm - 5.30 pm) |
+| 2 | 16 Jan | P3 | Commencement of P3 Swimsafer Programme (2pm - 5pm) |
 | 3 | xx | xx | xx |
 | 3 | xx | xx | xx |
 | 3 | xx | xx | xx |
