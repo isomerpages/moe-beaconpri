@@ -64,20 +64,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norina_seno@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norina Seno (Mdm Rina)</a>
+<p><a href="mailto:juzain_jasin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Juzain Binte Jasin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Pri 5 &amp; Pri 6)</p>
+<p>Assistant Year Head (Pri 3 &amp; Pri 4)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lye_sze_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Lye Sze Yee</a>
+<p><a href="mailto:norina_seno@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norina Binte Seno (Mdm Rina)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Science</p>
+<p>Year Head (Pri 5 &amp; Pri 6)</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +145,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nasheda_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nasheda Binte Hamzah</a>
+<p><a href="mailto:emielliana_mira_jafry@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Emielliana Mira Jafry</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,6 +195,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>LH/ ICT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lau_chee_wee_david@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lau Chee Wee David</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/ Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_shin_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Shin Ling</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/ Science</p>
 </td>
 </tr>
 <tr>

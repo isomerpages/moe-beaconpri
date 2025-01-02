@@ -5,29 +5,22 @@ description: ""
 variant: tiptap
 ---
 <h3>Message From School Leaders</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/SL Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLPhoto_A.jpg">
 </div>
-<p>Ms Pang Wee Mian (P), Mdm Lela Shamsuhadi (VP), Mr Chen Wei Ngiap (VP),
-Mrs Melissa Loh-Chang Suet Mun (VP)</p>
-<p>Thank you for visiting our school website. You will be able to gather
-information on what we stand for and the learning opportunities we offer
-to both students and staff in our school. Please visit our page on Event
-Gallery and enjoy the delightful faces of students and staff in the various
-activities that we had. We will be holding our physical Open House on 29
-June 2024. Do look out for details nearer the date and join us on this
-day.</p>
-<p>Our focus has always been to provide meaningful learning experiences for
-our students and staff. We want students and staff to be motivated in their
-daily encounters and be inspired as they reflect upon the memories of time
-well spent. We give emphasis to responsible use of resources as we consider
-the harm done to the environment.</p>
-<p>We aim to nurture good learning habits and a resilient attitude (Constructor
-and Conductor) in our students, help them to develop empathy and a heart
-for others (Contributor and Connector). We hope that the meaningful and
-positive learning experiences in Beacon Primary will instill the confidence
-(Confident Learner) in our students that they should be able to ride the
-storms ahead of them.</p>
-<p>We look forward to another great year of learning and growing together
-as a school community.</p>
+<p>Thank you for visiting our school website. You will be able to catch glimpses
+of the enjoyable learning experiences we provide at Beacon Primary. Each
+day, we look forward to our students entering the school gate with anticipation
+of meeting with their teachers and friends and having a fruitful day of
+learning in school.</p>
+<p>Learning for both staff and students comes in different forms, starting
+with the interactions we have with the people around us and our responses
+to the learning opportunities offered each day. We understand that each
+one learns differently. We hope that our varied learning platforms and
+myriads of programmes and activities meet the different learners’ needs.</p>
+<p>We hope that you are captivated by the happy faces through our school
+website and intrigued to know more about what we do in Beacon Primary.
+Do come to visit us at our physical Open House on Saturday, 5 July 2025.</p>
 <p>Happy Reading!</p>
+<p></p>

@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>School Counsellor and SEN Officers</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -19,15 +23,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Joey Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Christabel Heng Man Wei</p>
+<p>Mdm Suhailah Binte Asmi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer (SEN Officer)</p>
@@ -35,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Suhailah Binte Asmi</p>
+<p>Mdm Christabel Heng Man Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer (SEN Officer)</p>
