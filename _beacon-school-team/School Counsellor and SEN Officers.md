@@ -23,7 +23,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Christabel Heng Man Wei</p>
+<p>Mdm Suhailah Binte Asmi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer (SEN Officer)</p>
@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Suhailah Binte Asmi</p>
+<p>Mdm Christabel Heng Man Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer (SEN Officer)</p>
