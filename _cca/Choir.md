@@ -47,7 +47,7 @@ variant: tiptap
 <p>Mdm Puah Sor Lay</p>
 </li>
 <li>
-<p>Mdm Wong Jing Mei Joyce</p>
+<p>Ms Ong Yong Qi</p>
 </li>
 </ul>
 </td>
