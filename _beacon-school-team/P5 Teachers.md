@@ -67,8 +67,8 @@ variant: tiptap
 <p>5.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_erliana_supanie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Erliana Supanie</a>
-<br><a href="mailto:norina_seno@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Norina Seno (Mdm Rina)</a>
+<p><a href="mailto:nur_erliana_supanie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Erliana Bte Supanie</a>
+<br><a href="mailto:norina_seno@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Norina Binte Seno (Mdm Rina)</a>
 </p>
 </td>
 </tr>
