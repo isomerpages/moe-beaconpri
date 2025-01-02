@@ -36,7 +36,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sam_wei_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sam Wei Ting</a>
-<br><a href="mailto:juzain_jasin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Juzain Jasin</a>
+<br><a href="mailto:juzain_jasin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Juzain Binte Jasin</a>
 </p>
 </td>
 </tr>
@@ -66,7 +66,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rekha_pugalendhi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ramadoss Rekha</a>
-<br><a href="mailto:khairyani_kamarolzaman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Khairyani Kamarolzaman</a>
+<br><a href="mailto:khairyani_kamarolzaman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Khairyani Bte Kamarolzaman</a>
 </p>
 </td>
 </tr>
