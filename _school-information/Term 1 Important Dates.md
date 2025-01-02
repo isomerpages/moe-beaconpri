@@ -26,8 +26,8 @@ variant: markdown
 | 2 | 14 Jan | P1 - P6 | Commencement of Read with Me (7.10am -7.30am, selected students) |
 | 2 | 16 Jan | P4 - P6 | Commencement of CCA (2.15pm - 4.15pm/3.30pm - 5.30 pm) |
 | 2 | 16 Jan | P3 | Commencement of P3 Swimsafer Programme (2pm - 5pm) |
-| 3 | xx | xx | xx |
-| 3 | xx | xx | xx |
+| 3 | 20 Jan | xx | xx |
+| 3 | 20 Jan | xx | xx |
 | 3 | xx | xx | xx |
 | 4 | xx | xx | xx |
 | 4 | xx | xx | xx |
