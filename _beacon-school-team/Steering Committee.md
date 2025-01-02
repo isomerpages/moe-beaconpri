@@ -199,6 +199,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:lau_chee_wee_david@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lau Chee Wee David</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/ Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_shin_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Shin Ling</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/ Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:sri_devi_sritharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sri Devi d/o Sritharan (Mrs Siva)</a>
 </p>
 </td>
