@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>School Counsellor and SEN Officers</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -16,14 +20,6 @@ variant: tiptap
 <p><strong>Designation</strong>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Joey Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
