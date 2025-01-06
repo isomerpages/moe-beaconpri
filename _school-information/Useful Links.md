@@ -44,7 +44,11 @@ variant: tiptap
 </li>
 </ul>
 <h4>Other Useful Sites</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -61,6 +65,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>❯ <a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education Parent Kit</a> 
 <br>❯ <a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag The Education New Site</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parenting for Wellness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>❯ <a href="/files/pfw_toolbox_for_parents.pdf" rel="noopener nofollow" target="_blank">Toolbox for Parents</a>
 </p>
 </td>
 </tr>
