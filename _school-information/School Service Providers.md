@@ -62,7 +62,8 @@ and dental trauma, please contact School Dental Centre via email at <a href="mai
 <br>uniform retail shop</p>
 </li>
 <li>
-<p>For name tag orders, click on <a href="/files/Name_Tag_Order_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Name Tag Order Form</a> for information</p>
+<p>For name tag orders, click on <a href="/files/Beacon_Name_Tag_Form_2025.pdf" rel="noopener nofollow" target="_blank">Name Tag Order Form</a> for
+information</p>
 </li>
 </ul>
 <p></p>
