@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - Event Gallery/2025.md
       - Event Gallery/2024.md
       - Event Gallery/2023.md
       - Event Gallery/.keep
