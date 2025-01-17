@@ -45,7 +45,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="/files/fy2024_fas%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Click to Download Application 2024</a>
+<p>❯ <a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">Click to Download Application 2025</a>
 </p>
 </td>
 </tr>
@@ -55,7 +55,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="/files/moe%20fas%20pamplet.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS 2024 Pamplet</a>
+<p>❯ <a href="/files/MOE_FAS_2025_Pamplet.pdf" rel="noopener nofollow" target="_blank">MOE FAS 2025 Pamplet</a>
 </p>
 </td>
 </tr>
