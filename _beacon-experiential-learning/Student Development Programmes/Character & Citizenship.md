@@ -100,7 +100,7 @@ by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
 </li>
 </ul>
-<p>Please click on the following <a href="/files/SexEd2024.pdf" rel="noopener noreferrer nofollow" target="_blank">link for more information</a>.</p>
+<p>Please click on the following <a href="/files/SexEd2025.pdf" rel="noopener nofollow" target="_blank">link for more information</a>.</p>
 <h4>Enhancing Social Emotional Learning through Executive Functioning Skills</h4>
 <p>Executive Function (EF) refers to a set of skills that are essential for
 learners to develop the capacity to plan ahead and meet goals, display
