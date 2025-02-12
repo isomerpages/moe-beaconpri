@@ -35,10 +35,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://online.fliphtml5.com/obrr/qkde/#p=1" rel="noopener noreferrer nofollow" target="_blank">WE-STories Publication 2023</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.beaconpri.moe.edu.sg/beacon-experiential-learning/student-development-programmes/cc/" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education 2025</a>
 </p>
 </li>
@@ -95,7 +91,6 @@ variant: tiptap
 <p>❯ <a href="https://www.fycs.org/" rel="noopener noreferrer nofollow" target="_blank">Fei Yue Community Services</a> 
 <br>❯ <a href="https://www.family-central.sg/" rel="noopener noreferrer nofollow" target="_blank">Family Central - a service by Fei Yue Community Services</a> 
 <br>❯ <a href="https://forms.office.com/pages/responsepage.aspx?id=enp5W2h6KEyJkTbCaPjr60xXTovmoVVHr8HSB-0UwTtUMk81RjhRSTZSOUhFWEZTVUswQ0pNMlhDQS4u" rel="noopener noreferrer nofollow" target="_blank">Parenting Support Services - subscription form</a> 
-<br>❯ <a href="/files/Primary_Triple_P_Calendar_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Fei Yue Triple P Seminars for 2024 (Primary Level)</a>
 </p>
 </td>
 </tr>
