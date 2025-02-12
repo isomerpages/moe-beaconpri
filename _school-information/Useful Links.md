@@ -39,7 +39,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.beaconpri.moe.edu.sg/character-n-citizenship/cc/" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education 2025</a>
+<p><a href="https://www.beaconpri.moe.edu.sg/beacon-experiential-learning/student-development-programmes/cc/" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education 2025</a>
 </p>
 </li>
 </ul>
