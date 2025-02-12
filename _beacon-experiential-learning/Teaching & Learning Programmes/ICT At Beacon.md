@@ -50,3 +50,13 @@ and promote discerning and responsible use of technology.</p>
 <img style="width:85%" height="auto" width="100%" src="/images/ICT Values.png">
 </div>
 <p></p>
+<h4>Digital literacy and competencies </h4>
+<p>In accordance to EdTech Masterplan 2030, one of the key strategic thrusts
+is to strengthen the development of students’ digital literacy and technological
+skills. This is to ensure that students are well-equipped with the digital
+competencies to thrive in an increasingly technology-saturated future.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BEL/ICT01.png">
+</div>
+<p></p>
