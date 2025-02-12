@@ -39,7 +39,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.beaconpri.moe.edu.sg/character-n-citizenship/ccec/" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education 2024</a>
+<p><a href="https://www.beaconpri.moe.edu.sg/character-n-citizenship/cc/" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education 2025</a>
 </p>
 </li>
 </ul>
@@ -113,7 +113,7 @@ variant: tiptap
 <p>Lean On Me</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="https://go.gov.sg/leanonme" rel="noopener noreferrer nofollow" target="_blank">Lean On Me</a>
+<p>❯ <a href="https://zhenghua.pa.gov.sg/wellness/leanonme/about/" rel="noopener noreferrer nofollow" target="_blank">Lean On Me</a>
 </p>
 </td>
 </tr>
