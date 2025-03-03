@@ -17,6 +17,6 @@ sections:
         - title: 2025 OPEN HOUSE
           description: ""
           url: /school-information/p1-registration-and-information/op/
-      background: /images/5cshero3.gif
+      background: /images/OH2025Banner_1A.jpg
       variant: center
 ---
