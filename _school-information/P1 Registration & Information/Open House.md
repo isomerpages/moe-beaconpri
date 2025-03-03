@@ -12,7 +12,9 @@ Experience and learn more about the school’s curriculum, distinctive programme
 and our students’ CCA experiences!</p>
 <p><a href="https://go.gov.sg/beaconopenhouse2025" rel="noopener nofollow" target="_blank">Click here</a> to
 register for the Open House.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SI/OH2025Banner_SA.jpg">
+</div>
 <h4>Here is a glimpse of year 2024, 2023 and 2022’s Open House:</h4>
 <div class="iframe-wrapper">
 <iframe height="494" width="660" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D2B3y-9fRFg?si=Br9j33knt_OjtWr4"></iframe>
@@ -33,4 +35,5 @@ register for the Open House.</p>
 <div class="iframe-wrapper">
 <iframe height="494" width="660" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KktiPK-XNE4"></iframe>
 </div>
+<p></p>
 <p></p>
