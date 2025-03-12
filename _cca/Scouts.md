@@ -50,9 +50,6 @@ variant: tiptap
 <p>Mdm Nur Aini Bte Mohd Yunos</p>
 </li>
 <li>
-<p>Mr Tan Seow Meng</p>
-</li>
-<li>
 <p>Mdm Sri Shangeetha Sangar</p>
 </li>
 </ul>
