@@ -16,7 +16,6 @@ Open House stations will be opened from 10am onwards.</p>
 <p><a href="https://go.gov.sg/beaconopenhouse2025" rel="noopener nofollow" target="_blank">Click here to register for the Open House.</a>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2025Banner_SA.jpg">
 </div>
