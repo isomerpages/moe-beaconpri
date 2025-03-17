@@ -38,7 +38,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sri_shangeetha_sangar@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sri Shangeetha Sangar</a>
-<br><a href="mailto:tan_seow_meng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Seow Meng</a>
 </p>
 </td>
 </tr>
