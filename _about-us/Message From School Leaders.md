@@ -21,6 +21,6 @@ one learns differently. We hope that our varied learning platforms and
 myriads of programmes and activities meet the different learners’ needs.</p>
 <p>We hope that you are captivated by the happy faces through our school
 website and intrigued to know more about what we do in Beacon Primary.
-Do come to visit us at our physical Open House on Saturday, 5 July 2025.</p>
+Do come to visit us at our physical Open House on Saturday, 31 May 2025.</p>
 <p>Happy Reading!</p>
 <p></p>
