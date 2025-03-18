@@ -82,7 +82,7 @@ in various fields. The event highlights the significance of the prefects’
 duties and responsibilities, showcasing their commitment and development
 of leadership. It’s a wonderful opportunity to witness how our students
 have grown throughout their journey.</p>
-<p><a href="https://www.beaconpri.moe.edu.sg/school-events/event-gallery/2024/" rel="noopener nofollow" target="_blank">Click to view Album &gt;&gt;</a>
+<p><a href="https://www.beaconpri.moe.edu.sg/school-events/event-gallery/2025/" rel="noopener nofollow" target="_blank">Click to view Album &gt;&gt;</a>
 </p>
 <p></p>
 <h4>Prefect Exco 2024/2025</h4>
