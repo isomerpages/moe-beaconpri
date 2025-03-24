@@ -2,10 +2,10 @@ collections:
   beacon-experiential-learning:
     output: true
     order:
-      - Special Programmes/Beacon's Got Talent.md
       - Special Programmes/.keep
       - Special Programmes/Special Programmes.md
       - Special Programmes/Making in Education at Beacon.md
+      - Special Programmes/Beacon's Got Talent.md
       - Special Programmes/Beacons Take Flight.md
       - Special Programmes/Applied Learning Programme (ALP).md
       - Special Programmes/Learning for Life Programme (LLP).md
