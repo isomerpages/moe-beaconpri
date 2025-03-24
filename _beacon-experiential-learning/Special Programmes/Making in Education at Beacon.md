@@ -13,15 +13,14 @@ students to acquire critical thinking, problem-solving and collaboration
 skills. These are necessary 21st Century Competencies to manage evolving
 challenges in life.</p>
 <p>Besides emphasising experiential learning in daily teaching and learning
-lessons, the school also specially set aside a Beacon Experiential Learning
-Week for more focused learning in the aspect of making. During this week,
-all learning opportunities are designed for learning to take place through
-making experiences. The activities in Beacon Experiential Learning Week
-are reviewed each year for improvement.</p>
-<p>In the problem-solving process, the students go through the process of
-Beacon CREATES to develop the required skills in identifying issues and
-arriving at an appropriate solution. The process in Beacon CREATES are
-as follows:</p>
+lessons, the school also specially set aside a <strong>Beacon Experiential Learning Week</strong> for
+more focused learning in the aspect of making. During this week, all learning
+opportunities are designed for learning to take place through making experiences.
+The activities in Beacon Experiential Learning Week are reviewed each year
+for improvement.</p>
+<p>In the problem-solving process, the students go through the process of <strong>Beacon CREATES</strong> to
+develop the required skills in identifying issues and arriving at an appropriate
+solution. The process in Beacon CREATES are as follows:</p>
 <p><strong>C </strong>– consider different aspects of the issue
 <br><strong>R </strong>– redefine for better understanding
 <br><strong>E </strong>– examine and establish possible approaches to manage
