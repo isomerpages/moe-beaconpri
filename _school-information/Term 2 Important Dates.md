@@ -10,7 +10,7 @@ variant: markdown
 |:---:| -------- | --- | --- |
 | 1 | 27 Mar | P3 | Commencement of CCA (2.15pm - 4.15pm/3.30pm - 5.30 pm) |
 | 1 | 28 Mar | P5 | Commencement of E2K Science (2.15pm-3.45pm, selected students) |
-| 1 | 28 Mar | P3 to P5 | Commencement of Conversational Chinese and Malay Programme (2.15-4.15pm, selected students) |
+| 1 | 28 Mar | P3 - P5 | Commencement of Conversational Chinese and Malay Programme (2.15-4.15pm, selected students) |
 | 2 | 31 Mar | All | **Public Holiday** - Hari Raya Puasa |
 | 3 | 7 Apr | All | International Friendship Day |
 | 3 | 8 Apr | P6 | NAPFA (2.15pm- 3.45pm) |
