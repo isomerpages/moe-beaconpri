@@ -39,8 +39,9 @@ others and inspiring them to make a positive impact in their community.</p>
 mutual support, and ethical decision-making in all activities.</p>
 </li>
 </ul>
-<p><strong>&gt;&gt;&gt; PICTURE</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sp09a.jpg">
+</div>
 <p>Beacon GIVES provides a platform for our Primary 6 to engage in a Student-initiated
 effort to give back. They take charge of planning, organizing, and executing
 the event. Through this initiative, they learn entrepreneurial skills,
@@ -69,8 +70,10 @@ take initiative, and make a difference in the lives of the less fortunate.
 In addition, the hands-on experience nurtures the values of generosity,
 empathy, volunteerism, and innovation while strengthening class spirit
 and sportsmanship.</p>
-<p><strong>&gt;&gt;&gt; PICTURE</strong>
-</p>
-<p><strong>&gt;&gt;&gt; PICTURE</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sp09b.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sp09c.jpg">
+</div>
 <p></p>
