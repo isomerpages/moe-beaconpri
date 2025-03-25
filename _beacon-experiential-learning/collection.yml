@@ -2,6 +2,7 @@ collections:
   beacon-experiential-learning:
     output: true
     order:
+      - Special Programmes/Beacon GIVES.md
       - Special Programmes/.keep
       - Special Programmes/Special Programmes.md
       - Special Programmes/Making in Education at Beacon.md
