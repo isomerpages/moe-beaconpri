@@ -14,3 +14,19 @@ they are performers or audience. Selected performances from the audition
 videos will perform in school during Beacon Experiential Week to win level
 prizes and also perform at the annual Beacon’s Cultural Celebration and
 Family Day.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sp07a.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sp07b.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sp07c.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sp07d.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sp07e.jpg">
+</div>
+<p></p>
