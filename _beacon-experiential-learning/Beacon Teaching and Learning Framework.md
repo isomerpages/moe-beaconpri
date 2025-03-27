@@ -5,3 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Beacon Teaching and Learning Framework</p>
