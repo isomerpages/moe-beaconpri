@@ -2,7 +2,7 @@ collections:
   beacon-experiential-learning:
     output: true
     order:
-      - Beacon Teaching and Learning Framework.md
+      - Teaching & Learning Framework.md
       - Special Programmes/.keep
       - Special Programmes/Special Programmes.md
       - Special Programmes/Making in Education at Beacon.md
