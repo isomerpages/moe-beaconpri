@@ -4,3 +4,4 @@ permalink: /beacon-teaching-and-learning-framework/
 variant: tiptap
 description: ""
 ---
+<p></p>
