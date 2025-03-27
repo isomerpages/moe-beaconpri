@@ -57,8 +57,7 @@ variant: tiptap
 <p>6.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_siew_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Siew Ling </a>
-<br><a href="mailto:nur_aini_mohd_yunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Aini Bte Mohd Yunos</a>
+<p><a href="mailto:lim_siew_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Siew Ling</a>
 </p>
 </td>
 </tr>
