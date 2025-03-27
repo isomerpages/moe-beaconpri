@@ -4,8 +4,5 @@ permalink: /beacon-teaching-and-learning-framework/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>Beacon Teaching and Learning Framework</p>
+<h3>Beacon Teaching and Learning Framework</h3>
+<p>xx</p>
