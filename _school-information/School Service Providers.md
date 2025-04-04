@@ -32,7 +32,7 @@ teaching and learning.</p>
 food, students who are on a vegetarian diet may purchase the required food
 from the stalls selling Chinese-cooked food and snacks. Students with special
 or strict dietary requirements are encouraged to bring their own food.</p>
-<p>❯ <a href="/files/Canteen_Menu_2025_V2.pdf" rel="noopener nofollow" target="_blank">Click to view Canteen Menu</a>
+<p>❯ <a href="/files/Canteen_Menu_2025_V3.pdf" rel="noopener nofollow" target="_blank">Click to view Canteen Menu</a>
 </p>
 <p></p>
 <blockquote>
