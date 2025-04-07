@@ -125,9 +125,9 @@ towards the holistic development of our Beacons in the physical, aesthetic,
 intellectual, moral and social domains. The experiences provide authentic
 opportunities for Beacons to apply and display their SHINE Values. These
 experiences comprise of:</p>
-<p>i) Student Leadership Development (SLD) [link to leadership page]
+<p>i) <a href="https://www.beaconpri.moe.edu.sg/beacon-experiential-learning/Student-Development-Programmes/sl/" rel="noopener nofollow" target="_blank">Student Leadership Development (SLD)</a>
 <br>ii) Values in Action (VIA)
-<br>iii) Co-Curriculum Activity (CCA) [link to CCA page]
+<br>iii) <a href="https://www.beaconpri.moe.edu.sg/cca/cca/" rel="noopener nofollow" target="_blank">Co-Curriculum Activity (CCA)</a>
 <br>iv) Cohort Learning Journey
 <br>v) Outdoor Adventure Learning (OAL) Cohort Camps
 <br>vi) National Education (NE) Commemorative Days</p>
