@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Special Programmes
 ---
-<h3>Beacon GIVES</h3>
+<h3>Healthier Beacon Programme</h3>
 <p>Healthier Beacon is our whole-school wellness initiative designed to help
 students build healthy habits that will last a lifetime. We believe that
 when students eat well and stay active, they feel better, learn better,
