@@ -12,6 +12,9 @@ variant: markdown
 <p><a href="/beacon-experiential-learning/special-programmes/meb/">
 <img src="/images/BEL/bel_sp08.jpg" style="width:49%" align="left"></a></p>
 
+<p><a href="/beacon-experiential-learning/special-programmes/hbp/">
+<img src="/images/BEL/bel_sp10.jpg" style="width:49%" align="left"></a></p>
+
 <p><a href="/beacon-experiential-learning/special-programmes/bgt/">
 <img src="/images/BEL/bel_sp07.jpg" style="width:49%" align="left"></a></p>
 	
