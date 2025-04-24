@@ -5,6 +5,53 @@ description: ""
 variant: tiptap
 ---
 <h3>Student Achievements</h3>
+<h4>2025</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>EVENTS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>ACHIEVEMENTS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ActiveSG-TBAS Tchoukball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>❯ Boys Senior Team - 1st
+<br>❯ Girls Senior Team - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Artistic Gymnastics Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aava Cai Jiaxi (P1-3)
+<br>❯ 5th position for Floor Routine
+<br>❯ 7th position for Vault
+<br>❯ 15th position for Balance Beam
+<br>❯ 20th position for Uneven Bar
+<br>❯ All-Around 13th position out of 64 contestants.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>2024</h4>
 <table style="minWidth: 50px">
 <colgroup>
