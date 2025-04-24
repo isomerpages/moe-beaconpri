@@ -148,15 +148,6 @@ Toh Hui Min
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ActiveSG-TBAS Tchoukball Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>❯ Girls Senior Team - 2nd
-<br>❯ Boys Senior Team - 3rd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>National School Games Taekwondo Competition (Poomsae)</p>
 </td>
 <td rowspan="1" colspan="1">
