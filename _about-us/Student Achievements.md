@@ -34,7 +34,7 @@ variant: tiptap
 <p>National School Games Artistic Gymnastics Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aava Cai Jiaxi (P1-3)
+<p>Aava Cai Jiaxi
 <br>❯ 5th position for Floor Routine
 <br>❯ 7th position for Vault
 <br>❯ 15th position for Balance Beam
