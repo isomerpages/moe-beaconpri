@@ -31,6 +31,9 @@ the issue
 <br><strong>S </strong>– Share learning with others</p>
 <p>Beacon CREATES is an iterative, non-linear process that focuses on finding
 the best solution to an identified issue.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/Beacon_Creates.png">
+</div>
 <p>Some of the interesting activities carried out during Beacon Experiential
 Learning Week include the following:</p>
 <div class="isomer-image-wrapper">
