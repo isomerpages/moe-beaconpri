@@ -22,6 +22,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>For NSG Taekwondo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Division Boys Yellow 8
+<br>❯ 6th - Suman Divit
+<br>
+<br>Junior Division Girls Blue 3
+<br>❯ 4th - Fauzah Aris Binte Hazni Aris
+<br>
+<br>Junior Division Girls Red 1
+<br>❯ 4th - Kamille Carmen Isaacs
+<br>
+<br>Junior Division Boys Green 5
+<br>❯ 3rd - Bautista Kane Ioan Delos Reyes
+<br>
+<br>Senior Division Boys Blue 3
+<br>❯ 4th - Zhofir Aris Bin Hazni Aris</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ActiveSG-TBAS Tchoukball Championships</p>
 </td>
 <td rowspan="1" colspan="1">
