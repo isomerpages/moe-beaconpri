@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Makerspace.md
       - Co Curricular Activities.md
       - Art Club.md
       - Basketball.md
@@ -11,6 +10,7 @@ collections:
       - Environmental Science Club.md
       - Football.md
       - Netball.md
+      - Makerspace.md
       - Percussion Ensemble.md
       - Robotics.md
       - Scouts.md
