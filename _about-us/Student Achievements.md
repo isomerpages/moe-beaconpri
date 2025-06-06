@@ -22,32 +22,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For NSG Taekwondo</p>
+<p>Vactors Reading Stars 2025 Competition
+<br>
+<br>❯ <a href="https://podcast.vactors.club/podcast-ep/BpFFA5xV2JP8" rel="noopener nofollow" target="_blank">Click to listen to their Podcast Now!</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Division Boys Yellow 8
-<br>❯ 6th - Suman Divit
-<br>
-<br>Junior Division Girls Blue 3
-<br>❯ 4th - Fauzah Aris Binte Hazni Aris
-<br>
-<br>Junior Division Girls Red 1
-<br>❯ 4th - Kamille Carmen Isaacs
-<br>
-<br>Junior Division Boys Green 5
-<br>❯ 3rd - Bautista Kane Ioan Delos Reyes
-<br>
-<br>Senior Division Boys Blue 3
-<br>❯ 4th - Zhofir Aris Bin Hazni Aris</p>
+<p>2nd Place
+<br>❯ Daniyal Erwin Bin Mohd Zailani
+<br>❯ Zay Yar Min Zin
+<br>❯ Avery Choi Shin Yi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ActiveSG-TBAS Tchoukball Championships</p>
+<p>SYF Art Exhibition - Category A</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ Boys Senior Team - 1st
-<br>❯ Girls Senior Team - 2nd</p>
+<p>Chloe Ang Kai Qian &amp;&nbsp; Anna Theu Ya Yan
+<br>❯ Certificate of Recognition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Art Exhibition - Category B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Art Exhibition - Category C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
 </td>
 </tr>
 <tr>

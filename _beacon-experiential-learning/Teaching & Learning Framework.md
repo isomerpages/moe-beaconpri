@@ -17,8 +17,7 @@ and students interact with one another and within oneself, showing respect,
 care and encouragement to motivate us to do our best. We encourage our
 teachers to refer to the T &amp; L framework as they plan and review their
 lessons, striving to make improvement and achieving purposeful outcomes.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BEL/T_L_Framework.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/T_L_FrameworkV02.png">
 </div>
 <p></p>
