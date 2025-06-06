@@ -22,13 +22,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vactors Reading Stars 2025 Competition</p>
+<p>Vactors Reading Stars 2025 Competition
+<br>
+<br>❯ <a href="https://podcast.vactors.club/podcast-ep/BpFFA5xV2JP8" rel="noopener nofollow" target="_blank">Click to listen to their Podcast Now!</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd Place
-<br>❯ Daniyal Erwin Bin Mohd Zailani</p>
-<p>❯ Zay Yar Min Zin</p>
-<p>❯ Avery Choi Shin Yi</p>
+<br>❯ Daniyal Erwin Bin Mohd Zailani
+<br>❯ Zay Yar Min Zin
+<br>❯ Avery Choi Shin Yi</p>
 </td>
 </tr>
 <tr>
