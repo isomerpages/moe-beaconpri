@@ -88,7 +88,6 @@ be held to assess students’ hands-on abilities.</p>
 other CCAs may also be invited to join a 5-week Makerspace attachment at
 the Primary 4 or 5 level. This gives more students the opportunity to enjoy
 the benefits and excitement of making.</p>
-<p></p>
 <h4>Main Activities</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -101,5 +100,15 @@ the benefits and excitement of making.</p>
 <p>School-based VIA (Values in Action) making projects</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cca_ms01.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cca_ms02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cca_ms03.jpg">
+</div>
 <p></p>
