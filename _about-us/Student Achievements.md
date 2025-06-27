@@ -75,6 +75,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ActiveSG-TBAS Tchoukball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>❯ Boys Senior Team - 1st
+<br>❯ Girls Senior Team - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
