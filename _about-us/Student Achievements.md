@@ -75,6 +75,36 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ActiveSG-TBAS Tchoukball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>❯ Boys Senior Team - 1st
+<br>❯ Girls Senior Team - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Taekwondo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Suman Divit
+<br>❯ 6th in Junior Division Boys Yellow 8
+<br>
+<br>Fauzah Aris Binte Hazni Aris
+<br>❯ 4th in Junior Division Girls Blue 3
+<br>
+<br>Kamille Carmen Isaacs
+<br>❯ 4th in Junior Division Girls Red 1
+<br>
+<br>Bautista Kane Ioan Delos Reyes
+<br>❯ 3rd in Junior Division Boys Green 5
+<br>
+<br>Zhofir Aris Bin Hazni Aris
+<br>❯ 4th in Senior Division Boys Blue 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
