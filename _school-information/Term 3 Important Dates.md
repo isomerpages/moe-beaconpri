@@ -22,8 +22,8 @@ variant: markdown
 | 5 | 31 Jul - 2 Aug | P5 | Camp |
 | 6 | 8 Aug | All | National Day Celebrations (dismissal at 10.30 am) |
 | 7 | 11 Aug | All | Public Holiday - National Day (School Holiday in lieu) |
-| 7 | 13 Aug | P6 | PSLE Oral Day 1, School Closure for P1 - P5 |
-| 7 | 14 Aug | P6 | PSLE Oral Day 2, School Closure for P1 - P5 |
+| 7 | 13 Aug | P6 | PSLE Oral Day 1, Home-Based Learning for P1 - P5 |
+| 7 | 14 Aug | P6 | PSLE Oral Day 2, Home-Based Learning for P1 - P5 |
 | x | x | x | x |
 | x | x | x | x |
 | x | x | x | x |
