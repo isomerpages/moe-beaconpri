@@ -28,6 +28,9 @@ in more independent learning tasks such as research and journaling. Students
 also learn to engage in online platforms that allow them to collaborate
 and connect with their peers.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_TL08B1.jpg">
+</div>
 <h4>Upper Primary - Use to Create</h4>
 <p>Upper primary students will engage in projects that allow them to extend
 their learning based on their own interests, taking part in online discussion
