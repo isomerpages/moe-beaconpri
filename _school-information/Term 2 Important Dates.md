@@ -4,7 +4,7 @@ permalink: /school-information/impt-dates/
 description: ""
 variant: markdown
 ---
-### Term 2 Important Dates
+### Term 3 Important Dates
 
 | Week | Date | Levels | Activity |
 |:---:| -------- | --- | --- |
