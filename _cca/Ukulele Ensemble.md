@@ -48,7 +48,7 @@ variant: tiptap
 <p>Mdm Ee Yen Teng</p>
 </li>
 <li>
-<p>Mdm Tay Li Lien</p>
+<p>Ms Tan Si Pei</p>
 </li>
 </ul>
 </td>
