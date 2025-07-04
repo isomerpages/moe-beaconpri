@@ -16,7 +16,7 @@ variant: markdown
 <img src="/images/BEL/bel_sp10.jpg" style="width:49%" align="left"></a></p>
 
 <p><a href="/beacon-experiential-learning/special-programmes/bgt/">
-<img src="/images/BEL/bel_sp07.jpg" style="width:49%" align="left"></a></p>
+<img src="/images/BEL/bel_bgt.jpg" style="width:49%" align="left"></a></p>
 	
 <p><a href="/beacon-experiential-learning/special-programmes/bg/">
 <img src="/images/BEL/bel_sp09.jpg" style="width:49%" align="left"></a></p>
