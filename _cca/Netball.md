@@ -117,7 +117,8 @@ potential by discovering their interest and talent</p>
 <p>Communication and teamwork</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/BEL/bel-sd02f.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD02F.jpg">
 </div>
 <p></p>
