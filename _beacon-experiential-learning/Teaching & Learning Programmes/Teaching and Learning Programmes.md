@@ -3,11 +3,13 @@ title: Teaching and Learning Programmes
 permalink: /beacon-experiential-learning/Teaching-and-Learning-Programmes/tnl/
 description: ""
 third_nav_title: Teaching & Learning Programmes
+variant: markdown
 ---
 ### Teaching and Learning Programmes
 
 <p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/el/">
-<img src="/images/BEL/bel-tl01.jpg" style="width:49%" align="left"></a></p>
+<img src="/images/BEL/BEL_EL01.jpg" style="width:49%" align="left"></a></p>
+
 
 <p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/mathe/">
 <img src="/images/BEL/bel-tl02.jpg" style="width:49%" align="left">
@@ -29,7 +31,7 @@ third_nav_title: Teaching & Learning Programmes
 </a></p>
 
 <p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/ss/">
-<img src="/images/BEL/bel-tl07.jpg" style="width:49%" align="left">
+<img src="/images/BEL/BEL_SS01.jpg" style="width:49%" align="left">
 </a></p>
 
 <p><a href="/beacon-experiential-learning/teaching-and-learning-programmes/ict/">
