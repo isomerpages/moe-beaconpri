@@ -42,9 +42,8 @@ as a group.</p>
 <p>Through well-known fairy tales like “The Little Red Riding Hood”, students
 take on the perspectives of others and learn to appreciate diversity using
 drama strategies such as ‘Hot Seat’ and ‘Freeze Frame’.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/BEL/BEL_TLPAL03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_pal01.jpg">
 </div>
 <h5>Music</h5>
 <p>Using classical instruments, students reflect upon the sounds made by
