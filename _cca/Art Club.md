@@ -108,6 +108,6 @@ Art club also participates actively in the biennial Singapore Youth Festival
 (SYF) Visual Arts Exhibition.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sd02a2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sd02a3.jpg">
 </div>
 <p></p>
