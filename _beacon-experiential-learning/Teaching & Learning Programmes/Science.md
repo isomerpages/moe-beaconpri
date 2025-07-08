@@ -58,7 +58,6 @@ with a strong commitment to improving the environment in our community.
 Through this programme, our students engage in activities such as reducing
 food waste, growing their own food, recycling, and creating new items from
 recyclable materials.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sc03.jpg">
 </div>
