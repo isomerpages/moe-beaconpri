@@ -23,7 +23,7 @@ variant: markdown
 <img src="/images/BEL/bel-tl04.jpg" style="width:49%" align="left">
 
 </a></p><p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/aesthetics/">
-<img src="/images/BEL/bel-tl05.jpg" style="width:49%" align="left">
+<img src="/images/BEL/BEL_aes.jpg" style="width:49%" align="left">
 </a></p>
 
 <p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/pe/">
