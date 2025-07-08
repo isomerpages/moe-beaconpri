@@ -25,9 +25,6 @@ Leaders. Students are given the opportunity to lead within the class so
 that they take ownership over their class and be role models to their peers.</p>
 <p>Leadership roles: Group Leaders/ Asst Group Leaders, Subject Leaders,
 Class librarians, Class/Canteen Duty Leaders</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/BEL/bel-sd03b.jpg">
-</div>
 <h4>Tier 2 Leadership</h4>
 <p>At Tier 2, students exhibit ‘Respect to Friends’ through cohort-based
 or group based activities. Students shoulder responsibility when they represent
@@ -37,11 +34,12 @@ their responsibilities in curriculum/non-curriculum related areas.</p>
 <p>Leadership roles: Prefects, CCA Leaders, Class Monitors, AVA Representatives,
 Green Ambassadors, NE Ambassadors, VIA Ambassadors, Cyber Champs, Student
 Peer Leaders, Buddy Readers</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/BEL/bel-sd03c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sd03c1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03e.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03e1.jpg">
 </div>
 <h4>Tier 3 Leadership</h4>
 <p>At the highest tier, we have the School's Prefectorial Exco which comprises
@@ -56,7 +54,7 @@ to serve with confidence and conviction.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03f.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03f1.jpg">
 </div>
 <h4>The Student Leaders' Investiture Ceremony</h4>
 <p></p>
