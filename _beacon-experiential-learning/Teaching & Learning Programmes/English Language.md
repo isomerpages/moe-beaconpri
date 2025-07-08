@@ -127,6 +127,7 @@ forms, our students develop a greater sense of self-awareness and sensitivity.</
 <p>At the end of each year, students put up a performance in a LAP Festival
 that consist of a Readers’ Theatre, a skit or even choral singing to showcase
 their talents and love for the various books they have read.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_EL04.jpg">
 </div>
