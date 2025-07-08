@@ -73,12 +73,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Objectives</h4>
-<p>The Robotics Club aims to increase the students’ exposure to coding and
-computational thinking. Students build their skills in basic programming
-and manipulation of robots to develop their creative problem-solving skills.</p>
-<p>The main objectives are to :
-<br>
-</p>
+<p>The Robotics and Digital Media Club aims to increase the students’ exposure
+to coding and computational thinking. Students build their skills in basic
+programming and manipulation of robots to develop their creative problem-solving
+skills. In the Digital Media segment, students learn the fundamentals of
+composition, lighting and storytelling through visuals. They also experiment
+with various photography techniques and video editing tools.</p>
+<p>The main objectives are to :</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Develop understanding and appreciation of coding</p>
@@ -94,21 +95,86 @@ life-long learning</p>
 <p>Develop students’ 21st Century Competencies and apply critical thinking
 skills in problem-based learning</p>
 </li>
+<li>
+<p>Develop understanding of how to create media that convey emotions and
+messages effectively.</p>
+</li>
 </ul>
 <h4>Main Activities</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Learn basic programming skills through Scratch</p>
+<p>Learn various photography and videography techniques</p>
 </li>
 <li>
-<p>Learn advanced programming skills, electronics, and coding through mBots</p>
+<p>Learn basic programming skills through Scratch and microbit</p>
+</li>
+<li>
+<p>Learn advanced programming skills, electronics, and coding through mBots
+and Lego Spike Prime</p>
 </li>
 <li>
 <p>Be proficient in a variety of Information and Communications Technology
 (ICT) skills</p>
 </li>
 </ul>
+<p>Students will develop different proficiencies at the various levels:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme and Learning Activities</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Photography and Videography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Scratch and Microbit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 and P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mBot, Infographics and Lego Spike Prime</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/BEL/bel-sd02h.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD02H1.jpg">
 </div>
 <p></p>
