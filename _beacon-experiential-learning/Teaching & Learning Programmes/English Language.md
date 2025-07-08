@@ -17,7 +17,11 @@ of technology to allow students to take ownership of their learning. Even
 at the lower primary, students learn to curate and present information
 using digital media platforms such as blogs and presentations slides. This
 culminates in students becoming effective and confident communicators,
-who are ready for the 21st century.;</p>
+who are ready for the 21st century.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_EL02.jpg">
+</div>
 <h4>Digital Storytelling</h4>
 <p>Using Digital Storytelling (DST), Primary 1 and 2 students create and
 share their narratives with their classmates. Students plan out their stories
@@ -25,19 +29,16 @@ during English lessons and craft out their own characters during Art lessons.
 The stories are then brought to life using animations and narration. Their
 masterpieces are then showcased in a gallery for their peers to enjoy and
 learn from.</p>
-<h4>D.O.T.S.</h4>
-<p><strong>D</strong>iscover, <strong>O</strong>bserve, <strong>T</strong>hink
-and <strong>S</strong>hare (D.O.T.S) introduces and weaves the learning
-of Science into Primary 1 and 2 English lessons through fun and simple
-experiments conducted out of the classroom. These lessons develop students’
-confidence and provide them with opportunities to work as a team to develop
-communication and reasoning skills. In turn, the experience paves the way
-for students when they eventually begin to learn Science in Primary 3.</p>
-<p>During D.O.T.S, students get the opportunity to conduct simple and fun
-experiments outdoors.&nbsp; Students then share their learning and experience
-with their peers.</p>
+<h4>Science in STELLAR (SiS)</h4>
+<p>Science in STELLAR (SiS) introduces and weaves the learning of Science
+into English lessons. Conducted from Primary 1 to 4, students learn about
+science concepts through thematic books taught in the respective levels.
+Students get to observe, discuss and conduct fun and simple experiments.
+These lessons develop students’ confidence and provide them with opportunities
+to work as a team to develop their communication and reasoning skills.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/BEL/bel-tl01a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_EL03.jpg">
 </div>
 <h4>Readers' Delight</h4>
 <h5>Raz-Kids</h5>
