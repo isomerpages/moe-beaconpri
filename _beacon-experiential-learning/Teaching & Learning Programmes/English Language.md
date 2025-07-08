@@ -134,9 +134,7 @@ forms, our students develop a greater sense of self-awareness and sensitivity.</
 <p>At the end of each year, students put up a performance in a LAP Festival
 that consist of a Readers’ Theatre, a skit or even choral singing to showcase
 their talents and love for the various books they have read.</p>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/BEL/bel-tl01c.jpg">
-</div>
+<p></p>
 <h4>Spelling Bee</h4>
 <p>In Beacon, students are challenged to widen their vocabulary and improve
 on their spelling through the annual Spelling Bee. Students from Primary
