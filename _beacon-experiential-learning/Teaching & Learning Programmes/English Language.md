@@ -135,6 +135,9 @@ forms, our students develop a greater sense of self-awareness and sensitivity.</
 that consist of a Readers’ Theatre, a skit or even choral singing to showcase
 their talents and love for the various books they have read.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_EL04.jpg">
+</div>
 <h4>Spelling Bee</h4>
 <p>In Beacon, students are challenged to widen their vocabulary and improve
 on their spelling through the annual Spelling Bee. Students from Primary
