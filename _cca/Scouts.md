@@ -84,25 +84,13 @@ duty to country, and helping other people.</p>
 <p>Proficiency badges activities</p>
 </li>
 <li>
-<p>Arrow badge activities</p>
+<p>Progress Arrow badge activities</p>
 </li>
 <li>
-<p>Camping, tent pitching and outdoor cooking</p>
+<p>Outdoor cooking</p>
 </li>
 <li>
-<p>Hiking</p>
-</li>
-<li>
-<p>Compass navigation</p>
-</li>
-<li>
-<p>Knots and lashings</p>
-</li>
-<li>
-<p>Track and trail signs</p>
-</li>
-<li>
-<p>Learn different songs and cheers for campfire</p>
+<p>Hiking, Track and Trail Signs</p>
 </li>
 <li>
 <p>Fund raising campaigns</p>
@@ -112,6 +100,6 @@ duty to country, and helping other people.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/BEL/bel-sd02i.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sct01.jpg">
 </div>
 <p></p>

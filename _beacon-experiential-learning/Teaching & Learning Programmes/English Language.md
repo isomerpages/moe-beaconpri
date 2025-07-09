@@ -6,7 +6,7 @@ third_nav_title: Teaching & Learning Programmes
 variant: tiptap
 ---
 <h3>English Language</h3>
-<h4>GLOW STELLAR</h4>
+<h4>G.L.O.W STELLAR</h4>
 <p>In Beacon, the learning of English is designed with the idea of Grow,
 Learn, Own and Wonder (GLOW). This is achieved through the school-based
 STELLAR (Strategies for English Language Learning and Reading) programme
@@ -17,7 +17,11 @@ of technology to allow students to take ownership of their learning. Even
 at the lower primary, students learn to curate and present information
 using digital media platforms such as blogs and presentations slides. This
 culminates in students becoming effective and confident communicators,
-who are ready for the 21st century.;</p>
+who are ready for the 21st century.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_EL02.jpg">
+</div>
 <h4>Digital Storytelling</h4>
 <p>Using Digital Storytelling (DST), Primary 1 and 2 students create and
 share their narratives with their classmates. Students plan out their stories
@@ -25,19 +29,16 @@ during English lessons and craft out their own characters during Art lessons.
 The stories are then brought to life using animations and narration. Their
 masterpieces are then showcased in a gallery for their peers to enjoy and
 learn from.</p>
-<h4>D.O.T.S.</h4>
-<p><strong>D</strong>iscover, <strong>O</strong>bserve, <strong>T</strong>hink
-and <strong>S</strong>hare (D.O.T.S) introduces and weaves the learning
-of Science into Primary 1 and 2 English lessons through fun and simple
-experiments conducted out of the classroom. These lessons develop students’
-confidence and provide them with opportunities to work as a team to develop
-communication and reasoning skills. In turn, the experience paves the way
-for students when they eventually begin to learn Science in Primary 3.</p>
-<p>During D.O.T.S, students get the opportunity to conduct simple and fun
-experiments outdoors.&nbsp; Students then share their learning and experience
-with their peers.</p>
+<h4>Science in STELLAR (SiS)</h4>
+<p>Science in STELLAR (SiS) introduces and weaves the learning of Science
+into English lessons. Conducted from Primary 1 to 4, students learn about
+science concepts through thematic books taught in the respective levels.
+Students get to observe, discuss and conduct fun and simple experiments.
+These lessons develop students’ confidence and provide them with opportunities
+to work as a team to develop their communication and reasoning skills.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/BEL/bel-tl01a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_EL03.jpg">
 </div>
 <h4>Readers' Delight</h4>
 <h5>Raz-Kids</h5>
@@ -48,14 +49,7 @@ more advanced skills like retelling a story, reading books at an advanced
 level and completing quizzes tagged to the e-books. Students will constantly
 be delighted as the platform provides a wide range of genres and titles
 to choose from.</p>
-<h5>Voracious Reader</h5>
-<p>To encourage students to develop a love for reading, students are scheduled
-to go to the library weekly to explore and enjoy a wide range of reading
-materials. Working hand in hand with the Mother Tongue department, students
-are monitored for their readership. Top readers both in the classrooms
-and across the levels are recognised on a termly basis as Champion Voracious
-Readers.</p>
-<h5>Library Fortnight</h5>
+<h5>Beacon English Language Festival</h5>
 <p>Each term, the Beacon Library highlights different topics to encouraged
 students to be more engaged in their subjects in a fun way. During Library
 Fortnight, students get to interact with subject specific manipulatives
@@ -133,17 +127,9 @@ forms, our students develop a greater sense of self-awareness and sensitivity.</
 <p>At the end of each year, students put up a performance in a LAP Festival
 that consist of a Readers’ Theatre, a skit or even choral singing to showcase
 their talents and love for the various books they have read.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/BEL/bel-tl01c.jpg">
-</div>
-<h4>Spelling Bee</h4>
-<p>In Beacon, students are challenged to widen their vocabulary and improve
-on their spelling through the annual Spelling Bee. Students from Primary
-1 to 4 participate in a series of spelling activities that culminate in
-the finals of the Spelling Bee. These activities inject an element of fun
-and healthy competition to promote good spelling and widened vocabulary.</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/BEL/bel-tl01d.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_EL04.jpg">
 </div>
 <h4>Storytelling Festival</h4>
 <p>The Beacon Storytelling Festival provides opportunities for our students
