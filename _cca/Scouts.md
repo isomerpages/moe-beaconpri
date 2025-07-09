@@ -100,6 +100,6 @@ duty to country, and helping other people.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/BEL/bel-sd02i.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sct01.jpg">
 </div>
 <p></p>
