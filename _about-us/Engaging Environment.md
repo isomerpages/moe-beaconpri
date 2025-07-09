@@ -20,7 +20,7 @@ classrooms and textbooks.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:95%" height="auto" width="100%" src="/images/abt-ee08.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/abt_ee08a.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
