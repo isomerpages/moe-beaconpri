@@ -10,16 +10,7 @@ variant: tiptap
 overseas for school immersion and interesting learning opportunities. The
 objective of this programme is to develop global awareness, cross-cultural
 competence and sensitivity.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_BF01.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_BF02.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_BF03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_btf01.jpg">
 </div>
 <p></p>
