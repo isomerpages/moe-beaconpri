@@ -19,7 +19,6 @@ in games and practise responsible decision making when they discuss and
 decide on rules to ensure a fair and safe game. Students are also taught
 empathy and how to engage different senses as they learn about inclusiveness
 in sports.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_TLPAL01.jpg">
 </div>
@@ -29,7 +28,6 @@ involving outdoor elements such as pitching a tent and exploring the eco
 garden. Students will also get the opportunity to take up an active role
 in taking care of the environment through the adoption of a plant and observe
 the changes over time.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_TLPAL02.jpg">
 </div>
@@ -50,7 +48,6 @@ drama strategies such as ‘Hot Seat’ and ‘Freeze Frame’.</p>
 different instruments to identify the emotions associated with the music.
 Students also learn to work in groups to create rhythms with musical instruments
 such as the handbells, shakers and everyday items like cups and plates.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_TLPAL04.jpg">
 </div>
@@ -58,7 +55,6 @@ such as the handbells, shakers and everyday items like cups and plates.</p>
 <p>During dance, students get to showcase their creativity when incorporating
 cultural elements into their movement using props such as dance ribbons,
 hula hoops and maracas.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_TLPAL05.jpg">
 </div>
