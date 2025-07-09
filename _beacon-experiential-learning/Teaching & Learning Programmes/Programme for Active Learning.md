@@ -68,6 +68,6 @@ students get to learn how to recognise and label emotions so as to enable
 them to know their friends better and respond in appropriate ways when
 listening to different viewpoints.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/BEL/bel-tl09f.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_pal02.jpg">
 </div>
 <p></p>
