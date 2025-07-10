@@ -29,8 +29,8 @@ characteristic of scientists, while fostering essential 21st-century competencie
 including critical and inventive thinking, and effective communication
 skills.</p>
 <h4>Beacon GREENS Programme</h4>
-<p>The Beacon G.R.E.E.N.S. programme is our special programme that makes
-use of our newly built aeroponic and hydroponic green space to offer students
+<p>The Beacon GREENS programme is our special programme that makes use of
+our newly built aeroponic and hydroponic green space to offer students
 a hands-on experience to learn the science behind modern soil-free farming
 methods. This innovative facility promotes sustainable urban farming by
 conserving water, reducing spatial requirements and improving plant growth
