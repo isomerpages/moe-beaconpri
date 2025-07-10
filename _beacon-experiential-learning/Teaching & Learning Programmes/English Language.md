@@ -49,15 +49,14 @@ more advanced skills like retelling a story, reading books at an advanced
 level and completing quizzes tagged to the e-books. Students will constantly
 be delighted as the platform provides a wide range of genres and titles
 to choose from.</p>
-<h5>Beacon English Language Festival</h5>
-<p>Each term, the Beacon Library highlights different topics to encouraged
-students to be more engaged in their subjects in a fun way. During Library
-Fortnight, students get to interact with subject specific manipulatives
-and online resources to deepen their interest in the subject. For example,
-during a Science showcase, students may be engaged in discovering more
-about how solar power can be harnessed to reduce carbon emission while
-for Physical Education, students could be asked to research notable sports
-personalities.</p>
+<h5>Beacon English Language Festival (BELF)</h5>
+<p>Beacon English Language Festival is a platform for students to experience
+the joy of learning English through a range of exciting activities that
+challenge them both in and out of the classroom. The festival lasts for
+a fortnight, during which students participate in word games such as Spelling
+Bee and Scrabble, just to name a few. They are also further engaged during
+library periods, where they are introduced to award-winning books and their
+authors.</p>
 <div class="isomer-image-wrapper">
 <img style="width:95%" height="auto" width="100%" src="/images/BEL/bel-tl01b.jpg">
 </div>
