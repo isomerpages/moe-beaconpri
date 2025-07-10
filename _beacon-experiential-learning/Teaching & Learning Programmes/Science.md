@@ -28,7 +28,7 @@ enriching learning experiences help develop the habits, attitudes and dispositio
 characteristic of scientists, while fostering essential 21st-century competencies,
 including critical and inventive thinking, and effective communication
 skills.</p>
-<h4>Beacon G.R.E.E.N.S. Programme</h4>
+<h4>Beacon GREENS Programme</h4>
 <p>The Beacon G.R.E.E.N.S. programme is our special programme that makes
 use of our newly built aeroponic and hydroponic green space to offer students
 a hands-on experience to learn the science behind modern soil-free farming
