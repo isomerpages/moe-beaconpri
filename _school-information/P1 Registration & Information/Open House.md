@@ -6,18 +6,12 @@ third_nav_title: P1 Registration & Information
 variant: tiptap
 ---
 <h3>Open House 2025</h3>
-<p>Beacon Primary School is having our Open House on Saturday, 31 May 2025
-from 10am to 12pm. Come and embark on an immersive Beacon Experience and
-learn more about the school’s curriculum, distinctive programmes and our
-students’ CCA experiences!</p>
-<p>There will be a dialogue session with Beacon Pri's Principal from 9 to
-10am. Entry from 8.40am only for parents who are attending the session.
-Open House stations will be opened from 10am onwards.</p>
-<p><a href="https://go.gov.sg/beaconopenhouse2025" rel="noopener nofollow" target="_blank">Click here to register for the Open House.</a>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2025Banner_SA.jpg">
+<p>Beacon Primary School had our Open House on Saturday, 31 May 2025 from
+10am to 12pm. Our teachers, staff and students worked hard to share with
+our visitors our curriculum, programmes and activities.</p>
+<p>Let's take a look at what happened during the Open House this year!</p>
+<div class="iframe-wrapper">
+<iframe height="494" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-HMHee0tinQ?si=xQQ4XIAOeMq7HRqG"></iframe>
 </div>
 <h4>Here is a glimpse of year 2024, 2023 and 2022’s Open House:</h4>
 <p></p>
