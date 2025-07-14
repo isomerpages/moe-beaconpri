@@ -12,7 +12,7 @@ variant: markdown
 
 
 <p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/mathe/">
-<img src="/images/BEL/bel-tl02.jpg" style="width:49%" align="left">
+<img src="/images/BEL/BEL_ma.jpg" style="width:49%" align="left">
 </a></p>
 
 <p><a href="/beacon-experiential-learning/Teaching-and-Learning-Programmes/mtl/">
