@@ -22,4 +22,7 @@ Family Day.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_bgt02.jpg">
 </div>
+<blockquote>
+<p></p>
+</blockquote>
 <p></p>
