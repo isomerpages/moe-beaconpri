@@ -80,7 +80,7 @@ and community through VIA projects and leadership tasks.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_04.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_03a.jpg">
 </div>
 <h4>Sexuality Education</h4>
 <p>The Sexuality Education programme in Beacon Primary School follows the
@@ -148,9 +148,6 @@ experiences comprise of:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_10.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_11.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_12.jpg">
 </div>
 <div class="isomer-image-wrapper">
@@ -183,9 +180,6 @@ are designed with these necessary features to meet our students’ needs:</p>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_14.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_15.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_16.jpg">
