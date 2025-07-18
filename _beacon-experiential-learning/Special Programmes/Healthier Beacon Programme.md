@@ -22,7 +22,11 @@ a special prize like a reusable water bottle or healthy snack pack.</p>
 to teach students about healthy eating and staying active in a fun and
 engaging way.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_hbp02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_hbp02a.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_hbp03.jpg">
 </div>
 <p>At Beacon Primary, we care deeply about students’ well-being. Healthier
 Beacon is just one of the many ways we create a caring, vibrant environment
