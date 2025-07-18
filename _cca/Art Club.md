@@ -97,12 +97,11 @@ artists in positive and constructive ways.</p>
 </li>
 </ul>
 <h4>Main Activities</h4>
-<p>Sessions are planned and guided by the Studio Habits of Mind framework.
-Student-artists develop their craft through the exploration of traditional
+<p>Student-artists develop their craft through the exploration of traditional
 art mediums and unconventional materials. The teacher-led sessions are
 scaffolded for students to visually conceptualise ideas, enabling them
 to express their thoughts, imagination and emotions. Some examples of activities
-include batik painting, paper weaving, printmaking, tie-dye, clay sculpting,
+include painting, mixed media Art, printmaking, tie-dye, creating sculptures,
 digital art, outdoor drawing, and learning journey to art museums. The
 Art club also participates actively in the biennial Singapore Youth Festival
 (SYF) Visual Arts Exhibition.</p>
