@@ -14,6 +14,9 @@ grow up stronger and happier.</p>
 They can earn tokens for finishing their meals, especially their fruits
 and vegetables, and for taking part in fun activities during recess, like
 jump rope, traditional games, and simple movement challenges.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_hbp02a.jpg">
+</div>
 <p>Each month, we celebrate the class with the most tokens with a special
 fruit platter. At the end of each term, the top class in every level will
 be named our Healthiest Class, and every child in that class will receive
@@ -21,10 +24,6 @@ a special prize like a reusable water bottle or healthy snack pack.</p>
 <p>To support this effort, we’ve also created colourful murals in the canteen
 to teach students about healthy eating and staying active in a fun and
 engaging way.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_hbp02a.jpg">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_hbp03.jpg">
 </div>
