@@ -17,10 +17,10 @@ jump rope, traditional games, and simple movement challenges.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_hbp02a.jpg">
 </div>
-<p>Each month, we celebrate the class with the most tokens with a special
-fruit platter. At the end of each term, the top class in every level will
-be named our Healthiest Class, and every child in that class will receive
-a special prize like a reusable water bottle or healthy snack pack.</p>
+<p>Every 2 months, we celebrate the class with the most tokens with a special
+fruit platter. At the end of each semester, the top class in every level
+will be named our Healthiest Class, and every child in that class will
+receive a special prize like a healthy snack pack or whole fruit.</p>
 <p>To support this effort, we’ve also created colourful murals in the canteen
 to teach students about healthy eating and staying active in a fun and
 engaging way.</p>
