@@ -22,6 +22,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>International Youth Tchoukball Invitational Championships 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M12 Boys Team A - Champions
+<br>❯ Kester S/O Thevasagayam
+<br>❯ Troy Teoh
+<br>❯ Leroy Chua Aik Leng
+<br>❯ Keith Ong Min Han</p>
+<p></p>
+<p>M12 Boys Team B - 4th
+<br>❯ Giok Wen Yao Alson</p>
+<p></p>
+<p>M12 Girls - 1st Runners-up
+<br>❯ Nur Atrisya Binte Mohamed Haslizan
+<br>❯ Iman Nur Safiyya Binte Imran Nabhan
+<br>❯ Khaleel Ahmed Alfia Mariam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vactors Reading Stars 2025 Competition
 <br>
 <br>❯ <a href="https://podcast.vactors.club/podcast-ep/BpFFA5xV2JP8" rel="noopener nofollow" target="_blank">Click to listen to their Podcast Now!</a>
