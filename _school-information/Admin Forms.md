@@ -25,7 +25,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="https://go.gov.sg/leave-of-absence-application-form" rel="noopener noreferrer nofollow" target="_blank">Click to Download Form</a>
+<p>❯ <a href="https://form.gov.sg/68916f1883fb076a9c1e493c" rel="noopener noreferrer nofollow" target="_blank">Click to Download Form</a>
 </p>
 </td>
 </tr>
@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="https://go.gov.sg/bcps-wait-list-form" rel="noopener noreferrer nofollow" target="_blank">Click to Download Form</a>
+<p>❯ <a href="https://form.gov.sg/68916eaa3d28c12a1deadeda" rel="noopener noreferrer nofollow" target="_blank">Click to Download Form</a>
 </p>
 </td>
 </tr>
