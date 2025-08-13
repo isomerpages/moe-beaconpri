@@ -1,5 +1,4 @@
 collections:
   beacon-school-team:
     output: true
-    order:
-      - Professional Development and Wellbeing.md
+    order: []
