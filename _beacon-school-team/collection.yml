@@ -2,6 +2,5 @@ collections:
   beacon-school-team:
     output: true
     order:
-      - School Counsellor and SEN Officers.md
       - Executive and Administrative Staff (EAS).md
       - Professional Development and Wellbeing.md
