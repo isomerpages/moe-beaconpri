@@ -2,7 +2,6 @@ collections:
   beacon-school-team:
     output: true
     order:
-      - P4 Teachers.md
       - P5 Teachers.md
       - P6 Teachers.md
       - School Counsellor and SEN Officers.md
