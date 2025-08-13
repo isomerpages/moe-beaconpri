@@ -2,5 +2,4 @@ collections:
   beacon-school-team:
     output: true
     order:
-      - Executive and Administrative Staff (EAS).md
       - Professional Development and Wellbeing.md
