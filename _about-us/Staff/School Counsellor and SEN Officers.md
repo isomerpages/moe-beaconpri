@@ -3,6 +3,7 @@ title: School Counsellor and SEN Officers
 permalink: /beacon-school-team/scs/
 description: ""
 variant: tiptap
+third_nav_title: Staff
 ---
 <h3>School Counsellor and SEN Officers</h3>
 <table style="minWidth: 50px">

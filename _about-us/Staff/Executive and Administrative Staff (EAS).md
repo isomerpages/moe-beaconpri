@@ -3,6 +3,7 @@ title: Executive and Administrative Staff (EAS)
 permalink: /beacon-school-team/eas/
 description: ""
 variant: tiptap
+third_nav_title: Staff
 ---
 <h3>Executive and Administrative Staff (EAS)</h3>
 <table style="minWidth: 50px">

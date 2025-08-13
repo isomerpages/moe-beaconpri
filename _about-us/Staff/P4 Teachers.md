@@ -3,6 +3,7 @@ title: P4 Teachers
 permalink: /beacon-school-team/p4/
 description: ""
 variant: tiptap
+third_nav_title: Staff
 ---
 <h3>P4 Teachers</h3>
 <p><strong>Assistant Year Head: </strong>Ms Juzain Binte Jasin</p>

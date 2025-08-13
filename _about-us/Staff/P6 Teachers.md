@@ -3,6 +3,7 @@ title: P6 Teachers
 permalink: /beacon-school-team/p6/
 description: ""
 variant: tiptap
+third_nav_title: Staff
 ---
 <h3>P6 Teachers</h3>
 <p><strong>Year Head:</strong> Mdm Norina Seno (Mdm Rina)</p>
