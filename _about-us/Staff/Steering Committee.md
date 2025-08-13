@@ -24,7 +24,8 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pang Wee Mian</p>
+<p><a href="mailto:beaconprisch@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Pang Wee Mian</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -32,7 +33,8 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lela Shamsuhadi</p>
+<p><a href="mailto:beaconprisch@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lela Shamsuhadi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Education)</p>
@@ -40,7 +42,8 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Melissa Loh-Chang Suet Mun</p>
+<p><a href="mailto:beaconprisch@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Melissa Loh-Chang Suet Mun</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Education)</p>
@@ -48,7 +51,8 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Wei Ngiap</p>
+<p><a href="mailto:beaconprisch@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chen Wei Ngiap</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Admin)</p>
