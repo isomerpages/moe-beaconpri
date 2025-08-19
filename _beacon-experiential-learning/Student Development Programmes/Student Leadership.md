@@ -83,7 +83,7 @@ have grown throughout their journey.</p>
 <p><a href="https://www.beaconpri.moe.edu.sg/school-events/event-gallery/2025/" rel="noopener nofollow" target="_blank">Click to view Album &gt;&gt;</a>
 </p>
 <p></p>
-<h4>Prefect Exco 2024/2025</h4>
+<h4>Prefect Exco 2025/2026</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -103,7 +103,7 @@ have grown throughout their journey.</p>
 <p>Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Chiam Yee</p>
+<p>Tiffany Liang Jing'en</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ have grown throughout their journey.</p>
 <p>Vice-Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Iman Nur Safiyya Binte Imran Nabhan</p>
+<p>Tan Kwang Kim</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ have grown throughout their journey.</p>
 <p>Vice-Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senthilkumar Shrataesh</p>
+<p>Lam Ling Chung</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +127,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zheng, Zimeng</p>
+<p>Joseph Ng</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Peh Yu Tong Sherine</p>
+<p>Zhang Ziqi</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +143,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fajardo Katherine Alexa Soliman</p>
+<p>Reina Tan Sok Koon</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sheik Dahisy Bin Sheik Danil</p>
+<p>Muhammad Ibrahim Bin Isa</p>
 </td>
 </tr>
 <tr>
