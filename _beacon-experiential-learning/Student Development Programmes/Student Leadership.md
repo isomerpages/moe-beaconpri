@@ -34,7 +34,6 @@ their responsibilities in curriculum/non-curriculum related areas.</p>
 <p>Leadership roles: Prefects, CCA Leaders, Class Monitors, AVA Representatives,
 Green Ambassadors, NE Ambassadors, VIA Ambassadors, Cyber Champs, Student
 Peer Leaders, Buddy Readers</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/bel_sd03c1.jpg">
 </div>
@@ -50,14 +49,13 @@ a disciplinary role and help to remind fellow students of their conduct
 and behaviour. As Exco members, they are vested with authority by the school
 to serve with confidence and conviction.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_EXCO_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/P5_EXCO_2025.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03f1.jpg">
 </div>
 <h4>The Student Leaders' Investiture Ceremony</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03i.jpg">
 </div>
@@ -70,9 +68,8 @@ of student contributions to the school’s environment, encouraging them
 to embody the values of responsibility, integrity, and service.</p>
 <p><a href="https://www.beaconpri.moe.edu.sg/school-events/event-gallery/2025/" rel="noopener nofollow" target="_blank">Click to view Album &gt;&gt;</a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03g.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03j.jpg">
 </div>
 <p>The Prefect EXCO Handover Ceremony is a cherished tradition in our school,
 where we acknowledge and applaud the efforts and achievements of our students
@@ -82,8 +79,7 @@ of leadership. It’s a wonderful opportunity to witness how our students
 have grown throughout their journey.</p>
 <p><a href="https://www.beaconpri.moe.edu.sg/school-events/event-gallery/2025/" rel="noopener nofollow" target="_blank">Click to view Album &gt;&gt;</a>
 </p>
-<p></p>
-<h4>Prefect Exco 2024/2025</h4>
+<h4>Prefect Exco 2025/2026</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -103,7 +99,7 @@ have grown throughout their journey.</p>
 <p>Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Chiam Yee</p>
+<p>Tiffany Liang Jing'en</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +107,7 @@ have grown throughout their journey.</p>
 <p>Vice-Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Iman Nur Safiyya Binte Imran Nabhan</p>
+<p>Tan Kwang Kim</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +115,7 @@ have grown throughout their journey.</p>
 <p>Vice-Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senthilkumar Shrataesh</p>
+<p>Lam Ling Chung</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +123,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zheng, Zimeng</p>
+<p>Joseph Ng</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +131,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Peh Yu Tong Sherine</p>
+<p>Zhang Ziqi</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +139,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fajardo Katherine Alexa Soliman</p>
+<p>Reina Tan Sok Koon</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +147,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sheik Dahisy Bin Sheik Danil</p>
+<p>Muhammad Ibrahim Bin Isa</p>
 </td>
 </tr>
 <tr>
@@ -392,5 +388,4 @@ have grown throughout their journey.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
