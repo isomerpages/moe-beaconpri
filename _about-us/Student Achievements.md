@@ -22,6 +22,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>The Prime Minister’s Book Prize (PMBP) (Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zikry Mikhail Bin Indrazahri</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>North West Outstanding All-Rounder Student (OARS) Award 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lau Ching Yern, Jenna</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ActiveSG-TBAS Tchoukball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>❯ Boys Junior Team (Cup) - 2nd
+<br>❯ Girls Junior Team (Cup) - 1st
+<br>❯ Girls Junior Team (Plate) - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>International Youth Tchoukball Invitational Championships 2025</p>
 </td>
 <td rowspan="1" colspan="1">
