@@ -20,18 +20,18 @@ variant: markdown
 | 3 | 2 Oct | All | Children’s Day Celebration (dismissal at 10.30 am) |
 | 3 | 2 Oct | P2 | CCA Showcase (AM) |
 | 3 | 3 Oct | All | **School Holiday** - Children’s Day |
-| x | xx | xx | xx |
-| x | xx | xx | xx |
-| x | xx | xx | xx |
-| x | xx | xx | xx |
-| x | xx | xx | xx |
-| x | xx | xx | xx |
-| x | xx | xx | xx |
-| x | xx | xx | xx |
-| x | xx | xx | xx |
-| x | xx | xx | xx |
-| x | xx | xx | xx |
-| x | xx | xx | xx |
+| 4 | 6 Oct | P3 - P5 | End of Year Examination (EYE) EL Paper 1 |
+| 4 | 7 Oct | P3 - P5 | EYE MTL Paper 1 |
+| 4 | 10 Oct | All | **Cultural Celebrations and Family Day** (6 to 8pm) |
+| 5 | 13 - 15 Oct | All | PSLE Marking Exercise |
+| 5 | 13 - 15 Oct | All | Home-Based Learning |
+| 6 | 20 Oct | All | **Public Holiday** - Deepavali |
+| 6 | 22 Oct | P4 | MTL Oral (PM) |
+| 6 | 22 Oct | P5 | EL Oral (PM) |
+| 6 | 23 Oct | P4 | EL Oral (PM) |
+| 6 | 23 Oct | P5 | MTL Oral (PM) |
+| 6 | 23 Oct | P3 - P5 | No CCA |
+| 6 | xx | xx | xx |
 | x | xx | xx | xx |
 | x | xx | xx | xx |
 | x | xx | xx | xx |
