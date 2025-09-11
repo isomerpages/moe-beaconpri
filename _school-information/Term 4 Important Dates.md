@@ -43,7 +43,7 @@ variant: markdown
 | 10 | 18 Nov | P1 - P5 | Release of Sem 2 HDP |
 | 10 | 19 Nov | P5 | Beacon Achievement Ceremony (dismissal at 10.30am) |
 | 10 | 19 Nov | P6 | Beacon Achievement Ceremony and Graduation Ceremony (11.30am-4.15pm)<br>P6 Students to report to school at 11.30am |
-| 10 | 19 Nov | P1 - P2 &amp; <br>P5 - P6 | Last Day of School |
+| 10 | 19 Nov | P1 - P2<br>P5 - P6 | Last Day of School |
 | 10 | 20 Nov | P3 - P4 | Beacon Achievement Ceremony <br>(P3 dismissal at 10.30am. P4 dismissal at 12.30pm) |
 | 10 | 20 Nov | P3 - P4 | Last Day of School |
 | 10 | 20 Nov | P1 - P5 | Parent- Teacher Meeting for selected students (PM) |
