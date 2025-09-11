@@ -39,7 +39,7 @@ variant: markdown
 | 9 | 12 Nov | All | Admin Day |
 | 9 | 12 Nov | All | Home-Based Learning |
 | 9 | 13 Nov | P3 - P5 | No CCA |
-| 9 | 14 Nov | P1 &amp; P2 | Beacon Achievement Ceremony<br>(P2 dismissal at 10.30am. P1 dismissal at 12.30pm) |
+| 9 | 14 Nov | P1 - P2 | Beacon Achievement Ceremony<br>(P2 dismissal at 10.30am. P1 dismissal at 12.30pm) |
 | 10 | 18 Nov | P1 - P5 | Release of Sem 2 HDP |
 | 10 | 19 Nov | P5 | Beacon Achievement Ceremony (dismissal at 10.30am) |
 | 10 | 19 Nov | P6 | Beacon Achievement Ceremony and Graduation Ceremony (11.30am-4.15pm)<br>P6 Students to report to school at 11.30am |
