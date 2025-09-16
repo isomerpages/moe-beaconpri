@@ -49,4 +49,6 @@ variant: markdown
 | 10 | 20 Nov | P1 - P5 | Parent- Teacher Meeting for selected students (PM) |
 | 10 | 21 Nov | P1 - P5 | Parent- Teacher Meeting for selected students (FD) |
 | 10 | 21 Nov |  | 2026 P1 Briefing (9am-10.30am) |
+| 2026 | 2 Jan | P1 | Start of new school year for P1 students |
+| 2026 | 5 Jan | All | Start of new school year for all levels |
 |  |  |  |  |
