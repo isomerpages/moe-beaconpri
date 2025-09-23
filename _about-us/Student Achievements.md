@@ -95,8 +95,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chloe Ang Kai Qian &amp;&nbsp; Anna Theu Ya Yan
-<br>❯ Certificate of Recognition</p>
+<p>Certificate of Recognition
+<br>❯ Chloe Ang Kai Qian
+<br>❯ Anna Theu Ya Yan</p>
 </td>
 </tr>
 <tr>
