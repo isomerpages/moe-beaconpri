@@ -22,6 +22,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>National School Games Table Tennis Competition (Junior Division)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hou Haoran
+<br>❯ Gold (Tier 4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>The Prime Minister’s Book Prize (PMBP) (Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
