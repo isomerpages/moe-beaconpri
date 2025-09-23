@@ -72,14 +72,6 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Bee Tin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Hatijah Binte Samsudin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,14 +124,6 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurul Afiqah Binte Leko Ali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Librarian</p>
 </td>
 </tr>
 <tr>
