@@ -11,7 +11,7 @@ variant: tiptap
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BCPS_Logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BCPS_Logo.png">
 </div>
 <p>Our school crest in the shape of a shield symbolises our strength and
 our commitment in nurturing the whole child. The crest consists of a beacon
