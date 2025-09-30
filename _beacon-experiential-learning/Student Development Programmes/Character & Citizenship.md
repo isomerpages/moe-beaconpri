@@ -26,9 +26,6 @@ Beacons strive to</p>
 <li>
 <p><strong>E</strong>xcel through Ownership in Learning.</p>
 </li>
-<li>
-<p><strong>S</strong>haping a brighter future for all Beacons.</p>
-</li>
 </ol>
 <h4>SHINE Values</h4>
 <p>Beacon’s SHINE values drive all character development programmes. The
