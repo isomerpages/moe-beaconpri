@@ -25,7 +25,7 @@ teaching and learning.</p>
 <p>Cold drinks and cut fruits</p>
 </li>
 <li>
-<p>Hot drinks and snack</p>
+<p>Hot drinks and snacks</p>
 </li>
 </ul>
 <p>Although the school does not have a dedicated stall selling vegetarian
