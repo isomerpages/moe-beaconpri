@@ -25,7 +25,7 @@ teaching and learning.</p>
 <p>Cold drinks and cut fruits</p>
 </li>
 <li>
-<p>Hot drinks and snack</p>
+<p>Hot drinks and snacks</p>
 </li>
 </ul>
 <p>Although the school does not have a dedicated stall selling vegetarian
@@ -39,7 +39,7 @@ or strict dietary requirements are encouraged to bring their own food.</p>
 <h4>School Dental Clinic</h4>
 </blockquote>
 <p>The school dental clinic will be open on alternate weeks. Please refer
-to <a href="/files/Dental_09.pdf" rel="noopener nofollow" target="_blank">HERE</a> for
+to <a href="/files/Dental_10.pdf" rel="noopener nofollow" target="_blank">Here</a> for
 the Dental Clinic Opening Days. Please contact 91141358 (call/SMS/WhatsApp)
 to make an appointment for dental services.</p>
 <p>In the event that the clinic is closed, students who need urgent dental

@@ -26,9 +26,6 @@ Beacons strive to</p>
 <li>
 <p><strong>E</strong>xcel through Ownership in Learning.</p>
 </li>
-<li>
-<p><strong>S</strong>haping a brighter future for all Beacons.</p>
-</li>
 </ol>
 <h4>SHINE Values</h4>
 <p>Beacon’s SHINE values drive all character development programmes. The
@@ -41,7 +38,7 @@ reflect and practice on how to be a SHINE-ing Beacon in our daily activities
 and actions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/BEL/cce_sv.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/cce_sv_A.jpg">
 </div>
 <h4>CCE Curriculum Content</h4>
 <p>The curriculum content of CCE is based on the three big ideas of Identity,
