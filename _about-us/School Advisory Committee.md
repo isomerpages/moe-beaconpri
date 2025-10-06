@@ -31,6 +31,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Bey Shi Ang, Maximus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Chia Song Leng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,23 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Genevieve Ding Zung Mei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Thing Yi Hao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Maximus Bey Shi Ang</p>
+<p>Ms Ding Zung Mei, Genevieve</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -64,6 +56,30 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Ernie Herlynn Bte Herman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Nghee Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Ming Kuang, Jeremy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Thing Yi Hao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
