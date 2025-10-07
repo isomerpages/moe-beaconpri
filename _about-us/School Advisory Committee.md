@@ -23,7 +23,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Nghee Huat</p>
+<p>Mr Lim Nghee Huat, Stephen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairman</p>
