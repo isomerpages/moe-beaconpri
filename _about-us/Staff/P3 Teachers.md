@@ -59,6 +59,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siu_kai_chong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Siu Kai Chong</a>
+<br><a href="prakash_ramachandran@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Prakash Ramachandran</a>
 </p>
 </td>
 </tr>
