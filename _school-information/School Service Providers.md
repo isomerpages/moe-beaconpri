@@ -105,9 +105,6 @@ the month of December.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <p>For emergency dental treatment such as facial/gum swelling, severe toothache
 and dental trauma, please contact School Dental Centre via email at <a href="mailto:Contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a>.</p>
 <p></p>
