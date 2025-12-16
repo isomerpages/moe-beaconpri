@@ -57,19 +57,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application Form for School Smart Card (SSC)</p>
+<p>Replacement of Lost School Smart Card (SSC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="/files/Appendix%20D_appln%20for%20SSC_MOE%20SCH_Nov%2015.pdf" rel="noopener noreferrer nofollow" target="_blank">Click to Download Form</a>
+<p>❯ <a href="https://svc.simplygo.com.sg/eservice/econcession/app_form1.php?app_type=2" rel="noopener nofollow" target="_blank">Click for Replacement</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Change of Address</p>
+<p>Update Student Details</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="/files/change%20of%20address_form%20c.pdf" rel="noopener noreferrer nofollow" target="_blank">Click to Download Form</a>
+<p>❯ <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">Click to Update</a>
 </p>
 </td>
 </tr>
