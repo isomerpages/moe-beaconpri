@@ -39,8 +39,8 @@ or strict dietary requirements are encouraged to bring their own food.</p>
 <h4>School Dental Clinic</h4>
 </blockquote>
 <p>Please be informed that Beacon Primary Dental Clinic will be closed during
-the month of December.</p>
-<p>For alternative arrangements, you may contact the following schools.&nbsp;</p>
+the month of December. For alternative arrangements, you may contact the
+following schools.&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
