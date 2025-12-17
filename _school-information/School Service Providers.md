@@ -38,12 +38,73 @@ or strict dietary requirements are encouraged to bring their own food.</p>
 <blockquote>
 <h4>School Dental Clinic</h4>
 </blockquote>
-<p>The school dental clinic will be open on alternate weeks. Please refer
-to <a href="/files/Dental_11.pdf" rel="noopener nofollow" target="_blank">Here</a> for
-the Dental Clinic Opening Days. Please contact 91141358 (call/SMS/WhatsApp)
-to make an appointment for dental services.</p>
-<p>In the event that the clinic is closed, students who need urgent dental
-treatment may contact Bukit Panjang Primary Dental Clinic at 9114 2186.</p>
+<p>Please be informed that Beacon Primary Dental Clinic will be closed during
+the month of December. For alternative arrangements, you may contact the
+following schools.&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>South View Primary School</strong>
+<br>6 Choa Chu Kang Central, 689762
+<br>Contact - 9115 6994</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 December - 4 December</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Boon Lay Garden Primary </strong>
+<br>20 Boon Lay Drive, 649930
+<br>Contact - 9114 1896</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 November - 5 December</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>De La Salle School</strong>
+<br>11 Choa Chu Kang Street 52,&nbsp; 689285 (Yew Tee)
+<br>Contact - 9114 5692</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 December - 31 December</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MDC 23 Hua Yi Secondary</strong>
+<br>60 Jurong West St 42, 649371
+<br>Contact - 9186 4604</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 December - 18 December</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>For emergency dental treatment such as facial/gum swelling, severe toothache
 and dental trauma, please contact School Dental Centre via email at <a href="mailto:Contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a>.</p>
 <p></p>
