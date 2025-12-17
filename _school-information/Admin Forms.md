@@ -60,7 +60,7 @@ variant: tiptap
 <p>Replacement of Lost School Smart Card (SSC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="https://svc.simplygo.com.sg/eservice/econcession/app_form1.php?app_type=2" rel="noopener nofollow" target="_blank">Click for Apply</a>
+<p>❯ <a href="https://svc.simplygo.com.sg/eservice/econcession/app_form1.php?app_type=2" rel="noopener nofollow" target="_blank">Click to Apply Online</a>
 </p>
 </td>
 </tr>
