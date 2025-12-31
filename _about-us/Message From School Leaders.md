@@ -10,7 +10,6 @@ variant: tiptap
 <p><strong>Principal’s Message</strong>
 </p>
 </blockquote>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_PrincipalA.jpg">
 </div>
@@ -96,10 +95,13 @@ to grow, shine, and contribute positively to the world around them.</p>
 </p>
 <hr>
 <p></p>
+<blockquote>
 <p><strong>Vice-Principal (Administration)’s Message</strong>
 </p>
-<p><strong>[Insert Photo]</strong>
-</p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_VPA3A.jpg">
+</div>
 <p>Beacon is not merely a place for learning facts and figures – it is about
 discovering each student's potential and providing the opportunities and
 platforms they need to shine and achieve their best. We strive to create
