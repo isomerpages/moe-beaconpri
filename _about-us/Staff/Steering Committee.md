@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Staff
 ---
-<h3>Steering Committee</h3>
+<h3>Executive Committee (EXCO)</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -172,7 +172,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ English</p>
+<p>LH/ English</p>
 </td>
 </tr>
 <tr>
@@ -208,7 +208,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/ ICT (Covering)</p>
+<p>SH/ ICT (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/ CCE (Covering)</p>
+<p>SH/ CCE (Covering)</p>
 </td>
 </tr>
 <tr>
