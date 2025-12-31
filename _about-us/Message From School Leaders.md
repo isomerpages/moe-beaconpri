@@ -73,7 +73,9 @@ and courage.</p>
 <p><strong>Vice-Principal’s Message</strong>
 </p>
 </blockquote>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL/Mel_s_Photo_for_the_Website.jpg">
+</div>
 <p>It is a privilege to be part of the Beacon family, a school that takes
 pride in nurturing Future-Ready Learners. At Beacon, we aspire for every
 child to develop to their fullest potential and to become a positive asset
