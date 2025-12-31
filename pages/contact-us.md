@@ -21,8 +21,9 @@ contacts:
       - other: For any enquiries, please drop us an email.
     title: General Office
   - content:
-      - phone: ""
+      - phone: +65 6769 7244
       - email: ""
-      - other: 6769 7244
-    title: Fasimile
+      - other: ""
+    title: Fax
+feedback: ""
 ---
