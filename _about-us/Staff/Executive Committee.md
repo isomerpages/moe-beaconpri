@@ -141,11 +141,11 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_azarina_khamis@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nur Azarina Binte Khamis</a>
+<p><a href="mailto:weepeng_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Goh Wee Peng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD ICT</p>
+<p>HOD Aesthetic</p>
 </td>
 </tr>
 <tr>
@@ -159,11 +159,11 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:weepeng_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Goh Wee Peng</a>
+<p><a href="mailto:nur_azarina_khamis@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nur Azarina Binte Khamis</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD&nbsp;Aesthetics</p>
+<p>HOD&nbsp;ICT</p>
 </td>
 </tr>
 <tr>
@@ -172,7 +172,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/ English</p>
+<p>LH / English</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +181,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/ Mathematics</p>
+<p>LH / Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -190,7 +190,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/ Science</p>
+<p>LH / Science</p>
 </td>
 </tr>
 <tr>
@@ -199,7 +199,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ CCA</p>
+<p>SH / CCA</p>
 </td>
 </tr>
 <tr>
@@ -208,7 +208,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ ICT (Covering)</p>
+<p>SH / ICT (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ CCE (Covering)</p>
+<p>SH / CCE (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +226,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ Student Management</p>
+<p>SH / Student Management</p>
 </td>
 </tr>
 <tr>
@@ -235,7 +235,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/ Malay Language</p>
+<p>Senior Teacher / Malay Language</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +244,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/ Mathematics</p>
+<p>Senior Teacher / Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/ Tamil Language</p>
+<p>Senior Teacher / Tamil Language</p>
 </td>
 </tr>
 <tr>
