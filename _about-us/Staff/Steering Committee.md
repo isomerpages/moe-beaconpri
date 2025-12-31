@@ -60,6 +60,15 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:ma_yanying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ma Yanying</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:ng_siew_choon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Siew Choon&nbsp; (Mrs Low)</a>
 </p>
 </td>
@@ -155,15 +164,6 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD&nbsp;Aesthetics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ma_yanying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ma Yanying</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
 </td>
 </tr>
 <tr>
