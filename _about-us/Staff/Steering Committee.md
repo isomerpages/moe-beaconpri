@@ -222,7 +222,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:emielliana_mira_jafry@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Emielliana Mira Jafry</a>
+<p><a href="mailto:emielliana_mira_jafry@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Emielliana Mira Bte Jafry</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
