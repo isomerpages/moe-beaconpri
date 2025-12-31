@@ -47,8 +47,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mustaffa_ahmad@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mr Mustaffa Bin Ahmad</u></a>
-</p>
-<p><a href="mailto:juzain_jasin@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Ms Juzain Binte Jasin</u></a>
+<br><a href="mailto:juzain_jasin@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Ms Juzain Binte Jasin</u></a>
 </p>
 </td>
 </tr>
