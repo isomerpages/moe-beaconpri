@@ -297,9 +297,6 @@ students from home to school and vice versa):
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/SI/ssp_01.jpg">
-</div>
 <p>❯ <a href="https://form.gov.sg/690c173d9dfec14e0ca1d75a" rel="noopener nofollow" target="_blank">Click Here to Register</a>
 </p>
 <p></p>
