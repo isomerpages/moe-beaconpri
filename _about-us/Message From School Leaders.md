@@ -74,7 +74,7 @@ and courage.</p>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL/Mel_s_Photo_for_the_Website.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL/Mel_s_Photo_for_the_Website2.jpg">
 </div>
 <p>It is a privilege to be part of the Beacon family, a school that takes
 pride in nurturing Future-Ready Learners. At Beacon, we aspire for every
