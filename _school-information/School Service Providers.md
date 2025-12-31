@@ -193,6 +193,110 @@ required to enter and exit
 students from home to school and vice versa):
 <br>
 <br>Initial Contract Period : 1 Jan 2024 to 31 Dec 2025</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Distance</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Up to 15 seater</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Less than 15 Seater</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 way</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$180</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$180</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$140</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$140</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Less than 2 - 4km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$230</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$230</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$170</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$170</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/SI/ssp_01.jpg">
 </div>
