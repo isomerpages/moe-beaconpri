@@ -11,10 +11,10 @@ variant: tiptap
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_PrincipalA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL/SL_PrincipalA.jpg">
 </div>
 <p>My vision for Beacon is a school where every child experiences <strong>personal growth and discovery, </strong>as
-well as<strong> purposeful contribution</strong>—where they understand
+well as<strong> purposeful contribution</strong> - where they understand
 who they are, what they value, and how they can make a positive difference
 to others.</p>
 <p>I wish for Beacon to be a <strong>caring and supportive place </strong>where
@@ -49,8 +49,9 @@ just stay as ideas, but become shared action for the good of all.</p>
 <p><strong>Vice-Principal’s Message</strong>
 </p>
 </blockquote>
-<p><strong>[Insert photo]</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL/sl_vp1a.jpg">
+</div>
 <p>Imagine a place where curiosity sparks, friendships flourish, and young
 minds grow into compassionate leaders. That's Beacon Primary School – a
 vibrant community where students discover passions, push boundaries, and
@@ -72,8 +73,7 @@ and courage.</p>
 <p><strong>Vice-Principal’s Message</strong>
 </p>
 </blockquote>
-<p><strong>[Insert Photo]</strong>
-</p>
+<p></p>
 <p>It is a privilege to be part of the Beacon family, a school that takes
 pride in nurturing Future-Ready Learners. At Beacon, we aspire for every
 child to develop to their fullest potential and to become a positive asset
@@ -91,7 +91,7 @@ learning.</p>
 <p>Anchored in the belief that every child can learn and succeed, I look
 forward to working closely with our school community to guide our Beacons
 to grow, shine, and contribute positively to the world around them.</p>
-<p><strong>Mrs Melissa Loh</strong>
+<p><strong>Mrs Melissa Loh-Chang Suet Mun</strong>
 </p>
 <hr>
 <p></p>
@@ -100,7 +100,7 @@ to grow, shine, and contribute positively to the world around them.</p>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_VPA3A.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL/SL_VPA3A.jpg">
 </div>
 <p>Beacon is not merely a place for learning facts and figures – it is about
 discovering each student's potential and providing the opportunities and
