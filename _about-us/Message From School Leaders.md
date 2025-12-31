@@ -50,7 +50,7 @@ just stay as ideas, but become shared action for the good of all.</p>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL/sl_vp1a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL/SL_VPA1A.jpg">
 </div>
 <p>Imagine a place where curiosity sparks, friendships flourish, and young
 minds grow into compassionate leaders. That's Beacon Primary School – a
@@ -74,7 +74,7 @@ and courage.</p>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL/Mel_s_Photo_for_the_Website2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL/SL_VPA2A.jpg">
 </div>
 <p>It is a privilege to be part of the Beacon family, a school that takes
 pride in nurturing Future-Ready Learners. At Beacon, we aspire for every
