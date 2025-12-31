@@ -28,8 +28,8 @@ third_nav_title: Staff
 <p>5.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:victoria_wong_zi_qing@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Victoria Wong Zi Qing</a>
-<br><a href="mailto:lim_hui_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Liew Lim Hui Leng</a>
+<p><a href="mailto:roslan_yahya@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mr Roslan Bin Yahya</u></a>
+<br><a href="mailto:lau_chee_wee_david@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mr Lau Chee Wee David</u></a>
 </p>
 </td>
 </tr>
@@ -38,8 +38,8 @@ third_nav_title: Staff
 <p>5.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sri_shangeetha_sangar@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sri Shangeetha Sangar</a>
-<br><a href="mailto:nur_aini_mohd_yunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Aini Bte Mohd Yunos</a>
+<p><a href="mailto:rekha_pugalendhi@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Ramadoss Rekha</u></a>
+<br><a href="mailto:abdul_aziz_kamaruddin@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mr Abdul Aziz Bin Kamarudin</u></a>
 </p>
 </td>
 </tr>
@@ -48,7 +48,8 @@ third_nav_title: Staff
 <p>5.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_kian_chuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chua Kian Chuan</a>
+<p><a href="mailto:chia_guat_yiam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Chia Guat Yiam</u></a>
+<br><a href="mailto:nur_azarina_khamis@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Ms Nur Azarina Binte Khamis</u></a>
 </p>
 </td>
 </tr>
@@ -57,8 +58,8 @@ third_nav_title: Staff
 <p>5.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ting_chiow_kheng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ting Chiow Kheng</a>
-<br><a href="mailto:tan_shin_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Shin Ling</a>
+<p><a href="mailto:chang_jia_wei_a@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Ms Chang Jia Wei</u></a>
+<br><a href="mailto:ng_renjie_ken@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mr Ng Renjie Ken</u></a>
 </p>
 </td>
 </tr>
@@ -67,8 +68,8 @@ third_nav_title: Staff
 <p>5.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_erliana_supanie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Erliana Bte Supanie</a>
-<br><a href="mailto:norina_seno@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Norina Binte Seno (Mdm Rina)</a>
+<p><a href="mailto:zainah_alias@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Zainah Bte Alias</u></a>
+<br><a href="mailto:khairyani_kamarolzaman@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Khairyani Bte Kamarolzaman</u></a>
 </p>
 </td>
 </tr>
@@ -77,8 +78,8 @@ third_nav_title: Staff
 <p>5.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_yong_qi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ong Yong Qi</a>
-<br><a href="mailto:ng_wan_qing@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ng Wan Qing</a>
+<p><a href="mailto:ang_hiang_chai@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mr Ang Hiang Chai</u></a>
+<br><a href="mailto:norina_seno@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Norina Binte Seno (Mdm Rina)</u></a>
 </p>
 </td>
 </tr>
