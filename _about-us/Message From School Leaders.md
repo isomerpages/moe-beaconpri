@@ -10,8 +10,10 @@ variant: tiptap
 <p><strong>Principal’s Message</strong>
 </p>
 </blockquote>
-<p><strong>[Insert Photo]</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_PrincipalA.jpg">
+</div>
 <p>My vision for Beacon is a school where every child experiences <strong>personal growth and discovery, </strong>as
 well as<strong> purposeful contribution</strong>—where they understand
 who they are, what they value, and how they can make a positive difference
