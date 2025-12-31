@@ -38,9 +38,13 @@ or strict dietary requirements are encouraged to bring their own food.</p>
 <blockquote>
 <h4>School Dental Clinic</h4>
 </blockquote>
-<p>Please be informed that Beacon Primary Dental Clinic will be closed during
-the month of December. For alternative arrangements, you may contact the
-following schools.&nbsp;</p>
+<p>The school dental clinic will be open on alternate weeks. Please refer
+to for the Dental Clinic Opening Days. Please contact 91141358 (call/SMS/WhatsApp)
+to make an appointment for dental services.</p>
+<p>If you require any urgent dental treatment and the clinic is closed, please
+call one of the following buddy clinks for assistance. For general enquiry,
+please email: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -56,43 +60,43 @@ following schools.&nbsp;</p>
 </td>
 </tr>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Buddy Clinic</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>South View Primary School</strong>
-<br>6 Choa Chu Kang Central, 689762
-<br>Contact - 9115 6994</p>
+<p>South View primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 December - 4 December</p>
+<p>91156994</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Boon Lay Garden Primary </strong>
-<br>20 Boon Lay Drive, 649930
-<br>Contact - 9114 1896</p>
+<p>Greenridge Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 November - 5 December</p>
+<p>98396594</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>De La Salle School</strong>
-<br>11 Choa Chu Kang Street 52,&nbsp; 689285 (Yew Tee)
-<br>Contact - 9114 5692</p>
+<p>Bukit Panjang Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 December - 31 December</p>
+<p>91142186</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MDC 23 Hua Yi Secondary</strong>
-<br>60 Jurong West St 42, 649371
-<br>Contact - 9186 4604</p>
+<p>Yew Tee Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 December - 18 December</p>
+<p>91159835</p>
 </td>
 </tr>
 <tr>
@@ -105,8 +109,6 @@ following schools.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>For emergency dental treatment such as facial/gum swelling, severe toothache
-and dental trauma, please contact School Dental Centre via email at <a href="mailto:Contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a>.</p>
 <p></p>
 <blockquote>
 <h4>School Uniform Supplier</h4>
