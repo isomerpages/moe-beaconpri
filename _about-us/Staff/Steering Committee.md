@@ -177,7 +177,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_aziz_kamaruddin@moe.edu.sg" rel="noopener nofollow" target="_blank">Abdul Aziz Bin Kamarudin</a>
+<p><a href="mailto:abdul_aziz_kamaruddin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Abdul Aziz Bin Kamarudin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
