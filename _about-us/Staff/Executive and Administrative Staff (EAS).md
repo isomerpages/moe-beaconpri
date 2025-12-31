@@ -32,14 +32,6 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Siow Yen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Noorzana Binte Sa'don</p>
 </td>
 <td rowspan="1" colspan="1">

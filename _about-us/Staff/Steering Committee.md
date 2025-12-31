@@ -24,7 +24,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:beaconprisch@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Pang Wee Mian</a>
+<p><a href="mailto:beaconprisch@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Angela Ng Suat Then</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,7 +51,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:beaconprisch@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chen Wei Ngiap</a>
+<p><a href="mailto:beaconprisch@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Soh Siow Yen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +73,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Pri 3 &amp; Pri 4)</p>
+<p>Year Head (Pri 3 &amp; Pri 4)</p>
 </td>
 </tr>
 <tr>
@@ -87,11 +87,38 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wen_li_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wen Lili</a>
+<p><a href="mailto:noraini_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noraini Binte Zainal (Mrs Ra'uf)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Mother Tongue Languages</p>
+<p>HOD English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_renjie_ken@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Renjie Ken</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lau_chee_wee_david@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lau Chee Wee David</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_wan_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Wan Qing</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mother Tongue Languages (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -100,16 +127,16 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD PHE &amp; CCA</p>
+<p>HOD PHE &amp; PAL</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noraini_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noraini Binte Zainal (Mrs Ra'uf)</a>
+<p><a href="mailto:nur_azarina_khamis@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nur Azarina Binte Khamis</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD English</p>
+<p>HOD ICT</p>
 </td>
 </tr>
 <tr>
@@ -123,6 +150,15 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:weepeng_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Goh Wee Peng</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD&nbsp;Aesthetics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:ma_yanying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ma Yanying</a>
 </p>
 </td>
@@ -132,83 +168,20 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_wan_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Wan Qing</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/ Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:toh_lee_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Goh-Toh Lee Ching</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/ PHE &amp; PAL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:emielliana_mira_jafry@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Emielliana Mira Jafry</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/ Student Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:weepeng_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Goh Wee Peng</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/&nbsp;Aesthetics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:nur_aini_mohd_yunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Aini Bte Mohd Yunos</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/NESS</p>
+<p>SH/ English</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_renjie_ken@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Renjie Ken</a>
+<p><a href="mailto:abdul_aziz_kamaruddin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Abdul Aziz Bin Kamarudin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH/ Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:go_qiuxia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Go Qiuxia</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH/ CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:foo_yaosheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Foo Yaosheng</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH/ ICT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lau_chee_wee_david@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lau Chee Wee David</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH/ Science</p>
 </td>
 </tr>
 <tr>
@@ -222,11 +195,38 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sri_devi_sritharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sri Devi d/o Sritharan (Mrs Siva)</a>
+<p><a href="mailto:toh_lee_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Goh-Toh Lee Ching</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/ English</p>
+<p>SH/ CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pang_xiao_tian_patricia@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Pang Xiao Tian Patricia</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/ ICT (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_atiqah_ilham@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Ms Nur Atiqah Binte Ilham</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/ CCE (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:emielliana_mira_jafry@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Emielliana Mira Bte Jafry</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ Student Management</p>
 </td>
 </tr>
 <tr>
