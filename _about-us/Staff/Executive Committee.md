@@ -24,7 +24,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:beaconprisch@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Angela Ng Suat Then</a>
+<p><a href="mailto:beaconprisch@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Angela Ng Suat Theng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +55,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (Admin)</p>
+<p>Vice-Principal (Administration)</p>
 </td>
 </tr>
 <tr>
