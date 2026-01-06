@@ -24,7 +24,7 @@ variant: markdown
 | 2 | 12 Jan | P5 | P5 Parents’ Briefing via Microsoft Teams platform<br>(4.00pm – 5.15pm) |
 | 2 | 12 Jan | P6 | P6 Parents’ Briefing via Microsoft Teams platform<br>(5.15pm – 6.30pm) |
 | 2 | 13 Jan | P4 - P6 | Commencement of Mathematical Olympiad Workshops for selected students (2.15pm – 3.45 pm) |
-| 2 | 13 Jan | P1 - P6 | Commencement of ‘Read with Me’ Programme for selected students (7.10am -7.30am) |
+| 2 | 13 Jan | P1 - P6 | Commencement of ‘Read with Me’ Programme for selected students<br>(7.10am -7.30am) |
 | 2 | 15 Jan | P4 - P6 | Commencement of Co-Curricular Activities (CCA)<br>(2.15pm - 4.15pm / 3.30pm - 5.30pm) |
 | 3 | 19 Jan | P5 &amp; P6 | Commencement of Maths Remediation<br>(P5 2.15pm - 3.15pm, P6 2.15pm - 3.30pm selected students) |
 | 3 | 19 Jan | P4 | P4 Parents’ Briefing via Microsoft Teams platform<br>(4pm – 5.15pm) |
