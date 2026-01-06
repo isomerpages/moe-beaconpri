@@ -37,5 +37,5 @@ variant: markdown
 | 7 | 19 Feb | P3 - P6 | No CCA |
 | 8 | 24 Feb | All | Class Photo-taking<br>• All classes will be rostered for photo-taking.<br>• All students are to report to school in their PE attire. |
 | 10 | 11 - 13 Mar | P6 | Parent – Teacher Meetings (PTM) via Microsoft Teams platform (PM) |
-| 11 | 14 - 23 March | All | March School Holiday |
+| 11 | 14 - 23 Mar | All | March School Holiday |
 |  |  |  |  |
