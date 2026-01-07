@@ -52,9 +52,6 @@ variant: tiptap
 <li>
 <p>Mdm Sam Wei Ting</p>
 </li>
-<li>
-<p>Mdm Li Tingting</p>
-</li>
 </ul>
 </td>
 </tr>
