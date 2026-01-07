@@ -50,7 +50,7 @@ variant: tiptap
 <p>Ms Kwek Keem Shin Vanessa</p>
 </li>
 <li>
-<p>Ms Lum Zhi Yu, Emma</p>
+<p>Mr Abdul Aziz Bin Kamaruddin</p>
 </li>
 </ul>
 </td>
