@@ -35,12 +35,12 @@ and collaboration, without an over-emphasis on grades.</p>
 authentic opportunities for students to shape school life through inquiry,
 service, and leadership that goes beyond formal roles, so every child feels
 they have a voice and a place.</p>
-<p>Third, <strong>enable teacher flourishing and collective efficacy</strong> a
-culture of trust, collaboration, sustainable workload, and strong partnerships
+<p>Third, <strong>enable teacher flourishing and collective efficacy </strong>with
+a culture of trust, collaboration, sustainable workload, and strong partnerships
 with parents and the community, so teachers can do their best work together.</p>
 <p>Ultimately, I want Beacon to be known as a school that truly lives the
-“we-first” spirit—where people feel they belong, and where good ideas don’t
-just stay as ideas, but become shared action for the good of all.</p>
+“we-first” spirit—where people feel they belong, and where good ideas do
+not just stay as ideas, but become shared action for the good of all.</p>
 <p><strong>Ms Angela Ng Suat Theng</strong>
 </p>
 <hr>
