@@ -66,7 +66,7 @@ for friendships and social integration amongst students of diverse backgrounds.<
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/robotics/" rel="noopener noreferrer nofollow" target="_blank">Robotics</a>
+<p><a href="/cca/robotics/" rel="noopener noreferrer nofollow" target="_blank">Robotics and Digital Media Club</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
