@@ -12,7 +12,7 @@ School, we aim to cultivate in our students the joy of learning so that
 they are motivated to pursue their interests and talents in the long run.
 Our CCAs also emphasise social interaction by providing a common space
 for friendships and social integration amongst students of diverse backgrounds.</p>
-<p>❯ <a href="/files/CCA_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Click for 2025 CCA Schedule</a>
+<p>❯ <a href="/files/CCA_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Click for 2026 CCA Schedule</a>
 </p>
 <h4>Summary of CCAs Offered in Beacon Primary School</h4>
 <p>Click on the links below to find out more about our CCAs.</p>
@@ -157,21 +157,15 @@ and allow time for students to develop CCA-specific knowledge, skills,
 values and attitudes through sustained participation.</p>
 </li>
 </ul>
-<h4>Change of CCA</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Students may request for a change of CCA only at the end of P3. Once the
-request is approved, students will join the new CCA in the following academic
-year.
-<br>
-<br>For parents who would like to request for change of CCA, please click
-on the link below and print the Change of CCA Form. Parents are to fill
-up the form accordingly with the reason(s) clearly stated. Thereafter,
-students will submit the form to their Form Teachers. Students will remain
-in the current CCA until the change has been approved.
-<br>
-<br>❯ <a href="/files/Request_to_Change_CCA_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click for Change CCA Form</a>
-</p>
-</li>
-</ul>
+<h4>Policy for Change of CCA</h4>
+<p>Students may request a change of CCA only at the end of Primary 3. Upon
+approval, students will join the new CCA in the following academic year.</p>
+<h4>Change of CCA Application</h4>
+<p>The application period for a change of CCA for <strong>2026 has closed</strong>.
+Application for a change of CCA for current Primary 3 students for 2027
+will open from <strong>Term 4, 2026 </strong>onwards. All application forms
+must be submitted by the last day of school for students. Late submissions
+will not be accepted. In the event that multiple Change of CCA application
+forms are submitted for the same student, the school will consider only
+the latest submission received. Earlier submissions will be disregarded.</p>
 <p></p>
