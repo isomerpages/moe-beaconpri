@@ -1,10 +1,10 @@
 ---
-title: Robotics
+title: Robotics and Digital Media Club
 permalink: /cca/robotics/
 description: ""
 variant: tiptap
 ---
-<h3>Robotics</h3>
+<h3>Robotics and Digital Media Club</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

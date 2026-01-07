@@ -44,10 +44,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Goh Wee Peng</p>
+<p>Mr Felix Cheong Mun Jee</p>
 </li>
 <li>
-<p>Ms Nurhuda Bte Mohamed</p>
+<p>Mdm Li Tingting</p>
 </li>
 </ul>
 </td>

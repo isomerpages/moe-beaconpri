@@ -50,9 +50,6 @@ variant: tiptap
 <p>Ms Lee Pei Pei</p>
 </li>
 <li>
-<p>Mdm Rekha Ramadoss</p>
-</li>
-<li>
 <p>Mdm Liyana Bte Mohd Yusof</p>
 </li>
 </ul>
