@@ -1,4 +1,6 @@
 contact_us: mailto:beaconprisch@moe.edu.sg
 show_reach: true
-social_media: {}
-feedback: ""
+social_media:
+  facebook: https://www.facebook.com/beaconprisg
+  instagram: https://www.instagram.com/beaconprisg/
+feedback: mailto:beaconprisch@moe.edu.sg
