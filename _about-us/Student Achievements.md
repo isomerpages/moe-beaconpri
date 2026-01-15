@@ -2136,6 +2136,55 @@ sent to the JAL Foundation, Tokyo</p>
 </tr>
 </tbody>
 </table>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2008</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>EVENTS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>ACHIEVEMENTS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Solar City Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Most Functional Project Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language National Blogging Competition Primary School Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kids' Biennale Art competition: On-The-Spot Art Competition – Public’s
+Choice Lower Primary Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <h4>2008</h4>
 <table style="minWidth: 50px">
 <colgroup>
