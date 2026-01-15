@@ -19,4 +19,20 @@ sections:
           url: /school-information/p1-registration-and-information/op/
       background: /images/5CsHeroB.gif
       variant: center
+  - infopic:
+      title: Facebook
+      subtitle: Follow Us on
+      id: infopic
+      button: Click Here
+      url: https://www.facebook.com/beaconprisg
+      image: /images/SC_FB1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Instagram
+      subtitle: Follow Us On
+      id: infopic
+      button: Click Here
+      url: https://www.instagram.com/beaconprisg/
+      image: /images/SC_FB1.jpg
+      alt: Image alt text
 ---
