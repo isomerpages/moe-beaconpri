@@ -25,7 +25,7 @@ sections:
       id: infopic
       button: Click Here
       url: https://www.facebook.com/beaconprisg
-      image: /images/SC_FB.jpg
+      image: /images/SC_FB1.jpg
       alt: Image alt text
   - infopic:
       title: Instagram
@@ -33,6 +33,6 @@ sections:
       id: infopic
       button: Click Here
       url: https://www.instagram.com/beaconprisg/
-      image: /images/SC_IG.jpg
+      image: /images/SC_FB1.jpg
       alt: Image alt text
 ---
