@@ -19,18 +19,20 @@ sections:
           url: /school-information/p1-registration-and-information/op/
       background: /images/5CsHeroB.gif
       variant: center
-  - textcards:
-      title: Beacon Primary School
-      subtitle: SHINE
-      id: textcards
-      description: Contributor, Connector, Constructor, Conductor and Confident learner
-      cards:
-        - title: Beacon Facebook
-          description: ""
-          linktext: Click Here
-          url: https://www.facebook.com/beaconprisg
-        - title: Beacon Instagram
-          description: ""
-          linktext: Click Here
-          url: https://www.instagram.com/beaconprisg/
+  - infopic:
+      title: Facebook
+      subtitle: Follow Us on
+      id: infopic
+      button: Click Here
+      url: https://www.facebook.com/beaconprisg
+      image: /images/SC_FB.jpg
+      alt: Image alt text
+  - infopic:
+      title: Instagram
+      subtitle: Follow Us On
+      id: infopic
+      button: Click Here
+      url: https://www.instagram.com/beaconprisg/
+      image: /images/SC_IG.jpg
+      alt: Image alt text
 ---
