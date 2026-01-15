@@ -27,10 +27,10 @@ sections:
       cards:
         - title: Beacon Facebook
           description: ""
-          linktext: Learn more
+          linktext: Click Here
           url: https://www.facebook.com/beaconprisg
         - title: Beacon Instagram
           description: ""
-          linktext: Learn more
+          linktext: Click Here
           url: https://www.instagram.com/beaconprisg/
 ---
