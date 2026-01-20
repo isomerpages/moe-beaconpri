@@ -9,7 +9,7 @@ variant: markdown
 
 
 
-<p><a href="/beacon-experiential-learning/special-programmes/meb/">
+<p><a href="/beacon-experiential-learning/special-programmes/deb/">
 <img src="/images/BEL/bel_sp08.jpg" style="width:49%" align="left"></a></p>
 
 <p><a href="/beacon-experiential-learning/special-programmes/hbp/">
