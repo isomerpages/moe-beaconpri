@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Teaching & Learning Framework.md
+      - Special Programmes/Design Education at Beacon.md
       - Special Programmes/.keep
       - Special Programmes/Special Programmes.md
       - Special Programmes/Healthier Beacon Programme.md
