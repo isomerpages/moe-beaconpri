@@ -3,7 +3,6 @@ title: Making in Education at Beacon
 permalink: /beacon-experiential-learning/special-programmes/meb/
 variant: tiptap
 description: ""
-third_nav_title: Special Programmes
 ---
 <h3>Making in Education at Beacon Primary</h3>
 <p>At Beacon Primary, we give focus to Making in Education as we recognise
