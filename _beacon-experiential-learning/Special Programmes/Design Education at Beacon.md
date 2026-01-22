@@ -10,10 +10,13 @@ third_nav_title: Special Programmes
 <p>At Beacon Primary, we give focus to Design Education as we recognise that
 students can derive valuable knowledge, skills and values through hands-on
 activities. The process of designing allows students to acquire critical
-thinking, problem-solving and collaboration skills. These are necessary
+thinking, problem-solving and collaboration skills. These are the necessary
 21st Century Competencies to manage evolving challenges in life. Through
-the acquisition of 21st Century Competencies, students will be able to
-attain our SHINE student outcomes of <strong>Constructor</strong> and <strong>Conductor</strong>.</p>
+the intentional development of 21st-century competencies, students will
+achieve our <a href="https://www.beaconpri.moe.edu.sg/about-us/cvndo/" rel="noopener nofollow" target="_blank">student outcomes</a> as
+effective <strong>Constructors </strong>who seek solutions with curiosity
+and resourcefulness, and <strong>Conductors </strong>who lead and inspire
+others as role models</p>
 <p>Besides emphasising experiential learning in daily teaching and learning
 lessons, the school also specially set aside a Beacon Experiential Learning
 Week for more focused learning in the aspect of Design Education. The activities
