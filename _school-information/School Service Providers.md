@@ -192,7 +192,7 @@ required to enter and exit
 <p>Daily School Bus Services based on Not to Exceed Price (i.e. for sending
 students from home to school and vice versa):
 <br>
-<br>Initial Contract Period : 1 Jan 2024 to 31 Dec 2025</p>
+<br>Initial Contract Period : 1 Jan 2026 to 31 Dec 2027</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
