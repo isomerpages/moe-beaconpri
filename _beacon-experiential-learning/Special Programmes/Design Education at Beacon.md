@@ -37,7 +37,7 @@ ideas into impactful solutions.</p>
 <p><strong>Beacon Primary’s three-tier approach to Design Education</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="3-tier approach" src="/images/Making_at_Beacon.png">
+<img style="width: 80%;" height="auto" width="100%" alt="3-tier approach" src="/images/Making_at_Beacon.png">
 </div>
 <p>Across all tiers, students apply the Beacon <strong>IDEA </strong>framework
 (<strong>I</strong> – Inquiry, <strong>D</strong> – Develop, <strong>E</strong> –
