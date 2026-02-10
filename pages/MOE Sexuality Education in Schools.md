@@ -87,10 +87,17 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p><strong>At Beacon Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2026_Sexuality_Education_Lessons_in_CCE_P5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sexuality_Education_Lessons_in_CCE.jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
+<h4>Information for Parents</h4>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available <a href="https://form.gov.sg/698ac91d8bfb78059a8d5afc" rel="noopener noreferrer nofollow" target="_blank">here</a> .
+The completed opt-out form is to be submitted by 25/05/2026.</p>
+<p>Parents can contact the school at &nbsp;6769 7255 or email at &nbsp;
+<a href="mailto:beaconprisch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">beaconprisch@moe.edu.sg</a>for discussion or to seek clarification about
+the school’s Sexuality Education programme.</p>
