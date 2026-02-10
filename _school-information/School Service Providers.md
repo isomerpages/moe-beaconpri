@@ -38,7 +38,7 @@ or strict dietary requirements are encouraged to bring their own food.</p>
 <blockquote>
 <h4>School Dental Clinic</h4>
 </blockquote>
-<p>The School dental clinic will be open on alternate weeks. <a href="/files/Dental01.pdf" rel="noopener noreferrer nofollow" target="_blank">Please refer here for the Dental Clinic Opening Days</a>.
+<p>The School dental clinic will be open on alternate weeks. <a href="/files/Dental02.pdf" rel="noopener nofollow" target="_blank">Please refer here for the Dental Clinic Opening Days</a>.
 Please contact 91141358 (call/SMS/WhatsApp) to make an appointment for
 dental services.</p>
 <p>If you require any urgent dental treatment and the clinic is closed, please
