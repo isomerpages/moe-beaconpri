@@ -99,8 +99,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 the commencement of P5 SEd lessons. It is also available here.</p>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents towards the end of Term 2 before the commencement of P5 SEd
-lessons. It is also available <a href="https://form.gov.sg/698ac91d8bfb78059a8d5afc" rel="noopener noreferrer nofollow" target="_blank">here</a> . The completed
+to parents towards the end of Term 2 before the commencement of P5 Sexuality
+Education lessons. It is also available <a href="https://form.gov.sg/698ac91d8bfb78059a8d5afc" rel="noopener noreferrer nofollow" target="_blank">here</a> . The completed
 opt-out form is to be submitted by 25/05/2026.</p>
 <p>Parents can contact the school at &nbsp;6769 7255 or email at &nbsp;
 <a href="mailto:beaconprisch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">beaconprisch@moe.edu.sg</a>for discussion or to seek clarification about
