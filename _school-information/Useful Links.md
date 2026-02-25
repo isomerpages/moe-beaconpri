@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.beaconpri.moe.edu.sg/beacon-experiential-learning/student-development-programmes/cc/" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education 2025</a>
+<p><a href="https://www.beaconpri.moe.edu.sg/beacon-experiential-learning/student-development-programmes/sexedu/" rel="noopener nofollow" target="_blank">MOE Sexuality Education in Schools</a>
 </p>
 </li>
 </ul>
@@ -90,7 +90,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>❯ <a href="https://www.fycs.org/" rel="noopener noreferrer nofollow" target="_blank">Fei Yue Community Services</a> 
 <br>❯ <a href="https://www.family-central.sg/" rel="noopener noreferrer nofollow" target="_blank">Family Central - a service by Fei Yue Community Services</a> 
-<br>❯ <a href="https://forms.office.com/pages/responsepage.aspx?id=enp5W2h6KEyJkTbCaPjr60xXTovmoVVHr8HSB-0UwTtUMk81RjhRSTZSOUhFWEZTVUswQ0pNMlhDQS4u" rel="noopener noreferrer nofollow" target="_blank">Parenting Support Services - subscription form</a> 
+<br>❯ <a href="https://forms.office.com/pages/responsepage.aspx?id=enp5W2h6KEyJkTbCaPjr60xXTovmoVVHr8HSB-0UwTtUMk81RjhRSTZSOUhFWEZTVUswQ0pNMlhDQS4u" rel="noopener noreferrer nofollow" target="_blank">Parenting Support Services - subscription form</a>
 </p>
 </td>
 </tr>

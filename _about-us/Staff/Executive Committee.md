@@ -226,7 +226,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Student Management</p>
+<p>SH / Student Well-Being</p>
 </td>
 </tr>
 <tr>
