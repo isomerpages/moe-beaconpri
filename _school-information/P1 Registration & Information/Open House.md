@@ -5,7 +5,7 @@ description: ""
 third_nav_title: P1 Registration & Information
 variant: tiptap
 ---
-<h3>Open House 20256</h3>
+<h3>Open House 2026</h3>
 <p>Beacon Primary School is having our Open House on Saturday, 30 May 2026,
 from 9 am to 12 pm. Come and embark on an immersive Beacon Experience and
 learn more about the school’s curriculum, distinctive programmes and our
