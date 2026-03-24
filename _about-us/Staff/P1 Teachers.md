@@ -39,7 +39,6 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:felix_cheong@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mr Felix Cheong</u></a>
-<br><a href="mailto:kwek_keem_shin_vanessa@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Ms Kwek Keem Shin Vanessa</u></a>
 </p>
 </td>
 </tr>
