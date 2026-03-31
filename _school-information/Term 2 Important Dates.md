@@ -12,7 +12,7 @@ variant: markdown
 | 1 | 27 Mar | P3 | **Commencement of Conversational Chinese and Malay Programme for selected P3 students**<br>*• Each session will be conducted from 2.15pm – 3.45pm on Fridays.* |
 | 1 | 27 Mar | P4 &amp; P5 | **Commencement of Excellence 2000 Science (E2K Science) for selected P4 and P5 students**<br>*• Each session will be conducted from 2.15pm – 3.45pm on Fridays.* |
 | 2 | 31 Mar | P5 | **Commencement of Excellence 2000 Math (E2K Math) for selected P5 students**<br>*• Each session will be conducted from 2.15pm – 3.45pm on Tuesdays*. |
-| 2 | 1 Apr | All | School Temperature-Taking Exercise<br>*• All students are to bring their Personal Oral Digital Thermometer to school*. |
+| 2 | 1 Apr | All | **School Temperature-Taking Exercise**<br>*• All students are to bring their Personal Oral Digital Thermometer to school*. |
 | 2 | 3 Apr | All | **Public Holiday : Good Friday** |
 | 3 | 6 Apr | All | Commemoration of International Friendship Day |
 | 3 | 7 Apr | P4 | Commencement of Excellence 2000 Math (E2K Math) for selected P4 students<br>*• Each session will be conducted from 2.15pm – 3.45pm on Tuesdays.* |
