@@ -31,14 +31,11 @@ variant: markdown
 | 10 | 25 &amp; 26 May | All | Parent – Teacher Meeting (PTM)<br>*• PTM will be conducted over the Microsoft Teams platform.<br>• More details will be provided at a later juncture via PG.* |
 | 10 | 27 May | All | **Public Holiday : Hari Raya Haji** |
 | 10 | 28 May | P1 &amp; P2 | Beacon Experiential Week Activities (P1 and P2 Sports Day)<br>*• All P1 and P2 students are to report to their classroom by 7.30am in their PE attire.<br>• All P1 parents are invited to attend this event and to report to the school hall by 7.30am.<br>• All P2 parents are invited to attend this event and report to the school hall by 9.00am.<br>• Dismissal for P1 students will be at 9.00am.<br>• Dismissal for P2 students will be at 10.30am.<br>• More details about alternative dismissal arrangements will be provided to P1 and P2 parents at a later juncture.<br>• This is the last day of school in T2 for P1 and P2 students.* |
-| 10 | xx | xx | xx |
-| 10 | xx | xx | xx |
-| 10 | xx | xx | xx |
-| 10 | xx | xx | xx |
-| 10 | xx | xx | xx |
-| 10 | xx | xx | xx |
-| 10 | xx | xx | xx |
-| 10 | xx | xx | xx |
-| 10 | xx | xx | xx |
+| 10 | 28 May | P3 - P5 | Beacon Experiential Week Activities<br>*• More details will be provided at a later juncture via PG<br>• P6 students are not involved in the Beacon Experiential Learning Week Activities.* |
+| 10 | 28 May | P3 - P6 | There will be no CCA for all P3 to P6 students. |
+| 10 | 28 May | All | Parent – Teacher Meeting (PTM)<br>*• PTM will be conducted over the Microsoft Teams platform.<br>• More details will be provided at a later juncture via PG.* |
+| 10 | 29 May | P3 - P6 | Beacon Experiential Week Activities (P3 to P6 Games Carnival)<br>*• All P3 to P6 students are to report to their classroom by 7.30am in their PE attire. This event is for students only.<br>• Dismissal for all P3 to P6 students will be at 10.30am.<br>• This is the last day of school in T2 for P3 to P6 students.* |
+| 10 | 30 May | P2 | CCA Showcase for P2 Students<br>*• P2 parents and students are invited to attend the CCA showcase during our Open House to learn more about the 2027 CCA Options from 9.30am – 10.15am. Parents are also invited to stay on to view exhibits in our open house.<br>• More details will be provided to P2 parents at a later juncture via PG* |
+| 10 | 30 May | - | Open House<br>• *Selected student ambassadors will report to the school at 8.30am for duty.<br>• The open house for prospective P1 students and parents will be from 9.00am – 12.00pm.* |
 | 10 | 30 May - 28 June | All | June School Holidays |
 |  |  |  |  |
