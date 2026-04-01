@@ -9,33 +9,35 @@ variant: markdown
 | Week | Date | Levels | Activity |
 |:---:| -------- | --- | --- |
 | 1 | 23 Mar | All | Hari Raya Puasa designated day off-in-lieu for schools |
-| 1 | 27 Mar | P3 | **Commencement of Conversational Chinese and Malay Programme for selected P3 students**<br>*• Each session will be conducted from 2.15pm – 3.45pm on Fridays.* |
-| 1 | 27 Mar | P4 &amp; P5 | **Commencement of Excellence 2000 Science (E2K Science) for selected P4 and P5 students**<br>*• Each session will be conducted from 2.15pm – 3.45pm on Fridays.* |
-| 2 | 31 Mar | P5 | **Commencement of Excellence 2000 Math (E2K Math) for selected P5 students**<br>*• Each session will be conducted from 2.15pm – 3.45pm on Tuesdays*. |
-| 2 | 1 Apr | All | **School Temperature-Taking Exercise**<br>*• All students are to bring their Personal Oral Digital Thermometer to school*. |
+| 1 | 27 Mar | P3 | Commencement of Conversational Chinese and Malay Programme for selected P3 students |
+| 1 | 27 Mar | P4 &amp; P5 | Commencement of Excellence 2000 Science (E2K Science) for selected P4 and P5 students |
+| 2 | 31 Mar | P5 | Commencement of Excellence 2000 Math (E2K Math) for selected P5 students |
+| 2 | 1 Apr | All | School Temperature-Taking Exercise. |
 | 2 | 3 Apr | All | **Public Holiday : Good Friday** |
 | 3 | 6 Apr | All | Commemoration of International Friendship Day |
-| 3 | 7 Apr | P4 | Commencement of Excellence 2000 Math (E2K Math) for selected P4 students<br>*• Each session will be conducted from 2.15pm – 3.45pm on Tuesdays.* |
-| 3 | 7 Apr | P6 | P6 National Physical Fitness Award (NAPFA) Assessment<br>*• All P6 students are to report to school in PE attire by 7.30am as usual.<br>• The assessment will begin at 2.30pm and dismissal will be at 3.45pm.* |
-| 6 | 28 Apr | P5 | P5 English Language Oral Practice<br>*• The Oral Practice will be conducted in the afternoon.<br>• Details will be provided to P5 Parents at a later juncture.* |
-| 6 | 28 Apr | P5 | P5 Mother Tongue Languages e-Oral Practice<br>*• The Oral Practice will be conducted in the afternoon.<br>• Details will be provided to P5 Parents at a later juncture.* |
-| 6 | 29 Apr | P6 | P6 Mother Tongue Languages e-Oral Practice<br>*• The Oral Practice will be conducted in the afternoon.<br>• Details will be provided to P6 Parents at a later juncture.* |
-| 6 | 29 Apr | P6 | P6 English Language Oral Practice<br>*• The Oral Practice will be conducted in the afternoon.<br>• Details will be provided to P6 Parents at a later juncture.* |
+| 3 | 7 Apr | P4 | Commencement of Excellence 2000 Math (E2K Math) for selected P4 students (2.15pm – 3.45pm)  |
+| 3 | 7 Apr | P6 | P6 National Physical Fitness Award (NAPFA) Assessment |
+| 6 | 28 Apr | P5 | P5 English Language Oral Practice (afternoon) |
+| 6 | 28 Apr | P5 | P5 Mother Tongue Languages e-Oral Practice (afternoon) |
+| 6 | 29 Apr | P6 | P6 Mother Tongue Languages e-Oral Practice (afternoon) |
+| 6 | 29 Apr | P6 | P6 English Language Oral Practice (afternoon) |
 | 6 | 1 May | All | **Public Holiday : Labour Day** |
-| 7 | 7 May | P3, P5 &amp; P6 | There will be no CCA for all P3, P5 and P6 students. |
-| 7 | 7 May | P4 | P4 NAPFA Assessment<br>*• All P4 students are to report to school in PE attire by 7.30am as usual.<br>• The assessment will begin at 2.30pm and dismissal will be at 3.45pm.* |
-| 8 | 15 May | P6 (&amp; P5) | P6 Parent Briefing on PSLE, DSA and S1 Option Exercise via Microsoft Teams platform<br>*• The briefing will be conducted over the Teams platform from 4.00pm to 5.15pm for P6 parents. Details will be provided to P6 Parents at a later juncture.<br>• P5 parents who are interested to learn more about the DSA process can also opt to join in this briefing.* |
-| 9 | 22 May | P3 | P3 SwimSafer Briefing for Parents via Microsoft Teams platform<br>*• The briefing will be conducted over the Teams platform from 4.00pm to 5.00pm for P3 parents.* |
+| 7 | 7 May | P3, P5 & P6 | There will be no CCA for all P3, P5 and P6 students. |
+| 7 | 7 May | P4 | P4 NAPFA Assessment (afternoon) |
+| 8 | 15 May | P6 (& P5) | P6 Parent Briefing on PSLE, DSA and S1 Option Exercise via Microsoft Teams platform |
+| 9 | 22 May | P3 | P3 SwimSafer Briefing for Parents via Microsoft Teams platform |
 | 10 | 25 May | All | Issuance of P1 to P6 Holistic Development Profile (HDP) |
-| 10 | 25 &amp; 26 May | P1 - P5 | Beacon Experiential Learning Week Activities<br>*• More details will be provided at a later juncture via PG.<br>• P6 students are not involved in the Beacon Experiential Learning Week Activities.* |
-| 10 | 25 &amp; 26 May | All | Parent – Teacher Meeting (PTM)<br>*• PTM will be conducted over the Microsoft Teams platform.<br>• More details will be provided at a later juncture via PG.* |
+| 10 | 25 & 26 May | P1 - P5 | Beacon Experiential Learning Week Activities |
+| 10 | 25 & 26 May | All | Parent – Teacher Meeting (PTM) |
 | 10 | 27 May | All | **Public Holiday : Hari Raya Haji** |
-| 10 | 28 May | P1 &amp; P2 | Beacon Experiential Week Activities (P1 and P2 Sports Day)<br>*• All P1 and P2 students are to report to their classroom by 7.30am in their PE attire.<br>• All P1 parents are invited to attend this event and to report to the school hall by 7.30am.<br>• All P2 parents are invited to attend this event and report to the school hall by 9.00am.<br>• Dismissal for P1 students will be at 9.00am.<br>• Dismissal for P2 students will be at 10.30am.<br>• More details about alternative dismissal arrangements will be provided to P1 and P2 parents at a later juncture.<br>• This is the last day of school in T2 for P1 and P2 students.* |
-| 10 | 28 May | P3 - P5 | Beacon Experiential Week Activities<br>*• More details will be provided at a later juncture via PG<br>• P6 students are not involved in the Beacon Experiential Learning Week Activities.* |
+| 10 | 28 May | P1 & P2 | Beacon Experiential Week Activities - P1 and P2 Sports Day |
+| 10 | 28 May | P3 - P5 | Beacon Experiential Week Activities |
 | 10 | 28 May | P3 - P6 | There will be no CCA for all P3 to P6 students. |
-| 10 | 28 May | All | Parent – Teacher Meeting (PTM)<br>*• PTM will be conducted over the Microsoft Teams platform.<br>• More details will be provided at a later juncture via PG.* |
-| 10 | 29 May | P3 - P6 | Beacon Experiential Week Activities (P3 to P6 Games Carnival)<br>*• All P3 to P6 students are to report to their classroom by 7.30am in their PE attire. This event is for students only.<br>• Dismissal for all P3 to P6 students will be at 10.30am.<br>• This is the last day of school in T2 for P3 to P6 students.* |
-| 10 | 30 May | P2 | CCA Showcase for P2 Students<br>*• P2 parents and students are invited to attend the CCA showcase during our Open House to learn more about the 2027 CCA Options from 9.30am – 10.15am. Parents are also invited to stay on to view exhibits in our open house.<br>• More details will be provided to P2 parents at a later juncture via PG* |
-| 10 | 30 May | - | Open House<br>• *Selected student ambassadors will report to the school at 8.30am for duty.<br>• The open house for prospective P1 students and parents will be from 9.00am – 12.00pm.* |
+| 10 | 28 May | All | Parent – Teacher Meeting (PTM) |
+| 10 | 29 May | P3 - P6 | Beacon Experiential Week Activities - P3 to P6 Games Carnival |
+| 10 | 30 May | P2 | CCA Showcase for P2 Students |
+| 10 | 30 May | - | Beacon Open House |
 | 10 | 30 May - 28 June | All | June School Holidays |
 |  |  |  |  |
+
+**More details on the event or activities will be shared with parents through Parent Gateway*
