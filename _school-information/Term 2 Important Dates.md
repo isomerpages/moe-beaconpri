@@ -40,4 +40,4 @@ variant: markdown
 | 10 | 30 May - 28 June | All | June School Holidays |
 |  |  |  |  |
 
-**More details on the event or activities will be shared with parents through Parent Gateway*
+**More details on the event or activity will be shared with parents through Parent Gateway*
