@@ -456,20 +456,11 @@ platform</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="4">
+<p>*<em>More details on the event or activity will be shared with parents through Parent Gateway.</em>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>*<em>More details on the event or activity will be shared with parents through Parent Gateway.</em>
-</p>
+<p></p>
