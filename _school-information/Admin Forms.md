@@ -51,7 +51,7 @@ variant: tiptap
 <p>MOE Financial Assistance Scheme (FAS) Information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf" rel="noopener nofollow" target="_blank">Click to view MOE FAS Info</a>
+<p>❯ <a href="https://www.moe.gov.sg/api/media/4bf1baf2-8b61-4def-8431-cc2c1a5bc582/MOE-FAS.pdf" rel="noopener nofollow" target="_blank">Click to view MOE FAS Info</a>
 </p>
 </td>
 </tr>
