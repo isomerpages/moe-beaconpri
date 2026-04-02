@@ -78,7 +78,8 @@ variant: tiptap
 <p>Health Promotion Board</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/healthy-eating-active-living" rel="noopener noreferrer nofollow" target="_blank">Healthy Eating, Active Living</a>
+<p>❯ <a href="https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/cotm-one" rel="noopener noreferrer nofollow" target="_blank">Colours of the Mind</a> 
+<br>❯ <a href="https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/healthy-eating-active-living" rel="noopener noreferrer nofollow" target="_blank">Healthy Eating, Active Living</a>
 </p>
 </td>
 </tr>
