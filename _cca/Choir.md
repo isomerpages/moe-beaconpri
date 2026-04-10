@@ -72,42 +72,26 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Objectives</h4>
-<p>To nurture confident singing and adaptability in performing various choral
-genres.</p>
-<ul>
-<li>
-<p><strong>Passionate learner</strong> 
-<br>Students learn both local and foreign language songs within a short period
-of time and understand the different components of music such as the mood
-and lyrics of the song.</p>
-</li>
-<li>
-<p><strong>Resilient learner</strong> 
-<br>Students annotate solfege on their full scores and practise regularly
-at home from the singing notes shared by the teachers on Padlet and Google
-Classroom.</p>
-</li>
-</ul>
+<p>Choir CCA aims to develop students’ singing skills and confidence through
+group performance. It encourages teamwork, discipline and listening skills
+while nurturing creativity and self-expression. Students also appreciate
+music from different cultures, build self-esteem and experience the joy
+of making music together in a positive and supportive environment.</p>
 <h4>Main Activities</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Vocal warm up, solfege with hand signs, music theory and singing by sight
-reading</p>
+<p>Vocal Technique &amp; Training, Part-Singing &amp; Harmony, Repertoire
+Development</p>
 </li>
 <li>
-<p>Preparation for Singapore Youth Festival</p>
+<p>Movement &amp; Choreography, Active Listening, Music Games, Team Building</p>
 </li>
 <li>
-<p>Performing in school events</p>
-</li>
-<li>
-<p>Exchange programmes with other schools</p>
-</li>
-<li>
-<p>P2 CCA showcase</p>
+<p>School Events, Community &amp; External Events, Competitions</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD02B2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD02B3.jpg">
 </div>
 <p></p>

@@ -133,7 +133,10 @@ information</p>
 <blockquote>
 <h4>School Bookshop (By Pacific Book Shop)</h4>
 </blockquote>
-<p><strong>Open to Parents/Guardians of Students :</strong>
+<p>Parents/Guardians can now order school bookshop items on <a href="https://www.pacificeshop.com/schools/beacon-primary-school---" rel="noopener nofollow" target="_blank">Pacific eShop</a>.
+The shipping mode can either be ‘Pick Up at School’ or ‘Home Delivery’
+($5 shipping fee waiver for above $88 order).</p>
+<p><strong>Bookshop Open to Walk-in Parents/Guardians:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>

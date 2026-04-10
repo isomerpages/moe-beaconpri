@@ -112,8 +112,7 @@ for friendships and social integration amongst students of diverse backgrounds.<
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/ukulele/" rel="noopener noreferrer nofollow" target="_blank">Ukulele Ensemble</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
