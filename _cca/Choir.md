@@ -90,7 +90,8 @@ Development</p>
 <p>School Events, Community &amp; External Events, Competitions</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD02B2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD02B3.jpg">
 </div>
 <p></p>
