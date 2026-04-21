@@ -31,7 +31,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" rel="noopener noreferrer nofollow" target="_blank">Changes to PSLE Scoring and Sec 1 Posting From 2021</a>
+<p><a href="https://www.moe.gov.sg/psle-fsbb/psle/main" rel="noopener noreferrer nofollow" target="_blank">Changes to PSLE Scoring and Sec 1 Posting From 2021</a>
 </p>
 </li>
 <li>
