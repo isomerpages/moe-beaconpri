@@ -91,7 +91,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>❯ <a href="https://www.fycs.org/" rel="noopener noreferrer nofollow" target="_blank">Fei Yue Community Services</a> 
 <br>❯ <a href="https://www.family-central.sg/" rel="noopener noreferrer nofollow" target="_blank">Family Central - a service by Fei Yue Community Services</a> 
-<br>❯ <a href="https://forms.office.com/pages/responsepage.aspx?id=enp5W2h6KEyJkTbCaPjr60xXTovmoVVHr8HSB-0UwTtUMk81RjhRSTZSOUhFWEZTVUswQ0pNMlhDQS4u" rel="noopener noreferrer nofollow" target="_blank">Parenting Support Services - subscription form</a>
+<br>❯ <a href="https://fycs.org/parenting-support-services/" rel="noopener noreferrer nofollow" target="_blank">Parenting Support Services</a>
 </p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ variant: tiptap
 <p>Triple P Parenting Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="/files/Triple_P_Primary.pdf" rel="noopener noreferrer nofollow" target="_blank">Triple P Parenting Programme - Seminar Series</a>
+<p>❯ <a href="https://familiesforlife.sg/pages/Programme/Triple-P-Online-TPOL-0-12-Years-Old" rel="noopener nofollow" target="_blank">Triple P Parenting Programme</a>
 </p>
 </td>
 </tr>
