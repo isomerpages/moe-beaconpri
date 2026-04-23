@@ -192,8 +192,8 @@ required to enter and exit
 <br>Fax: 6892 5776
 <br>Email: <a href="mailto:griflim@hotmail.com" rel="noopener noreferrer nofollow" target="_blank">griflim@hotmail.com</a>
 </p>
-<p>Daily School Bus Services based on Not to Exceed Price (i.e. for sending
-students from home to school and vice versa):
+<p>Daily School Bus Services fees is based on contractual "Not to Exceed
+Price" for sending students from home to school and vice versa:
 <br>
 <br>Initial Contract Period : 1 Jan 2026 to 31 Dec 2027</p>
 <table style="minWidth: 125px">
