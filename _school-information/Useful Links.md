@@ -78,8 +78,9 @@ variant: tiptap
 <p>Health Promotion Board</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/cotm-one" rel="noopener noreferrer nofollow" target="_blank">Colours of the Mind</a> 
-<br>❯ <a href="https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/healthy-eating-active-living" rel="noopener noreferrer nofollow" target="_blank">Healthy Eating, Active Living</a>
+<p>❯ <a href="https://www.healthhub.sg/programmes/parent-hub/grow-well-sg" rel="noopener nofollow" target="_blank">Grow Well SG</a>
+<br>❯ <a href="https://consent.hpb.gov.sg/" rel="noopener nofollow" target="_blank">Provide consent for immunisation and dental screening</a>
+<br>❯ <a href="https://www.nir.cda.gov.sg/nirp/eservices/login" rel="noopener nofollow" target="_blank">National Immunisation Registry</a>
 </p>
 </td>
 </tr>
