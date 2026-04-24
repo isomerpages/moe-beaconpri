@@ -1,5 +1,5 @@
 ---
-title: Co Curricular Activities
+title: Co Curricular Activities (CCA)
 permalink: /cca/cca/
 description: ""
 variant: tiptap

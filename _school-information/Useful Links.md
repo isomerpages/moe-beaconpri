@@ -31,7 +31,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" rel="noopener noreferrer nofollow" target="_blank">Changes to PSLE Scoring and Sec 1 Posting From 2021</a>
+<p><a href="https://www.moe.gov.sg/psle-fsbb/psle/main" rel="noopener noreferrer nofollow" target="_blank">Changes to PSLE Scoring and Sec 1 Posting From 2021</a>
 </p>
 </li>
 <li>
@@ -78,8 +78,9 @@ variant: tiptap
 <p>Health Promotion Board</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/cotm-one" rel="noopener noreferrer nofollow" target="_blank">Colours of the Mind</a> 
-<br>❯ <a href="https://www.healthhub.sg/programmes/183/parent-hub/activities-workshops-parents/healthy-eating-active-living" rel="noopener noreferrer nofollow" target="_blank">Healthy Eating, Active Living</a>
+<p>❯ <a href="https://www.healthhub.sg/programmes/parent-hub/grow-well-sg" rel="noopener nofollow" target="_blank">Grow Well SG</a>
+<br>❯ <a href="https://consent.hpb.gov.sg/" rel="noopener nofollow" target="_blank">Provide consent for immunisation and dental screening</a>
+<br>❯ <a href="https://www.nir.cda.gov.sg/nirp/eservices/login" rel="noopener nofollow" target="_blank">National Immunisation Registry</a>
 </p>
 </td>
 </tr>
@@ -90,7 +91,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>❯ <a href="https://www.fycs.org/" rel="noopener noreferrer nofollow" target="_blank">Fei Yue Community Services</a> 
 <br>❯ <a href="https://www.family-central.sg/" rel="noopener noreferrer nofollow" target="_blank">Family Central - a service by Fei Yue Community Services</a> 
-<br>❯ <a href="https://forms.office.com/pages/responsepage.aspx?id=enp5W2h6KEyJkTbCaPjr60xXTovmoVVHr8HSB-0UwTtUMk81RjhRSTZSOUhFWEZTVUswQ0pNMlhDQS4u" rel="noopener noreferrer nofollow" target="_blank">Parenting Support Services - subscription form</a>
+<br>❯ <a href="https://fycs.org/parenting-support-services/" rel="noopener noreferrer nofollow" target="_blank">Parenting Support Services</a>
 </p>
 </td>
 </tr>
@@ -99,7 +100,7 @@ variant: tiptap
 <p>Triple P Parenting Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>❯ <a href="/files/Triple_P_Primary.pdf" rel="noopener noreferrer nofollow" target="_blank">Triple P Parenting Programme - Seminar Series</a>
+<p>❯ <a href="https://familiesforlife.sg/pages/Programme/Triple-P-Online-TPOL-0-12-Years-Old" rel="noopener nofollow" target="_blank">Triple P Parenting Programme</a>
 </p>
 </td>
 </tr>
