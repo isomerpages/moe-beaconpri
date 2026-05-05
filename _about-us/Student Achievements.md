@@ -7,6 +7,72 @@ variant: tiptap
 <h3>Student Achievements</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary>2026</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>EVENTS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>ACHIEVEMENTS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ActiveSG-TBAS Tchoukball Championships (League 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>❯ Senior Division Girls - 1st
+<br>❯ Senior Division Boys - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Swimming (Senior Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Jia Yun Axelia
+<br>❯ 50m Breaststroke - 4th
+<br>❯ 100m Breaststroke - 8th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Percussion Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>❯ Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>❯ Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary>2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
