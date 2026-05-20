@@ -136,7 +136,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD PHE &amp; PAL</p>
+<p>HOD Physical and Health Education</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD CCE</p>
+<p>HOD Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD&nbsp;ICT</p>
+<p>HOD&nbsp;Information and Communication Technology</p>
 </td>
 </tr>
 <tr>
@@ -199,25 +199,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / CCA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:pang_xiao_tian_patricia@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Pang Xiao Tian Patricia</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / ICT (Covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_atiqah_ilham@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Ms Nur Atiqah Binte Ilham</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / CCE (Covering)</p>
+<p>SH / Co-Curricular Activities</p>
 </td>
 </tr>
 <tr>
@@ -231,11 +213,38 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:nur_atiqah_ilham@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Ms Nur Atiqah Binte Ilham</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Character and Citizenship Education (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pang_xiao_tian_patricia@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Pang Xiao Tian Patricia</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Information and Communication Technology (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_jun_kai@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Wong Jun Kai</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Student Management (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:wahindah_suhari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wahindah Bte Suhari</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / Malay Language</p>
+<p>ST / Malay Language</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +253,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / Mathematics</p>
+<p>ST / Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -253,7 +262,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / Tamil Language</p>
+<p>ST / Tamil Language</p>
 </td>
 </tr>
 <tr>

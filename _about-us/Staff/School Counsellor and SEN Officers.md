@@ -32,7 +32,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Samantha Pay Xing’er</p>
+<p>Mdm Samantha Pay Xing’er</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer (SEN Officer)</p>
@@ -40,7 +40,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheng An Ying Joee</p>
+<p>Mdm Cheng An Ying Joee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
