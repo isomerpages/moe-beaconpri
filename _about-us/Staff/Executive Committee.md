@@ -231,6 +231,15 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:wong_jun_kai@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Wong Jun Kai</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Student Management (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:wahindah_suhari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wahindah Bte Suhari</a>
 </p>
 </td>
