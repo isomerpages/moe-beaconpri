@@ -244,7 +244,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / Malay Language</p>
+<p>ST / Malay Language</p>
 </td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / Mathematics</p>
+<p>ST / Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -262,7 +262,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / Tamil Language</p>
+<p>ST / Tamil Language</p>
 </td>
 </tr>
 <tr>
