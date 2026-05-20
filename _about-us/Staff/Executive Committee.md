@@ -136,7 +136,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD PHE &amp; PAL</p>
+<p>HOD Physical and Health Education</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD CCE</p>
+<p>HOD Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD&nbsp;ICT</p>
+<p>HOD&nbsp;Information and Communication Technology</p>
 </td>
 </tr>
 <tr>
@@ -199,7 +199,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / CCA</p>
+<p>SH / Co-Curricular Activities</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / CCE (Covering)</p>
+<p>SH / Character and Citizenship Education (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +226,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / ICT (Covering)</p>
+<p>SH / Information and Communication Technology (Covering)</p>
 </td>
 </tr>
 <tr>
