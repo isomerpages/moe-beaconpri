@@ -204,11 +204,11 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pang_xiao_tian_patricia@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Pang Xiao Tian Patricia</u></a>
+<p><a href="mailto:emielliana_mira_jafry@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Emielliana Mira Bte Jafry</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / ICT (Covering)</p>
+<p>SH / Student Well-Being</p>
 </td>
 </tr>
 <tr>
@@ -222,11 +222,11 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:emielliana_mira_jafry@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Emielliana Mira Bte Jafry</a>
+<p><a href="mailto:pang_xiao_tian_patricia@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Pang Xiao Tian Patricia</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Student Well-Being</p>
+<p>SH / ICT (Covering)</p>
 </td>
 </tr>
 <tr>
