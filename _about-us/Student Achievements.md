@@ -44,14 +44,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>National School Games Swimming (Junior Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ying Jiayue
+<br>❯ 50m Freestyle – 8th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>National School Games Taekwondo (Poomsae)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mohamed Ozil Wildan Bin Mohamed Ridzuan
-<br>❯ 5th in Junior Division Boys (Yellow 8)</p>
+<br>❯ Junior Division Boys (Yellow 8) - 5th</p>
 <p></p>
 <p>Bautista Kane Ioan Delos Reyes
-<br>❯ 2nd in Senior Division Boys (Red 2)</p>
+<br>❯ Senior Division Boys (Red 2) - 2nd</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +69,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Loh Si Kai
-<br>❯ 3rd in Senior Division Boys (Poom)</p>
+<br>❯ Senior Division Boys (Poom) - 3rd</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +78,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Bautista Kane Ioan Delos Reyes
-<br>❯ 4th in Senior Division Boys (Top Rope)</p>
+<br>❯ Senior Division Boys (Top Rope) - 4th</p>
 </td>
 </tr>
 <tr>
