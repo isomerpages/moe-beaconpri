@@ -44,6 +44,45 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>National School Games Swimming (Junior Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ying Jiayue
+<br>❯ 50m Freestyle – 8th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Taekwondo (Poomsae)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamed Ozil Wildan Bin Mohamed Ridzuan
+<br>❯ Junior Division Boys (Yellow 8) - 5th</p>
+<p></p>
+<p>Bautista Kane Ioan Delos Reyes
+<br>❯ Senior Division Boys (Red 2) - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Taekwondo (Kyorugi)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loh Si Kai
+<br>❯ Senior Division Boys (Poom) - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Primary Schools Sport Climbing Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bautista Kane Ioan Delos Reyes
+<br>❯ Senior Division Boys (Top Rope) - 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SYF Percussion Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
