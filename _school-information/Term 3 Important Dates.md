@@ -39,7 +39,7 @@ variant: markdown
 | 9     | 27 Aug     | P4 &amp; P5     | No CCA     |
 | 10     | 3 Sep     | All     | Teachers’ Day Celebrations (Dismissal at 10.30am)     |
 | 10     | 4 Sep     | All     | **School Holiday** : Teachers' Day      |
-| x     | x     | x     | x     |
-| x     | x     | x     | x     |
-| x     | x     | x     | x     |
+| 10     | 7 - 11 Sep     | All     | September School Holiday     |
 |      |      |      |      |
+
+\*_More details on the event or activity will be shared with parents through Parent Gateway._
