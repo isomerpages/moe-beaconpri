@@ -29,8 +29,8 @@ variant: markdown
 | 5     | 31 Jul     | P4     | P4 Parent Briefing on Subject Based Banding via Microsoft Teams platform     |
 | 6     | 7 Aug     | All     | National Day Celebrations     |
 | 7     | 10 Aug     | All     | **Public Holiday** : National Day Public Holiday<br>(designated day off-in-lieu)      |
-| 7     | x     | x     | x     |
-| 7     | x     | x     | x     |
+| 7     | 12 Aug     | P6     | PSLE Oral Day 1 - School Closure Day for P1 – P5 Students     |
+| 7     | 13 Aug     | P6     | PSLE Oral Day 2 - School Closure Day for P1 – P5 Students      |
 | x     | x     | x     | x     |
 | x     | x     | x     | x     |
 | x     | x     | x     | x     |
