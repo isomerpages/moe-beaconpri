@@ -31,9 +31,14 @@ variant: markdown
 | 7     | 10 Aug     | All     | **Public Holiday** : National Day Public Holiday<br>(designated day off-in-lieu)      |
 | 7     | 12 Aug     | P6     | PSLE Oral Day 1 - School Closure Day for P1 – P5 Students     |
 | 7     | 13 Aug     | P6     | PSLE Oral Day 2 - School Closure Day for P1 – P5 Students      |
-| x     | x     | x     | x     |
-| x     | x     | x     | x     |
-| x     | x     | x     | x     |
+| 8     | 21 Aug     | P6     | Preliminary Examination – English Language / Foundation English Language     |
+| 9     | 24 Aug     | P6     | Preliminary Examination – Mathematics / Foundation Mathematics     |
+| 9     | 25 Aug     | P6     | Preliminary Examination – Mother Tongue Languages / Foundation Mother Tongue Languages     |
+| 9     | 26 Aug     | P6     | Preliminary Examination – Science / Foundation Science     |
+| 9     | 27 Aug     | P6     | Preliminary Examination – Higher Mother Tongue Languages     |
+| 9     | 27 Aug     | P4 &amp; P5     | No CCA     |
+| 10     | 3 Sep     | All     | Teachers’ Day Celebrations (Dismissal at 10.30am)     |
+| 10     | 4 Sep     | All     | **School Holiday** : Teachers' Day      |
 | x     | x     | x     | x     |
 | x     | x     | x     | x     |
 | x     | x     | x     | x     |
