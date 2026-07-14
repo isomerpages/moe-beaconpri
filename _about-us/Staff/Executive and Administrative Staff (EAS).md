@@ -24,6 +24,14 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tay Boon Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Tan Choon Hee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -124,22 +132,6 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Bomisya Kandhasamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Nasuha Binte Muhammad N A B @ Sabrina Boanes</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Librarian</p>
 </td>
 </tr>
 <tr>
