@@ -29,7 +29,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nazreen_mohamed_zulfakir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nazreen Binte Mohamed Zulfakir</u></a>
-<br><a href="mailto:nurul_isnina_mohamed_isnin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nurul Isnina Mohamed Isnin</a>
+<br><a href="mailto:nurul_isnina_mohamed_isnin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nurul Isnina Binte Mohamed Isnin</a>
 </p>
 </td>
 </tr>
