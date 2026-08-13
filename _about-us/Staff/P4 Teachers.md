@@ -67,7 +67,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_xiao_tian_patricia@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Pang Xiao Tian Patricia</u></a>
-<br><a href="mailto:wong_jing_yi@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Wong Jing Yi</u></a>
+<br><a href="mailto:nur_diyanah_kamal@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Diyanah Binte Kamal</a>
 </p>
 </td>
 </tr>
