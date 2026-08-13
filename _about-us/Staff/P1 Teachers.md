@@ -39,6 +39,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:felix_cheong@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mr Felix Cheong</u></a>
+<br><a href="mailto:cui_jiling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Cui Jiling</a>
 </p>
 </td>
 </tr>
