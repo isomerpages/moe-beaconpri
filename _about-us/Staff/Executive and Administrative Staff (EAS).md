@@ -128,6 +128,14 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ong Chwee Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Kanesh Naiker Arujunan</p>
 </td>
 <td rowspan="1" colspan="1">
