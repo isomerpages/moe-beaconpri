@@ -54,7 +54,7 @@ to serve with confidence and conviction.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03f1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03m.jpg">
 </div>
 <h4>The Student Leaders' Investiture Ceremony</h4>
 <p></p>
