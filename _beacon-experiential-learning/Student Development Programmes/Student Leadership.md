@@ -57,7 +57,6 @@ to serve with confidence and conviction.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03m.jpg">
 </div>
 <h4>The Student Leaders' Investiture Ceremony</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03k.jpg">
 </div>
@@ -78,7 +77,6 @@ in various fields. The event highlights the significance of the prefects’
 duties and responsibilities, showcasing their commitment and development
 of leadership. It’s a wonderful opportunity to witness how our students
 have grown throughout their journey.</p>
-<p></p>
 <h4>Prefect Exco 2026/2027</h4>
 <table style="minWidth: 50px">
 <colgroup>
