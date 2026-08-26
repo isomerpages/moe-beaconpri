@@ -48,16 +48,17 @@ Achievement Ceremony and P1 Orientation Day. Beyond this, they also play
 a disciplinary role and help to remind fellow students of their conduct
 and behaviour. As Exco members, they are vested with authority by the school
 to serve with confidence and conviction.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/P5_EXCO_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/2026_2027_Prefect_EXCO.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03f1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03m.jpg">
 </div>
 <h4>The Student Leaders' Investiture Ceremony</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03i.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03k.jpg">
 </div>
 <p>The Student Leaders' Investiture ceremony recognises and celebrates the
 leadership roles of all leaders in Tier 2 and 3, reinforcing their responsibilities
@@ -66,10 +67,9 @@ skills, foster a sense of unity, and empower students to lead by example.
 By formally acknowledging their roles, the ceremony highlights the importance
 of student contributions to the school’s environment, encouraging them
 to embody the values of responsibility, integrity, and service.</p>
-<p><a href="https://www.beaconpri.moe.edu.sg/school-events/event-gallery/2025/" rel="noopener nofollow" target="_blank">Click to view Album &gt;&gt;</a>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03j.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL/BEL_SD03l.jpg">
 </div>
 <p>The Prefect EXCO Handover Ceremony is a cherished tradition in our school,
 where we acknowledge and applaud the efforts and achievements of our students
@@ -77,9 +77,7 @@ in various fields. The event highlights the significance of the prefects’
 duties and responsibilities, showcasing their commitment and development
 of leadership. It’s a wonderful opportunity to witness how our students
 have grown throughout their journey.</p>
-<p><a href="https://www.beaconpri.moe.edu.sg/school-events/event-gallery/2025/" rel="noopener nofollow" target="_blank">Click to view Album &gt;&gt;</a>
-</p>
-<h4>Prefect Exco 2025/2026</h4>
+<h4>Prefect Exco 2026/2027</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -99,7 +97,7 @@ have grown throughout their journey.</p>
 <p>Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tiffany Liang Jing'en</p>
+<p>Josef Kee Enyang</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +105,7 @@ have grown throughout their journey.</p>
 <p>Vice-Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Kwang Kim</p>
+<p>Liew Yin Kai, Javier</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +113,7 @@ have grown throughout their journey.</p>
 <p>Vice-Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lam Ling Chung</p>
+<p>Zafyr Ezra Bin Indrazahri</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +121,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Joseph Ng</p>
+<p>Ganesh Tejasree</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +129,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhang Ziqi</p>
+<p>Lee Qian Yi, Lovis</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +137,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Reina Tan Sok Koon</p>
+<p>Muhammad Irfan Bin Muhammad Zainuddin</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +145,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Ibrahim Bin Isa</p>
+<p>Tan Yan Xi Jaylyn</p>
 </td>
 </tr>
 <tr>
@@ -370,6 +368,20 @@ have grown throughout their journey.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senthilkumar Shrataesh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tiffany Liang Jing'en</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Kwang Kim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lam Ling Chung</p>
 </td>
 </tr>
 <tr>
