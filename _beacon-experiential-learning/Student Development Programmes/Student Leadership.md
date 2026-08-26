@@ -79,7 +79,7 @@ of leadership. It’s a wonderful opportunity to witness how our students
 have grown throughout their journey.</p>
 <p><a href="https://www.beaconpri.moe.edu.sg/school-events/event-gallery/2025/" rel="noopener nofollow" target="_blank">Click to view Album &gt;&gt;</a>
 </p>
-<h4>Prefect Exco 2025/2026</h4>
+<h4>Prefect Exco 2026/2027</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -99,7 +99,7 @@ have grown throughout their journey.</p>
 <p>Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tiffany Liang Jing'en</p>
+<p>Josef Kee Enyang</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ have grown throughout their journey.</p>
 <p>Vice-Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Kwang Kim</p>
+<p>Liew Yin Kai, Javier</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ have grown throughout their journey.</p>
 <p>Vice-Head Prefect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lam Ling Chung</p>
+<p>Zafyr Ezra Bin Indrazahri</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +123,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Joseph Ng</p>
+<p>Ganesh Tejasree</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhang Ziqi</p>
+<p>Lee Qian Yi, Lovis</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Reina Tan Sok Koon</p>
+<p>Muhammad Irfan Bin Muhammad Zainuddin</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ have grown throughout their journey.</p>
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Ibrahim Bin Isa</p>
+<p>Tan Yan Xi Jaylyn</p>
 </td>
 </tr>
 <tr>
@@ -370,6 +370,20 @@ have grown throughout their journey.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senthilkumar Shrataesh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tiffany Liang Jing'en</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Kwang Kim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lam Ling Chung</p>
 </td>
 </tr>
 <tr>
