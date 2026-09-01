@@ -17,7 +17,7 @@ sections:
         - title: 2026 OPEN HOUSE
           description: ""
           url: /school-information/p1-registration-and-information/op/
-      background: /images/OpenHseBB_02.jpg
+      background: /images/5CsHeroB.gif
       variant: center
   - infopic:
       title: Facebook
