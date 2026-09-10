@@ -25,6 +25,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>National School Games Artistic Gymnastics Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aava Cai Jiaxi
+<br>❯ Vault - 19th
+<br>❯ Balance Beam - 14th
+<br>❯ Uneven Bar - 11th
+<br>❯ Floor Routine - 6th
+<br>❯ All Around - 12th out of 93 contestants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ActiveSG-TBAS Tchoukball Championships (League 1)</p>
 </td>
 <td rowspan="1" colspan="1">
