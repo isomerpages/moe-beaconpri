@@ -14,7 +14,7 @@ sections:
         - title: quick links
           description: ""
           url: /quick-links/
-      background: /images/5CsHeroB.gif
+      background: /images/Hero05.jpg
       variant: center
   - infopic:
       title: Facebook
